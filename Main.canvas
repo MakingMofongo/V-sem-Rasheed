@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"327b3cf255250ad1","type":"group","x":-306,"y":35,"width":290,"height":325,"color":"1","label":"1st Priority"},
-		{"id":"77218aa4374e29c3","x":-4400,"y":520,"width":720,"height":640,"type":"file","file":"4.Take one  SDT  and generate parese tree for one string.md"},
+		{"id":"77218aa4374e29c3","x":-4400,"y":520,"width":720,"height":640,"type":"file","file":"4.Take one  SDT  and generate parse tree for one string.md"},
 		{"id":"b703527f4d45587a","type":"file","file":"PDFs/CSM SYLLABUS.pdf","x":280,"y":-2480,"width":868,"height":1000},
 		{"id":"6bb9a144474fc0ce","type":"file","file":"PDFs/compiler design notes1,2,3,4.pdf","x":-1020,"y":-1840,"width":1157,"height":560,"color":"4"},
 		{"id":"62c28d79a8202e78","type":"file","file":"PDFs/unit-1-notess.pdf","x":1000,"y":-990,"width":400,"height":400},
