@@ -30,8 +30,8 @@
 		{"id":"24a5e7f6bafdfc39","type":"file","file":"Images/WhatsApp Image 2024-02-15 at 13.05.21_b2b8aeb6.jpg","x":-880,"y":460,"width":484,"height":860},
 		{"id":"4764d7f5736a45a7","type":"file","file":"Syntax Directed Translation and Definition. GPT + Research.md","x":-3980,"y":-1980,"width":600,"height":576},
 		{"id":"3b845cf4b2465ffa","type":"file","file":"Syntax Tree Parameter Passing.md","x":-4400,"y":-1240,"width":720,"height":763},
-		{"id":"262fcc75e6730ddd","type":"file","file":"5. What is type checking,switch statement.md","x":-4400,"y":1240,"width":720,"height":1220},
-		{"id":"77218aa4374e29c3","type":"file","file":"4.Take one  SDT  and generate parse tree for one string.md","x":-4400,"y":520,"width":720,"height":1220}
+		{"id":"77218aa4374e29c3","type":"file","file":"4.Take one  SDT  and generate parse tree for one string.md","x":-4400,"y":520,"width":720,"height":1220},
+		{"id":"262fcc75e6730ddd","type":"file","file":"5. What is type checking,switch statement.md","x":-4400,"y":1800,"width":720,"height":1220}
 	],
 	"edges":[
 		{"id":"47fde9acda44a61a","fromNode":"352f46086bea4476","fromSide":"bottom","toNode":"24a5e7f6bafdfc39","toSide":"top","color":"2"},
