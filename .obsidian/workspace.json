@@ -36,9 +36,39 @@
                 }
               }
             }
+          },
+          {
+            "id": "5a2f94a3a5fc4a60",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main.canvas",
+                "viewState": {
+                  "x": -4012.796551433835,
+                  "y": 674.3618659576424,
+                  "zoom": -0.4936987287180204
+                }
+              }
+            }
+          },
+          {
+            "id": "cab7d02c15cc2812",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main.canvas",
+                "viewState": {
+                  "x": -3808.56605057841,
+                  "y": -2561.128061579347,
+                  "zoom": 0.20414274055578951
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,14 +204,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a4de4f91191f479b",
+  "active": "cab7d02c15cc2812",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Main.canvas",
     "Pasted image 20240220181005.png",
     "Pasted image 20240220173401.png",
     "Syntax Tree Parameter Passing.md",
     "3.Give syenthesized attribute,and inherited attribute,L-attribute  give example..md",
-    "conflict-files-obsidian-git.md",
-    "Main.canvas",
     "Guide.md",
     "New Text Document.txt",
     "New folder",
