@@ -60,9 +60,9 @@
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -3808.56605057841,
-                  "y": -2561.128061579347,
-                  "zoom": 0.20414274055578951
+                  "x": -2730.827509797345,
+                  "y": -2029.0642957225587,
+                  "zoom": -0.6291905927775439
                 }
               }
             }
@@ -204,7 +204,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cab7d02c15cc2812",
+  "active": "01a8bb8ab6304b6e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Main.canvas",
