@@ -1,5 +1,6 @@
 [
   "text-extractor",
   "canvas-mindmap",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-git"
 ]
