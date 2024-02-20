@@ -15,9 +15,9 @@
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -2510.850003514901,
-                  "y": -810.7109622403655,
-                  "zoom": -1.5
+                  "x": -1094.5,
+                  "y": -558,
+                  "zoom": -2.74067274710722
                 }
               }
             }
@@ -175,10 +175,10 @@
   },
   "active": "170714ffa0998a62",
   "lastOpenFiles": [
+    "Syntax Directed Translation and Definition. GPT + Research.md",
     "Main.canvas",
     "Guide.md",
     "Untitled",
-    "Syntax Directed Translation and Definition. GPT + Research.md",
     "PDFs/compiler Design COUNTIU=NUE unit 4.5.pdf",
     "compiler Design COUNTIU=NUE unit 4.5.md",
     "test.md",
