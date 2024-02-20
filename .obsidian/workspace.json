@@ -8,61 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "170714ffa0998a62",
+            "id": "10e261d76e4ea84e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -2316.2293569511353,
-                  "y": -476.87578334923137,
-                  "zoom": -0.6666666666666667
+                  "x": -1497.8307947495398,
+                  "y": -147.50763301657585,
+                  "zoom": -0.07703206205135371
                 }
               }
             }
           },
           {
-            "id": "f434b9ba893b8d49",
+            "id": "a4de4f91191f479b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -2801.8856452229898,
-                  "y": 45.71425141906096,
-                  "zoom": -0.27145079536120315
-                }
-              }
-            }
-          },
-          {
-            "id": "2feafcf05c6e3310",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main.canvas",
-                "viewState": {
-                  "x": -3102.1522431201424,
-                  "y": -1132.5711890643618,
+                  "x": -2787.7766632227854,
+                  "y": 66.18077880020498,
                   "zoom": -0.9103653953846871
-                }
-              }
-            }
-          },
-          {
-            "id": "0756187bc17749e8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main.canvas",
-                "viewState": {
-                  "x": -1775.543164451672,
-                  "y": 443.4943394011316,
-                  "zoom": -2.43811746202787
                 }
               }
             }
@@ -204,13 +174,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f434b9ba893b8d49",
+  "active": "a4de4f91191f479b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Main.canvas",
+    "Pasted image 20240220181005.png",
+    "Pasted image 20240220173401.png",
+    "Guide.md",
     "New Text Document.txt",
     "New folder",
-    "Guide.md",
     "Untitled",
     "Syntax Directed Translation and Definition. GPT + Research.md",
     "PDFs/compiler Design COUNTIU=NUE unit 4.5.pdf",
