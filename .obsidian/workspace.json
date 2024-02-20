@@ -38,8 +38,8 @@
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -3434.8591697294087,
-                  "y": 502.983774765048,
+                  "x": -3910.980509587686,
+                  "y": 787.1147134752914,
                   "zoom": -0.8144590509991678
                 }
               }
@@ -190,14 +190,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e34ef67c0089972",
+  "active": "4079c8ba94b4b8d1",
   "lastOpenFiles": [
     "Pasted image 20240220181005.png",
     "Pasted image 20240220173401.png",
+    "Syntax Tree Parameter Passing.md",
+    "3.Give syenthesized attribute,and inherited attribute,L-attribute  give example..md",
     "Guide.md",
     "Main.canvas",
-    "3.Give syenthesized attribute,and inherited attribute,L-attribute  give example..md",
-    "Syntax Tree Parameter Passing.md",
     "2.Write a short note on  syntax tree, parameter passing with examples.md",
     "conflict-files-obsidian-git.md",
     "Syntax Directed Translation and Definition. GPT + Research.md",
