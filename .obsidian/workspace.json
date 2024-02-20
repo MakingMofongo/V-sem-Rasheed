@@ -15,24 +15,9 @@
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -2316.2293569511353,
-                  "y": -941.8757833492314,
-                  "zoom": 1
-                }
-              }
-            }
-          },
-          {
-            "id": "f434b9ba893b8d49",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main.canvas",
-                "viewState": {
-                  "x": -2419.995904147906,
-                  "y": -23.61265906778919,
-                  "zoom": -0.27145079536120315
+                  "x": -2945.05281714493,
+                  "y": -963.3982225086907,
+                  "zoom": -0.7406727471072201
                 }
               }
             }
@@ -52,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +148,7 @@
             }
           },
           {
-            "id": "01a8bb8ab6304b6e",
+            "id": "7e34ef67c0089972",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -189,14 +173,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f434b9ba893b8d49",
+  "active": "170714ffa0998a62",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "New folder",
-    "Guide.md",
-    "Main.canvas",
-    "Untitled",
     "Syntax Directed Translation and Definition. GPT + Research.md",
+    "Main.canvas",
+    "Guide.md",
+    "Untitled",
     "PDFs/compiler Design COUNTIU=NUE unit 4.5.pdf",
     "compiler Design COUNTIU=NUE unit 4.5.md",
     "test.md",
@@ -213,6 +195,7 @@
     "cd imp 2.5.docx",
     "~$portant question for Tutorial 3.docx",
     "~$titled.canvas",
+    "~$portant question for Tutorial 3 1.docx",
     "Images/WhatsApp Image 2024-02-15 at 13.05.21_b2b8aeb6.jpg",
     "Welcome.md"
   ]
