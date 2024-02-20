@@ -1,8 +1,6 @@
 {
 	"nodes":[
 		{"id":"327b3cf255250ad1","type":"group","x":-306,"y":35,"width":290,"height":325,"color":"1","label":"1st Priority"},
-		{"id":"262fcc75e6730ddd","x":-4400,"y":1240,"width":720,"height":1220,"type":"file","file":"5. What is type checking,switch statement.md"},
-		{"id":"77218aa4374e29c3","type":"file","file":"4.Take one  SDT  and generate parse tree for one string.md","x":-4400,"y":520,"width":720,"height":640},
 		{"id":"b703527f4d45587a","type":"file","file":"PDFs/CSM SYLLABUS.pdf","x":280,"y":-2480,"width":868,"height":1000},
 		{"id":"6bb9a144474fc0ce","type":"file","file":"PDFs/compiler design notes1,2,3,4.pdf","x":-1020,"y":-1840,"width":1157,"height":560,"color":"4"},
 		{"id":"62c28d79a8202e78","type":"file","file":"PDFs/unit-1-notess.pdf","x":1000,"y":-990,"width":400,"height":400},
@@ -31,7 +29,9 @@
 		{"id":"6a68466816480075","type":"text","text":"## 2. Discuss the concept of bagging and boosting in ensemble learning. How do they address the problem of overfitting?\n\nBagging and boosting are both ensemble learning techniques used to improve the performance of machine learning models by combining multiple weak learners.\n\nBagging, which stands for Bootstrap Aggregating, involves training multiple models on different subsets of the training data, where each subset is sampled with replacement. The final prediction is then made by averaging the predictions of all the models (for regression) or taking a majority vote (for classification). Bagging helps to reduce variance and overfitting by averaging out the predictions of multiple models trained on different subsets of data, thereby making the overall prediction more robust.\n\nBoosting, on the other hand, involves training a sequence of weak learners sequentially, where each subsequent learner focuses on the examples that were misclassified by the previous ones. The final prediction is made by combining the predictions of all the weak learners, typically using a weighted sum. Boosting iteratively improves the model's performance by giving more weight to the examples that are harder to classify correctly, thereby reducing bias and improving generalization.","x":1540,"y":760,"width":595,"height":640,"color":"5"},
 		{"id":"24a5e7f6bafdfc39","type":"file","file":"Images/WhatsApp Image 2024-02-15 at 13.05.21_b2b8aeb6.jpg","x":-880,"y":460,"width":484,"height":860},
 		{"id":"4764d7f5736a45a7","type":"file","file":"Syntax Directed Translation and Definition. GPT + Research.md","x":-3980,"y":-1980,"width":600,"height":576},
-		{"id":"3b845cf4b2465ffa","type":"file","file":"Syntax Tree Parameter Passing.md","x":-4400,"y":-1240,"width":720,"height":763}
+		{"id":"3b845cf4b2465ffa","type":"file","file":"Syntax Tree Parameter Passing.md","x":-4400,"y":-1240,"width":720,"height":763},
+		{"id":"262fcc75e6730ddd","type":"file","file":"5. What is type checking,switch statement.md","x":-4400,"y":1240,"width":720,"height":1220},
+		{"id":"77218aa4374e29c3","type":"file","file":"4.Take one  SDT  and generate parse tree for one string.md","x":-4400,"y":520,"width":720,"height":1220}
 	],
 	"edges":[
 		{"id":"47fde9acda44a61a","fromNode":"352f46086bea4476","fromSide":"bottom","toNode":"24a5e7f6bafdfc39","toSide":"top","color":"2"},
