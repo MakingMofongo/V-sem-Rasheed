@@ -15,24 +15,9 @@
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -2316.2293569511353,
-                  "y": -941.8757833492314,
-                  "zoom": 1
-                }
-              }
-            }
-          },
-          {
-            "id": "f434b9ba893b8d49",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main.canvas",
-                "viewState": {
-                  "x": -3417.3290265511578,
-                  "y": -1445.2662606697136,
-                  "zoom": -1.9381174620278698
+                  "x": -2510.850003514901,
+                  "y": -810.7109622403655,
+                  "zoom": -1.5
                 }
               }
             }
@@ -52,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,13 +146,21 @@
                 "file": "Main.canvas"
               }
             }
+          },
+          {
+            "id": "7e34ef67c0089972",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +173,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f434b9ba893b8d49",
+  "active": "170714ffa0998a62",
   "lastOpenFiles": [
-    "Guide.md",
     "Main.canvas",
+    "Guide.md",
     "Untitled",
     "Syntax Directed Translation and Definition. GPT + Research.md",
     "PDFs/compiler Design COUNTIU=NUE unit 4.5.pdf",
