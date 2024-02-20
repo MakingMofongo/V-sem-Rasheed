@@ -1,6 +1,7 @@
 {
 	"nodes":[
 		{"id":"327b3cf255250ad1","type":"group","x":-306,"y":35,"width":290,"height":325,"color":"1","label":"1st Priority"},
+		{"id":"262fcc75e6730ddd","x":-4400,"y":1240,"width":720,"height":1220,"type":"file","file":"5. What is type checking,switch statement.md"},
 		{"id":"77218aa4374e29c3","type":"file","file":"4.Take one  SDT  and generate parse tree for one string.md","x":-4400,"y":520,"width":720,"height":640},
 		{"id":"b703527f4d45587a","type":"file","file":"PDFs/CSM SYLLABUS.pdf","x":280,"y":-2480,"width":868,"height":1000},
 		{"id":"6bb9a144474fc0ce","type":"file","file":"PDFs/compiler design notes1,2,3,4.pdf","x":-1020,"y":-1840,"width":1157,"height":560,"color":"4"},
@@ -14,7 +15,6 @@
 		{"id":"c9a1855a5b31a55e","type":"text","text":"## 5. What is type checking,switch statement","x":-2603,"y":-153,"width":383,"height":197,"color":"4"},
 		{"id":"53cdcf30d331c445","type":"text","text":"## 4.Take one  SDT  and generate parese tree for one string","x":-2603,"y":-477,"width":383,"height":240,"color":"4"},
 		{"id":"91b9b9ae30398e80","type":"text","text":"Moiz","x":-2680,"y":180,"width":250,"height":60},
-		{"id":"c8e2ac1938f361c0","type":"text","text":"## Type checking\nType checking is a process performed by compilers or interpreters to ensure that the **types of operands** in an expression or statement are compatible with the **operations** being performed.\n\nIt verifies that the operations and assignments in a program are semantically meaningful according to the language's type system. \n\nin a **statically** typed language like Java or C++ type checking is performed during compile time, In a **dynamically** typed language like Python, type checking is often performed at runtime\n\n## Switch Statement\nA switch statement is a control flow statement used to select one of many code blocks to be executed based on the value of a variable or expression. It provides a concise way to write multiple if-else-if statements.\n\nSyntax:\n\n```c\nswitch (expression) {\n    case value1:\n        // code block 1\n        break;\n    case value2:\n        // code block 2\n        break;\n    ...\n    default:\n        // default code block\n}\n```\n\nHere's how it works:\n- The expression is evaluated.\n- The value of the expression is compared with the values in the case labels.\n- If a match is found, the corresponding code block is executed.\n- If no match is found, the code block under the `default` label is executed (if present).\n- The `break` statement is used to exit the switch statement after executing the corresponding code block. If `break` is omitted, control falls through to the next case label, and subsequent code blocks are executed until a `break` is encountered or the switch statement ends.\n\nSwitch statements are often used when there are multiple conditions to check against the same variable, providing a cleaner and more readable alternative to using multiple if-else statements.","x":-4400,"y":1240,"width":720,"height":1220},
 		{"id":"d72c9d39b7812473","type":"text","text":"10. what is storage organization","x":-2280,"y":180,"width":303,"height":62},
 		{"id":"c74b20207d4c5805","type":"text","text":"CD","x":-286,"y":55,"width":250,"height":60,"color":"4"},
 		{"id":"d6a07453d635f1f9","type":"text","text":"AI","x":-8,"y":55,"width":250,"height":60},
@@ -57,7 +57,7 @@
 		{"id":"397463ba2b7a2a6c","fromNode":"c0ca81992ad252a0","fromSide":"left","toNode":"53cdcf30d331c445","toSide":"right","label":"4"},
 		{"id":"8b60c703cbf60269","fromNode":"53cdcf30d331c445","fromSide":"left","toNode":"77218aa4374e29c3","toSide":"right","label":"4"},
 		{"id":"b25cafe828e216c4","fromNode":"c0ca81992ad252a0","fromSide":"left","toNode":"c9a1855a5b31a55e","toSide":"right","label":"5"},
-		{"id":"30b6ffd3dbf3085e","fromNode":"c9a1855a5b31a55e","fromSide":"left","toNode":"c8e2ac1938f361c0","toSide":"right","label":"5"},
+		{"id":"30b6ffd3dbf3085e","fromNode":"c9a1855a5b31a55e","fromSide":"left","toNode":"262fcc75e6730ddd","toSide":"right","label":"5"},
 		{"id":"0e6307dc5adda628","fromNode":"71275df768c5c3df","fromSide":"left","toNode":"b10fa0046095d414","toSide":"right","label":"3"}
 	]
 }
