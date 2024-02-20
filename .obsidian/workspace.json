@@ -30,9 +30,9 @@
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -2787.7766632227854,
-                  "y": 66.18077880020498,
-                  "zoom": -0.9103653953846871
+                  "x": -3482.0550493608985,
+                  "y": -185.27943470858776,
+                  "zoom": -0.4936987287180204
                 }
               }
             }
@@ -176,10 +176,12 @@
   },
   "active": "a4de4f91191f479b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Main.canvas",
     "Pasted image 20240220181005.png",
     "Pasted image 20240220173401.png",
+    "Syntax Tree Parameter Passing.md",
+    "3.Give syenthesized attribute,and inherited attribute,L-attribute  give example..md",
+    "conflict-files-obsidian-git.md",
+    "Main.canvas",
     "Guide.md",
     "New Text Document.txt",
     "New folder",
