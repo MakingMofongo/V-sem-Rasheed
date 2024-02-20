@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "2feafcf05c6e3310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0756187bc17749e8",
             "type": "leaf",
             "state": {
@@ -53,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.canvas"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -189,12 +201,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f434b9ba893b8d49",
+  "active": "2feafcf05c6e3310",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Main.canvas",
     "New Text Document.txt",
     "New folder",
     "Guide.md",
-    "Main.canvas",
     "Untitled",
     "Syntax Directed Translation and Definition. GPT + Research.md",
     "PDFs/compiler Design COUNTIU=NUE unit 4.5.pdf",
@@ -211,7 +224,6 @@
     "PDFs/unit-1-notess.pdf",
     "cd imp 2.5 1.docx",
     "cd imp 2.5.docx",
-    "~$portant question for Tutorial 3.docx",
     "~$titled.canvas",
     "Images/WhatsApp Image 2024-02-15 at 13.05.21_b2b8aeb6.jpg",
     "Welcome.md"
