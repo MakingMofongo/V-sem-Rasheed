@@ -8,37 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10e261d76e4ea84e",
+            "id": "170714ffa0998a62",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -1497.8307947495398,
-                  "y": -147.50763301657585,
-                  "zoom": -0.07703206205135371
+                  "x": -3959.655984697702,
+                  "y": 1.3016844492839255,
+                  "zoom": 0.16866453320642627
                 }
               }
             }
           },
           {
-            "id": "a4de4f91191f479b",
+            "id": "853493d4386d66dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4079c8ba94b4b8d1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Main.canvas",
                 "viewState": {
-                  "x": -2787.7766632227854,
-                  "y": 66.18077880020498,
-                  "zoom": -0.9103653953846871
+                  "x": -3434.8591697294087,
+                  "y": 502.983774765048,
+                  "zoom": -0.8144590509991678
                 }
               }
             }
+          },
+          {
+            "id": "9945febb98585b19",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +165,7 @@
             }
           },
           {
-            "id": "01a8bb8ab6304b6e",
+            "id": "7e34ef67c0089972",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -161,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,17 +190,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a4de4f91191f479b",
+  "active": "7e34ef67c0089972",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Main.canvas",
     "Pasted image 20240220181005.png",
     "Pasted image 20240220173401.png",
     "Guide.md",
-    "New Text Document.txt",
-    "New folder",
-    "Untitled",
+    "Main.canvas",
+    "3.Give syenthesized attribute,and inherited attribute,L-attribute  give example..md",
+    "Syntax Tree Parameter Passing.md",
+    "2.Write a short note on  syntax tree, parameter passing with examples.md",
+    "conflict-files-obsidian-git.md",
     "Syntax Directed Translation and Definition. GPT + Research.md",
+    "Untitled",
     "PDFs/compiler Design COUNTIU=NUE unit 4.5.pdf",
     "compiler Design COUNTIU=NUE unit 4.5.md",
     "test.md",
@@ -199,7 +216,9 @@
     "PDFs/unit-1-notess.pdf",
     "cd imp 2.5 1.docx",
     "cd imp 2.5.docx",
+    "~$portant question for Tutorial 3.docx",
     "~$titled.canvas",
+    "~$portant question for Tutorial 3 1.docx",
     "Images/WhatsApp Image 2024-02-15 at 13.05.21_b2b8aeb6.jpg",
     "Welcome.md"
   ]
