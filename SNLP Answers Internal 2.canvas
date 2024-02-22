@@ -30,7 +30,12 @@
 		{"id":"f4bc7fa3cf3db999","x":1053,"y":1954,"width":250,"height":60,"color":"4","type":"text","text":"Represented by **wave function**"},
 		{"id":"035a8ef20925107d","x":1220,"y":2106,"width":250,"height":60,"type":"text","text":"Amplitude = Loudness"},
 		{"id":"1d19a4207329c133","x":900,"y":2106,"width":250,"height":60,"type":"text","text":"Plots pressure against time"},
-		{"id":"b1943c2f48c98b40","x":1450,"y":1950,"width":250,"height":60,"type":"text","text":""}
+		{"id":"b1943c2f48c98b40","x":1450,"y":1950,"width":250,"height":60,"color":"1","type":"text","text":"Sound produced in Oral Tract"},
+		{"id":"c330fdc6b78ccaa0","x":1782,"y":2067,"width":250,"height":60,"type":"text","text":"Harmonic Oscillator"},
+		{"id":"0a28ddb3f79b6c0e","x":2103,"y":2128,"width":250,"height":60,"color":"3","type":"text","text":"Resonance"},
+		{"id":"3da86fad95cb0d67","x":2105,"y":2297,"width":250,"height":60,"color":"5","type":"text","text":"Formants"},
+		{"id":"49447bffa72d7228","x":2105,"y":2420,"width":250,"height":60,"type":"text","text":"Numbered by frequency.\nF1,F2,F3 so on"},
+		{"id":"6ce30afc1e8f8ca5","x":2450,"y":2340,"width":290,"height":110,"type":"text","text":"Formants can be viewed by spectogram, show up as dark bands and their movements can be tracked through time"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -60,6 +65,11 @@
 		{"id":"e187b49e001a3241","fromNode":"219360f4b459880d","fromSide":"right","toNode":"f4bc7fa3cf3db999","toSide":"left"},
 		{"id":"0828e8eea28267af","fromNode":"f4bc7fa3cf3db999","fromSide":"bottom","toNode":"1d19a4207329c133","toSide":"top"},
 		{"id":"622c6de250967544","fromNode":"f4bc7fa3cf3db999","fromSide":"bottom","toNode":"035a8ef20925107d","toSide":"top"},
-		{"id":"1aa406f2e08293dc","fromNode":"f4bc7fa3cf3db999","fromSide":"right","toNode":"b1943c2f48c98b40","toSide":"left"}
+		{"id":"1aa406f2e08293dc","fromNode":"f4bc7fa3cf3db999","fromSide":"right","toNode":"b1943c2f48c98b40","toSide":"left"},
+		{"id":"27d8be7d1307a3bb","fromNode":"b1943c2f48c98b40","fromSide":"right","toNode":"c330fdc6b78ccaa0","toSide":"left"},
+		{"id":"d4cdfbd87b2e8416","fromNode":"c330fdc6b78ccaa0","fromSide":"right","toNode":"0a28ddb3f79b6c0e","toSide":"left"},
+		{"id":"73f29465c5051d9b","fromNode":"0a28ddb3f79b6c0e","fromSide":"bottom","toNode":"3da86fad95cb0d67","toSide":"top"},
+		{"id":"f9c8ddabd9dd23a6","fromNode":"3da86fad95cb0d67","fromSide":"bottom","toNode":"49447bffa72d7228","toSide":"top"},
+		{"id":"c372dce2ce8c2aac","fromNode":"3da86fad95cb0d67","fromSide":"right","toNode":"6ce30afc1e8f8ca5","toSide":"left"}
 	]
 }
