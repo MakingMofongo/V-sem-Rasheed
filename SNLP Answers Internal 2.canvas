@@ -40,7 +40,10 @@
 		{"id":"de22497ea900fc62","x":415,"y":2618,"width":250,"height":60,"type":"text","text":"= CFG with Proability"},
 		{"id":"063c3bb75d3cbd3b","x":771,"y":2707,"width":289,"height":93,"color":"3","type":"text","text":"Used here due to **Ambiguity** caused by various ways of parsing a sentence"},
 		{"id":"55f7ba72b73e9e82","x":415,"y":2800,"width":250,"height":60,"color":"4","type":"text","text":"Gives probability of each parse for a given sentence"},
-		{"id":"56bbb8f0ee83fe6a","x":781,"y":2971,"width":299,"height":169,"type":"text","text":"PCFG's G is a Quintiuple\nN, T, S, R, P\n\nN-> Set of non terminals (Variables)\nT-> Terminal Symbols\nS-> Start Symbol\nR-> Set of production rules\nP-> Probability"}
+		{"id":"56bbb8f0ee83fe6a","x":771,"y":2880,"width":299,"height":169,"color":"1","type":"text","text":"PCFG's G is a Quintiuple\nN, T, S, R, P\n\nN-> Set of non terminals (Variables)\nT-> Terminal Symbols\nS-> Start Symbol\nR-> Set of production rules\nP-> Probability"},
+		{"id":"757f5ce713d5f256","x":505,"y":3166,"width":250,"height":60,"type":"text","text":"Eacch Probability lies b/w 0 and 1"},
+		{"id":"56c2b31bb3e44201","x":787,"y":3174,"width":283,"height":106,"type":"text","text":"Sum of all probabilities of all rules of a certain non terminal = 1"},
+		{"id":"324ad15a0c51fb11","x":729,"y":3340,"width":400,"height":114,"type":"file","file":"Pasted image 20240223002635.png"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -79,6 +82,9 @@
 		{"id":"b973a68f7037af52","fromNode":"20e781e82f315ba1","fromSide":"right","toNode":"de22497ea900fc62","toSide":"left"},
 		{"id":"f0212ddbce953e09","fromNode":"de22497ea900fc62","fromSide":"right","toNode":"063c3bb75d3cbd3b","toSide":"left"},
 		{"id":"5c6dd55e04f6e51e","fromNode":"de22497ea900fc62","fromSide":"bottom","toNode":"55f7ba72b73e9e82","toSide":"top"},
-		{"id":"92fff277c6d620e2","fromNode":"de22497ea900fc62","fromSide":"right","toNode":"56bbb8f0ee83fe6a","toSide":"left"}
+		{"id":"92fff277c6d620e2","fromNode":"de22497ea900fc62","fromSide":"right","toNode":"56bbb8f0ee83fe6a","toSide":"left"},
+		{"id":"a41b4915807f9249","fromNode":"56bbb8f0ee83fe6a","fromSide":"bottom","toNode":"757f5ce713d5f256","toSide":"top"},
+		{"id":"516ebd7ca3db6041","fromNode":"56bbb8f0ee83fe6a","fromSide":"bottom","toNode":"56c2b31bb3e44201","toSide":"top"},
+		{"id":"c4b84c8ce0e21aae","fromNode":"56c2b31bb3e44201","fromSide":"bottom","toNode":"324ad15a0c51fb11","toSide":"top"}
 	]
 }
