@@ -12,10 +12,12 @@
 		{"id":"3ee7254c65a1b0e1","type":"text","text":"Study of **Suprasegmental** features","x":405,"y":650,"width":255,"height":90,"color":"1"},
 		{"id":"0d28537b0d4e1706","type":"text","text":"Encompasses various concepts of Speech Rythm, Intonation, Stress and Timing","x":788,"y":900,"width":313,"height":96},
 		{"id":"20330053f04ff186","type":"text","text":"Play significant role in conveying Meaning, discourse structure and emotional expression","x":788,"y":740,"width":313,"height":100},
-		{"id":"ee5278fd44aee554","type":"text","text":"Intonation","x":660,"y":1074,"width":250,"height":60},
+		{"id":"ee5278fd44aee554","type":"text","text":"Intonation","x":660,"y":1074,"width":250,"height":60,"color":"1"},
 		{"id":"c2672ce92df367e8","type":"text","text":"Stress","x":976,"y":1074,"width":250,"height":60},
 		{"id":"e8a63ae619d2054b","type":"text","text":"Timing","x":1300,"y":1074,"width":250,"height":60},
-		{"id":"7b7b2314ae3dfa7b","type":"text","text":"Rythm","x":340,"y":1074,"width":250,"height":60}
+		{"id":"7b7b2314ae3dfa7b","type":"text","text":"Rythm","x":340,"y":1074,"width":250,"height":60,"color":"5"},
+		{"id":"336375f371d8591c","x":340,"y":1240,"width":250,"height":60,"type":"text","text":"Patterns of Stress and unstressed Syllables"},
+		{"id":"9860dcb9d3acb308","x":660,"y":1240,"width":250,"height":60,"type":"text","text":"Pitch Variations"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -31,6 +33,8 @@
 		{"id":"d0c9f015e225c8ba","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"7b7b2314ae3dfa7b","toSide":"top"},
 		{"id":"aafb3af647243be4","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"ee5278fd44aee554","toSide":"top"},
 		{"id":"4a661393fa2848e0","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"c2672ce92df367e8","toSide":"top"},
-		{"id":"12c355c29d59d0a2","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"e8a63ae619d2054b","toSide":"top"}
+		{"id":"12c355c29d59d0a2","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"e8a63ae619d2054b","toSide":"top"},
+		{"id":"b821650474c2cd34","fromNode":"7b7b2314ae3dfa7b","fromSide":"bottom","toNode":"336375f371d8591c","toSide":"top"},
+		{"id":"2662d3f7d31ed628","fromNode":"ee5278fd44aee554","fromSide":"bottom","toNode":"9860dcb9d3acb308","toSide":"top"}
 	]
 }
