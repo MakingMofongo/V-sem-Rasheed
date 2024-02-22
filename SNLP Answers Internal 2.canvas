@@ -42,8 +42,9 @@
 		{"id":"55f7ba72b73e9e82","type":"text","text":"Gives probability of each parse for a given sentence","x":415,"y":2800,"width":250,"height":60,"color":"4"},
 		{"id":"56bbb8f0ee83fe6a","type":"text","text":"PCFG's G is a Quintiuple\nN, T, S, R, P\n\nN-> Set of non terminals (Variables)\nT-> Terminal Symbols\nS-> Start Symbol\nR-> Set of production rules\nP-> Probability","x":771,"y":2880,"width":299,"height":169,"color":"1"},
 		{"id":"757f5ce713d5f256","type":"text","text":"Eacch Probability lies b/w 0 and 1","x":505,"y":3166,"width":250,"height":60},
-		{"id":"56c2b31bb3e44201","type":"text","text":"Sum of all probabilities to all possible grammar productions is\n  ![[Pasted image 20240223003357.png|200]]","x":853,"y":3340,"width":283,"height":206},
-		{"id":"b5355cdafbf7f627","type":"text","text":"Every possible string x a grammar generates is assigned a probability weight ![{\\displaystyle P(x|\\theta )}](https://wikimedia.org/api/rest_v1/media/math/render/svg/6951d50bc9f0e043149cecd0c15c92bd6c1d9273) given the PCFG model ![{\\displaystyle \\theta }](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af).","x":846,"y":3120,"width":298,"height":153,"color":"#ffffff"}
+		{"id":"56c2b31bb3e44201","type":"text","text":"Sum of all probabilities of all rules of a certain non terminal = 1","x":787,"y":3174,"width":283,"height":106},
+		{"id":"324ad15a0c51fb11","type":"file","file":"Pasted image 20240223002635.png","x":729,"y":3340,"width":400,"height":114},
+		{"id":"8e2b1eb3e6312fda","x":1242,"y":2972,"width":250,"height":60,"type":"text","text":"Example:\n\nTake N\n"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -84,7 +85,8 @@
 		{"id":"5c6dd55e04f6e51e","fromNode":"de22497ea900fc62","fromSide":"bottom","toNode":"55f7ba72b73e9e82","toSide":"top"},
 		{"id":"92fff277c6d620e2","fromNode":"de22497ea900fc62","fromSide":"right","toNode":"56bbb8f0ee83fe6a","toSide":"left"},
 		{"id":"a41b4915807f9249","fromNode":"56bbb8f0ee83fe6a","fromSide":"bottom","toNode":"757f5ce713d5f256","toSide":"top"},
-		{"id":"eb2be785bcf19ba7","fromNode":"56bbb8f0ee83fe6a","fromSide":"bottom","toNode":"b5355cdafbf7f627","toSide":"top"},
-		{"id":"14dd64b18c8995b3","fromNode":"b5355cdafbf7f627","fromSide":"bottom","toNode":"56c2b31bb3e44201","toSide":"top"}
+		{"id":"516ebd7ca3db6041","fromNode":"56bbb8f0ee83fe6a","fromSide":"bottom","toNode":"56c2b31bb3e44201","toSide":"top"},
+		{"id":"c4b84c8ce0e21aae","fromNode":"56c2b31bb3e44201","fromSide":"bottom","toNode":"324ad15a0c51fb11","toSide":"top"},
+		{"id":"d0d7d0dcd8c41c39","fromNode":"56bbb8f0ee83fe6a","fromSide":"right","toNode":"8e2b1eb3e6312fda","toSide":"left"}
 	]
 }
