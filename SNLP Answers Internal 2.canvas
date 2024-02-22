@@ -29,7 +29,8 @@
 		{"id":"219360f4b459880d","x":740,"y":1883,"width":250,"height":60,"type":"text","text":"Sound composed of high and low pressure areas"},
 		{"id":"f4bc7fa3cf3db999","x":1053,"y":1954,"width":250,"height":60,"color":"4","type":"text","text":"Represented by **wave function**"},
 		{"id":"035a8ef20925107d","x":1220,"y":2106,"width":250,"height":60,"type":"text","text":"Amplitude = Loudness"},
-		{"id":"1d19a4207329c133","x":900,"y":2106,"width":250,"height":60,"type":"text","text":"Plots pressure against time"}
+		{"id":"1d19a4207329c133","x":900,"y":2106,"width":250,"height":60,"type":"text","text":"Plots pressure against time"},
+		{"id":"b1943c2f48c98b40","x":1450,"y":1950,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -58,6 +59,7 @@
 		{"id":"1f42b8bfcee351be","fromNode":"cf270b027f488bb5","fromSide":"right","toNode":"219360f4b459880d","toSide":"left"},
 		{"id":"e187b49e001a3241","fromNode":"219360f4b459880d","fromSide":"right","toNode":"f4bc7fa3cf3db999","toSide":"left"},
 		{"id":"0828e8eea28267af","fromNode":"f4bc7fa3cf3db999","fromSide":"bottom","toNode":"1d19a4207329c133","toSide":"top"},
-		{"id":"622c6de250967544","fromNode":"f4bc7fa3cf3db999","fromSide":"bottom","toNode":"035a8ef20925107d","toSide":"top"}
+		{"id":"622c6de250967544","fromNode":"f4bc7fa3cf3db999","fromSide":"bottom","toNode":"035a8ef20925107d","toSide":"top"},
+		{"id":"1aa406f2e08293dc","fromNode":"f4bc7fa3cf3db999","fromSide":"right","toNode":"b1943c2f48c98b40","toSide":"left"}
 	]
 }
