@@ -25,9 +25,9 @@
 		{"id":"3c2f49cd6daa9f63","x":1620,"y":813,"width":287,"height":114,"type":"text","text":"Analysis of cues that mark boundaries between conversational turns, sentences."},
 		{"id":"69ad6aa3b725a3bf","x":1620,"y":655,"width":287,"height":111,"type":"text","text":"Prosody plays crucial role in conveying various emotions"},
 		{"id":"28ba6146c35d2e80","type":"text","text":"## 6a. Discuss in detail about Acoustic Phonetics","x":-153,"y":1720,"width":423,"height":120,"color":"4"},
-		{"id":"cf270b027f488bb5","x":420,"y":1797,"width":245,"height":86,"type":"text","text":"Study of how Speech Manipulates Sound Waves"},
+		{"id":"cf270b027f488bb5","x":420,"y":1797,"width":245,"height":86,"color":"1","type":"text","text":"Study of how Speech Manipulates Sound Waves"},
 		{"id":"219360f4b459880d","x":740,"y":1883,"width":250,"height":60,"type":"text","text":"Sound composed of high and low pressure areas"},
-		{"id":"f4bc7fa3cf3db999","x":1053,"y":1954,"width":250,"height":60,"type":"text","text":"Represented by wave function"},
+		{"id":"f4bc7fa3cf3db999","x":1053,"y":1954,"width":250,"height":60,"color":"4","type":"text","text":"Represented by **wave function**"},
 		{"id":"035a8ef20925107d","x":1220,"y":2106,"width":250,"height":60,"type":"text","text":"Amplitude = Loudness"},
 		{"id":"1d19a4207329c133","x":900,"y":2106,"width":250,"height":60,"type":"text","text":"Plots pressure against time"}
 	],
