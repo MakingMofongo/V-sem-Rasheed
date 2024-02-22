@@ -36,7 +36,11 @@
 		{"id":"3da86fad95cb0d67","x":2105,"y":2297,"width":250,"height":60,"color":"5","type":"text","text":"Formants"},
 		{"id":"49447bffa72d7228","x":2105,"y":2420,"width":250,"height":60,"type":"text","text":"Numbered by frequency.\nF1,F2,F3 so on"},
 		{"id":"6ce30afc1e8f8ca5","x":2450,"y":2340,"width":290,"height":110,"type":"text","text":"Formants can be viewed by spectogram, show up as dark bands and their movements can be tracked through time"},
-		{"id":"20e781e82f315ba1","type":"text","text":"## 6b. ","x":-153,"y":2480,"width":423,"height":120,"color":"1"}
+		{"id":"20e781e82f315ba1","type":"text","text":"## 6b. Write about probabilistic CFG","x":-153,"y":2480,"width":423,"height":120,"color":"1"},
+		{"id":"de22497ea900fc62","x":415,"y":2618,"width":250,"height":60,"type":"text","text":"= CFG with Proability"},
+		{"id":"063c3bb75d3cbd3b","x":771,"y":2707,"width":289,"height":93,"color":"3","type":"text","text":"Used here due to **Ambiguity** caused by various ways of parsing a sentence"},
+		{"id":"55f7ba72b73e9e82","x":415,"y":2800,"width":250,"height":60,"color":"4","type":"text","text":"Gives probability of each parse for a given sentence"},
+		{"id":"56bbb8f0ee83fe6a","x":781,"y":2971,"width":299,"height":169,"type":"text","text":"PCFG's G is a Quintiuple\nN, T, S, R, P\n\nN-> Set of non terminals (Variables)\nT-> Terminal Symbols\nS-> Start Symbol\nR-> Set of production rules\nP-> Probability"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -71,6 +75,10 @@
 		{"id":"d4cdfbd87b2e8416","fromNode":"c330fdc6b78ccaa0","fromSide":"right","toNode":"0a28ddb3f79b6c0e","toSide":"left"},
 		{"id":"73f29465c5051d9b","fromNode":"0a28ddb3f79b6c0e","fromSide":"bottom","toNode":"3da86fad95cb0d67","toSide":"top"},
 		{"id":"f9c8ddabd9dd23a6","fromNode":"3da86fad95cb0d67","fromSide":"bottom","toNode":"49447bffa72d7228","toSide":"top"},
-		{"id":"c372dce2ce8c2aac","fromNode":"3da86fad95cb0d67","fromSide":"right","toNode":"6ce30afc1e8f8ca5","toSide":"left"}
+		{"id":"c372dce2ce8c2aac","fromNode":"3da86fad95cb0d67","fromSide":"right","toNode":"6ce30afc1e8f8ca5","toSide":"left"},
+		{"id":"b973a68f7037af52","fromNode":"20e781e82f315ba1","fromSide":"right","toNode":"de22497ea900fc62","toSide":"left"},
+		{"id":"f0212ddbce953e09","fromNode":"de22497ea900fc62","fromSide":"right","toNode":"063c3bb75d3cbd3b","toSide":"left"},
+		{"id":"5c6dd55e04f6e51e","fromNode":"de22497ea900fc62","fromSide":"bottom","toNode":"55f7ba72b73e9e82","toSide":"top"},
+		{"id":"92fff277c6d620e2","fromNode":"de22497ea900fc62","fromSide":"right","toNode":"56bbb8f0ee83fe6a","toSide":"left"}
 	]
 }
