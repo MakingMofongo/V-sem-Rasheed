@@ -1,16 +1,21 @@
 {
 	"nodes":[
-		{"id":"219c28a572c9817b","x":-153,"y":-154,"width":433,"height":134,"type":"text","text":"## 5a. Write in detail about **Phonetic Analysis**"},
-		{"id":"82638cbeb4817ec0","x":480,"y":0,"width":250,"height":60,"color":"4","type":"text","text":"Study of 'Speech Sounds'"},
-		{"id":"bb43ff54f7c4396b","x":-720,"y":-33,"width":348,"height":127,"color":"1","type":"text","text":"Aims to understand the physical characteristics of speech sound, their classification, and their role in human communiction"},
-		{"id":"a2113c54dee18118","x":-61,"y":200,"width":250,"height":60,"type":"text","text":"Articulatory Phonetics"},
-		{"id":"75f1851c27ac0ede","x":280,"y":200,"width":250,"height":60,"type":"text","text":"Acoustic Phonetics"},
-		{"id":"6ed3639db95a450b","x":605,"y":200,"width":250,"height":60,"type":"text","text":"Auditory Phonetics"},
-		{"id":"a4f9c475aa7ee51f","x":939,"y":-30,"width":260,"height":120,"type":"text","text":"Production, Transmission and Reception of Sounds as well as their acoustic properties"},
-		{"id":"c9af76298a577031","x":944,"y":200,"width":250,"height":60,"type":"text","text":"Comparative and Contrastive Analysis"},
-		{"id":"c49d29d31295d5b6","x":-153,"y":560,"width":423,"height":120,"type":"text","text":"## 5b. Discuss in detail about prosodic analysis"},
-		{"id":"3ee7254c65a1b0e1","x":406,"y":630,"width":250,"height":60,"type":"text","text":"Study of Suprasegmental features"},
-		{"id":"20330053f04ff186","x":727,"y":740,"width":250,"height":60,"type":"text","text":"Play significant role "}
+		{"id":"219c28a572c9817b","type":"text","text":"## 5a. Write in detail about **Phonetic Analysis**","x":-153,"y":-154,"width":433,"height":134,"color":"1"},
+		{"id":"82638cbeb4817ec0","type":"text","text":"Study of 'Speech Sounds'","x":480,"y":0,"width":250,"height":60,"color":"4"},
+		{"id":"bb43ff54f7c4396b","type":"text","text":"Aims to understand the physical characteristics of speech sound, their classification, and their role in human communiction","x":-720,"y":-33,"width":348,"height":127,"color":"1"},
+		{"id":"a2113c54dee18118","type":"text","text":"Articulatory Phonetics","x":-61,"y":200,"width":250,"height":60},
+		{"id":"75f1851c27ac0ede","type":"text","text":"Acoustic Phonetics","x":280,"y":200,"width":250,"height":60},
+		{"id":"6ed3639db95a450b","type":"text","text":"Auditory Phonetics","x":605,"y":200,"width":250,"height":60},
+		{"id":"a4f9c475aa7ee51f","type":"text","text":"Production, Transmission and Reception of Sounds as well as their acoustic properties","x":939,"y":-30,"width":260,"height":120},
+		{"id":"c9af76298a577031","type":"text","text":"Comparative and Contrastive Analysis","x":944,"y":200,"width":250,"height":60},
+		{"id":"c49d29d31295d5b6","type":"text","text":"## 5b. Discuss in detail about prosodic analysis","x":-153,"y":560,"width":423,"height":120,"color":"5"},
+		{"id":"3ee7254c65a1b0e1","type":"text","text":"Study of **Suprasegmental** features","x":405,"y":650,"width":255,"height":90,"color":"1"},
+		{"id":"0d28537b0d4e1706","type":"text","text":"Encompasses various concepts of Speech Rythm, Intonation, Stress and Timing","x":788,"y":900,"width":313,"height":96},
+		{"id":"20330053f04ff186","type":"text","text":"Play significant role in conveying Meaning, discourse structure and emotional expression","x":788,"y":740,"width":313,"height":100},
+		{"id":"ee5278fd44aee554","type":"text","text":"Intonation","x":660,"y":1074,"width":250,"height":60},
+		{"id":"c2672ce92df367e8","type":"text","text":"Stress","x":976,"y":1074,"width":250,"height":60},
+		{"id":"e8a63ae619d2054b","type":"text","text":"Timing","x":1300,"y":1074,"width":250,"height":60},
+		{"id":"7b7b2314ae3dfa7b","type":"text","text":"Rythm","x":340,"y":1074,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -21,6 +26,11 @@
 		{"id":"c663cbf7f1bb8988","fromNode":"82638cbeb4817ec0","fromSide":"bottom","toNode":"6ed3639db95a450b","toSide":"top"},
 		{"id":"92a63cb6c0e148e6","fromNode":"82638cbeb4817ec0","fromSide":"bottom","toNode":"c9af76298a577031","toSide":"top"},
 		{"id":"9804c11e6c9c9852","fromNode":"c49d29d31295d5b6","fromSide":"right","toNode":"3ee7254c65a1b0e1","toSide":"left"},
-		{"id":"b79d4da9a5d4e00c","fromNode":"3ee7254c65a1b0e1","fromSide":"right","toNode":"20330053f04ff186","toSide":"left"}
+		{"id":"b79d4da9a5d4e00c","fromNode":"3ee7254c65a1b0e1","fromSide":"right","toNode":"20330053f04ff186","toSide":"left"},
+		{"id":"6fe528c804aea370","fromNode":"3ee7254c65a1b0e1","fromSide":"right","toNode":"0d28537b0d4e1706","toSide":"left"},
+		{"id":"d0c9f015e225c8ba","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"7b7b2314ae3dfa7b","toSide":"top"},
+		{"id":"aafb3af647243be4","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"ee5278fd44aee554","toSide":"top"},
+		{"id":"4a661393fa2848e0","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"c2672ce92df367e8","toSide":"top"},
+		{"id":"12c355c29d59d0a2","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"e8a63ae619d2054b","toSide":"top"}
 	]
 }
