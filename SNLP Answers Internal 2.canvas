@@ -21,7 +21,9 @@
 		{"id":"15e8c5fb80e2daa5","type":"text","text":"Emphasis","x":976,"y":1240,"width":250,"height":60},
 		{"id":"ef71bc906d3fc53e","type":"text","text":"Durations and Pauses","x":1301,"y":1240,"width":250,"height":60},
 		{"id":"33c2d9d46e07a010","type":"text","text":"Emotional Expression","x":1264,"y":680,"width":250,"height":60,"color":"#e40c69"},
-		{"id":"b163974da5eac96e","x":1264,"y":840,"width":250,"height":60,"color":"#0e43e1","type":"text","text":"Discourse Structure"}
+		{"id":"b163974da5eac96e","x":1264,"y":840,"width":250,"height":60,"color":"#0e43e1","type":"text","text":"Discourse Structure"},
+		{"id":"3c2f49cd6daa9f63","x":1620,"y":813,"width":287,"height":114,"type":"text","text":"Analysis of cues that mark boundaries between conversational turns, sentences."},
+		{"id":"69ad6aa3b725a3bf","x":1620,"y":655,"width":287,"height":111,"type":"text","text":"Prosody plays crucial role in conveying various emotions"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -43,6 +45,8 @@
 		{"id":"ac4e4f17af7f8315","fromNode":"20330053f04ff186","fromSide":"right","toNode":"33c2d9d46e07a010","toSide":"left","color":"#a91153"},
 		{"id":"87d2eca781ca9358","fromNode":"c2672ce92df367e8","fromSide":"bottom","toNode":"15e8c5fb80e2daa5","toSide":"top"},
 		{"id":"cf9d4ce6a97d072a","fromNode":"e8a63ae619d2054b","fromSide":"bottom","toNode":"ef71bc906d3fc53e","toSide":"top"},
-		{"id":"2a771292591fbbbf","fromNode":"20330053f04ff186","fromSide":"right","toNode":"b163974da5eac96e","toSide":"left","color":"#13359d"}
+		{"id":"2a771292591fbbbf","fromNode":"20330053f04ff186","fromSide":"right","toNode":"b163974da5eac96e","toSide":"left","color":"#13359d"},
+		{"id":"3540e5c341e7a93e","fromNode":"b163974da5eac96e","fromSide":"right","toNode":"3c2f49cd6daa9f63","toSide":"left"},
+		{"id":"840fa4ef3b3e4787","fromNode":"33c2d9d46e07a010","fromSide":"right","toNode":"69ad6aa3b725a3bf","toSide":"left"}
 	]
 }
