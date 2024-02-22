@@ -35,7 +35,8 @@
 		{"id":"0a28ddb3f79b6c0e","x":2103,"y":2128,"width":250,"height":60,"color":"3","type":"text","text":"Resonance"},
 		{"id":"3da86fad95cb0d67","x":2105,"y":2297,"width":250,"height":60,"color":"5","type":"text","text":"Formants"},
 		{"id":"49447bffa72d7228","x":2105,"y":2420,"width":250,"height":60,"type":"text","text":"Numbered by frequency.\nF1,F2,F3 so on"},
-		{"id":"6ce30afc1e8f8ca5","x":2450,"y":2340,"width":290,"height":110,"type":"text","text":"Formants can be viewed by spectogram, show up as dark bands and their movements can be tracked through time"}
+		{"id":"6ce30afc1e8f8ca5","x":2450,"y":2340,"width":290,"height":110,"type":"text","text":"Formants can be viewed by spectogram, show up as dark bands and their movements can be tracked through time"},
+		{"id":"20e781e82f315ba1","type":"text","text":"## 6b. ","x":-153,"y":2480,"width":423,"height":120,"color":"1"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
