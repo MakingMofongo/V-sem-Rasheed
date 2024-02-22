@@ -14,10 +14,13 @@
 		{"id":"20330053f04ff186","type":"text","text":"Play significant role in conveying Meaning, discourse structure and emotional expression","x":788,"y":740,"width":313,"height":100},
 		{"id":"ee5278fd44aee554","type":"text","text":"Intonation","x":660,"y":1074,"width":250,"height":60,"color":"1"},
 		{"id":"c2672ce92df367e8","type":"text","text":"Stress","x":976,"y":1074,"width":250,"height":60},
-		{"id":"e8a63ae619d2054b","type":"text","text":"Timing","x":1300,"y":1074,"width":250,"height":60},
+		{"id":"e8a63ae619d2054b","type":"text","text":"Timing","x":1300,"y":1074,"width":250,"height":60,"color":"2"},
 		{"id":"7b7b2314ae3dfa7b","type":"text","text":"Rythm","x":340,"y":1074,"width":250,"height":60,"color":"5"},
-		{"id":"336375f371d8591c","x":340,"y":1240,"width":250,"height":60,"type":"text","text":"Patterns of Stress and unstressed Syllables"},
-		{"id":"9860dcb9d3acb308","x":660,"y":1240,"width":250,"height":60,"type":"text","text":"Pitch Variations"}
+		{"id":"336375f371d8591c","type":"text","text":"Patterns of Stress and unstressed Syllables","x":340,"y":1240,"width":250,"height":60},
+		{"id":"9860dcb9d3acb308","type":"text","text":"Pitch Variations","x":660,"y":1240,"width":250,"height":60},
+		{"id":"33c2d9d46e07a010","x":1219,"y":768,"width":250,"height":60,"color":"#e40c69","type":"text","text":"Emotional Expression"},
+		{"id":"15e8c5fb80e2daa5","x":976,"y":1240,"width":250,"height":60,"type":"text","text":"Emphasis"},
+		{"id":"ef71bc906d3fc53e","x":1301,"y":1240,"width":250,"height":60,"type":"text","text":"Durations and Pauses"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -35,6 +38,9 @@
 		{"id":"4a661393fa2848e0","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"c2672ce92df367e8","toSide":"top"},
 		{"id":"12c355c29d59d0a2","fromNode":"0d28537b0d4e1706","fromSide":"bottom","toNode":"e8a63ae619d2054b","toSide":"top"},
 		{"id":"b821650474c2cd34","fromNode":"7b7b2314ae3dfa7b","fromSide":"bottom","toNode":"336375f371d8591c","toSide":"top"},
-		{"id":"2662d3f7d31ed628","fromNode":"ee5278fd44aee554","fromSide":"bottom","toNode":"9860dcb9d3acb308","toSide":"top"}
+		{"id":"2662d3f7d31ed628","fromNode":"ee5278fd44aee554","fromSide":"bottom","toNode":"9860dcb9d3acb308","toSide":"top"},
+		{"id":"ac4e4f17af7f8315","fromNode":"20330053f04ff186","fromSide":"right","toNode":"33c2d9d46e07a010","toSide":"left"},
+		{"id":"87d2eca781ca9358","fromNode":"c2672ce92df367e8","fromSide":"bottom","toNode":"15e8c5fb80e2daa5","toSide":"top"},
+		{"id":"cf9d4ce6a97d072a","fromNode":"e8a63ae619d2054b","fromSide":"bottom","toNode":"ef71bc906d3fc53e","toSide":"top"}
 	]
 }
