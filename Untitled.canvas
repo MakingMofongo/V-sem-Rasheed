@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"4306c5341360f806","x":-430,"y":-60,"width":830,"height":115,"type":"file","file":"Pasted image 20240229223507.png"},
-		{"id":"0b5cad0c19fb9814","x":-300,"y":-760,"width":505,"height":640,"type":"file","file":"AI REC complete.pdf"}
+		{"id":"0b5cad0c19fb9814","x":-430,"y":-780,"width":635,"height":660,"type":"file","file":"AI REC complete.pdf","subpath":"#page=1"}
 	],
 	"edges":[]
 }
