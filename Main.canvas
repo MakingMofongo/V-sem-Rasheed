@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"d6c0d4be297cb1c0","type":"group","x":-4960,"y":-2896,"width":7115,"height":5837,"color":"#007bff","label":"Internal2"},
 		{"id":"aeef8b081f0c7766","type":"group","x":3840,"y":-322,"width":800,"height":1642,"color":"#ffffff","label":"Subjects"},
+		{"id":"bd80ec63d0cb499c","type":"group","x":3950,"y":1480,"width":290,"height":320,"label":"Backlogs"},
 		{"id":"6f5ad50b4bbb26b4","type":"group","x":-480,"y":-302,"width":568,"height":325,"label":"Internal2Subs"},
-		{"id":"6a68466816480075","type":"text","text":"## 2. Discuss the concept of bagging and boosting in ensemble learning. How do they address the problem of overfitting?\n\nBagging and boosting are both ensemble learning techniques used to improve the performance of machine learning models by combining multiple weak learners.\n\nBagging, which stands for Bootstrap Aggregating, involves training multiple models on different subsets of the training data, where each subset is sampled with replacement. The final prediction is then made by averaging the predictions of all the models (for regression) or taking a majority vote (for classification). Bagging helps to reduce variance and overfitting by averaging out the predictions of multiple models trained on different subsets of data, thereby making the overall prediction more robust.\n\nBoosting, on the other hand, involves training a sequence of weak learners sequentially, where each subsequent learner focuses on the examples that were misclassified by the previous ones. The final prediction is made by combining the predictions of all the weak learners, typically using a weighted sum. Boosting iteratively improves the model's performance by giving more weight to the examples that are harder to classify correctly, thereby reducing bias and improving generalization.","x":1540,"y":760,"width":595,"height":640,"color":"5"},
 		{"id":"d878113263c029ee","type":"text","text":"## 1. What is linear classification? Explain the concept of decision boundaries and how they relate to linear classifiers.\n\nLinear classification is a technique in machine learning used to **classify** data into different categories **based on linear decision boundarie**s.\n\nDecision boundaries are the dividing lines or surfaces that **separate different classes** in a dataset. In linear classification, these **decision boundaries are linear**, meaning they can be represented by straight lines or planes in the feature space.\n\nLinear classifiers **aim to find the optimal linear decision boundary** that best separates the data points into their respective classes.","x":810,"y":760,"width":595,"height":380,"color":"1"},
 		{"id":"4764d7f5736a45a7","type":"file","file":"Syntax Directed Translation and Definition. GPT + Research.md","x":-3980,"y":-1980,"width":600,"height":576},
 		{"id":"e13299690518c8b3","type":"text","text":"## PDF\n\n1.What is syntax Directed definition\n\n![[Pasted image 20240217203727.png]]\n\n\nand syntax directed translation \n![[Pasted image 20240217203958.png]]\n\nwith examples ...\n","x":-4160,"y":-2876,"width":625,"height":621},
@@ -44,19 +44,29 @@
 		{"id":"1cd7969406765328","type":"text","text":"18","x":4013,"y":180,"width":250,"height":60},
 		{"id":"13ef27698ea903fb","type":"text","text":"16","x":4013,"y":20,"width":250,"height":60},
 		{"id":"b703527f4d45587a","type":"file","file":"PDFs/CSM SYLLABUS.pdf","x":4800,"y":-322,"width":868,"height":1000},
-		{"id":"fdba0b20a7a25a46","type":"text","text":"14","x":4013,"y":-180,"width":250,"height":60},
 		{"id":"c7e1ac33d4005a6b","type":"text","text":"15 - WIT","x":4013,"y":-80,"width":250,"height":60,"color":"1"},
-		{"id":"c692e0c0c2064c4b","type":"file","file":"CD.canvas","x":3360,"y":-722,"width":400,"height":400},
 		{"id":"bc2a166d4ce1a058","type":"text","text":"13 - CD ","x":4013,"y":-280,"width":250,"height":60,"color":"4"},
 		{"id":"06b02cc79e394a97","type":"text","text":"19 - SNLP","x":4013,"y":280,"width":250,"height":60,"color":"2"},
-		{"id":"4e36c389923a60c2","type":"text","text":"20","x":4013,"y":400,"width":250,"height":50},
 		{"id":"b397677c61b4263a","type":"text","text":"21 - AI","x":4013,"y":480,"width":250,"height":60,"color":"4"},
-		{"id":"d089732ec26e03c7","type":"text","text":"22","x":4033,"y":601,"width":250,"height":50},
-		{"id":"a4c2662a7ef5642a","type":"text","text":"27 - ML for DS","x":4013,"y":992,"width":250,"height":60,"color":"#1523e5"},
-		{"id":"0fc66551034a2e24","type":"text","text":"08-04 DAA","x":4013,"y":1112,"width":250,"height":60},
-		{"id":"629b719f8e38d1bf","type":"text","text":"15-04 SE","x":4013,"y":1212,"width":250,"height":60},
-		{"id":"7a4d12deae6f965a","type":"text","text":"22-04 DBMS","x":4013,"y":1332,"width":250,"height":60},
-		{"id":"693f3985af13bc07","type":"text","text":"23 - OS","x":4013,"y":880,"width":250,"height":60}
+		{"id":"d089732ec26e03c7","type":"text","text":"22","x":4013,"y":600,"width":250,"height":50},
+		{"id":"4e36c389923a60c2","type":"text","text":"20","x":4013,"y":400,"width":250,"height":50},
+		{"id":"693f3985af13bc07","type":"text","text":"23 - OS","x":4013,"y":678,"width":250,"height":60,"color":"#ff0059"},
+		{"id":"2fb952408b7c690a","type":"text","text":"24","x":4013,"y":800,"width":250,"height":62},
+		{"id":"cdc4232d121a2f14","type":"text","text":"25","x":4013,"y":920,"width":250,"height":50},
+		{"id":"9703d62cbc051a7e","type":"text","text":"26","x":4013,"y":1040,"width":250,"height":50},
+		{"id":"0fc66551034a2e24","type":"text","text":"08-04 DAA","x":3970,"y":1500,"width":250,"height":60},
+		{"id":"629b719f8e38d1bf","type":"text","text":"15-04 SE","x":3970,"y":1600,"width":250,"height":60},
+		{"id":"7a4d12deae6f965a","type":"text","text":"22-04 DBMS","x":3970,"y":1720,"width":250,"height":60},
+		{"id":"a4c2662a7ef5642a","type":"text","text":"27 - ML for DS","x":4013,"y":1160,"width":250,"height":60,"color":"#1523e5"},
+		{"id":"fdba0b20a7a25a46","type":"text","text":"14","x":4013,"y":-180,"width":250,"height":60},
+		{"id":"ac98fb70f90b8b38","x":4013,"y":-500,"width":250,"height":60,"type":"text","text":"11"},
+		{"id":"db06124c7ad4dccf","x":4013,"y":-382,"width":250,"height":60,"type":"text","text":"12"},
+		{"id":"a3d1252b8cd173fb","x":4013,"y":-600,"width":250,"height":60,"type":"text","text":"10"},
+		{"id":"24edddaa832afb1f","x":4013,"y":-722,"width":250,"height":60,"type":"text","text":"9"},
+		{"id":"9a8d7b51320f9c24","x":4013,"y":-840,"width":250,"height":60,"type":"text","text":"8"},
+		{"id":"31d1ae03dd3f5ec8","x":4013,"y":-960,"width":250,"height":60,"type":"text","text":"7"},
+		{"id":"6a68466816480075","type":"text","text":"## 2. Discuss the concept of bagging and boosting in ensemble learning. How do they address the problem of overfitting?\n\nBagging and boosting are both ensemble learning techniques used to improve the performance of machine learning models by combining multiple weak learners.\n\nBagging, which stands for Bootstrap Aggregating, involves training multiple models on different subsets of the training data, where each subset is sampled with replacement. The final prediction is then made by averaging the predictions of all the models (for regression) or taking a majority vote (for classification). Bagging helps to reduce variance and overfitting by averaging out the predictions of multiple models trained on different subsets of data, thereby making the overall prediction more robust.\n\nBoosting, on the other hand, involves training a sequence of weak learners sequentially, where each subsequent learner focuses on the examples that were misclassified by the previous ones. The final prediction is made by combining the predictions of all the weak learners, typically using a weighted sum. Boosting iteratively improves the model's performance by giving more weight to the examples that are harder to classify correctly, thereby reducing bias and improving generalization.","x":1540,"y":760,"width":595,"height":640,"color":"5"},
+		{"id":"c692e0c0c2064c4b","type":"file","file":"CD.canvas","x":2600,"y":-1330,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"47fde9acda44a61a","fromNode":"352f46086bea4476","fromSide":"bottom","toNode":"24a5e7f6bafdfc39","toSide":"top","color":"2"},
@@ -93,6 +103,7 @@
 		{"id":"84f6269a08c6bcc9","fromNode":"6503f9fdad76969c","fromSide":"bottom","toNode":"30debd7ff6db2ade","toSide":"top","color":"#192296"},
 		{"id":"87926394c496cbed","fromNode":"aeef8b081f0c7766","fromSide":"right","toNode":"b703527f4d45587a","toSide":"left"},
 		{"id":"0aab5e3dc614e283","fromNode":"aeef8b081f0c7766","fromSide":"left","toNode":"d6c0d4be297cb1c0","toSide":"right","label":"Internal 2"},
-		{"id":"86b3e6489a1ac140","fromNode":"bc2a166d4ce1a058","fromSide":"left","toNode":"c692e0c0c2064c4b","toSide":"bottom"}
+		{"id":"86b3e6489a1ac140","fromNode":"bc2a166d4ce1a058","fromSide":"left","toNode":"c692e0c0c2064c4b","toSide":"bottom"},
+		{"id":"6144cf2b8a8084ca","fromNode":"a4c2662a7ef5642a","fromSide":"bottom","toNode":"0fc66551034a2e24","toSide":"top","label":"11 days"}
 	]
 }
