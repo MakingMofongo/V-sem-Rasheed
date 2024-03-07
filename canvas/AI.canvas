@@ -29,7 +29,6 @@
 		{"id":"fe253dc6b9022c63","type":"text","text":"**1. Philosophy**\n\n- **Raises ethical questions:** AI development forces us to consider the moral implications of creating intelligent systems and their potential impact on society.\n- **Defines 'intelligence':** Helps us examine what constitutes intelligence and whether machines can truly possess it.\n\n**2. Mathematics and Statistics**\n\n- **Logic and problem-solving:** Provides the formal systems for representing problems and the reasoning mechanisms to solve them.\n- **Probability and uncertainty:** Allows AI to handle situations where information is incomplete or imprecise.\n\n**3. Economics**\n\n- **Decision making:** Economic models aid AI in understanding how to make choices with limited resources and competing objectives.\n- **Resource optimization:** AI can learn from economic principles to allocate resources efficiently.\n\n**4. Neuroscience**\n\n- **Biological inspiration:** The brain provides natural models that inspire artificial neural networks and learning algorithms.\n- **Understanding cognition:** Neuroscience research helps us learn how the brain processes information, aiding the development of more sophisticated AI.\n\n**5. Psychology**\n\n- **Human-like interaction:** Understanding human behavior lets AI systems interact with and learn from humans more effectively.\n- **Modeling biases:** AI can better understand its own potential biases by examining the biases inherent in human thinking.\n\n**6. Computer Science and Engineering**\n\n- **Algorithms and data structures:** Provides the core building blocks for creating intelligent software and managing data.\n- **Implementation and hardware:** Enables the physical realization of AI systems, from software programs to specialized computing hardware.\n\n**7. Control Theory and Cybernetics**\n\n- **Feedback systems:** Allows AI to regulate its behavior based on input from the environment.\n- **Goal-directed behavior:** Principles of control theory help AI systems design strategies to achieve specific objectives.\n\n**8. Linguistics**\n\n- **Natural language processing (NLP):** Enables AI to understand and generate human language.\n- **Semantic understanding:** Helps AI systems extract meaning from text and speech.","x":3600,"y":1006,"width":640,"height":534},
 		{"id":"25e338ad5740242f","type":"text","text":"Ethics","x":5070,"y":786,"width":250,"height":60},
 		{"id":"ecde541bbb7fb7a5","type":"text","text":"Defines 'Intelligence'","x":5070,"y":893,"width":250,"height":60},
-		{"id":"3ebaefabda412090","type":"text","text":"A*","x":755,"y":1201,"width":250,"height":60},
 		{"id":"7bc15b0db97b851f","type":"text","text":"Neuroscience","x":4751,"y":1369,"width":250,"height":60,"color":"3"},
 		{"id":"852e16b9576c515c","type":"text","text":"Psychology","x":4751,"y":1449,"width":250,"height":60,"color":"3"},
 		{"id":"fb4e1ccffcc8069c","type":"text","text":"Linguistics","x":4751,"y":1529,"width":250,"height":72,"color":"3"},
@@ -51,11 +50,19 @@
 		{"id":"1efc9e08742cef63","type":"text","text":"Software and hardware for creating AI","x":5325,"y":2226,"width":250,"height":60},
 		{"id":"385736f9e9d38d14","type":"text","text":"Feedback Systems in AI","x":5089,"y":2353,"width":250,"height":60},
 		{"id":"418b4a21d2618492","type":"text","text":"Goal based systems","x":5089,"y":2446,"width":250,"height":60},
-		{"id":"c3512863b9f6f69e","x":755,"y":1640,"width":250,"height":60,"type":"text","text":"Agents"},
-		{"id":"7700806558f611ba","x":1186,"y":1542,"width":250,"height":60,"type":"text","text":"Types"},
-		{"id":"808e8b1238d4bb76","x":1510,"y":1496,"width":250,"height":60,"type":"text","text":"Reflex"},
-		{"id":"f1aba0e88f95c1b5","x":1574,"y":1605,"width":250,"height":60,"type":"text","text":"Model based"},
-		{"id":"b0a144fd06f047c5","x":1550,"y":1713,"width":250,"height":60,"type":"text","text":""}
+		{"id":"808e8b1238d4bb76","x":1555,"y":1240,"width":250,"height":60,"type":"text","text":"Reflex"},
+		{"id":"7700806558f611ba","x":1231,"y":1286,"width":250,"height":60,"type":"text","text":"Types"},
+		{"id":"f1aba0e88f95c1b5","x":1619,"y":1349,"width":250,"height":60,"type":"text","text":"Model based"},
+		{"id":"5a306f8ab54f0c71","x":1645,"y":1484,"width":250,"height":60,"type":"text","text":"Goal based agents"},
+		{"id":"09bbf9877a8fbfa1","x":1645,"y":1604,"width":250,"height":60,"type":"text","text":"Utility based"},
+		{"id":"b0a144fd06f047c5","x":1645,"y":1724,"width":250,"height":60,"type":"text","text":"Learning based"},
+		{"id":"1c634d4549febc88","x":1605,"y":1844,"width":250,"height":60,"type":"text","text":"Hybrid"},
+		{"id":"c3512863b9f6f69e","x":800,"y":1240,"width":250,"height":50,"color":"4","type":"text","text":"Agents"},
+		{"id":"3ebaefabda412090","type":"text","text":"A*","x":760,"y":2080,"width":250,"height":60},
+		{"id":"23489daef1bd4cd1","x":1227,"y":2122,"width":250,"height":60,"type":"text","text":"What it is"},
+		{"id":"554e135cdc19401d","x":1309,"y":2315,"width":250,"height":60,"type":"text","text":"Heuristics"},
+		{"id":"a2632b46f4f20bc2","x":1732,"y":2460,"width":250,"height":60,"type":"text","text":"Diff b/w Uninformed and Heuristic Search"},
+		{"id":"e558fe10b0abfbc1","x":2056,"y":2370,"width":250,"height":60,"type":"text","text":"Quality\nCompletene"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -98,6 +105,13 @@
 		{"id":"262744f156ac12fa","fromNode":"c3512863b9f6f69e","fromSide":"right","toNode":"7700806558f611ba","toSide":"left"},
 		{"id":"04d912e292a147fa","fromNode":"7700806558f611ba","fromSide":"right","toNode":"808e8b1238d4bb76","toSide":"left"},
 		{"id":"6d67b45e6a052a10","fromNode":"7700806558f611ba","fromSide":"right","toNode":"f1aba0e88f95c1b5","toSide":"left"},
-		{"id":"318b46a1f6469acf","fromNode":"7700806558f611ba","fromSide":"right","toNode":"b0a144fd06f047c5","toSide":"left"}
+		{"id":"318b46a1f6469acf","fromNode":"7700806558f611ba","fromSide":"right","toNode":"b0a144fd06f047c5","toSide":"left"},
+		{"id":"2c268e5efd5cfdb4","fromNode":"7700806558f611ba","fromSide":"right","toNode":"1c634d4549febc88","toSide":"left"},
+		{"id":"620cc196db0cbba8","fromNode":"7700806558f611ba","fromSide":"right","toNode":"09bbf9877a8fbfa1","toSide":"left"},
+		{"id":"5526590a40f1d67f","fromNode":"7700806558f611ba","fromSide":"right","toNode":"5a306f8ab54f0c71","toSide":"left"},
+		{"id":"69932a76491231c4","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"23489daef1bd4cd1","toSide":"left"},
+		{"id":"9551ef850e60da3c","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"554e135cdc19401d","toSide":"left"},
+		{"id":"5ce98702dad5b678","fromNode":"554e135cdc19401d","fromSide":"right","toNode":"a2632b46f4f20bc2","toSide":"left"},
+		{"id":"6dbfc723bdf3260f","fromNode":"a2632b46f4f20bc2","fromSide":"right","toNode":"e558fe10b0abfbc1","toSide":"left"}
 	]
 }
