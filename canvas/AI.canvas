@@ -15,7 +15,7 @@
 		{"id":"9c6ecf509098faf6","type":"text","text":"Importants","x":1240,"y":14,"width":250,"height":60,"color":"3"},
 		{"id":"d9cd638a9ae6f1e7","type":"text","text":"Previous Years","x":1240,"y":-171,"width":250,"height":60,"color":"4"},
 		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":1800,"y":-120,"width":400,"height":400},
-		{"id":"8c505687c0fef689","type":"text","text":"Intro","x":767,"y":680,"width":250,"height":60},
+		{"id":"8c505687c0fef689","type":"text","text":"Intro","x":767,"y":680,"width":250,"height":60,"color":"2"},
 		{"id":"677911590cf3323a","type":"text","text":"Introduction to intelligence","x":1231,"y":680,"width":250,"height":60,"color":"4"},
 		{"id":"5d32ea3a57d81340","type":"text","text":"Unit 1","x":459,"y":680,"width":250,"height":60},
 		{"id":"f728ee3c012425f9","type":"text","text":"What is AI","x":2040,"y":530,"width":250,"height":60},
@@ -58,11 +58,11 @@
 		{"id":"b0a144fd06f047c5","x":1645,"y":1724,"width":250,"height":60,"type":"text","text":"Learning based"},
 		{"id":"1c634d4549febc88","x":1605,"y":1844,"width":250,"height":60,"type":"text","text":"Hybrid"},
 		{"id":"c3512863b9f6f69e","x":800,"y":1240,"width":250,"height":50,"color":"4","type":"text","text":"Agents"},
-		{"id":"3ebaefabda412090","type":"text","text":"A*","x":760,"y":2080,"width":250,"height":60},
-		{"id":"23489daef1bd4cd1","x":1227,"y":2122,"width":250,"height":60,"type":"text","text":"What it is"},
-		{"id":"554e135cdc19401d","x":1309,"y":2315,"width":250,"height":60,"type":"text","text":"Heuristics"},
-		{"id":"a2632b46f4f20bc2","x":1732,"y":2460,"width":250,"height":60,"type":"text","text":"Diff b/w Uninformed and Heuristic Search"},
-		{"id":"e558fe10b0abfbc1","x":2060,"y":2365,"width":250,"height":250,"type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n"}
+		{"id":"e558fe10b0abfbc1","x":1973,"y":2270,"width":250,"height":250,"type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n"},
+		{"id":"3ebaefabda412090","type":"text","text":"A*","x":800,"y":2140,"width":250,"height":60,"color":"5"},
+		{"id":"554e135cdc19401d","x":1222,"y":2220,"width":250,"height":60,"type":"text","text":"Heuristics"},
+		{"id":"23489daef1bd4cd1","x":1222,"y":2080,"width":250,"height":60,"type":"text","text":"What it is"},
+		{"id":"a2632b46f4f20bc2","x":1640,"y":2358,"width":250,"height":75,"type":"text","text":"Diff b/w Uninformed and Heuristic Search"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -112,6 +112,7 @@
 		{"id":"69932a76491231c4","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"23489daef1bd4cd1","toSide":"left"},
 		{"id":"9551ef850e60da3c","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"554e135cdc19401d","toSide":"left"},
 		{"id":"5ce98702dad5b678","fromNode":"554e135cdc19401d","fromSide":"right","toNode":"a2632b46f4f20bc2","toSide":"left"},
-		{"id":"6dbfc723bdf3260f","fromNode":"a2632b46f4f20bc2","fromSide":"right","toNode":"e558fe10b0abfbc1","toSide":"left"}
+		{"id":"6dbfc723bdf3260f","fromNode":"a2632b46f4f20bc2","fromSide":"right","toNode":"e558fe10b0abfbc1","toSide":"left"},
+		{"id":"d24bbe4582890f61","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"3ebaefabda412090","toSide":"left"}
 	]
 }
