@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"90c26958bc670c60","x":439,"y":-1220,"width":2401,"height":920,"color":"4","type":"group","label":"PreviousYearQsnPapers-FromSabihaMam"},
-		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":-180,"y":-140,"width":400,"height":400},
 		{"id":"2007bedf3ab34d76","x":459,"y":-1200,"width":393,"height":400,"type":"file","file":"WhatsApp Image 2024-03-05 at 09.59.39_6c90fc5e.jpg"},
 		{"id":"baa23da0e5fb441f","x":960,"y":-1200,"width":400,"height":323,"type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.00_fedd5a7b.jpg"},
 		{"id":"7c5aadd8f69d4c9c","x":1540,"y":-1200,"width":357,"height":400,"type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.13_f3db4fdf.jpg"},
@@ -10,7 +9,16 @@
 		{"id":"f569c84eba834b5c","x":459,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.49_bb0ef73a.jpg"},
 		{"id":"98ff93062d75e2ec","x":800,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.50_62a48712.jpg"},
 		{"id":"58702b56583c42fc","x":1160,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.50_27cf84bf.jpg"},
-		{"id":"a30e4c5236d3546d","x":1494,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.51_9c9b349d.jpg"}
+		{"id":"a30e4c5236d3546d","x":1494,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.51_9c9b349d.jpg"},
+		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":1780,"y":-140,"width":400,"height":400},
+		{"id":"ceb3250f891d5bb2","x":618,"y":-140,"width":365,"height":400,"type":"file","file":"Pasted image 20240307174056.png"},
+		{"id":"67cad1ed77673bd7","x":1244,"y":-80,"width":250,"height":60,"color":"1","type":"text","text":"Portion"},
+		{"id":"9c6ecf509098faf6","x":1240,"y":14,"width":250,"height":60,"color":"3","type":"text","text":"Importants"},
+		{"id":"d9cd638a9ae6f1e7","x":1240,"y":-171,"width":250,"height":60,"color":"4","type":"text","text":"Previous Years"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
+		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
+		{"id":"4d616d3c4fe569ef","fromNode":"d9cd638a9ae6f1e7","fromSide":"top","toNode":"90c26958bc670c60","toSide":"bottom"}
+	]
 }
