@@ -49,7 +49,8 @@
 		{"id":"385736f9e9d38d14","type":"text","text":"Feedback Systems in AI","x":5089,"y":2353,"width":250,"height":60},
 		{"id":"418b4a21d2618492","type":"text","text":"Goal based systems","x":5089,"y":2446,"width":250,"height":60},
 		{"id":"637c0218d7c8c12a","type":"text","text":"Computer Science and Engg","x":4751,"y":2221,"width":250,"height":60,"color":"1"},
-		{"id":"e88060afbf1bd9a6","type":"text","text":"Control theory and Cybernetics","x":4751,"y":2301,"width":250,"height":60,"color":"1"}
+		{"id":"e88060afbf1bd9a6","type":"text","text":"Control theory and Cybernetics","x":4751,"y":2301,"width":250,"height":60,"color":"1"},
+		{"id":"3ebaefabda412090","x":755,"y":1201,"width":250,"height":60,"type":"text","text":"A*"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
