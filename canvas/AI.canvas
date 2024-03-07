@@ -50,19 +50,22 @@
 		{"id":"1efc9e08742cef63","type":"text","text":"Software and hardware for creating AI","x":5325,"y":2226,"width":250,"height":60},
 		{"id":"385736f9e9d38d14","type":"text","text":"Feedback Systems in AI","x":5089,"y":2353,"width":250,"height":60},
 		{"id":"418b4a21d2618492","type":"text","text":"Goal based systems","x":5089,"y":2446,"width":250,"height":60},
-		{"id":"808e8b1238d4bb76","x":1555,"y":1240,"width":250,"height":60,"type":"text","text":"Reflex"},
-		{"id":"7700806558f611ba","x":1231,"y":1286,"width":250,"height":60,"type":"text","text":"Types"},
-		{"id":"f1aba0e88f95c1b5","x":1619,"y":1349,"width":250,"height":60,"type":"text","text":"Model based"},
-		{"id":"5a306f8ab54f0c71","x":1645,"y":1484,"width":250,"height":60,"type":"text","text":"Goal based agents"},
-		{"id":"09bbf9877a8fbfa1","x":1645,"y":1604,"width":250,"height":60,"type":"text","text":"Utility based"},
-		{"id":"b0a144fd06f047c5","x":1645,"y":1724,"width":250,"height":60,"type":"text","text":"Learning based"},
-		{"id":"1c634d4549febc88","x":1605,"y":1844,"width":250,"height":60,"type":"text","text":"Hybrid"},
-		{"id":"c3512863b9f6f69e","x":800,"y":1240,"width":250,"height":50,"color":"4","type":"text","text":"Agents"},
-		{"id":"e558fe10b0abfbc1","x":1973,"y":2270,"width":250,"height":250,"type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n"},
-		{"id":"3ebaefabda412090","type":"text","text":"A*","x":800,"y":2140,"width":250,"height":60,"color":"5"},
-		{"id":"554e135cdc19401d","x":1222,"y":2220,"width":250,"height":60,"type":"text","text":"Heuristics"},
-		{"id":"23489daef1bd4cd1","x":1222,"y":2080,"width":250,"height":60,"type":"text","text":"What it is"},
-		{"id":"a2632b46f4f20bc2","x":1640,"y":2358,"width":250,"height":75,"type":"text","text":"Diff b/w Uninformed and Heuristic Search"}
+		{"id":"e558fe10b0abfbc1","x":1982,"y":2790,"width":250,"height":250,"type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n"},
+		{"id":"554e135cdc19401d","x":1231,"y":2740,"width":250,"height":60,"type":"text","text":"Heuristics"},
+		{"id":"23489daef1bd4cd1","x":1231,"y":2600,"width":250,"height":60,"type":"text","text":"What it is"},
+		{"id":"a2632b46f4f20bc2","x":1649,"y":2878,"width":250,"height":75,"type":"text","text":"Diff b/w Uninformed and Heuristic Search"},
+		{"id":"3ebaefabda412090","type":"text","text":"A*","x":809,"y":2660,"width":250,"height":60,"color":"5"},
+		{"id":"c3512863b9f6f69e","x":892,"y":1250,"width":250,"height":50,"color":"4","type":"text","text":"Agents"},
+		{"id":"5a306f8ab54f0c71","x":1770,"y":1438,"width":250,"height":60,"type":"text","text":"Goal based agents"},
+		{"id":"09bbf9877a8fbfa1","x":1770,"y":1558,"width":250,"height":60,"color":"1","type":"text","text":"Utility based"},
+		{"id":"b0a144fd06f047c5","x":1770,"y":1678,"width":250,"height":60,"type":"text","text":"Learning based"},
+		{"id":"1c634d4549febc88","x":1730,"y":1798,"width":250,"height":60,"type":"text","text":"Hybrid"},
+		{"id":"808e8b1238d4bb76","x":1680,"y":1194,"width":250,"height":60,"type":"text","text":"Reflex"},
+		{"id":"7700806558f611ba","x":1356,"y":1240,"width":250,"height":60,"type":"text","text":"Types"},
+		{"id":"f1aba0e88f95c1b5","x":1744,"y":1303,"width":250,"height":60,"type":"text","text":"Model based"},
+		{"id":"c4d219e6e1b45493","x":2320,"y":1678,"width":250,"height":60,"type":"text","text":"Utility Theory"},
+		{"id":"f4d4388e2f23a9b1","x":2722,"y":1767,"width":250,"height":60,"type":"text","text":"Used to make decisions under uncertainty"},
+		{"id":"e42213ecc9563801","x":3048,"y":1864,"width":332,"height":116,"type":"text","text":"Uncertainty = User's different preferences for different outcomes"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -113,6 +116,9 @@
 		{"id":"9551ef850e60da3c","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"554e135cdc19401d","toSide":"left"},
 		{"id":"5ce98702dad5b678","fromNode":"554e135cdc19401d","fromSide":"right","toNode":"a2632b46f4f20bc2","toSide":"left"},
 		{"id":"6dbfc723bdf3260f","fromNode":"a2632b46f4f20bc2","fromSide":"right","toNode":"e558fe10b0abfbc1","toSide":"left"},
-		{"id":"d24bbe4582890f61","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"3ebaefabda412090","toSide":"left"}
+		{"id":"d24bbe4582890f61","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"3ebaefabda412090","toSide":"left"},
+		{"id":"e7659f36c79c8317","fromNode":"09bbf9877a8fbfa1","fromSide":"right","toNode":"c4d219e6e1b45493","toSide":"left"},
+		{"id":"4d62124ba44fb984","fromNode":"c4d219e6e1b45493","fromSide":"right","toNode":"f4d4388e2f23a9b1","toSide":"left"},
+		{"id":"8a5bf91279b5b873","fromNode":"f4d4388e2f23a9b1","fromSide":"right","toNode":"e42213ecc9563801","toSide":"left"}
 	]
 }
