@@ -1,6 +1,16 @@
 {
 	"nodes":[
-		{"id":"2ad0287df0f5ad72","x":-180,"y":-140,"width":400,"height":400,"type":"file","file":"AI Important .pdf"}
+		{"id":"90c26958bc670c60","x":439,"y":-1220,"width":2401,"height":920,"color":"4","type":"group","label":"PreviousYearQsnPapers-FromSabihaMam"},
+		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":-180,"y":-140,"width":400,"height":400},
+		{"id":"2007bedf3ab34d76","x":459,"y":-1200,"width":393,"height":400,"type":"file","file":"WhatsApp Image 2024-03-05 at 09.59.39_6c90fc5e.jpg"},
+		{"id":"baa23da0e5fb441f","x":960,"y":-1200,"width":400,"height":323,"type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.00_fedd5a7b.jpg"},
+		{"id":"7c5aadd8f69d4c9c","x":1540,"y":-1200,"width":357,"height":400,"type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.13_f3db4fdf.jpg"},
+		{"id":"d5e213dec738591c","x":2080,"y":-1200,"width":354,"height":400,"type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.36_4c1a52b3.jpg"},
+		{"id":"66cd0fe1d5591791","x":2640,"y":-1200,"width":180,"height":400,"type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.48_71dc3029.jpg"},
+		{"id":"f569c84eba834b5c","x":459,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.49_bb0ef73a.jpg"},
+		{"id":"98ff93062d75e2ec","x":800,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.50_62a48712.jpg"},
+		{"id":"58702b56583c42fc","x":1160,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.50_27cf84bf.jpg"},
+		{"id":"a30e4c5236d3546d","x":1494,"y":-720,"width":225,"height":400,"type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.51_9c9b349d.jpg"}
 	],
 	"edges":[]
 }
