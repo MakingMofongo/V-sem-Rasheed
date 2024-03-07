@@ -15,12 +15,12 @@
 		{"id":"9c6ecf509098faf6","type":"text","text":"Importants","x":1240,"y":14,"width":250,"height":60,"color":"3"},
 		{"id":"d9cd638a9ae6f1e7","type":"text","text":"Previous Years","x":1240,"y":-171,"width":250,"height":60,"color":"4"},
 		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":1800,"y":-120,"width":400,"height":400},
-		{"id":"e18d244b735b70c4","x":1140,"y":490,"width":250,"height":60,"type":"text","text":"Foundations of AI"},
-		{"id":"c9e2c18036249427","x":1140,"y":590,"width":250,"height":60,"type":"text","text":"History of AI"},
-		{"id":"789696fda3efea7d","x":1140,"y":690,"width":250,"height":60,"type":"text","text":"Structure of Agents"},
-		{"id":"677911590cf3323a","x":1140,"y":384,"width":250,"height":60,"type":"text","text":"Introduction to intelligence"},
-		{"id":"8c505687c0fef689","x":676,"y":384,"width":250,"height":60,"type":"text","text":"Intro"},
-		{"id":"5d32ea3a57d81340","x":368,"y":384,"width":250,"height":60,"type":"text","text":"Unit 1"}
+		{"id":"e18d244b735b70c4","type":"text","text":"Foundations of AI","x":1140,"y":490,"width":250,"height":60},
+		{"id":"c9e2c18036249427","type":"text","text":"History of AI","x":1140,"y":590,"width":250,"height":60},
+		{"id":"789696fda3efea7d","type":"text","text":"Structure of Agents","x":1140,"y":690,"width":250,"height":60},
+		{"id":"677911590cf3323a","type":"text","text":"Introduction to intelligence","x":1140,"y":384,"width":250,"height":60},
+		{"id":"8c505687c0fef689","type":"text","text":"Intro","x":676,"y":384,"width":250,"height":60},
+		{"id":"5d32ea3a57d81340","type":"text","text":"Unit 1","x":368,"y":384,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
