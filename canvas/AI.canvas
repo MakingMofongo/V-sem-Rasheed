@@ -10,15 +10,24 @@
 		{"id":"98ff93062d75e2ec","type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.50_62a48712.jpg","x":800,"y":-720,"width":225,"height":400},
 		{"id":"58702b56583c42fc","type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.50_27cf84bf.jpg","x":1160,"y":-720,"width":225,"height":400},
 		{"id":"a30e4c5236d3546d","type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.51_9c9b349d.jpg","x":1494,"y":-720,"width":225,"height":400},
-		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":1780,"y":-140,"width":400,"height":400},
 		{"id":"ceb3250f891d5bb2","type":"file","file":"Pasted image 20240307174056.png","x":618,"y":-140,"width":365,"height":400},
 		{"id":"67cad1ed77673bd7","type":"text","text":"Portion","x":1244,"y":-80,"width":250,"height":60,"color":"1"},
 		{"id":"9c6ecf509098faf6","type":"text","text":"Importants","x":1240,"y":14,"width":250,"height":60,"color":"3"},
-		{"id":"d9cd638a9ae6f1e7","type":"text","text":"Previous Years","x":1240,"y":-171,"width":250,"height":60,"color":"4"}
+		{"id":"d9cd638a9ae6f1e7","type":"text","text":"Previous Years","x":1240,"y":-171,"width":250,"height":60,"color":"4"},
+		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":1800,"y":-120,"width":400,"height":400},
+		{"id":"8c505687c0fef689","x":580,"y":354,"width":250,"height":60,"type":"text","text":"Unit 1"},
+		{"id":"e18d244b735b70c4","x":1140,"y":490,"width":250,"height":60,"type":"text","text":"Foundations of AI"},
+		{"id":"c9e2c18036249427","x":1140,"y":590,"width":250,"height":60,"type":"text","text":"History of AI"},
+		{"id":"789696fda3efea7d","x":1140,"y":690,"width":250,"height":60,"type":"text","text":"Structure of Agents"},
+		{"id":"677911590cf3323a","x":1140,"y":384,"width":250,"height":60,"type":"text","text":"Introduction to intelligence"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
-		{"id":"4d616d3c4fe569ef","fromNode":"d9cd638a9ae6f1e7","fromSide":"top","toNode":"90c26958bc670c60","toSide":"bottom"}
+		{"id":"4d616d3c4fe569ef","fromNode":"d9cd638a9ae6f1e7","fromSide":"top","toNode":"90c26958bc670c60","toSide":"bottom"},
+		{"id":"53fb2b5effd192c3","fromNode":"8c505687c0fef689","fromSide":"right","toNode":"677911590cf3323a","toSide":"left"},
+		{"id":"cdd3ba1046779405","fromNode":"8c505687c0fef689","fromSide":"right","toNode":"e18d244b735b70c4","toSide":"left"},
+		{"id":"7564dfac2887f0b0","fromNode":"8c505687c0fef689","fromSide":"right","toNode":"c9e2c18036249427","toSide":"left"},
+		{"id":"bb5c1555ea5b67b7","fromNode":"8c505687c0fef689","fromSide":"right","toNode":"789696fda3efea7d","toSide":"left"}
 	]
 }
