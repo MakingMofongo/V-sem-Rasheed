@@ -37,10 +37,15 @@
 		{"id":"d190ffff00b1bde8","type":"text","text":"Better interaction b/w AI and humans","x":3595,"y":1368,"width":250,"height":60},
 		{"id":"03e63551440b0e55","type":"text","text":"Mathematics and Statistics","x":3057,"y":1975,"width":250,"height":60,"color":"4"},
 		{"id":"b210d14ce54d031a","type":"text","text":"Economics","x":3057,"y":2055,"width":250,"height":60,"color":"4"},
-		{"id":"637c0218d7c8c12a","type":"text","text":"Computer Science","x":3057,"y":2360,"width":250,"height":60,"color":"1"},
+		{"id":"637c0218d7c8c12a","type":"text","text":"Computer Science and Engg","x":3057,"y":2360,"width":250,"height":60,"color":"1"},
 		{"id":"e88060afbf1bd9a6","type":"text","text":"Control theory and Cybernetics","x":3057,"y":2440,"width":250,"height":60,"color":"1"},
 		{"id":"c1f6b31a1ef2de27","x":3720,"y":1870,"width":250,"height":60,"type":"text","text":"Logic"},
-		{"id":"ab41733c4f92e28a","x":3720,"y":1945,"width":250,"height":60,"type":"text","text":"Uncertainty - "}
+		{"id":"ab41733c4f92e28a","x":3720,"y":1945,"width":250,"height":60,"type":"text","text":"Uncertainty - when data is imprecise/incomplete"},
+		{"id":"d1b0d410d7250b75","x":3470,"y":2055,"width":250,"height":60,"type":"text","text":"Decision making"},
+		{"id":"4a76973bdf90b990","x":3381,"y":2151,"width":250,"height":60,"type":"text","text":"Resources"},
+		{"id":"b6ccaf005c576b00","x":3593,"y":2275,"width":250,"height":60,"type":"text","text":"Data Structures"},
+		{"id":"1efc9e08742cef63","x":3645,"y":2360,"width":250,"height":60,"type":"text","text":"Software and hardware for creating AI"},
+		{"id":"385736f9e9d38d14","x":3409,"y":2487,"width":250,"height":60,"type":"text","text":"Feedback Systems in AI"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -70,6 +75,11 @@
 		{"id":"1b031e8112954442","fromNode":"fb4e1ccffcc8069c","fromSide":"right","toNode":"01fc200c08b538a7","toSide":"left"},
 		{"id":"014c5b196bba2839","fromNode":"fb4e1ccffcc8069c","fromSide":"right","toNode":"cad52ed7c379dd8e","toSide":"left"},
 		{"id":"01ae4d6ebb25c0ee","fromNode":"03e63551440b0e55","fromSide":"right","toNode":"c1f6b31a1ef2de27","toSide":"left"},
-		{"id":"f1200be61c046b12","fromNode":"03e63551440b0e55","fromSide":"right","toNode":"ab41733c4f92e28a","toSide":"left"}
+		{"id":"f1200be61c046b12","fromNode":"03e63551440b0e55","fromSide":"right","toNode":"ab41733c4f92e28a","toSide":"left"},
+		{"id":"baafd9753a60ade3","fromNode":"b210d14ce54d031a","fromSide":"right","toNode":"d1b0d410d7250b75","toSide":"left"},
+		{"id":"fcaec53beeff1321","fromNode":"b210d14ce54d031a","fromSide":"right","toNode":"4a76973bdf90b990","toSide":"left"},
+		{"id":"ba1ab5ae26e05964","fromNode":"637c0218d7c8c12a","fromSide":"right","toNode":"b6ccaf005c576b00","toSide":"left"},
+		{"id":"2b4731d57f72a917","fromNode":"637c0218d7c8c12a","fromSide":"right","toNode":"1efc9e08742cef63","toSide":"left"},
+		{"id":"4e66f2f06ad9ee64","fromNode":"e88060afbf1bd9a6","fromSide":"right","toNode":"385736f9e9d38d14","toSide":"left"}
 	]
 }
