@@ -62,7 +62,7 @@
 		{"id":"23489daef1bd4cd1","x":1227,"y":2122,"width":250,"height":60,"type":"text","text":"What it is"},
 		{"id":"554e135cdc19401d","x":1309,"y":2315,"width":250,"height":60,"type":"text","text":"Heuristics"},
 		{"id":"a2632b46f4f20bc2","x":1732,"y":2460,"width":250,"height":60,"type":"text","text":"Diff b/w Uninformed and Heuristic Search"},
-		{"id":"e558fe10b0abfbc1","x":2056,"y":2370,"width":250,"height":60,"type":"text","text":"Quality\nCompletene"}
+		{"id":"e558fe10b0abfbc1","x":2056,"y":2370,"width":250,"height":250,"type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
