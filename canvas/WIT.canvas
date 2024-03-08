@@ -29,7 +29,7 @@
 		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1588,"y":405,"width":250,"height":60},
 		{"id":"0bdf69512155c013","x":746,"y":880,"width":250,"height":82,"color":"#006cfa","type":"text","text":"URL"},
 		{"id":"106767a9b16ce85e","x":1185,"y":921,"width":277,"height":128,"type":"text","text":"address of a resource on the Internet and the protocol used to access it."},
-		{"id":"7e98d7d808d2cf03","x":1185,"y":1100,"width":335,"height":208,"type":"text","text":"CONTAINS:\n- Protocol\n- Location of server (ip/domain)\n- Port\n- Location of resource in directory structure of server\n- Fragment identifier"},
+		{"id":"7e98d7d808d2cf03","x":1185,"y":1100,"width":335,"height":240,"type":"text","text":"CONTAINS:\n- Protocol\n- Location of server (ip/domain)\n- Port\n- Location of resource in directory structure of server\n- Fragment identifier"},
 		{"id":"482ad6aa19cca3bb","type":"text","text":"Uses HTML protcol","x":1073,"y":660,"width":250,"height":60}
 	],
 	"edges":[
