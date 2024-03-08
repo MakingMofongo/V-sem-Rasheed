@@ -31,7 +31,9 @@
 		{"id":"106767a9b16ce85e","type":"text","text":"address of a resource on the Internet and the protocol used to access it.","x":1185,"y":921,"width":277,"height":128},
 		{"id":"7e98d7d808d2cf03","type":"text","text":"CONTAINS:\n- Protocol\n- Location of server (ip/domain)\n- Port\n- Location of resource in directory structure of server\n- Fragment identifier","x":1185,"y":1100,"width":335,"height":240},
 		{"id":"482ad6aa19cca3bb","type":"text","text":"Uses HTML protcol","x":1073,"y":660,"width":250,"height":60},
-		{"id":"8d3dba4a3f274987","x":1042,"y":814,"width":250,"height":60,"type":"text","text":"AKA URI (Uniform Resource identifier)"}
+		{"id":"8d3dba4a3f274987","x":1042,"y":814,"width":250,"height":60,"type":"text","text":"AKA URI (Uniform Resource identifier)"},
+		{"id":"35b9d008c2de7183","x":746,"y":1520,"width":249,"height":80,"color":"4","type":"text","text":"## MIME Protocol"},
+		{"id":"d1076eabc4203257","x":1080,"y":1460,"width":262,"height":77,"type":"text","text":"Multipurpose Internet Mail Extensions."}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -64,6 +66,7 @@
 		{"id":"d8daac9a8a63b691","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"0bdf69512155c013","toSide":"left"},
 		{"id":"41dd0b8cdbe9be30","fromNode":"0bdf69512155c013","fromSide":"right","toNode":"106767a9b16ce85e","toSide":"left"},
 		{"id":"cb4c4233459aa26a","fromNode":"0bdf69512155c013","fromSide":"right","toNode":"7e98d7d808d2cf03","toSide":"left"},
-		{"id":"f994e9e9fe9fd247","fromNode":"0bdf69512155c013","fromSide":"right","toNode":"8d3dba4a3f274987","toSide":"left"}
+		{"id":"f994e9e9fe9fd247","fromNode":"0bdf69512155c013","fromSide":"right","toNode":"8d3dba4a3f274987","toSide":"left"},
+		{"id":"bba3dcb2eae8997f","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"d1076eabc4203257","toSide":"left"}
 	]
 }
