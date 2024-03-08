@@ -104,8 +104,11 @@
 		{"id":"29e4793dde165d4c","type":"text","text":"Optimality, Completeness, Complexity","x":1380,"y":2979,"width":250,"height":101},
 		{"id":"e99e42e1943f6df8","type":"text","text":"Example","x":1392,"y":3164,"width":250,"height":60},
 		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":1417,"y":3273,"width":250,"height":60},
-		{"id":"49169d699405f7a3","x":1228,"y":5063,"width":250,"height":60,"type":"text","text":"8 Puzzle Problem"},
-		{"id":"f2808cfacf77a927","x":1572,"y":4921,"width":250,"height":60,"type":"text","text":""}
+		{"id":"49169d699405f7a3","x":1228,"y":5063,"width":250,"height":60,"color":"2","type":"text","text":"8 Puzzle Problem"},
+		{"id":"f2808cfacf77a927","x":1572,"y":4921,"width":250,"height":60,"type":"text","text":"Blind Search"},
+		{"id":"454f293a9b9818ee","x":1608,"y":5025,"width":250,"height":60,"type":"text","text":"BFS"},
+		{"id":"4e144147469e6831","x":1610,"y":5156,"width":270,"height":104,"type":"text","text":"O(b^d) \nb - Branching Factor\nd - search depth"},
+		{"id":"caca08ffdf3be345","x":1598,"y":5344,"width":250,"height":60,"type":"text","text":"4 moves - UP DOWN LEFT RIGHT"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -195,6 +198,10 @@
 		{"id":"f16f7e9991420f0e","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"6ef98c205c1c8629","toSide":"left"},
 		{"id":"cd2d4313bc205593","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"4e2793bb0fafcee8","toSide":"left"},
 		{"id":"cf2fb9d306556b35","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"49169d699405f7a3","toSide":"left"},
-		{"id":"d8c6714ee8fde67c","fromNode":"49169d699405f7a3","fromSide":"right","toNode":"f2808cfacf77a927","toSide":"left"}
+		{"id":"d8c6714ee8fde67c","fromNode":"49169d699405f7a3","fromSide":"right","toNode":"f2808cfacf77a927","toSide":"left"},
+		{"id":"3fcc7d5668a1d79d","fromNode":"49169d699405f7a3","fromSide":"right","toNode":"454f293a9b9818ee","toSide":"left"},
+		{"id":"98d03cd4fa7fccf6","fromNode":"49169d699405f7a3","fromSide":"right","toNode":"4e144147469e6831","toSide":"left"},
+		{"id":"505d3961fa58e770","fromNode":"49169d699405f7a3","fromSide":"right","toNode":"caca08ffdf3be345","toSide":"left"},
+		{"id":"e7da6aec7ed92015","fromNode":"f2808cfacf77a927","fromSide":"bottom","toNode":"454f293a9b9818ee","toSide":"top"}
 	]
 }
