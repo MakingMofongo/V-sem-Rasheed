@@ -36,11 +36,11 @@
 		{"id":"cdf384e53661d42b","type":"text","text":"is a form of con­di­tional branch­ing which al­lows you to con­cisely match on data struc­ture pat­terns and bind vari­ables at the same time","x":-1180,"y":473,"width":314,"height":155},
 		{"id":"b69b9e44c8b10ab1","type":"text","text":"**DOM**","x":-404,"y":669,"width":250,"height":60},
 		{"id":"1b0c37166554081b","type":"text","text":"stands for **Document Object Model**. The Document Object Model (DOM) is a tree-like structure illustrating the hierarchical relationship between various HTML elements.","x":-462,"y":800,"width":364,"height":166},
-		{"id":"709e4187206e5f23","x":-442,"y":1020,"width":325,"height":168,"type":"text","text":"By manipulating the DOM, we can create web applications that update the data in a web page without refreshing the page and can change its layout without doing a refresh"},
+		{"id":"709e4187206e5f23","type":"text","text":"By manipulating the DOM, we can create web applications that update the data in a web page without refreshing the page and can change its layout without doing a refresh","x":-442,"y":1020,"width":325,"height":168},
 		{"id":"b4acb7ef6b49a887","type":"text","text":"Moved","x":56,"y":1020,"width":133,"height":50},
 		{"id":"70daba7b021f5cc3","type":"text","text":"Rearranged","x":189,"y":1020,"width":160,"height":50},
-		{"id":"c3f77bc5f3d32773","x":-77,"y":1020,"width":133,"height":50,"type":"text","text":"Deleted"},
-		{"id":"605827fc10f03b04","x":-16,"y":839,"width":276,"height":89,"type":"text","text":"Throughout the document, items can be deleted, moved, or rearranged."}
+		{"id":"c3f77bc5f3d32773","type":"text","text":"Deleted","x":-77,"y":1020,"width":133,"height":50},
+		{"id":"605827fc10f03b04","type":"text","text":"Throughout the document, items can be deleted, moved, or rearranged.","x":-16,"y":839,"width":276,"height":89}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
