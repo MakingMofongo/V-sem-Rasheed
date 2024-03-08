@@ -28,7 +28,7 @@
 		{"id":"b8fe7c55dd9d82dd","type":"text","text":"Controls how hosted files are accessed","x":1968,"y":334,"width":250,"height":60},
 		{"id":"6053d1d7fb388fbf","type":"text","text":"Main purpose is to display webpages by storing, processing and delivering webpages","x":1588,"y":250,"width":250,"height":135},
 		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1588,"y":405,"width":250,"height":60},
-		{"id":"0bdf69512155c013","x":746,"y":838,"width":250,"height":60,"type":"text","text":""}
+		{"id":"0bdf69512155c013","x":746,"y":880,"width":250,"height":82,"color":"#006cfa","type":"text","text":"URL"}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
