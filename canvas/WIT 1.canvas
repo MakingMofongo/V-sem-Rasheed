@@ -27,7 +27,20 @@
 		{"id":"033e1eb7be581219","type":"text","text":"Client/Sever Model","x":1968,"y":435,"width":250,"height":60},
 		{"id":"b8fe7c55dd9d82dd","type":"text","text":"Controls how hosted files are accessed","x":1968,"y":334,"width":250,"height":60},
 		{"id":"6053d1d7fb388fbf","type":"text","text":"Main purpose is to display webpages by storing, processing and delivering webpages","x":1588,"y":250,"width":250,"height":135},
-		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1588,"y":405,"width":250,"height":60}
+		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1588,"y":405,"width":250,"height":60},
+		{"id":"7277583477038064","type":"text","text":"Constructors","x":-940,"y":716,"width":250,"height":60},
+		{"id":"090d98c56c0b7b5e","type":"text","text":"The purpose of a constructor is to create a new object and set values for any existing object properties.","x":-956,"y":1020,"width":282,"height":115},
+		{"id":"89aa5225dc9c301d","type":"text","text":"a special function that creates and initializes an object instance of a class","x":-940,"y":840,"width":250,"height":102},
+		{"id":"dd54f99be8905d32","type":"text","text":"[**Syntax**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor#syntax)\n\nJSCopy to Clipboard\n\nconstructor() { /* … */ }\n\nconstructor(argument0) { /* … */ }\n\nconstructor(argument0, argument1) { /* … */ }\n\nconstructor(argument0, argument1, /* …, */ argumentN) { /* … */ }","x":-1460,"y":840,"width":391,"height":310},
+		{"id":"d4b8adb919d8aa8f","type":"text","text":"Pattern matching in JavaScript","x":-760,"y":520,"width":250,"height":60},
+		{"id":"cdf384e53661d42b","type":"text","text":"is a form of con­di­tional branch­ing which al­lows you to con­cisely match on data struc­ture pat­terns and bind vari­ables at the same time","x":-1180,"y":473,"width":314,"height":155},
+		{"id":"b69b9e44c8b10ab1","type":"text","text":"**DOM**","x":-404,"y":669,"width":250,"height":60},
+		{"id":"1b0c37166554081b","type":"text","text":"stands for **Document Object Model**. The Document Object Model (DOM) is a tree-like structure illustrating the hierarchical relationship between various HTML elements.","x":-462,"y":800,"width":364,"height":166},
+		{"id":"709e4187206e5f23","x":-442,"y":1020,"width":325,"height":168,"type":"text","text":"By manipulating the DOM, we can create web applications that update the data in a web page without refreshing the page and can change its layout without doing a refresh"},
+		{"id":"b4acb7ef6b49a887","type":"text","text":"Moved","x":56,"y":1020,"width":133,"height":50},
+		{"id":"70daba7b021f5cc3","type":"text","text":"Rearranged","x":189,"y":1020,"width":160,"height":50},
+		{"id":"c3f77bc5f3d32773","x":-77,"y":1020,"width":133,"height":50,"type":"text","text":"Deleted"},
+		{"id":"605827fc10f03b04","x":-16,"y":839,"width":276,"height":89,"type":"text","text":"Throughout the document, items can be deleted, moved, or rearranged."}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -56,6 +69,19 @@
 		{"id":"b9af196908fdc716","fromNode":"9194476f9963e182","fromSide":"right","toNode":"40fe366aac840733","toSide":"left"},
 		{"id":"0c01350f4fb0d316","fromNode":"bd3b10c0fd8ad6e9","fromSide":"right","toNode":"033e1eb7be581219","toSide":"left"},
 		{"id":"dd502f7ea479511b","fromNode":"bd3b10c0fd8ad6e9","fromSide":"right","toNode":"b8fe7c55dd9d82dd","toSide":"left"},
-		{"id":"28be4834852e5aa0","fromNode":"9194476f9963e182","fromSide":"right","toNode":"6053d1d7fb388fbf","toSide":"left"}
+		{"id":"28be4834852e5aa0","fromNode":"9194476f9963e182","fromSide":"right","toNode":"6053d1d7fb388fbf","toSide":"left"},
+		{"id":"1be3136040d9ca83","fromNode":"3d3d5edcdada5ddd","fromSide":"bottom","toNode":"7277583477038064","toSide":"top"},
+		{"id":"b31573309b9f9d5f","fromNode":"7277583477038064","fromSide":"bottom","toNode":"89aa5225dc9c301d","toSide":"top"},
+		{"id":"a19dc190579e9d8a","fromNode":"89aa5225dc9c301d","fromSide":"bottom","toNode":"090d98c56c0b7b5e","toSide":"top"},
+		{"id":"06de4832c101a43e","fromNode":"7277583477038064","fromSide":"left","toNode":"dd54f99be8905d32","toSide":"top"},
+		{"id":"d2d501e70e20b1b8","fromNode":"3d3d5edcdada5ddd","fromSide":"left","toNode":"d4b8adb919d8aa8f","toSide":"right"},
+		{"id":"69674d16ab311196","fromNode":"d4b8adb919d8aa8f","fromSide":"left","toNode":"cdf384e53661d42b","toSide":"right"},
+		{"id":"36691077e617aca0","fromNode":"3d3d5edcdada5ddd","fromSide":"bottom","toNode":"b69b9e44c8b10ab1","toSide":"top"},
+		{"id":"dbe22c65f73645e8","fromNode":"b69b9e44c8b10ab1","fromSide":"bottom","toNode":"1b0c37166554081b","toSide":"top"},
+		{"id":"deca1283c61221dc","fromNode":"1b0c37166554081b","fromSide":"bottom","toNode":"709e4187206e5f23","toSide":"top"},
+		{"id":"4cb9f2ecba12bb14","fromNode":"1b0c37166554081b","fromSide":"right","toNode":"605827fc10f03b04","toSide":"left"},
+		{"id":"d78690122ed39cd7","fromNode":"605827fc10f03b04","fromSide":"bottom","toNode":"c3f77bc5f3d32773","toSide":"top"},
+		{"id":"b772e83447536e8b","fromNode":"605827fc10f03b04","fromSide":"bottom","toNode":"b4acb7ef6b49a887","toSide":"top"},
+		{"id":"76bff94e5f267aea","fromNode":"605827fc10f03b04","fromSide":"bottom","toNode":"70daba7b021f5cc3","toSide":"top"}
 	]
 }
