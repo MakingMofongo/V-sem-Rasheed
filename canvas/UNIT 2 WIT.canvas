@@ -41,7 +41,7 @@
 		{"id":"70daba7b021f5cc3","type":"text","text":"Rearranged","x":189,"y":1020,"width":160,"height":50},
 		{"id":"c3f77bc5f3d32773","type":"text","text":"Deleted","x":-77,"y":1020,"width":133,"height":50},
 		{"id":"605827fc10f03b04","type":"text","text":"Throughout the document, items can be deleted, moved, or rearranged.","x":-16,"y":839,"width":276,"height":89},
-		{"id":"da0b4fbd27059031","x":-712,"y":1280,"width":250,"height":60,"type":"text","text":"Event Objects"}
+		{"id":"da0b4fbd27059031","type":"text","text":"Event Objects","x":-712,"y":1280,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},

@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"8696477c9004c287","type":"file","file":"Pasted image 20240308190118.png","x":-620,"y":-460,"width":680,"height":666},
 		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-395,"width":250,"height":60,"color":"4"},
-		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-405,"y":520,"width":250,"height":60},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
 		{"id":"55d5091406ac6f0a","type":"text","text":"UNIT 4","x":-1200,"y":-80,"width":250,"height":60},
 		{"id":"9d6f83d3b8ad73f3","type":"text","text":"Intro to Internet","x":800,"y":-760,"width":250,"height":60},
@@ -27,11 +26,25 @@
 		{"id":"033e1eb7be581219","type":"text","text":"Client/Sever Model","x":1968,"y":435,"width":250,"height":60},
 		{"id":"b8fe7c55dd9d82dd","type":"text","text":"Controls how hosted files are accessed","x":1968,"y":334,"width":250,"height":60},
 		{"id":"6053d1d7fb388fbf","type":"text","text":"Main purpose is to display webpages by storing, processing and delivering webpages","x":1588,"y":250,"width":250,"height":135},
-		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1588,"y":405,"width":250,"height":60}
+		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1588,"y":405,"width":250,"height":60},
+		{"id":"6bd4e110b046b444","type":"text","text":"stands for **Document Object Model**. The Document Object Model (DOM) is a tree-like structure illustrating the hierarchical relationship between various HTML elements.","x":-463,"y":742,"width":364,"height":166},
+		{"id":"de993e0822df5448","type":"text","text":"By manipulating the DOM, we can create web applications that update the data in a web page without refreshing the page and can change its layout without doing a refresh","x":-443,"y":962,"width":325,"height":168},
+		{"id":"873123d6f893a011","type":"text","text":"**DOM**","x":-405,"y":611,"width":250,"height":60},
+		{"id":"36bb7de24deb495f","type":"text","text":"Moved","x":55,"y":962,"width":133,"height":50},
+		{"id":"4dd70afd8ff986d0","type":"text","text":"Rearranged","x":188,"y":962,"width":160,"height":50},
+		{"id":"8b87477ef3ad5cc1","type":"text","text":"Deleted","x":-78,"y":962,"width":133,"height":50},
+		{"id":"b98458537b90046c","type":"text","text":"Throughout the document, items can be deleted, moved, or rearranged.","x":-17,"y":781,"width":276,"height":89},
+		{"id":"701178a853b02b76","type":"text","text":"[**Syntax**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor#syntax)\n\nJSCopy to Clipboard\n\nconstructor() { /* … */ }\n\nconstructor(argument0) { /* … */ }\n\nconstructor(argument0, argument1) { /* … */ }\n\nconstructor(argument0, argument1, /* …, */ argumentN) { /* … */ }","x":-1461,"y":782,"width":391,"height":310},
+		{"id":"1853ce5468da4561","type":"text","text":"The purpose of a constructor is to create a new object and set values for any existing object properties.","x":-957,"y":962,"width":282,"height":115},
+		{"id":"52e436be26b26a6e","type":"text","text":"Constructors","x":-941,"y":658,"width":250,"height":60},
+		{"id":"33ab50699975d6c1","type":"text","text":"a special function that creates and initializes an object instance of a class","x":-941,"y":782,"width":250,"height":102},
+		{"id":"a7660b7d9a0e3305","type":"text","text":"Event Objects","x":-713,"y":1222,"width":250,"height":60},
+		{"id":"408b39291f8b2da3","type":"text","text":"is a form of con­di­tional branch­ing which al­lows you to con­cisely match on data struc­ture pat­terns and bind vari­ables at the same time","x":-1181,"y":415,"width":314,"height":155},
+		{"id":"7bba8995dba49bb1","type":"text","text":"Pattern matching in JavaScript","x":-761,"y":462,"width":250,"height":60},
+		{"id":"7928dfbd9d8486e8","type":"text","text":"UNIT 2","x":-406,"y":462,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
-		{"id":"f2fed821586a914f","fromNode":"8696477c9004c287","fromSide":"bottom","toNode":"3d3d5edcdada5ddd","toSide":"top"},
 		{"id":"0c642d8645622ee6","fromNode":"8696477c9004c287","fromSide":"left","toNode":"55d5091406ac6f0a","toSide":"right"},
 		{"id":"8d3da65ff36a4375","fromNode":"8696477c9004c287","fromSide":"top","toNode":"4dd791c1087d5254","toSide":"bottom"},
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -56,6 +69,21 @@
 		{"id":"b9af196908fdc716","fromNode":"9194476f9963e182","fromSide":"right","toNode":"40fe366aac840733","toSide":"left"},
 		{"id":"0c01350f4fb0d316","fromNode":"bd3b10c0fd8ad6e9","fromSide":"right","toNode":"033e1eb7be581219","toSide":"left"},
 		{"id":"dd502f7ea479511b","fromNode":"bd3b10c0fd8ad6e9","fromSide":"right","toNode":"b8fe7c55dd9d82dd","toSide":"left"},
-		{"id":"28be4834852e5aa0","fromNode":"9194476f9963e182","fromSide":"right","toNode":"6053d1d7fb388fbf","toSide":"left"}
+		{"id":"28be4834852e5aa0","fromNode":"9194476f9963e182","fromSide":"right","toNode":"6053d1d7fb388fbf","toSide":"left"},
+		{"id":"cdadb801ff19ee9d","fromNode":"7928dfbd9d8486e8","fromSide":"bottom","toNode":"52e436be26b26a6e","toSide":"top"},
+		{"id":"65b116b1030458c7","fromNode":"7928dfbd9d8486e8","fromSide":"left","toNode":"7bba8995dba49bb1","toSide":"right"},
+		{"id":"02700987d41bb797","fromNode":"7928dfbd9d8486e8","fromSide":"bottom","toNode":"873123d6f893a011","toSide":"top"},
+		{"id":"852d3502a1d8ee57","fromNode":"52e436be26b26a6e","fromSide":"bottom","toNode":"33ab50699975d6c1","toSide":"top"},
+		{"id":"896610249ac94746","fromNode":"52e436be26b26a6e","fromSide":"left","toNode":"701178a853b02b76","toSide":"top"},
+		{"id":"5557ae3a2b9fd6ce","fromNode":"33ab50699975d6c1","fromSide":"bottom","toNode":"1853ce5468da4561","toSide":"top"},
+		{"id":"e80bc0f091dc2c75","fromNode":"7bba8995dba49bb1","fromSide":"left","toNode":"408b39291f8b2da3","toSide":"right"},
+		{"id":"568e319961dc7faf","fromNode":"873123d6f893a011","fromSide":"bottom","toNode":"6bd4e110b046b444","toSide":"top"},
+		{"id":"de5c8d90ac280a7b","fromNode":"873123d6f893a011","fromSide":"left","toNode":"a7660b7d9a0e3305","toSide":"top"},
+		{"id":"95164e3879cffc6d","fromNode":"6bd4e110b046b444","fromSide":"bottom","toNode":"de993e0822df5448","toSide":"top"},
+		{"id":"4bb6b1286f4084be","fromNode":"6bd4e110b046b444","fromSide":"right","toNode":"b98458537b90046c","toSide":"left"},
+		{"id":"e5919ea16790589f","fromNode":"b98458537b90046c","fromSide":"bottom","toNode":"36bb7de24deb495f","toSide":"top"},
+		{"id":"882fe0376150cd15","fromNode":"b98458537b90046c","fromSide":"bottom","toNode":"4dd70afd8ff986d0","toSide":"top"},
+		{"id":"e8b59191614e8d6a","fromNode":"b98458537b90046c","fromSide":"bottom","toNode":"8b87477ef3ad5cc1","toSide":"top"},
+		{"id":"fcd6228a0a1e069d","fromNode":"8696477c9004c287","fromSide":"bottom","toNode":"7928dfbd9d8486e8","toSide":"top"}
 	]
 }
