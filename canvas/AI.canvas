@@ -1,6 +1,9 @@
 {
 	"nodes":[
 		{"id":"90c26958bc670c60","type":"group","x":439,"y":-1920,"width":4228,"height":1620,"color":"4","label":"PreviousYearQsnPapers-FromSabihaMam"},
+		{"id":"355d4917a50f474e","x":987,"y":2583,"width":712,"height":770,"color":"1","type":"group","label":"Untitled group"},
+		{"id":"b3ed8fa6ce735f3b","x":1820,"y":1919,"width":380,"height":704,"color":"1","type":"group","label":"DO-STRUCTURE"},
+		{"id":"f00f9746eaeeaf7f","type":"group","x":1506,"y":3490,"width":363,"height":627,"color":"1","label":" DO-IN-DEPTH"},
 		{"id":"fe253dc6b9022c63","type":"text","text":"**1. Philosophy**\n\n- **Raises ethical questions:** AI development forces us to consider the moral implications of creating intelligent systems and their potential impact on society.\n- **Defines 'intelligence':** Helps us examine what constitutes intelligence and whether machines can truly possess it.\n\n**2. Mathematics and Statistics**\n\n- **Logic and problem-solving:** Provides the formal systems for representing problems and the reasoning mechanisms to solve them.\n- **Probability and uncertainty:** Allows AI to handle situations where information is incomplete or imprecise.\n\n**3. Economics**\n\n- **Decision making:** Economic models aid AI in understanding how to make choices with limited resources and competing objectives.\n- **Resource optimization:** AI can learn from economic principles to allocate resources efficiently.\n\n**4. Neuroscience**\n\n- **Biological inspiration:** The brain provides natural models that inspire artificial neural networks and learning algorithms.\n- **Understanding cognition:** Neuroscience research helps us learn how the brain processes information, aiding the development of more sophisticated AI.\n\n**5. Psychology**\n\n- **Human-like interaction:** Understanding human behavior lets AI systems interact with and learn from humans more effectively.\n- **Modeling biases:** AI can better understand its own potential biases by examining the biases inherent in human thinking.\n\n**6. Computer Science and Engineering**\n\n- **Algorithms and data structures:** Provides the core building blocks for creating intelligent software and managing data.\n- **Implementation and hardware:** Enables the physical realization of AI systems, from software programs to specialized computing hardware.\n\n**7. Control Theory and Cybernetics**\n\n- **Feedback systems:** Allows AI to regulate its behavior based on input from the environment.\n- **Goal-directed behavior:** Principles of control theory help AI systems design strategies to achieve specific objectives.\n\n**8. Linguistics**\n\n- **Natural language processing (NLP):** Enables AI to understand and generate human language.\n- **Semantic understanding:** Helps AI systems extract meaning from text and speech.","x":3760,"y":1751,"width":640,"height":534},
 		{"id":"e42213ecc9563801","type":"text","text":"Uncertainty = when WHICH outcome isn't certain","x":3360,"y":2395,"width":332,"height":116},
 		{"id":"d0beafb6789ef26d","type":"text","text":"Philosophy","x":4911,"y":2034,"width":250,"height":60,"color":"3"},
@@ -97,7 +100,10 @@
 		{"id":"58eb44499afba573","type":"text","text":"DFS","x":1599,"y":3656,"width":250,"height":60},
 		{"id":"83f7a0b4958fab82","type":"text","text":"IDDFS","x":1599,"y":3791,"width":250,"height":60},
 		{"id":"479cd3ad8548a812","type":"text","text":"UCS","x":1559,"y":3911,"width":250,"height":60},
-		{"id":"868f67057cfd6357","x":1358,"y":2865,"width":250,"height":60,"type":"text","text":"Over and under estim"}
+		{"id":"868f67057cfd6357","type":"text","text":"Over and under estim","x":1358,"y":2865,"width":250,"height":60},
+		{"id":"29e4793dde165d4c","type":"text","text":"Optimality, Completeness, Complexity","x":1380,"y":2979,"width":250,"height":101},
+		{"id":"e99e42e1943f6df8","type":"text","text":"Example","x":1392,"y":3164,"width":250,"height":60},
+		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":1417,"y":3273,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -165,7 +171,6 @@
 		{"id":"b17cfc584c24f1f5","fromNode":"62876c2691e08fa6","fromSide":"right","toNode":"479cd3ad8548a812","toSide":"left"},
 		{"id":"13bc8f9f53076350","fromNode":"62876c2691e08fa6","fromSide":"right","toNode":"37ee354278e8808c","toSide":"left"},
 		{"id":"f560d1dfb499deaa","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"62876c2691e08fa6","toSide":"left"},
-		{"id":"cd2d4313bc205593","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"4e2793bb0fafcee8","toSide":"left"},
 		{"id":"999ba13863cfcc33","fromNode":"4e2793bb0fafcee8","fromSide":"right","toNode":"9905bf146168fbc7","toSide":"left"},
 		{"id":"4bafc8aefd0e64ae","fromNode":"4e2793bb0fafcee8","fromSide":"right","toNode":"915f6473eebb4bdb","toSide":"left"},
 		{"id":"807e9659ff511ef3","fromNode":"9905bf146168fbc7","fromSide":"right","toNode":"8e7878b5d903b574","toSide":"left"},
@@ -182,6 +187,10 @@
 		{"id":"b2babec85d02b037","fromNode":"f642c7388c3d1ac4","fromSide":"bottom","toNode":"49b3796b8f2200bf","toSide":"top"},
 		{"id":"56f7f702689beb54","fromNode":"8c505687c0fef689","fromSide":"right","toNode":"06c8afcaeed3960a","toSide":"left"},
 		{"id":"03b6c76ecbfbac99","fromNode":"06c8afcaeed3960a","fromSide":"right","toNode":"8b327fb671a1de62","toSide":"left"},
-		{"id":"498f61257db187c5","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"868f67057cfd6357","toSide":"left"}
+		{"id":"498f61257db187c5","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"868f67057cfd6357","toSide":"left"},
+		{"id":"40d6446292fbbfad","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"29e4793dde165d4c","toSide":"left"},
+		{"id":"e24b67cd45a4233b","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"e99e42e1943f6df8","toSide":"left"},
+		{"id":"f16f7e9991420f0e","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"6ef98c205c1c8629","toSide":"left"},
+		{"id":"cd2d4313bc205593","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"4e2793bb0fafcee8","toSide":"left"}
 	]
 }
