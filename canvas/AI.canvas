@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"90c26958bc670c60","type":"group","x":439,"y":-1220,"width":2401,"height":920,"color":"4","label":"PreviousYearQsnPapers-FromSabihaMam"},
-		{"id":"c4d219e6e1b45493","type":"text","text":"Utility Theory","x":2320,"y":1678,"width":250,"height":60},
+		{"id":"c4d219e6e1b45493","type":"text","text":"## Utility Theory","x":2320,"y":1678,"width":250,"height":119,"color":"1"},
 		{"id":"f4d4388e2f23a9b1","type":"text","text":"Used to make decisions under uncertainty","x":2722,"y":1767,"width":250,"height":60},
 		{"id":"b0a144fd06f047c5","type":"text","text":"Learning based","x":1770,"y":1678,"width":250,"height":60},
 		{"id":"1c634d4549febc88","type":"text","text":"Hybrid","x":1730,"y":1798,"width":250,"height":60},
@@ -66,13 +66,13 @@
 		{"id":"23489daef1bd4cd1","type":"text","text":"What it is","x":1269,"y":1858,"width":250,"height":60},
 		{"id":"a2632b46f4f20bc2","type":"text","text":"Diff b/w Uninformed and Heuristic Search","x":1687,"y":2136,"width":250,"height":75},
 		{"id":"e42213ecc9563801","type":"text","text":"Uncertainty = when WHICH outcome isn't certain","x":3200,"y":1650,"width":332,"height":116},
-		{"id":"dd8e53f0e2ab9f08","x":3200,"y":1880,"width":300,"height":105,"color":"1","type":"text","text":"Individuals have PREFERENCES for each outcome"},
+		{"id":"dd8e53f0e2ab9f08","x":3200,"y":1880,"width":300,"height":105,"color":"#d6295d","type":"text","text":"Individuals have PREFERENCES for each outcome"},
 		{"id":"920ca3177c7ddcad","x":3600,"y":1920,"width":291,"height":129,"color":"1","type":"text","text":"Assigning NUMERIC values called UTILITIES to each outcome based on PREFERENCE"},
 		{"id":"982c5a5ae2828e69","x":3619,"y":2148,"width":250,"height":60,"color":"5","type":"text","text":"Numeric Values given by **UTILITY FUNCTIONS**"},
 		{"id":"0dfafe9cb68f5687","x":3963,"y":2229,"width":250,"height":60,"type":"text","text":"Property 1: MONOTONICITY"},
 		{"id":"19cf4751f93bb4af","x":3844,"y":2480,"width":250,"height":60,"type":"text","text":"Property 3: Transitivity"},
 		{"id":"05019cf59fbc0a2a","x":3920,"y":2361,"width":250,"height":60,"type":"text","text":"Property 2: Independence"},
-		{"id":"ba7cb045238269ba","x":3973,"y":1960,"width":250,"height":60,"type":"text","text":"Expected Utility Theory = Probabilities * Utility WEIGHTED SUM"}
+		{"id":"ba7cb045238269ba","x":3973,"y":1910,"width":267,"height":149,"color":"3","type":"text","text":"Expected Utility Theory = WEIGHTED SUM of each outcomes Probability and Utility"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
