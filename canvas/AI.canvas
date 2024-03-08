@@ -15,7 +15,7 @@
 		{"id":"2ad0287df0f5ad72","type":"file","file":"AI Important .pdf","x":1800,"y":-120,"width":400,"height":400},
 		{"id":"cdc32d66a1591b63","type":"text","text":"What is intelligence","x":2040,"y":846,"width":250,"height":60},
 		{"id":"f728ee3c012425f9","type":"text","text":"What is AI","x":2040,"y":530,"width":250,"height":60},
-		{"id":"8c505687c0fef689","type":"text","text":"Intro","x":767,"y":680,"width":250,"height":60,"color":"2"},
+		{"id":"8c505687c0fef689","type":"text","text":"Intro","x":767,"y":680,"width":250,"height":60,"color":"#ffffff"},
 		{"id":"5d32ea3a57d81340","type":"text","text":"Unit 1","x":459,"y":680,"width":250,"height":60},
 		{"id":"c3512863b9f6f69e","type":"text","text":"Agents","x":892,"y":1250,"width":250,"height":50,"color":"4"},
 		{"id":"5a306f8ab54f0c71","type":"text","text":"Goal based agents","x":1770,"y":1438,"width":250,"height":60},
@@ -72,13 +72,13 @@
 		{"id":"19cf4751f93bb4af","x":3844,"y":2480,"width":250,"height":60,"type":"text","text":"Property 3: Transitivity"},
 		{"id":"05019cf59fbc0a2a","x":3920,"y":2361,"width":250,"height":60,"type":"text","text":"Property 2: Independence"},
 		{"id":"ba7cb045238269ba","x":3973,"y":1910,"width":267,"height":149,"color":"3","type":"text","text":"Expected Utility Theory = WEIGHTED SUM of each outcomes Probability and Utility"},
-		{"id":"62876c2691e08fa6","x":836,"y":2365,"width":250,"height":60,"type":"text","text":"Different Uninformed Search Algos"},
 		{"id":"ceb3250f891d5bb2","type":"file","file":"Pasted image 20240307174056.png","x":464,"y":-203,"width":696,"height":763},
-		{"id":"5c113a3fba53b0bd","x":1147,"y":2279,"width":250,"height":60,"type":"text","text":"BFS"},
-		{"id":"58eb44499afba573","x":1220,"y":2425,"width":250,"height":60,"type":"text","text":"DFS"},
-		{"id":"83f7a0b4958fab82","x":1220,"y":2560,"width":250,"height":60,"type":"text","text":"IDDFS"},
-		{"id":"479cd3ad8548a812","x":1180,"y":2680,"width":250,"height":60,"type":"text","text":"UCS"},
-		{"id":"37ee354278e8808c","x":1167,"y":2806,"width":250,"height":60,"type":"text","text":"Bi Directional"}
+		{"id":"5c113a3fba53b0bd","x":1158,"y":2240,"width":250,"height":60,"type":"text","text":"BFS"},
+		{"id":"62876c2691e08fa6","x":847,"y":2326,"width":250,"height":60,"color":"2","type":"text","text":"Different Uninformed Search Algos"},
+		{"id":"58eb44499afba573","x":1231,"y":2386,"width":250,"height":60,"type":"text","text":"DFS"},
+		{"id":"83f7a0b4958fab82","x":1231,"y":2521,"width":250,"height":60,"type":"text","text":"IDDFS"},
+		{"id":"479cd3ad8548a812","x":1191,"y":2641,"width":250,"height":60,"type":"text","text":"UCS"},
+		{"id":"37ee354278e8808c","x":1178,"y":2767,"width":250,"height":60,"type":"text","text":"Bi Directional"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
