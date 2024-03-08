@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"8696477c9004c287","type":"file","file":"ETC/Pasted image 20240308190118.png","x":-620,"y":-460,"width":680,"height":666},
-		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-395,"width":250,"height":60,"color":"4"},
+		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-460,"width":250,"height":125,"color":"4"},
 		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-405,"y":520,"width":250,"height":60},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
 		{"id":"55d5091406ac6f0a","type":"text","text":"UNIT 4","x":-1200,"y":-80,"width":250,"height":60},
@@ -26,7 +26,6 @@
 		{"id":"b8fe7c55dd9d82dd","type":"text","text":"Controls how hosted files are accessed","x":1968,"y":334,"width":250,"height":60},
 		{"id":"6053d1d7fb388fbf","type":"text","text":"Main purpose is to display webpages by storing, processing and delivering webpages","x":1588,"y":250,"width":250,"height":135},
 		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1588,"y":405,"width":250,"height":60},
-		{"id":"0bdf69512155c013","type":"text","text":"URL","x":746,"y":880,"width":250,"height":82,"color":"#006cfa"},
 		{"id":"106767a9b16ce85e","type":"text","text":"address of a resource on the Internet and the protocol used to access it.","x":1185,"y":921,"width":277,"height":128},
 		{"id":"7e98d7d808d2cf03","type":"text","text":"CONTAINS:\n- Protocol\n- Location of server (ip/domain)\n- Port\n- Location of resource in directory structure of server\n- Fragment identifier","x":1185,"y":1100,"width":335,"height":240},
 		{"id":"482ad6aa19cca3bb","type":"text","text":"Uses HTML protcol","x":1073,"y":660,"width":250,"height":60,"color":"1"},
@@ -34,11 +33,13 @@
 		{"id":"34bfde843bb93a97","x":1081,"y":1724,"width":268,"height":116,"type":"text","text":"used to extend the capabilities of Internet e-mail protocols such as SMTP"},
 		{"id":"9812c6d5c2aa8f11","x":916,"y":1480,"width":282,"height":109,"type":"text","text":"Created 1991 by Nathan Borenstein at Bell Communications"},
 		{"id":"d1076eabc4203257","x":1157,"y":1603,"width":262,"height":77,"type":"text","text":"Multipurpose Internet Mail Extensions."},
-		{"id":"35b9d008c2de7183","x":667,"y":1684,"width":249,"height":80,"color":"4","type":"text","text":"## MIME Protocol"},
+		{"id":"35b9d008c2de7183","x":667,"y":1603,"width":249,"height":161,"color":"4","type":"text","text":"## MIME Protocol"},
 		{"id":"af3e5e77f89ad5d5","x":1520,"y":1589,"width":283,"height":163,"type":"text","text":"allows the users to exchange various types of digital content such as pictures, audio, video, and various types of documents and files"},
 		{"id":"0c387bd5b0fdcb63","x":1495,"y":1883,"width":265,"height":117,"type":"text","text":"Not independent, works by EXTENDING email protocols such as SMTP"},
 		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1463,"y":720,"width":250,"height":60},
-		{"id":"d07913367daea04b","x":1712,"y":880,"width":250,"height":161,"color":"1","type":"text","text":"## HTML"}
+		{"id":"d07913367daea04b","x":1712,"y":880,"width":250,"height":161,"color":"1","type":"text","text":"## HTML"},
+		{"id":"0bdf69512155c013","type":"text","text":"URL","x":700,"y":814,"width":250,"height":182,"color":"#006cfa"},
+		{"id":"e2af4ca779e82bf8","x":2124,"y":798,"width":276,"height":60,"type":"text","text":"Used to access data on WWW"}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -77,6 +78,7 @@
 		{"id":"db04762ccc8564bb","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"af3e5e77f89ad5d5","toSide":"left"},
 		{"id":"b53cdc11c492b6ca","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"9812c6d5c2aa8f11","toSide":"left"},
 		{"id":"4286c2eb7f8b675f","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"0c387bd5b0fdcb63","toSide":"left"},
-		{"id":"3883f541fa67534b","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"d07913367daea04b","toSide":"left"}
+		{"id":"3883f541fa67534b","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"d07913367daea04b","toSide":"left"},
+		{"id":"b989c35cdc267a4e","fromNode":"d07913367daea04b","fromSide":"right","toNode":"e2af4ca779e82bf8","toSide":"left"}
 	]
 }
