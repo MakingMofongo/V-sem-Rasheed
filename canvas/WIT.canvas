@@ -33,7 +33,10 @@
 		{"id":"482ad6aa19cca3bb","type":"text","text":"Uses HTML protcol","x":1073,"y":660,"width":250,"height":60},
 		{"id":"8d3dba4a3f274987","x":1042,"y":814,"width":250,"height":60,"type":"text","text":"AKA URI (Uniform Resource identifier)"},
 		{"id":"35b9d008c2de7183","x":746,"y":1520,"width":249,"height":80,"color":"4","type":"text","text":"## MIME Protocol"},
-		{"id":"d1076eabc4203257","x":1080,"y":1460,"width":262,"height":77,"type":"text","text":"Multipurpose Internet Mail Extensions."}
+		{"id":"d1076eabc4203257","x":1080,"y":1460,"width":262,"height":77,"type":"text","text":"Multipurpose Internet Mail Extensions."},
+		{"id":"34bfde843bb93a97","x":1085,"y":1604,"width":268,"height":116,"type":"text","text":"used to extend the capabilities of Internet e-mail protocols such as SMTP"},
+		{"id":"af3e5e77f89ad5d5","x":1477,"y":1637,"width":283,"height":163,"type":"text","text":"allows the users to exchange various types of digital content such as pictures, audio, video, and various types of documents and files"},
+		{"id":"9812c6d5c2aa8f11","x":952,"y":1409,"width":250,"height":60,"type":"text","text":"Created 1991 by Natha"}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -67,6 +70,9 @@
 		{"id":"41dd0b8cdbe9be30","fromNode":"0bdf69512155c013","fromSide":"right","toNode":"106767a9b16ce85e","toSide":"left"},
 		{"id":"cb4c4233459aa26a","fromNode":"0bdf69512155c013","fromSide":"right","toNode":"7e98d7d808d2cf03","toSide":"left"},
 		{"id":"f994e9e9fe9fd247","fromNode":"0bdf69512155c013","fromSide":"right","toNode":"8d3dba4a3f274987","toSide":"left"},
-		{"id":"bba3dcb2eae8997f","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"d1076eabc4203257","toSide":"left"}
+		{"id":"bba3dcb2eae8997f","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"d1076eabc4203257","toSide":"left"},
+		{"id":"9c8ee021d62e60ff","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"34bfde843bb93a97","toSide":"left"},
+		{"id":"db04762ccc8564bb","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"af3e5e77f89ad5d5","toSide":"left"},
+		{"id":"b53cdc11c492b6ca","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"9812c6d5c2aa8f11","toSide":"left"}
 	]
 }
