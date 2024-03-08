@@ -13,7 +13,11 @@
 		{"id":"ccb98d537cd35d81","x":1270,"y":-487,"width":250,"height":60,"type":"text","text":"Displays Webpages"},
 		{"id":"eda2d62f8a50b7b8","x":933,"y":-292,"width":250,"height":60,"type":"text","text":"History of Web Browsers"},
 		{"id":"141088ab125d2f91","x":1247,"y":-204,"width":250,"height":60,"type":"text","text":"1990 - WWW"},
-		{"id":"16dc5c61776a3740","x":1259,"y":-106,"width":250,"height":60,"type":"text","text":""}
+		{"id":"16dc5c61776a3740","x":1220,"y":-106,"width":250,"height":60,"type":"text","text":"1993 - Mosaic"},
+		{"id":"aaec4121fe458dfb","x":1169,"y":-18,"width":250,"height":60,"type":"text","text":"1994 Netscape Navigator"},
+		{"id":"5fc6fd7cf800ea2e","x":1133,"y":49,"width":250,"height":60,"type":"text","text":"1995 - IE"},
+		{"id":"0c492e20bdf9cf2a","x":1108,"y":125,"width":250,"height":60,"type":"text","text":"2002 - Firefox"},
+		{"id":"3e2ffb296075301a","x":1080,"y":220,"width":250,"height":60,"type":"text","text":"2003 Safari"}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -28,6 +32,10 @@
 		{"id":"20c638166e002565","fromNode":"c510c630c2c40ecf","fromSide":"right","toNode":"ccb98d537cd35d81","toSide":"left"},
 		{"id":"4c9a1d6367d44a30","fromNode":"c510c630c2c40ecf","fromSide":"bottom","toNode":"eda2d62f8a50b7b8","toSide":"top"},
 		{"id":"d78f0190d3f2534d","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"141088ab125d2f91","toSide":"left"},
-		{"id":"330312a20dba7708","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"16dc5c61776a3740","toSide":"left"}
+		{"id":"330312a20dba7708","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"16dc5c61776a3740","toSide":"left"},
+		{"id":"6aa91a65d612d3dd","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"aaec4121fe458dfb","toSide":"left"},
+		{"id":"eebd121f4aad52db","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"5fc6fd7cf800ea2e","toSide":"left"},
+		{"id":"17d49dff499d40ee","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"0c492e20bdf9cf2a","toSide":"left"},
+		{"id":"b33a78ebb74f6c68","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"3e2ffb296075301a","toSide":"left"}
 	]
 }
