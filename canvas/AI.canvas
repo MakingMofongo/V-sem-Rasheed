@@ -103,7 +103,9 @@
 		{"id":"868f67057cfd6357","type":"text","text":"Over and under estim","x":1358,"y":2865,"width":250,"height":60},
 		{"id":"29e4793dde165d4c","type":"text","text":"Optimality, Completeness, Complexity","x":1380,"y":2979,"width":250,"height":101},
 		{"id":"e99e42e1943f6df8","type":"text","text":"Example","x":1392,"y":3164,"width":250,"height":60},
-		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":1417,"y":3273,"width":250,"height":60}
+		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":1417,"y":3273,"width":250,"height":60},
+		{"id":"49169d699405f7a3","x":1228,"y":5063,"width":250,"height":60,"type":"text","text":"8 Puzzle Problem"},
+		{"id":"f2808cfacf77a927","x":1572,"y":4921,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -191,6 +193,8 @@
 		{"id":"40d6446292fbbfad","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"29e4793dde165d4c","toSide":"left"},
 		{"id":"e24b67cd45a4233b","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"e99e42e1943f6df8","toSide":"left"},
 		{"id":"f16f7e9991420f0e","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"6ef98c205c1c8629","toSide":"left"},
-		{"id":"cd2d4313bc205593","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"4e2793bb0fafcee8","toSide":"left"}
+		{"id":"cd2d4313bc205593","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"4e2793bb0fafcee8","toSide":"left"},
+		{"id":"cf2fb9d306556b35","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"49169d699405f7a3","toSide":"left"},
+		{"id":"d8c6714ee8fde67c","fromNode":"49169d699405f7a3","fromSide":"right","toNode":"f2808cfacf77a927","toSide":"left"}
 	]
 }
