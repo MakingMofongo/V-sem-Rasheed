@@ -39,7 +39,8 @@
 		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1463,"y":720,"width":250,"height":60},
 		{"id":"d07913367daea04b","x":1712,"y":880,"width":250,"height":161,"color":"1","type":"text","text":"## HTML"},
 		{"id":"0bdf69512155c013","type":"text","text":"URL","x":700,"y":814,"width":250,"height":182,"color":"#006cfa"},
-		{"id":"e2af4ca779e82bf8","x":2124,"y":798,"width":276,"height":60,"type":"text","text":"Used to access data on WWW"}
+		{"id":"e2af4ca779e82bf8","x":2124,"y":798,"width":276,"height":60,"type":"text","text":"Used to access data on WWW"},
+		{"id":"b2fd8549ec4febfa","x":2124,"y":900,"width":276,"height":87,"type":"text","text":"plain text, hypertext, audio, video, and so on."}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -79,6 +80,7 @@
 		{"id":"b53cdc11c492b6ca","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"9812c6d5c2aa8f11","toSide":"left"},
 		{"id":"4286c2eb7f8b675f","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"0c387bd5b0fdcb63","toSide":"left"},
 		{"id":"3883f541fa67534b","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"d07913367daea04b","toSide":"left"},
-		{"id":"b989c35cdc267a4e","fromNode":"d07913367daea04b","fromSide":"right","toNode":"e2af4ca779e82bf8","toSide":"left"}
+		{"id":"b989c35cdc267a4e","fromNode":"d07913367daea04b","fromSide":"right","toNode":"e2af4ca779e82bf8","toSide":"left"},
+		{"id":"1f47eba18b515a83","fromNode":"d07913367daea04b","fromSide":"right","toNode":"b2fd8549ec4febfa","toSide":"left"}
 	]
 }
