@@ -37,7 +37,8 @@
 		{"id":"d1076eabc4203257","x":1157,"y":1603,"width":262,"height":77,"type":"text","text":"Multipurpose Internet Mail Extensions."},
 		{"id":"35b9d008c2de7183","x":667,"y":1684,"width":249,"height":80,"color":"4","type":"text","text":"## MIME Protocol"},
 		{"id":"af3e5e77f89ad5d5","x":1520,"y":1589,"width":283,"height":163,"type":"text","text":"allows the users to exchange various types of digital content such as pictures, audio, video, and various types of documents and files"},
-		{"id":"0c387bd5b0fdcb63","x":1495,"y":1883,"width":250,"height":60,"type":"text","text":"Not independent, works by EXTENDING email protocols "}
+		{"id":"0c387bd5b0fdcb63","x":1495,"y":1883,"width":265,"height":117,"type":"text","text":"Not independent, works by EXTENDING email protocols such as SMTP"},
+		{"id":"5f9915e07d60d3e0","x":663,"y":2156,"width":250,"height":84,"type":"text","text":"# HTTP"}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
