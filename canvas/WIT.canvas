@@ -19,7 +19,7 @@
 		{"id":"0c492e20bdf9cf2a","type":"text","text":"2002 - Firefox","x":1108,"y":125,"width":250,"height":60},
 		{"id":"3e2ffb296075301a","type":"text","text":"2003 Safari","x":1080,"y":220,"width":250,"height":60},
 		{"id":"9194476f9963e182","type":"text","text":"Made of Web apps and Hardware","x":1073,"y":540,"width":250,"height":60},
-		{"id":"959d7d455cee4001","type":"text","text":"Web Server","x":745,"y":579,"width":250,"height":60,"color":"3"},
+		{"id":"959d7d455cee4001","type":"text","text":"Web Server","x":745,"y":465,"width":250,"height":174,"color":"3"},
 		{"id":"29fdc654836884e1","type":"text","text":"Contains data, webpages, images, files etc","x":1588,"y":160,"width":250,"height":60},
 		{"id":"40fe366aac840733","type":"text","text":"Allows Exchange of data between connected devices","x":1588,"y":495,"width":250,"height":91},
 		{"id":"033e1eb7be581219","type":"text","text":"Client/Sever Model","x":1968,"y":435,"width":250,"height":60},
@@ -37,7 +37,8 @@
 		{"id":"35b9d008c2de7183","x":667,"y":1684,"width":249,"height":80,"color":"4","type":"text","text":"## MIME Protocol"},
 		{"id":"af3e5e77f89ad5d5","x":1520,"y":1589,"width":283,"height":163,"type":"text","text":"allows the users to exchange various types of digital content such as pictures, audio, video, and various types of documents and files"},
 		{"id":"0c387bd5b0fdcb63","x":1495,"y":1883,"width":265,"height":117,"type":"text","text":"Not independent, works by EXTENDING email protocols such as SMTP"},
-		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1463,"y":720,"width":250,"height":60}
+		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1463,"y":720,"width":250,"height":60},
+		{"id":"d07913367daea04b","x":1712,"y":880,"width":250,"height":161,"color":"1","type":"text","text":"## HTML"}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -75,6 +76,7 @@
 		{"id":"9c8ee021d62e60ff","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"34bfde843bb93a97","toSide":"left"},
 		{"id":"db04762ccc8564bb","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"af3e5e77f89ad5d5","toSide":"left"},
 		{"id":"b53cdc11c492b6ca","fromNode":"35b9d008c2de7183","fromSide":"right","toNode":"9812c6d5c2aa8f11","toSide":"left"},
-		{"id":"4286c2eb7f8b675f","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"0c387bd5b0fdcb63","toSide":"left"}
+		{"id":"4286c2eb7f8b675f","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"0c387bd5b0fdcb63","toSide":"left"},
+		{"id":"3883f541fa67534b","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"d07913367daea04b","toSide":"left"}
 	]
 }
