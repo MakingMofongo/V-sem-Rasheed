@@ -73,7 +73,7 @@
 		{"id":"05019cf59fbc0a2a","x":3920,"y":2361,"width":250,"height":60,"type":"text","text":"Property 2: Independence"},
 		{"id":"ba7cb045238269ba","x":3973,"y":1910,"width":267,"height":149,"color":"3","type":"text","text":"Expected Utility Theory = WEIGHTED SUM of each outcomes Probability and Utility"},
 		{"id":"62876c2691e08fa6","x":836,"y":2365,"width":250,"height":60,"type":"text","text":"Different Uninformed Search Algos"},
-		{"id":"ceb3250f891d5bb2","type":"file","file":"Pasted image 20240307174056.png","x":560,"y":-200,"width":696,"height":763}
+		{"id":"ceb3250f891d5bb2","type":"file","file":"Pasted image 20240307174056.png","x":464,"y":-203,"width":696,"height":763}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
