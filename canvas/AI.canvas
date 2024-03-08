@@ -3,7 +3,6 @@
 		{"id":"90c26958bc670c60","type":"group","x":439,"y":-1220,"width":2401,"height":920,"color":"4","label":"PreviousYearQsnPapers-FromSabihaMam"},
 		{"id":"c4d219e6e1b45493","type":"text","text":"Utility Theory","x":2320,"y":1678,"width":250,"height":60},
 		{"id":"f4d4388e2f23a9b1","type":"text","text":"Used to make decisions under uncertainty","x":2722,"y":1767,"width":250,"height":60},
-		{"id":"e42213ecc9563801","type":"text","text":"Uncertainty = when WHICH outcome isn't certain","x":3048,"y":1864,"width":332,"height":116},
 		{"id":"b0a144fd06f047c5","type":"text","text":"Learning based","x":1770,"y":1678,"width":250,"height":60},
 		{"id":"1c634d4549febc88","type":"text","text":"Hybrid","x":1730,"y":1798,"width":250,"height":60},
 		{"id":"7c5aadd8f69d4c9c","type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.13_f3db4fdf.jpg","x":1540,"y":-1200,"width":357,"height":400},
@@ -65,7 +64,10 @@
 		{"id":"554e135cdc19401d","type":"text","text":"Heuristics","x":1269,"y":1998,"width":250,"height":60},
 		{"id":"e558fe10b0abfbc1","type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n","x":2020,"y":2048,"width":250,"height":250},
 		{"id":"23489daef1bd4cd1","type":"text","text":"What it is","x":1269,"y":1858,"width":250,"height":60},
-		{"id":"a2632b46f4f20bc2","type":"text","text":"Diff b/w Uninformed and Heuristic Search","x":1687,"y":2136,"width":250,"height":75}
+		{"id":"a2632b46f4f20bc2","type":"text","text":"Diff b/w Uninformed and Heuristic Search","x":1687,"y":2136,"width":250,"height":75},
+		{"id":"e42213ecc9563801","type":"text","text":"Uncertainty = when WHICH outcome isn't certain","x":3100,"y":1622,"width":332,"height":116},
+		{"id":"920ca3177c7ddcad","x":3121,"y":1840,"width":291,"height":129,"type":"text","text":"Assigning NUMERIC values called UTILITIES to each outcome based on PREFERENCE"},
+		{"id":"982c5a5ae2828e69","x":3140,"y":2067,"width":250,"height":60,"type":"text","text":"Numeric Values given by **UTILITY FUNCTIONS**"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -119,6 +121,8 @@
 		{"id":"d24bbe4582890f61","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"3ebaefabda412090","toSide":"left"},
 		{"id":"e7659f36c79c8317","fromNode":"09bbf9877a8fbfa1","fromSide":"right","toNode":"c4d219e6e1b45493","toSide":"left"},
 		{"id":"4d62124ba44fb984","fromNode":"c4d219e6e1b45493","fromSide":"right","toNode":"f4d4388e2f23a9b1","toSide":"left"},
-		{"id":"8a5bf91279b5b873","fromNode":"f4d4388e2f23a9b1","fromSide":"right","toNode":"e42213ecc9563801","toSide":"left"}
+		{"id":"8a5bf91279b5b873","fromNode":"f4d4388e2f23a9b1","fromSide":"right","toNode":"e42213ecc9563801","toSide":"left"},
+		{"id":"9f72b30ffc3efce6","fromNode":"f4d4388e2f23a9b1","fromSide":"right","toNode":"920ca3177c7ddcad","toSide":"left"},
+		{"id":"d115f0e28056d180","fromNode":"920ca3177c7ddcad","fromSide":"bottom","toNode":"982c5a5ae2828e69","toSide":"top"}
 	]
 }
