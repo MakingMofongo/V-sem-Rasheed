@@ -110,13 +110,15 @@
 		{"id":"cad52ed7c379dd8e","type":"text","text":"Semantics - Understanding meaning from text","x":-36,"y":2313,"width":250,"height":85},
 		{"id":"d190ffff00b1bde8","type":"text","text":"Better interaction b/w AI and humans","x":39,"y":1999,"width":250,"height":60},
 		{"id":"17f2f481820b65de","type":"text","text":"Modelling of Bias which is inherently present in human sourced data","x":39,"y":2089,"width":250,"height":90},
-		{"id":"b1046f2a096a1ecb","x":2117,"y":807,"width":283,"height":153,"color":"5","type":"text","text":"# Unit 2"},
-		{"id":"7bba1bf2bfcff032","x":2549,"y":667,"width":250,"height":60,"type":"text","text":"Forward and backward Chaining"},
-		{"id":"1b535ffa36a18f87","x":2549,"y":750,"width":250,"height":60,"type":"text","text":"First Order Logic"},
-		{"id":"17bb082cc0d561bd","x":2592,"y":855,"width":250,"height":60,"type":"text","text":"Partial Order Planning"},
-		{"id":"ee8d4d2d9eb39de3","x":2555,"y":942,"width":250,"height":98,"type":"text","text":"Different Types of Knowledge Representation"},
-		{"id":"529877e01bfb671b","x":2592,"y":1066,"width":250,"height":60,"type":"text","text":"Frames, Semantic Nets"},
-		{"id":"1df590fa74adda7c","x":2573,"y":1176,"width":250,"height":60,"type":"text","text":"Hierarchical planning with Example "}
+		{"id":"7bba1bf2bfcff032","x":2803,"y":447,"width":250,"height":60,"type":"text","text":"Forward and backward Chaining"},
+		{"id":"1b535ffa36a18f87","x":2803,"y":530,"width":250,"height":60,"type":"text","text":"First Order Logic"},
+		{"id":"17bb082cc0d561bd","x":2846,"y":635,"width":250,"height":60,"color":"1","type":"text","text":"Partial Order Planning"},
+		{"id":"529877e01bfb671b","x":2846,"y":846,"width":250,"height":60,"type":"text","text":"Frames, Semantic Nets"},
+		{"id":"1df590fa74adda7c","x":2827,"y":956,"width":250,"height":60,"type":"text","text":"Hierarchical planning with Example "},
+		{"id":"ee8d4d2d9eb39de3","x":2809,"y":722,"width":250,"height":98,"type":"text","text":"Different Types of Knowledge Representation"},
+		{"id":"ad39110708f19e4a","x":2832,"y":1127,"width":250,"height":60,"type":"text","text":"Rules of Proposition\n"},
+		{"id":"a1944ddf261da6d7","x":2834,"y":1297,"width":250,"height":60,"type":"text","text":"Resolution Refutation"},
+		{"id":"b1046f2a096a1ecb","x":2354,"y":618,"width":283,"height":153,"color":"5","type":"text","text":"# Unit 2"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -216,6 +218,8 @@
 		{"id":"6bc72bd6572de3a0","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"17bb082cc0d561bd","toSide":"left"},
 		{"id":"380f8783d2012568","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"ee8d4d2d9eb39de3","toSide":"left"},
 		{"id":"9519c14c52f8cf2f","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"529877e01bfb671b","toSide":"left"},
-		{"id":"4390dc34b6980ed0","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"1df590fa74adda7c","toSide":"left"}
+		{"id":"4390dc34b6980ed0","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"1df590fa74adda7c","toSide":"left"},
+		{"id":"7a685cff93d956be","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"ad39110708f19e4a","toSide":"left"},
+		{"id":"e635e11d13909301","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"a1944ddf261da6d7","toSide":"left"}
 	]
 }
