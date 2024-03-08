@@ -65,9 +65,14 @@
 		{"id":"e558fe10b0abfbc1","type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n","x":2020,"y":2048,"width":250,"height":250},
 		{"id":"23489daef1bd4cd1","type":"text","text":"What it is","x":1269,"y":1858,"width":250,"height":60},
 		{"id":"a2632b46f4f20bc2","type":"text","text":"Diff b/w Uninformed and Heuristic Search","x":1687,"y":2136,"width":250,"height":75},
-		{"id":"e42213ecc9563801","type":"text","text":"Uncertainty = when WHICH outcome isn't certain","x":3100,"y":1622,"width":332,"height":116},
-		{"id":"920ca3177c7ddcad","x":3121,"y":1840,"width":291,"height":129,"type":"text","text":"Assigning NUMERIC values called UTILITIES to each outcome based on PREFERENCE"},
-		{"id":"982c5a5ae2828e69","x":3140,"y":2067,"width":250,"height":60,"type":"text","text":"Numeric Values given by **UTILITY FUNCTIONS**"}
+		{"id":"e42213ecc9563801","type":"text","text":"Uncertainty = when WHICH outcome isn't certain","x":3200,"y":1650,"width":332,"height":116},
+		{"id":"dd8e53f0e2ab9f08","x":3200,"y":1880,"width":300,"height":105,"color":"1","type":"text","text":"Individuals have PREFERENCES for each outcome"},
+		{"id":"920ca3177c7ddcad","x":3600,"y":1920,"width":291,"height":129,"color":"1","type":"text","text":"Assigning NUMERIC values called UTILITIES to each outcome based on PREFERENCE"},
+		{"id":"982c5a5ae2828e69","x":3619,"y":2148,"width":250,"height":60,"color":"5","type":"text","text":"Numeric Values given by **UTILITY FUNCTIONS**"},
+		{"id":"0dfafe9cb68f5687","x":3963,"y":2229,"width":250,"height":60,"type":"text","text":"Property 1: MONOTONICITY"},
+		{"id":"19cf4751f93bb4af","x":3844,"y":2480,"width":250,"height":60,"type":"text","text":"Property 3: Transitivity"},
+		{"id":"05019cf59fbc0a2a","x":3920,"y":2361,"width":250,"height":60,"type":"text","text":"Property 2: Independence"},
+		{"id":"ba7cb045238269ba","x":3973,"y":1960,"width":250,"height":60,"type":"text","text":"Expected Utility Theory = Probabilities * Utility WEIGHTED SUM"}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -122,7 +127,12 @@
 		{"id":"e7659f36c79c8317","fromNode":"09bbf9877a8fbfa1","fromSide":"right","toNode":"c4d219e6e1b45493","toSide":"left"},
 		{"id":"4d62124ba44fb984","fromNode":"c4d219e6e1b45493","fromSide":"right","toNode":"f4d4388e2f23a9b1","toSide":"left"},
 		{"id":"8a5bf91279b5b873","fromNode":"f4d4388e2f23a9b1","fromSide":"right","toNode":"e42213ecc9563801","toSide":"left"},
-		{"id":"9f72b30ffc3efce6","fromNode":"f4d4388e2f23a9b1","fromSide":"right","toNode":"920ca3177c7ddcad","toSide":"left"},
-		{"id":"d115f0e28056d180","fromNode":"920ca3177c7ddcad","fromSide":"bottom","toNode":"982c5a5ae2828e69","toSide":"top"}
+		{"id":"d115f0e28056d180","fromNode":"920ca3177c7ddcad","fromSide":"bottom","toNode":"982c5a5ae2828e69","toSide":"top"},
+		{"id":"4b75fb5a94310777","fromNode":"f4d4388e2f23a9b1","fromSide":"right","toNode":"dd8e53f0e2ab9f08","toSide":"left"},
+		{"id":"5129f916acd3b363","fromNode":"dd8e53f0e2ab9f08","fromSide":"right","toNode":"920ca3177c7ddcad","toSide":"left"},
+		{"id":"ac206f7a0ada3e1e","fromNode":"982c5a5ae2828e69","fromSide":"right","toNode":"0dfafe9cb68f5687","toSide":"left"},
+		{"id":"0ce309e36e07bcba","fromNode":"982c5a5ae2828e69","fromSide":"right","toNode":"05019cf59fbc0a2a","toSide":"left"},
+		{"id":"d80c2137a68c482e","fromNode":"982c5a5ae2828e69","fromSide":"right","toNode":"19cf4751f93bb4af","toSide":"left"},
+		{"id":"e275f2e94c4edd65","fromNode":"920ca3177c7ddcad","fromSide":"right","toNode":"ba7cb045238269ba","toSide":"left"}
 	]
 }
