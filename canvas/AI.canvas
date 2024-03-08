@@ -82,9 +82,15 @@
 		{"id":"e97c4f4525985f64","type":"file","file":"WhatsApp Image 2024-03-07 at 20.27.10_d0ff790c.jpg","x":1209,"y":309,"width":563,"height":1001},
 		{"id":"4e2793bb0fafcee8","type":"text","text":"Minmax and ALPHA BETA pruning","x":1020,"y":3910,"width":250,"height":60},
 		{"id":"9905bf146168fbc7","type":"text","text":"Min max","x":1448,"y":3844,"width":250,"height":60},
-		{"id":"915f6473eebb4bdb","type":"text","text":"Alpha beta pruning\n","x":1448,"y":4060,"width":250,"height":60},
 		{"id":"8e7878b5d903b574","x":1867,"y":3620,"width":250,"height":153,"type":"text","text":"Used in two player games to map out all possible moves and outcomes"},
-		{"id":"070553f78c8dbeb8","x":1843,"y":3916,"width":250,"height":60,"type":"text","text":"Recursivel"}
+		{"id":"070553f78c8dbeb8","x":1867,"y":3874,"width":250,"height":132,"type":"text","text":"Recursively evaluates, alternating b/w MAXIMIZING and MINIMIZING players"},
+		{"id":"915f6473eebb4bdb","type":"text","text":"Alpha beta pruning\n","x":1448,"y":4120,"width":250,"height":60},
+		{"id":"4fcad6c538805c45","x":1820,"y":4120,"width":250,"height":60,"type":"text","text":"Optimizes Min max Search Tree"},
+		{"id":"ce0c76a559c655d4","x":2197,"y":4020,"width":250,"height":108,"type":"text","text":"Alpha Value - Best choice for P1 that needs to be MAXIMIZED"},
+		{"id":"66b75b8a86619fe5","x":2197,"y":4220,"width":250,"height":100,"type":"text","text":"Beta Value - Best choice for OPPONENT that needs to be MINIMIZED"},
+		{"id":"2d85e5aeb870674d","x":2500,"y":3840,"width":250,"height":131,"type":"text","text":"IF current node is a MAXIMIZING NODE, ALPHA = Max of (children)"},
+		{"id":"a7d3398816a195cc","x":2540,"y":4340,"width":250,"height":93,"type":"text","text":"if current node is MINIMIZING node, BETA = MIN of children"},
+		{"id":"23a269b59bae0119","x":2549,"y":4047,"width":250,"height":60,"type":"text","text":"PRUNE branch if nodes "}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -156,6 +162,12 @@
 		{"id":"999ba13863cfcc33","fromNode":"4e2793bb0fafcee8","fromSide":"right","toNode":"9905bf146168fbc7","toSide":"left"},
 		{"id":"4bafc8aefd0e64ae","fromNode":"4e2793bb0fafcee8","fromSide":"right","toNode":"915f6473eebb4bdb","toSide":"left"},
 		{"id":"807e9659ff511ef3","fromNode":"9905bf146168fbc7","fromSide":"right","toNode":"8e7878b5d903b574","toSide":"left"},
-		{"id":"c87e52111a0d844e","fromNode":"9905bf146168fbc7","fromSide":"right","toNode":"070553f78c8dbeb8","toSide":"left"}
+		{"id":"c87e52111a0d844e","fromNode":"9905bf146168fbc7","fromSide":"right","toNode":"070553f78c8dbeb8","toSide":"left"},
+		{"id":"9b527ba6d258c3c4","fromNode":"915f6473eebb4bdb","fromSide":"right","toNode":"4fcad6c538805c45","toSide":"left"},
+		{"id":"38dbe7d40ead4fc7","fromNode":"4fcad6c538805c45","fromSide":"right","toNode":"ce0c76a559c655d4","toSide":"left"},
+		{"id":"b9598a02ea135079","fromNode":"4fcad6c538805c45","fromSide":"right","toNode":"66b75b8a86619fe5","toSide":"left"},
+		{"id":"7f9609db76208047","fromNode":"ce0c76a559c655d4","fromSide":"right","toNode":"2d85e5aeb870674d","toSide":"left"},
+		{"id":"df4b257101d3a118","fromNode":"66b75b8a86619fe5","fromSide":"right","toNode":"a7d3398816a195cc","toSide":"left"},
+		{"id":"70b985095c8cc8bd","fromNode":"2d85e5aeb870674d","fromSide":"bottom","toNode":"23a269b59bae0119","toSide":"top"}
 	]
 }
