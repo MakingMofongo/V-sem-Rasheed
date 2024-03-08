@@ -57,7 +57,7 @@
 		{"id":"f1aba0e88f95c1b5","type":"text","text":"Model based","x":1904,"y":2048,"width":250,"height":60},
 		{"id":"5a306f8ab54f0c71","type":"text","text":"Goal based agents","x":1930,"y":2183,"width":250,"height":60},
 		{"id":"09bbf9877a8fbfa1","type":"text","text":"Utility based","x":1930,"y":2303,"width":250,"height":60,"color":"1"},
-		{"id":"b0a144fd06f047c5","type":"text","text":"Learning based","x":1930,"y":2423,"width":250,"height":60},
+		{"id":"b0a144fd06f047c5","type":"text","text":"Learning based","x":1930,"y":2423,"width":250,"height":60,"color":"6"},
 		{"id":"f4d4388e2f23a9b1","type":"text","text":"Used to make decisions under uncertainty","x":2882,"y":2512,"width":250,"height":60},
 		{"id":"1c634d4549febc88","type":"text","text":"Hybrid","x":1890,"y":2543,"width":250,"height":60},
 		{"id":"23489daef1bd4cd1","type":"text","text":"What it is","x":1429,"y":2603,"width":250,"height":60},
@@ -91,7 +91,10 @@
 		{"id":"2d85e5aeb870674d","type":"text","text":"IF current node is a MAXIMIZING NODE, ALPHA = Max of (children)","x":2500,"y":3840,"width":250,"height":131},
 		{"id":"a7d3398816a195cc","type":"text","text":"if current node is MINIMIZING node, BETA = MIN of children","x":2540,"y":4340,"width":250,"height":93},
 		{"id":"23a269b59bae0119","type":"text","text":"PRUNE branch if it increases BETA","x":2549,"y":4047,"width":250,"height":60},
-		{"id":"826d959d92312105","x":2550,"y":4216,"width":250,"height":60,"type":"text","text":"PRUNE branch if it DECREASES alpha"}
+		{"id":"826d959d92312105","x":2550,"y":4216,"width":250,"height":60,"type":"text","text":"PRUNE branch if it DECREASES alpha"},
+		{"id":"ac86c32d49836e01","x":2408,"y":2665,"width":250,"height":60,"color":"6","type":"text","text":"Model of Learning Agent"},
+		{"id":"f642c7388c3d1ac4","x":2726,"y":2760,"width":634,"height":455,"type":"file","file":"Pasted image 20240308171611.png"},
+		{"id":"49b3796b8f2200bf","x":2770,"y":3285,"width":546,"height":295,"type":"text","text":"1. **Learning element:** It is responsible for making improvements by learning from the environment.\n2. **Critic:** The learning element takes feedback from critics which describes how well the agent is doing with respect to a fixed performance standard.\n3. **Performance element:** It is responsible for selecting external action.\n4. **Problem Generator:** This component is responsible for suggesting actions that will lead to new and informative experiences."}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
@@ -170,6 +173,9 @@
 		{"id":"70b985095c8cc8bd","fromNode":"2d85e5aeb870674d","fromSide":"bottom","toNode":"23a269b59bae0119","toSide":"top"},
 		{"id":"38dbe7d40ead4fc7","fromNode":"4fcad6c538805c45","fromSide":"right","toNode":"ce0c76a559c655d4","toSide":"left"},
 		{"id":"7f9609db76208047","fromNode":"ce0c76a559c655d4","fromSide":"right","toNode":"2d85e5aeb870674d","toSide":"left"},
-		{"id":"24301a7117d71982","fromNode":"a7d3398816a195cc","fromSide":"top","toNode":"826d959d92312105","toSide":"bottom"}
+		{"id":"24301a7117d71982","fromNode":"a7d3398816a195cc","fromSide":"top","toNode":"826d959d92312105","toSide":"bottom"},
+		{"id":"2a99da613f4e5ce7","fromNode":"b0a144fd06f047c5","fromSide":"right","toNode":"ac86c32d49836e01","toSide":"left"},
+		{"id":"f82451a1ae813808","fromNode":"ac86c32d49836e01","fromSide":"right","toNode":"f642c7388c3d1ac4","toSide":"left"},
+		{"id":"b2babec85d02b037","fromNode":"f642c7388c3d1ac4","fromSide":"bottom","toNode":"49b3796b8f2200bf","toSide":"top"}
 	]
 }
