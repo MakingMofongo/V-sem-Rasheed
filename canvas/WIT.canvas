@@ -18,8 +18,13 @@
 		{"id":"5fc6fd7cf800ea2e","type":"text","text":"1995 - IE","x":1133,"y":49,"width":250,"height":60},
 		{"id":"0c492e20bdf9cf2a","type":"text","text":"2002 - Firefox","x":1108,"y":125,"width":250,"height":60},
 		{"id":"3e2ffb296075301a","type":"text","text":"2003 Safari","x":1080,"y":220,"width":250,"height":60},
-		{"id":"959d7d455cee4001","x":745,"y":420,"width":250,"height":60,"type":"text","text":"Web Server"},
-		{"id":"9194476f9963e182","x":1073,"y":381,"width":250,"height":60,"type":"text","text":"Contains Web apps and Hardware"}
+		{"id":"9194476f9963e182","x":1073,"y":540,"width":250,"height":60,"type":"text","text":"Made of Web apps and Hardware"},
+		{"id":"959d7d455cee4001","x":745,"y":579,"width":250,"height":60,"color":"3","type":"text","text":"Web Server"},
+		{"id":"482ad6aa19cca3bb","x":1084,"y":664,"width":250,"height":60,"type":"text","text":"Uses HTML protcol"},
+		{"id":"4d586915905bdfdc","x":1463,"y":690,"width":250,"height":60,"type":"text","text":"Can also use SMTP and FTP"},
+		{"id":"bd3b10c0fd8ad6e9","x":1500,"y":439,"width":250,"height":60,"type":"text","text":"Handles User Requests for data and files"},
+		{"id":"29fdc654836884e1","x":1500,"y":280,"width":250,"height":60,"type":"text","text":"Contains data, webpages, images, files etc"},
+		{"id":"40fe366aac840733","x":1514,"y":571,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -40,6 +45,11 @@
 		{"id":"17d49dff499d40ee","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"0c492e20bdf9cf2a","toSide":"left"},
 		{"id":"b33a78ebb74f6c68","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"3e2ffb296075301a","toSide":"left"},
 		{"id":"52f61d437e05605c","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"959d7d455cee4001","toSide":"left"},
-		{"id":"f480c89874fbdb4f","fromNode":"959d7d455cee4001","fromSide":"right","toNode":"9194476f9963e182","toSide":"left"}
+		{"id":"f480c89874fbdb4f","fromNode":"959d7d455cee4001","fromSide":"right","toNode":"9194476f9963e182","toSide":"left"},
+		{"id":"4e11c5ab9b68bd28","fromNode":"959d7d455cee4001","fromSide":"right","toNode":"482ad6aa19cca3bb","toSide":"left"},
+		{"id":"79e93dbe0d5bea17","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"4d586915905bdfdc","toSide":"left"},
+		{"id":"2fc637129969ec26","fromNode":"9194476f9963e182","fromSide":"right","toNode":"29fdc654836884e1","toSide":"left"},
+		{"id":"35e92a8386a1ba4c","fromNode":"9194476f9963e182","fromSide":"right","toNode":"bd3b10c0fd8ad6e9","toSide":"left"},
+		{"id":"b9af196908fdc716","fromNode":"9194476f9963e182","fromSide":"right","toNode":"40fe366aac840733","toSide":"left"}
 	]
 }
