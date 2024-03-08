@@ -24,7 +24,6 @@
 		{"id":"808e8b1238d4bb76","type":"text","text":"Reflex","x":1680,"y":1194,"width":250,"height":60},
 		{"id":"7700806558f611ba","type":"text","text":"Types","x":1356,"y":1240,"width":250,"height":60},
 		{"id":"23c5e6b003d06708","type":"text","text":"- **Simulating intelligence:** AI is a branch of computer science that focuses on building machines that can mimic human cognitive functions such as learning, problem-solving, perception, and decision-making.","x":2379,"y":535,"width":340,"height":186},
-		{"id":"ceb3250f891d5bb2","type":"file","file":"Pasted image 20240307174056.png","x":560,"y":-203,"width":696,"height":763},
 		{"id":"2007bedf3ab34d76","type":"file","file":"WhatsApp Image 2024-03-05 at 09.59.39_6c90fc5e.jpg","x":459,"y":-1200,"width":393,"height":400},
 		{"id":"baa23da0e5fb441f","type":"file","file":"WhatsApp Image 2024-03-05 at 10.00.00_fedd5a7b.jpg","x":960,"y":-1200,"width":400,"height":323},
 		{"id":"f569c84eba834b5c","type":"file","file":"WhatsApp Image 2024-03-06 at 10.49.49_bb0ef73a.jpg","x":459,"y":-720,"width":225,"height":400},
@@ -72,7 +71,9 @@
 		{"id":"0dfafe9cb68f5687","x":3963,"y":2229,"width":250,"height":60,"type":"text","text":"Property 1: MONOTONICITY"},
 		{"id":"19cf4751f93bb4af","x":3844,"y":2480,"width":250,"height":60,"type":"text","text":"Property 3: Transitivity"},
 		{"id":"05019cf59fbc0a2a","x":3920,"y":2361,"width":250,"height":60,"type":"text","text":"Property 2: Independence"},
-		{"id":"ba7cb045238269ba","x":3973,"y":1910,"width":267,"height":149,"color":"3","type":"text","text":"Expected Utility Theory = WEIGHTED SUM of each outcomes Probability and Utility"}
+		{"id":"ba7cb045238269ba","x":3973,"y":1910,"width":267,"height":149,"color":"3","type":"text","text":"Expected Utility Theory = WEIGHTED SUM of each outcomes Probability and Utility"},
+		{"id":"62876c2691e08fa6","x":836,"y":2365,"width":250,"height":60,"type":"text","text":"Different Uninformed Search Algos"},
+		{"id":"ceb3250f891d5bb2","type":"file","file":"Pasted image 20240307174056.png","x":560,"y":-200,"width":696,"height":763}
 	],
 	"edges":[
 		{"id":"cd7738ad5bb59025","fromNode":"67cad1ed77673bd7","fromSide":"left","toNode":"ceb3250f891d5bb2","toSide":"right"},
