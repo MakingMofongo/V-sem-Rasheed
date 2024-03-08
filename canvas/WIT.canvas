@@ -5,19 +5,21 @@
 		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-405,"y":520,"width":250,"height":60},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
 		{"id":"55d5091406ac6f0a","type":"text","text":"UNIT 4","x":-1200,"y":-80,"width":250,"height":60},
-		{"id":"9d6f83d3b8ad73f3","x":800,"y":-760,"width":250,"height":60,"type":"text","text":"Intro to Internet"},
-		{"id":"0066cd778fbd5d12","x":870,"y":-600,"width":250,"height":60,"type":"text","text":"World Wide Web"},
-		{"id":"a6a4d532e49da9ea","x":1200,"y":-600,"width":250,"height":60,"type":"text","text":"Collection of websites"},
-		{"id":"5701334b907ea34f","x":1520,"y":-600,"width":250,"height":60,"type":"text","text":"What is Website"},
-		{"id":"c510c630c2c40ecf","x":932,"y":-487,"width":250,"height":60,"type":"text","text":"Web Browser"},
-		{"id":"ccb98d537cd35d81","x":1270,"y":-487,"width":250,"height":60,"type":"text","text":"Displays Webpages"},
-		{"id":"eda2d62f8a50b7b8","x":933,"y":-292,"width":250,"height":60,"type":"text","text":"History of Web Browsers"},
-		{"id":"141088ab125d2f91","x":1247,"y":-204,"width":250,"height":60,"type":"text","text":"1990 - WWW"},
-		{"id":"16dc5c61776a3740","x":1220,"y":-106,"width":250,"height":60,"type":"text","text":"1993 - Mosaic"},
-		{"id":"aaec4121fe458dfb","x":1169,"y":-18,"width":250,"height":60,"type":"text","text":"1994 Netscape Navigator"},
-		{"id":"5fc6fd7cf800ea2e","x":1133,"y":49,"width":250,"height":60,"type":"text","text":"1995 - IE"},
-		{"id":"0c492e20bdf9cf2a","x":1108,"y":125,"width":250,"height":60,"type":"text","text":"2002 - Firefox"},
-		{"id":"3e2ffb296075301a","x":1080,"y":220,"width":250,"height":60,"type":"text","text":"2003 Safari"}
+		{"id":"9d6f83d3b8ad73f3","type":"text","text":"Intro to Internet","x":800,"y":-760,"width":250,"height":60},
+		{"id":"0066cd778fbd5d12","type":"text","text":"World Wide Web","x":870,"y":-600,"width":250,"height":60},
+		{"id":"a6a4d532e49da9ea","type":"text","text":"Collection of websites","x":1200,"y":-600,"width":250,"height":60},
+		{"id":"5701334b907ea34f","type":"text","text":"What is Website","x":1520,"y":-600,"width":250,"height":60},
+		{"id":"c510c630c2c40ecf","type":"text","text":"Web Browser","x":932,"y":-487,"width":250,"height":60},
+		{"id":"ccb98d537cd35d81","type":"text","text":"Displays Webpages","x":1270,"y":-487,"width":250,"height":60},
+		{"id":"eda2d62f8a50b7b8","type":"text","text":"History of Web Browsers","x":933,"y":-292,"width":250,"height":60},
+		{"id":"141088ab125d2f91","type":"text","text":"1990 - WWW","x":1247,"y":-204,"width":250,"height":60},
+		{"id":"16dc5c61776a3740","type":"text","text":"1993 - Mosaic","x":1220,"y":-106,"width":250,"height":60},
+		{"id":"aaec4121fe458dfb","type":"text","text":"1994 Netscape Navigator","x":1169,"y":-18,"width":250,"height":60},
+		{"id":"5fc6fd7cf800ea2e","type":"text","text":"1995 - IE","x":1133,"y":49,"width":250,"height":60},
+		{"id":"0c492e20bdf9cf2a","type":"text","text":"2002 - Firefox","x":1108,"y":125,"width":250,"height":60},
+		{"id":"3e2ffb296075301a","type":"text","text":"2003 Safari","x":1080,"y":220,"width":250,"height":60},
+		{"id":"959d7d455cee4001","x":745,"y":420,"width":250,"height":60,"type":"text","text":"Web Server"},
+		{"id":"9194476f9963e182","x":1073,"y":381,"width":250,"height":60,"type":"text","text":"Contains Web apps and Hardware"}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
@@ -36,6 +38,8 @@
 		{"id":"6aa91a65d612d3dd","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"aaec4121fe458dfb","toSide":"left"},
 		{"id":"eebd121f4aad52db","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"5fc6fd7cf800ea2e","toSide":"left"},
 		{"id":"17d49dff499d40ee","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"0c492e20bdf9cf2a","toSide":"left"},
-		{"id":"b33a78ebb74f6c68","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"3e2ffb296075301a","toSide":"left"}
+		{"id":"b33a78ebb74f6c68","fromNode":"eda2d62f8a50b7b8","fromSide":"right","toNode":"3e2ffb296075301a","toSide":"left"},
+		{"id":"52f61d437e05605c","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"959d7d455cee4001","toSide":"left"},
+		{"id":"f480c89874fbdb4f","fromNode":"959d7d455cee4001","fromSide":"right","toNode":"9194476f9963e182","toSide":"left"}
 	]
 }
