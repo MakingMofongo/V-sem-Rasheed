@@ -68,14 +68,6 @@
 		{"id":"825c9291ab2acdff","type":"text","text":"HTML5","x":1060,"y":3078,"width":250,"height":102,"color":"2"},
 		{"id":"c9799a59f2f33e0a","type":"text","text":"Differences b/w HTML and HTML5","x":1405,"y":3580,"width":250,"height":100,"color":"2"},
 		{"id":"68626fe99a57af6a","type":"text","text":"Evolution of HTMl","x":240,"y":3455,"width":250,"height":175,"color":"2"},
-		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":661,"y":4938,"width":250,"height":165,"color":"#b10bfe"},
-		{"id":"4af0c395653743dc","type":"text","text":"Inline","x":1143,"y":4923,"width":250,"height":60},
-		{"id":"519566620515ed34","type":"text","text":"Internal","x":1143,"y":5023,"width":250,"height":60},
-		{"id":"8bdab0fd8280d62d","type":"text","text":"External","x":1143,"y":5123,"width":250,"height":60},
-		{"id":"8c0a2517a4d945e0","type":"text","text":"Colour, Font and Sizes","x":1143,"y":5223,"width":250,"height":60},
-		{"id":"a7432d12ace87a10","type":"text","text":"CSS Border","x":1143,"y":5323,"width":250,"height":60},
-		{"id":"c51bcc5c4e1fc0e7","type":"text","text":"Padding","x":1315,"y":5503,"width":250,"height":60},
-		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":1565,"y":5643,"width":250,"height":60},
 		{"id":"0f1baf56c42ce001","type":"text","text":"HTML Documents","x":1655,"y":4283,"width":250,"height":60},
 		{"id":"d7a2d05661e8aaa1","type":"text","text":"Works STATICALLY, cannot be used to create DYNAMIC elements","x":1236,"y":2575,"width":250,"height":123},
 		{"id":"b8e6e8efef0d49bd","type":"text","text":"Combined with CSS and JS to make dynamic websites","x":1565,"y":2667,"width":250,"height":87},
@@ -95,10 +87,6 @@
 		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":2020,"y":3744,"width":250,"height":144},
 		{"id":"9faa5330fcd911cb","type":"text","text":"in HTML JS and Browser interface run in the SAME thread, in HTML5, they run in SEPARATE threads","x":2020,"y":3940,"width":250,"height":126},
 		{"id":"db320b2a63624f25","type":"text","text":"Compatibility. HTML all browsers, HTML5 newer browsers","x":2020,"y":4106,"width":250,"height":87},
-		{"id":"6a646d02cc33f071","type":"text","text":"Images","x":1655,"y":4483,"width":250,"height":60},
-		{"id":"85a41560651a0706","type":"text","text":"Multimedia","x":1655,"y":4583,"width":250,"height":60},
-		{"id":"63cb0cc979753555","type":"text","text":"HTML lists","x":1655,"y":4683,"width":250,"height":60},
-		{"id":"07e819acda5b8a4e","type":"text","text":"Link","x":1655,"y":4383,"width":250,"height":60},
 		{"id":"8fcf6b4b8e1972e6","type":"text","text":"`<!DOCTYPE>`","x":2533,"y":4409,"width":250,"height":60},
 		{"id":"3487944d174f12dc","type":"text","text":"Appears once at top\n\nNot case sensitive\n\nRepresents document type thus helping browsers to display web pages correctly\n","x":2946,"y":4349,"width":250,"height":240},
 		{"id":"ab1a01ca03cbbd44","type":"text","text":"for html5:\n`<!DOCTYPE html>`","x":2946,"y":4633,"width":250,"height":121},
@@ -107,8 +95,21 @@
 		{"id":"a83b01b6a1d5b70d","type":"text","text":"Relationship between HTML document and external resource\n\n","x":2040,"y":4472,"width":250,"height":131},
 		{"id":"c37593d7db7f65c8","type":"text","text":"Type of relationship defined by 'rel' attribute","x":2397,"y":4568,"width":250,"height":58},
 		{"id":"3ec4a1ecc9e0a7e7","type":"text","text":"25 available values for rel","x":2397,"y":4703,"width":250,"height":60},
-		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1655,"y":5153,"width":250,"height":60},
-		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1655,"y":4993,"width":250,"height":60}
+		{"id":"07e819acda5b8a4e","type":"text","text":"Link","x":1655,"y":4508,"width":250,"height":60},
+		{"id":"6a646d02cc33f071","type":"text","text":"Images","x":1655,"y":4823,"width":250,"height":60},
+		{"id":"8bdab0fd8280d62d","type":"text","text":"External","x":1018,"y":5920,"width":250,"height":60},
+		{"id":"8c0a2517a4d945e0","type":"text","text":"Colour, Font and Sizes","x":1018,"y":6020,"width":250,"height":60},
+		{"id":"a7432d12ace87a10","type":"text","text":"CSS Border","x":1018,"y":6120,"width":250,"height":60},
+		{"id":"c51bcc5c4e1fc0e7","type":"text","text":"Padding","x":1190,"y":6300,"width":250,"height":60},
+		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":1440,"y":6440,"width":250,"height":60},
+		{"id":"4af0c395653743dc","type":"text","text":"Inline","x":1018,"y":5720,"width":250,"height":60},
+		{"id":"519566620515ed34","type":"text","text":"Internal","x":1018,"y":5820,"width":250,"height":60},
+		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":536,"y":5735,"width":250,"height":165,"color":"#b10bfe"},
+		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1655,"y":5380,"width":250,"height":60},
+		{"id":"85a41560651a0706","type":"text","text":"Multimedia","x":1655,"y":5140,"width":250,"height":60},
+		{"id":"63cb0cc979753555","type":"text","text":"HTML lists","x":1655,"y":5220,"width":250,"height":60},
+		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1655,"y":5300,"width":250,"height":60},
+		{"id":"f10272340ecb6846","x":2014,"y":4720,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -222,6 +223,7 @@
 		{"id":"160aa8e51f8ea5b6","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"07e819acda5b8a4e","toSide":"left"},
 		{"id":"9d51100ca6c6bd9b","fromNode":"07e819acda5b8a4e","fromSide":"right","toNode":"a83b01b6a1d5b70d","toSide":"left"},
 		{"id":"3001a52e4f39d465","fromNode":"a83b01b6a1d5b70d","fromSide":"right","toNode":"c37593d7db7f65c8","toSide":"left"},
-		{"id":"ab8f3d04b779558e","fromNode":"c37593d7db7f65c8","fromSide":"bottom","toNode":"3ec4a1ecc9e0a7e7","toSide":"top"}
+		{"id":"ab8f3d04b779558e","fromNode":"c37593d7db7f65c8","fromSide":"bottom","toNode":"3ec4a1ecc9e0a7e7","toSide":"top"},
+		{"id":"8cd20b11587d02e5","fromNode":"6a646d02cc33f071","fromSide":"right","toNode":"f10272340ecb6846","toSide":"left"}
 	]
 }
