@@ -97,7 +97,7 @@
 		{"id":"63cb0cc979753555","type":"text","text":"HTML lists","x":1655,"y":4583,"width":250,"height":60},
 		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1655,"y":4683,"width":250,"height":60},
 		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1655,"y":4783,"width":250,"height":60},
-		{"id":"93709d96ac49f53b","x":980,"y":3884,"width":250,"height":60,"type":"text","text":"Defined by "}
+		{"id":"93709d96ac49f53b","x":980,"y":3658,"width":250,"height":286,"type":"text","text":"Defined by TAGS\n\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
