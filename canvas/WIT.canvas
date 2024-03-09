@@ -66,7 +66,7 @@
 		{"id":"5701334b907ea34f","type":"text","text":"What is Website","x":1580,"y":-570,"width":250,"height":60},
 		{"id":"cd71c8cbb8c6e9cd","type":"text","text":"# HTML","x":640,"y":2394,"width":250,"height":286,"color":"2"},
 		{"id":"825c9291ab2acdff","type":"text","text":"HTML5","x":1060,"y":3078,"width":250,"height":102,"color":"2"},
-		{"id":"c9799a59f2f33e0a","type":"text","text":"Differences b/w HTML and HTML5","x":1405,"y":3580,"width":250,"height":100},
+		{"id":"c9799a59f2f33e0a","type":"text","text":"Differences b/w HTML and HTML5","x":1405,"y":3580,"width":250,"height":100,"color":"2"},
 		{"id":"e43d7d252d68923a","type":"text","text":"A/V support","x":1869,"y":3482,"width":250,"height":60},
 		{"id":"23b4e1be94b36408","type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLASH,VML or SILVERLIGHT","x":1869,"y":3582,"width":250,"height":152},
 		{"id":"206baf5c396c84a8","type":"text","text":"Unrestricted use of inline MathML and SVG in text","x":1869,"y":3774,"width":250,"height":93},
