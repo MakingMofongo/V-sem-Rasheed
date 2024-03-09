@@ -49,7 +49,9 @@
 		{"id":"6c387a6ee5ffef92","type":"text","text":"Called 'HyperText' since it allows rapid jumping between one document to another document","x":2240,"y":1208,"width":250,"height":123},
 		{"id":"5c8f7ded038166d2","type":"text","text":"Uses MIME-like format to carry data","x":2631,"y":1086,"width":250,"height":60},
 		{"id":"176f99327a5e5a41","x":2152,"y":1440,"width":250,"height":103,"type":"text","text":"## Features of HTTP"},
-		{"id":"a0eee1f4e35bb578","x":2582,"y":1374,"width":250,"height":60,"type":"text","text":"Connectionless Protocol"}
+		{"id":"a0eee1f4e35bb578","x":2582,"y":1374,"width":250,"height":60,"type":"text","text":"Connectionless Protocol"},
+		{"id":"cec58068d959a1b4","x":2951,"y":1270,"width":250,"height":116,"type":"text","text":"Connection is Alive only thru Request ->Processing ->Response, after which it is severed"},
+		{"id":"5f23486cf9a93774","x":2591,"y":1527,"width":250,"height":60,"type":"text","text":"Media Indepenent"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -97,6 +99,8 @@
 		{"id":"80c9a979b19acd01","fromNode":"d07913367daea04b","fromSide":"top","toNode":"ddd209eb9b467978","toSide":"left","color":"1"},
 		{"id":"de24b75debf41625","fromNode":"eaecf48e4cffdcf6","fromSide":"right","toNode":"c7aa3d225e98a015","toSide":"left"},
 		{"id":"833eda71b2dfbcf0","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"176f99327a5e5a41","toSide":"top","color":"1"},
-		{"id":"3702fc1e5eddce23","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"a0eee1f4e35bb578","toSide":"left"}
+		{"id":"3702fc1e5eddce23","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"a0eee1f4e35bb578","toSide":"left"},
+		{"id":"1346ecc6e2c1ca8d","fromNode":"a0eee1f4e35bb578","fromSide":"right","toNode":"cec58068d959a1b4","toSide":"left"},
+		{"id":"9d07a4b84612ea21","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"5f23486cf9a93774","toSide":"left"}
 	]
 }
