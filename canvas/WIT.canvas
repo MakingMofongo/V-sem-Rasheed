@@ -64,7 +64,9 @@
 		{"id":"b5b56befdb2e6248","x":3180,"y":2553,"width":277,"height":142,"type":"text","text":"Consists of a status line, headers, and sometimes a body."},
 		{"id":"a6a4d532e49da9ea","type":"text","text":"Collection of websites","x":1220,"y":-620,"width":250,"height":60},
 		{"id":"5701334b907ea34f","type":"text","text":"What is Website","x":1580,"y":-570,"width":250,"height":60},
-		{"id":"cd71c8cbb8c6e9cd","x":666,"y":2200,"width":250,"height":80,"color":"2","type":"text","text":"HTML"}
+		{"id":"cd71c8cbb8c6e9cd","x":640,"y":2394,"width":250,"height":286,"color":"2","type":"text","text":"# HTML"},
+		{"id":"809c9de1749631a5","x":1151,"y":2321,"width":250,"height":103,"type":"text","text":"Staandad markup language for creating webpages"},
+		{"id":"84eb2481b7757e60","x":958,"y":2317,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -132,6 +134,8 @@
 		{"id":"075f6e1c2738b5cb","fromNode":"c891813d23dda2ba","fromSide":"right","toNode":"602bc55cc968f44d","toSide":"left"},
 		{"id":"d754cfbffa7d7648","fromNode":"5ce3135c645621d1","fromSide":"right","toNode":"57123e1afacb78df","toSide":"left"},
 		{"id":"0cda5c13e00ddf68","fromNode":"57123e1afacb78df","fromSide":"right","toNode":"b5b56befdb2e6248","toSide":"left"},
-		{"id":"ba238ff2479f55a3","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"cd71c8cbb8c6e9cd","toSide":"left"}
+		{"id":"ba238ff2479f55a3","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"cd71c8cbb8c6e9cd","toSide":"left"},
+		{"id":"8319de2823c316ee","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"809c9de1749631a5","toSide":"left"},
+		{"id":"06285408419f60ba","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"84eb2481b7757e60","toSide":"left"}
 	]
 }
