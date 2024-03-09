@@ -105,7 +105,8 @@
 		{"id":"3487944d174f12dc","type":"text","text":"Appears once at top\n\nNot case sensitive\n\nRepresents document type thus helping browsers to display web pages correctly\n","x":2946,"y":4349,"width":250,"height":240},
 		{"id":"ab1a01ca03cbbd44","type":"text","text":"for html5:\n`<!DOCTYPE html>`","x":2946,"y":4633,"width":250,"height":121},
 		{"id":"489c3a981526876e","type":"text","text":"```\n<!DOCTYPE html>\n<html>\n<body>\n\n<h1>My First Heading</h1>\n<p>My first paragraph.</p>\nMy first paragraph.\n\n</body>\n</html>\n```","x":2696,"y":3986,"width":369,"height":300},
-		{"id":"3cf3930315bb707a","type":"text","text":"Doctype\nhtml\nbody","x":2200,"y":4267,"width":250,"height":96}
+		{"id":"3cf3930315bb707a","type":"text","text":"Doctype\nhtml\nbody","x":2200,"y":4267,"width":250,"height":96},
+		{"id":"a83b01b6a1d5b70d","x":2020,"y":4422,"width":250,"height":60,"type":"text","text":"Relationship between HTML document and external page/"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -216,6 +217,7 @@
 		{"id":"e0fef285df390caf","fromNode":"3cf3930315bb707a","fromSide":"right","toNode":"8fcf6b4b8e1972e6","toSide":"left"},
 		{"id":"a0fef78a8ebd4a85","fromNode":"8fcf6b4b8e1972e6","fromSide":"right","toNode":"3487944d174f12dc","toSide":"left"},
 		{"id":"aca684e4af01ddb5","fromNode":"8fcf6b4b8e1972e6","fromSide":"right","toNode":"ab1a01ca03cbbd44","toSide":"left"},
-		{"id":"160aa8e51f8ea5b6","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"07e819acda5b8a4e","toSide":"left"}
+		{"id":"160aa8e51f8ea5b6","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"07e819acda5b8a4e","toSide":"left"},
+		{"id":"9d51100ca6c6bd9b","fromNode":"07e819acda5b8a4e","fromSide":"right","toNode":"a83b01b6a1d5b70d","toSide":"left"}
 	]
 }
