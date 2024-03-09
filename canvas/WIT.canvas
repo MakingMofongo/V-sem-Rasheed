@@ -123,7 +123,7 @@
 		{"id":"28af0536ff34dcaa","type":"file","file":"Pasted image 20240309175427.png","x":2304,"y":7240,"width":400,"height":396},
 		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1720,"y":7800,"width":250,"height":60},
 		{"id":"f9eefabc157c9b97","type":"text","text":"tag = form","x":2071,"y":7764,"width":250,"height":60},
-		{"id":"c18c2e57d8c0d227","type":"file","file":"Pasted image 20240309175509.png","x":2400,"y":7737,"width":400,"height":115},
+		{"id":"c18c2e57d8c0d227","type":"file","file":"Pasted image 20240309175509.png","x":2400,"y":7737,"width":399,"height":115},
 		{"id":"a50cb5ec5b5eaccc","type":"text","text":"Text input","x":2071,"y":7920,"width":250,"height":60},
 		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":726,"height":150},
 		{"id":"2d22a5fb80501840","type":"file","file":"Pasted image 20240309180006.png","x":2920,"y":5507,"width":260,"height":163},
@@ -135,9 +135,11 @@
 		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":1915,"y":3608,"width":250,"height":144},
 		{"id":"9faa5330fcd911cb","type":"text","text":"in HTML JS and Browser interface run in the SAME thread, in HTML5, they run in SEPARATE threads","x":1915,"y":3804,"width":250,"height":126},
 		{"id":"db320b2a63624f25","type":"text","text":"Compatibility. HTML all browsers, HTML5 newer browsers","x":1915,"y":3970,"width":250,"height":87},
-		{"id":"d03b96fb609f14c3","x":2290,"y":4841,"width":710,"height":52,"type":"text","text":"`<img src=\"img_girl.jpg\" alt=\"Girl in a jacket\" width=\"500\" height=\"600\">`"},
-		{"id":"de79a1783aa0d571","x":2658,"y":5140,"width":400,"height":101,"type":"file","file":"Pasted image 20240309181531.png"},
-		{"id":"7643c8d8095abcb3","type":"text","text":"alternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2920,"y":4901,"width":250,"height":181}
+		{"id":"d03b96fb609f14c3","type":"text","text":"`<img src=\"img_girl.jpg\" alt=\"Girl in a jacket\" width=\"500\" height=\"600\">`","x":2290,"y":4841,"width":710,"height":52},
+		{"id":"de79a1783aa0d571","type":"file","file":"Pasted image 20240309181531.png","x":2658,"y":5140,"width":400,"height":101},
+		{"id":"7643c8d8095abcb3","type":"text","text":"alternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2920,"y":4901,"width":250,"height":181},
+		{"id":"9fb22fea431fb779","x":-1615,"y":-63,"width":250,"height":60,"type":"text","text":"Servlet"},
+		{"id":"2517f9c306396702","x":-1820,"y":-480,"width":389,"height":271,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -281,6 +283,8 @@
 		{"id":"48b4696615752593","fromNode":"2d22a5fb80501840","fromSide":"right","toNode":"c8b229b5711194e3","toSide":"left"},
 		{"id":"0c59737f015ec66a","fromNode":"7d51768c88e2398a","fromSide":"right","toNode":"85a41560651a0706","toSide":"top","color":"#413e3e"},
 		{"id":"74de00d4046c2b08","fromNode":"f10272340ecb6846","fromSide":"right","toNode":"d03b96fb609f14c3","toSide":"left"},
-		{"id":"a1606e1002760c48","fromNode":"5b425348b2e5ee31","fromSide":"right","toNode":"de79a1783aa0d571","toSide":"left"}
+		{"id":"a1606e1002760c48","fromNode":"5b425348b2e5ee31","fromSide":"right","toNode":"de79a1783aa0d571","toSide":"left"},
+		{"id":"1f2433c7ef895528","fromNode":"55d5091406ac6f0a","fromSide":"left","toNode":"9fb22fea431fb779","toSide":"right"},
+		{"id":"e7337b5091dcb431","fromNode":"9fb22fea431fb779","fromSide":"top","toNode":"2517f9c306396702","toSide":"bottom"}
 	]
 }
