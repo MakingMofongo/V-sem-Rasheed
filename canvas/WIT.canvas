@@ -96,23 +96,13 @@
 		{"id":"c37593d7db7f65c8","type":"text","text":"Type of relationship defined by 'rel' attribute","x":2397,"y":4568,"width":250,"height":58},
 		{"id":"3ec4a1ecc9e0a7e7","type":"text","text":"25 available values for rel","x":2397,"y":4703,"width":250,"height":60},
 		{"id":"07e819acda5b8a4e","type":"text","text":"Link","x":1655,"y":4508,"width":250,"height":60},
-		{"id":"8bdab0fd8280d62d","type":"text","text":"External","x":1018,"y":5920,"width":250,"height":60},
-		{"id":"8c0a2517a4d945e0","type":"text","text":"Colour, Font and Sizes","x":1018,"y":6020,"width":250,"height":60},
-		{"id":"a7432d12ace87a10","type":"text","text":"CSS Border","x":1018,"y":6120,"width":250,"height":60},
-		{"id":"c51bcc5c4e1fc0e7","type":"text","text":"Padding","x":1190,"y":6300,"width":250,"height":60},
-		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":1440,"y":6440,"width":250,"height":60},
-		{"id":"4af0c395653743dc","type":"text","text":"Inline","x":1018,"y":5720,"width":250,"height":60},
-		{"id":"519566620515ed34","type":"text","text":"Internal","x":1018,"y":5820,"width":250,"height":60},
-		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":536,"y":5735,"width":250,"height":165,"color":"#b10bfe"},
 		{"id":"85a41560651a0706","type":"text","text":"Multimedia","x":1655,"y":5140,"width":250,"height":60},
 		{"id":"f10272340ecb6846","x":1979,"y":4820,"width":250,"height":60,"type":"text","text":"img tag - image"},
 		{"id":"6a646d02cc33f071","type":"text","text":"Images","x":1655,"y":4923,"width":250,"height":60},
 		{"id":"b8d81390a9a11c86","x":1979,"y":5020,"width":250,"height":60,"type":"text","text":"picture tag - responsive image"},
 		{"id":"5b425348b2e5ee31","x":2350,"y":5023,"width":250,"height":117,"type":"text","text":"contains zero or more `<source>` elements and one `<img>` element"},
 		{"id":"883edd70f1e27255","x":2040,"y":5220,"width":278,"height":153,"type":"text","text":"```\n<audio>\n<video>\n<embed>\n<object>\n<iframe>\n```"},
-		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1655,"y":5700,"width":250,"height":60},
 		{"id":"63cb0cc979753555","type":"text","text":"HTML lists","x":1655,"y":5540,"width":250,"height":60},
-		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1655,"y":5620,"width":250,"height":60},
 		{"id":"7b4ee510ad4d6eaa","x":2225,"y":5480,"width":250,"height":60,"type":"text","text":"Unordered"},
 		{"id":"da83bb1e196a2bc1","x":2225,"y":5570,"width":250,"height":60,"type":"text","text":"Ordered"},
 		{"id":"2494b3646e5a6462","x":2553,"y":5390,"width":250,"height":70,"type":"text","text":"ul tag\neach list item: li tag"},
@@ -120,7 +110,18 @@
 		{"id":"76a1fb90472ed0e4","x":2216,"y":5667,"width":250,"height":60,"type":"text","text":"Description lists"},
 		{"id":"30a2a4bef68d8884","x":2553,"y":5630,"width":250,"height":250,"type":"text","text":"A description list is a list of terms, with a description of each term.\n\ndl tag\ndt tag - term (name)\ndd tag - describes each term"},
 		{"id":"aad0884a3447ae01","x":2900,"y":5727,"width":400,"height":250,"type":"file","file":"Pasted image 20240309174953.png"},
-		{"id":"6769109428849fd0","x":2553,"y":5542,"width":250,"height":60,"type":"text","text":"ol tag"}
+		{"id":"6769109428849fd0","x":2553,"y":5542,"width":250,"height":60,"type":"text","text":"ol tag"},
+		{"id":"19d2e4aca9aff3cf","x":2104,"y":5880,"width":400,"height":397,"type":"file","file":"Pasted image 20240309175040.png"},
+		{"id":"8bdab0fd8280d62d","type":"text","text":"External","x":-558,"y":5520,"width":250,"height":60},
+		{"id":"8c0a2517a4d945e0","type":"text","text":"Colour, Font and Sizes","x":-558,"y":5620,"width":250,"height":60},
+		{"id":"a7432d12ace87a10","type":"text","text":"CSS Border","x":-558,"y":5720,"width":250,"height":60},
+		{"id":"c51bcc5c4e1fc0e7","type":"text","text":"Padding","x":-386,"y":5900,"width":250,"height":60},
+		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":-136,"y":6040,"width":250,"height":60},
+		{"id":"4af0c395653743dc","type":"text","text":"Inline","x":-558,"y":5320,"width":250,"height":60},
+		{"id":"519566620515ed34","type":"text","text":"Internal","x":-558,"y":5420,"width":250,"height":60},
+		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":-1040,"y":5335,"width":250,"height":165,"color":"#b10bfe"},
+		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1720,"y":6720,"width":250,"height":60},
+		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1720,"y":6640,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -246,6 +247,7 @@
 		{"id":"8a6f4b83270224ee","fromNode":"da83bb1e196a2bc1","fromSide":"right","toNode":"6769109428849fd0","toSide":"left"},
 		{"id":"20cfc88005bf0b70","fromNode":"63cb0cc979753555","fromSide":"right","toNode":"76a1fb90472ed0e4","toSide":"left"},
 		{"id":"1556d41e0bca3f68","fromNode":"76a1fb90472ed0e4","fromSide":"right","toNode":"30a2a4bef68d8884","toSide":"left"},
-		{"id":"44e77862023020b4","fromNode":"30a2a4bef68d8884","fromSide":"right","toNode":"aad0884a3447ae01","toSide":"left"}
+		{"id":"44e77862023020b4","fromNode":"30a2a4bef68d8884","fromSide":"right","toNode":"aad0884a3447ae01","toSide":"left"},
+		{"id":"6418ebecd33ca688","fromNode":"63cb0cc979753555","fromSide":"right","toNode":"19d2e4aca9aff3cf","toSide":"left"}
 	]
 }
