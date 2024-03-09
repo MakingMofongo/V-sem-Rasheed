@@ -70,7 +70,7 @@
 		{"id":"c7b7693da63fffd7","type":"text","text":"**AJAX = Asynchronous JavaScript And XML.**","x":19,"y":445,"width":387,"height":50},
 		{"id":"cdf384e53661d42b","type":"text","text":"is a form of con­di­tional branch­ing which al­lows you to con­cisely match on data struc­ture pat­terns and bind vari­ables at the same time","x":-1226,"y":393,"width":314,"height":155},
 		{"id":"d4b8adb919d8aa8f","type":"text","text":"Pattern matching in JavaScript","x":-806,"y":440,"width":250,"height":60},
-		{"id":"547912a3ba7197cc","x":407,"y":1220,"width":499,"height":320,"type":"text","text":"- 1. An event occurs in a web page (the page is loaded, a button is clicked)\n- 2. An XMLHttpRequest object is created by JavaScript\n- 3. The XMLHttpRequest object sends a request to a web server\n- 4. The server processes the request\n- 5. The server sends a response back to the web page\n- 6. The response is read by JavaScript\n- 7. Proper action (like page update) is performed by JavaScript"}
+		{"id":"547912a3ba7197cc","type":"text","text":"- 1. An event occurs in a web page (the page is loaded, a button is clicked)\n- 2. An XMLHttpRequest object is created by JavaScript\n- 3. The XMLHttpRequest object sends a request to a web server\n- 4. The server processes the request\n- 5. The server sends a response back to the web page\n- 6. The response is read by JavaScript\n- 7. Proper action (like page update) is performed by JavaScript","x":407,"y":1220,"width":499,"height":320}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
