@@ -41,7 +41,8 @@
 		{"id":"b2fd8549ec4febfa","type":"text","text":"Used to transfer plain text, hypertext, audio, video, and so on.","x":2124,"y":900,"width":276,"height":87},
 		{"id":"af960655010ac45b","type":"file","file":"Pasted image 20240309130711.png","x":-762,"y":-522,"width":964,"height":802},
 		{"id":"84461f4b36c9389c","x":677,"y":2142,"width":250,"height":60,"type":"text","text":"HTTP"},
-		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1480,"y":660,"width":250,"height":60}
+		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1480,"y":660,"width":250,"height":60},
+		{"id":"6c387a6ee5ffef92","x":2124,"y":1041,"width":250,"height":123,"type":"text","text":"Called 'HyperText' since it allows rapid jumping between one document to another document"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -79,6 +80,7 @@
 		{"id":"3883f541fa67534b","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"d07913367daea04b","toSide":"left"},
 		{"id":"b989c35cdc267a4e","fromNode":"d07913367daea04b","fromSide":"right","toNode":"e2af4ca779e82bf8","toSide":"left"},
 		{"id":"1f47eba18b515a83","fromNode":"d07913367daea04b","fromSide":"right","toNode":"b2fd8549ec4febfa","toSide":"left"},
-		{"id":"567f96913e13c54f","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"35b9d008c2de7183","toSide":"left"}
+		{"id":"567f96913e13c54f","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"35b9d008c2de7183","toSide":"left"},
+		{"id":"12fe1659fb7ce804","fromNode":"d07913367daea04b","fromSide":"right","toNode":"6c387a6ee5ffef92","toSide":"left"}
 	]
 }
