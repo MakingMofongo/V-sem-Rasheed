@@ -81,6 +81,7 @@
 		{"id":"b989c35cdc267a4e","fromNode":"d07913367daea04b","fromSide":"right","toNode":"e2af4ca779e82bf8","toSide":"left"},
 		{"id":"1f47eba18b515a83","fromNode":"d07913367daea04b","fromSide":"right","toNode":"b2fd8549ec4febfa","toSide":"left"},
 		{"id":"567f96913e13c54f","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"35b9d008c2de7183","toSide":"left"},
-		{"id":"12fe1659fb7ce804","fromNode":"d07913367daea04b","fromSide":"right","toNode":"6c387a6ee5ffef92","toSide":"left"}
+		{"id":"12fe1659fb7ce804","fromNode":"d07913367daea04b","fromSide":"right","toNode":"6c387a6ee5ffef92","toSide":"left"},
+		{"id":"02714ccc6d91700f","fromNode":"d07913367daea04b","fromSide":"top","toNode":"4d586915905bdfdc","toSide":"bottom","label":"Similarity: Both Transfer files from one host to another host"}
 	]
 }
