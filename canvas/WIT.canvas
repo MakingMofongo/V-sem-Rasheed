@@ -138,17 +138,20 @@
 		{"id":"d03b96fb609f14c3","type":"text","text":"`<img src=\"img_girl.jpg\" alt=\"Girl in a jacket\" width=\"500\" height=\"600\">`","x":2290,"y":4841,"width":710,"height":52},
 		{"id":"de79a1783aa0d571","type":"file","file":"Pasted image 20240309181531.png","x":2658,"y":5140,"width":400,"height":101},
 		{"id":"7643c8d8095abcb3","type":"text","text":"alternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2920,"y":4901,"width":250,"height":181},
-		{"id":"9fb22fea431fb779","x":-1615,"y":-63,"width":250,"height":60,"color":"2","type":"text","text":"Servlet"},
-		{"id":"89772bc94588f197","x":-2180,"y":-209,"width":276,"height":94,"type":"text","text":"## Architecture Diagram"},
-		{"id":"655708b90e2ef1ac","x":-2400,"y":-500,"width":400,"height":196,"type":"file","file":"Pasted image 20240309192015.png"},
-		{"id":"2517f9c306396702","x":-1879,"y":-567,"width":389,"height":271,"type":"text","text":"Points:"},
-		{"id":"77fe465f5fdd94ad","x":-1420,"y":-567,"width":250,"height":271,"type":"text","text":"Advantages"},
-		{"id":"2cea385a49ee86f7","x":-1800,"y":191,"width":250,"height":60,"type":"text","text":"Java Servlet Technology"},
-		{"id":"ba21fbcecf8db2f8","x":-2684,"y":400,"width":250,"height":60,"type":"text","text":"Overview"},
-		{"id":"8ef1b3d6a94c6c58","x":-2214,"y":400,"width":250,"height":60,"type":"text","text":"Features"},
-		{"id":"5876f33e5035f8e2","x":-1800,"y":400,"width":250,"height":60,"type":"text","text":"APIs"},
-		{"id":"89a11c9aa72a006a","x":-1491,"y":400,"width":250,"height":60,"type":"text","text":"Lifecycle"},
-		{"id":"a6e5e7fd877a4bd2","x":-1120,"y":350,"width":250,"height":160,"type":"text","text":"Steps to create servlet with eg"}
+		{"id":"9fb22fea431fb779","type":"text","text":"Servlet","x":-1615,"y":-63,"width":250,"height":60,"color":"2"},
+		{"id":"89772bc94588f197","type":"text","text":"## Architecture Diagram","x":-2180,"y":-209,"width":276,"height":94},
+		{"id":"655708b90e2ef1ac","type":"file","file":"Pasted image 20240309192015.png","x":-2400,"y":-500,"width":400,"height":196},
+		{"id":"2517f9c306396702","type":"text","text":"Points:","x":-1879,"y":-567,"width":389,"height":271},
+		{"id":"77fe465f5fdd94ad","type":"text","text":"Advantages","x":-1420,"y":-567,"width":250,"height":271},
+		{"id":"2cea385a49ee86f7","type":"text","text":"Java Servlet Technology","x":-2111,"y":191,"width":250,"height":60},
+		{"id":"ba21fbcecf8db2f8","type":"text","text":"Overview","x":-2995,"y":400,"width":250,"height":60},
+		{"id":"8ef1b3d6a94c6c58","type":"text","text":"Features","x":-2525,"y":400,"width":250,"height":60},
+		{"id":"5876f33e5035f8e2","type":"text","text":"APIs","x":-2111,"y":400,"width":250,"height":60},
+		{"id":"89a11c9aa72a006a","type":"text","text":"Lifecycle","x":-1802,"y":400,"width":250,"height":60},
+		{"id":"059b0cd0b9858405","x":-1122,"y":376,"width":250,"height":60,"type":"text","text":"Session Tracking"},
+		{"id":"a6e5e7fd877a4bd2","type":"text","text":"Steps to create servlet with eg","x":-1490,"y":376,"width":250,"height":160},
+		{"id":"8caabf55bc42b3f0","x":-2386,"y":617,"width":250,"height":60,"type":"text","text":"Servlet config"},
+		{"id":"257ad115e4699983","x":-2216,"y":800,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -303,6 +306,9 @@
 		{"id":"85f54fafb8d9364d","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"8ef1b3d6a94c6c58","toSide":"top"},
 		{"id":"a338c6601048de0b","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"5876f33e5035f8e2","toSide":"top"},
 		{"id":"4b4efe60c9562f40","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"89a11c9aa72a006a","toSide":"top"},
-		{"id":"f4583942394c60a4","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"a6e5e7fd877a4bd2","toSide":"top"}
+		{"id":"f4583942394c60a4","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"a6e5e7fd877a4bd2","toSide":"top"},
+		{"id":"453901edece2aa20","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"059b0cd0b9858405","toSide":"top"},
+		{"id":"b7a66d80e9fc2752","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"8caabf55bc42b3f0","toSide":"top"},
+		{"id":"526cfdbe67d689e1","fromNode":"8caabf55bc42b3f0","fromSide":"bottom","toNode":"257ad115e4699983","toSide":"top"}
 	]
 }
