@@ -69,7 +69,7 @@
 		{"id":"84eb2481b7757e60","x":940,"y":2200,"width":250,"height":60,"type":"text","text":"Primary lang of www"},
 		{"id":"bbc2c322bfa84d53","x":1136,"y":2485,"width":250,"height":115,"type":"text","text":"Used to design page elements such as text, hyperlinks, multimedia files "},
 		{"id":"fbc4a6ea4275a49b","x":1151,"y":2650,"width":250,"height":60,"type":"text","text":"Works on TAGS"},
-		{"id":"869ea1d55f143b14","x":1511,"y":2639,"width":250,"height":71,"type":"text","text":"`<A> bru</A> formula for each tag"}
+		{"id":"869ea1d55f143b14","x":1520,"y":2680,"width":269,"height":101,"type":"text","text":"`<A> </A>` formula for each tag, known as closing and opening tag"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
