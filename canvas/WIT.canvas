@@ -141,7 +141,7 @@
 		{"id":"9fb22fea431fb779","type":"text","text":"Servlet","x":-1615,"y":-63,"width":250,"height":60,"color":"2"},
 		{"id":"89772bc94588f197","type":"text","text":"## Architecture Diagram","x":-2180,"y":-209,"width":276,"height":94},
 		{"id":"655708b90e2ef1ac","type":"file","file":"Pasted image 20240309192015.png","x":-2400,"y":-500,"width":400,"height":196},
-		{"id":"2517f9c306396702","type":"text","text":"Points:","x":-1879,"y":-567,"width":389,"height":271},
+		{"id":"2517f9c306396702","type":"text","text":"Points:\n\n","x":-1879,"y":-567,"width":389,"height":271},
 		{"id":"77fe465f5fdd94ad","type":"text","text":"Advantages","x":-1420,"y":-567,"width":250,"height":271},
 		{"id":"2cea385a49ee86f7","type":"text","text":"Java Servlet Technology","x":-2111,"y":191,"width":250,"height":60},
 		{"id":"ba21fbcecf8db2f8","type":"text","text":"Overview","x":-2995,"y":400,"width":250,"height":60},
@@ -151,7 +151,9 @@
 		{"id":"059b0cd0b9858405","x":-1122,"y":376,"width":250,"height":60,"type":"text","text":"Session Tracking"},
 		{"id":"a6e5e7fd877a4bd2","type":"text","text":"Steps to create servlet with eg","x":-1490,"y":376,"width":250,"height":160},
 		{"id":"8caabf55bc42b3f0","x":-2386,"y":617,"width":250,"height":60,"type":"text","text":"Servlet config"},
-		{"id":"257ad115e4699983","x":-2216,"y":800,"width":250,"height":60,"type":"text","text":""}
+		{"id":"257ad115e4699983","x":-2216,"y":800,"width":250,"height":60,"type":"text","text":"Servlet Context"},
+		{"id":"3386c49cc6c82ccd","x":-2008,"y":965,"width":250,"height":60,"type":"text","text":"Servlet Collaboration"},
+		{"id":"f73d60020d9b6db5","x":-1861,"y":663,"width":250,"height":60,"type":"text","text":"Advantages"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -309,6 +311,8 @@
 		{"id":"f4583942394c60a4","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"a6e5e7fd877a4bd2","toSide":"top"},
 		{"id":"453901edece2aa20","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"059b0cd0b9858405","toSide":"top"},
 		{"id":"b7a66d80e9fc2752","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"8caabf55bc42b3f0","toSide":"top"},
-		{"id":"526cfdbe67d689e1","fromNode":"8caabf55bc42b3f0","fromSide":"bottom","toNode":"257ad115e4699983","toSide":"top"}
+		{"id":"526cfdbe67d689e1","fromNode":"8caabf55bc42b3f0","fromSide":"bottom","toNode":"257ad115e4699983","toSide":"top"},
+		{"id":"ccecdf4404d13b00","fromNode":"257ad115e4699983","fromSide":"bottom","toNode":"3386c49cc6c82ccd","toSide":"top"},
+		{"id":"6740881b80ba3370","fromNode":"8caabf55bc42b3f0","fromSide":"right","toNode":"f73d60020d9b6db5","toSide":"left"}
 	]
 }
