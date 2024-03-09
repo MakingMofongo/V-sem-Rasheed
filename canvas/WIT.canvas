@@ -52,7 +52,10 @@
 		{"id":"b2fd8549ec4febfa","type":"text","text":"Used to transfer plain text, hypertext, audio, video, and so on.","x":2227,"y":1022,"width":276,"height":87},
 		{"id":"6c387a6ee5ffef92","type":"text","text":"Called 'HyperText' since it allows rapid jumping between one document to another document","x":2227,"y":1146,"width":276,"height":123},
 		{"id":"5c8f7ded038166d2","type":"text","text":"Uses MIME-like format to carry data","x":2640,"y":1086,"width":250,"height":60},
-		{"id":"ac624e32eb8d356f","x":2945,"y":1509,"width":250,"height":60,"type":"text","text":"Any type of media is supported AS LONG AS both the client and server know how to handle the data content."}
+		{"id":"ac624e32eb8d356f","x":2951,"y":1498,"width":275,"height":151,"type":"text","text":"Any type of media is supported AS LONG AS both the client and server know how to handle the data content. "},
+		{"id":"d104b6dbb60c2b46","x":3340,"y":1574,"width":250,"height":107,"type":"text","text":"Both client and server specify content type in MIME-type header"},
+		{"id":"799878aae294e336","x":2604,"y":1775,"width":250,"height":60,"type":"text","text":"Stateless"},
+		{"id":"7ab1febbbb9562f2","x":2928,"y":1814,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -103,6 +106,9 @@
 		{"id":"3702fc1e5eddce23","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"a0eee1f4e35bb578","toSide":"left"},
 		{"id":"1346ecc6e2c1ca8d","fromNode":"a0eee1f4e35bb578","fromSide":"right","toNode":"cec58068d959a1b4","toSide":"left"},
 		{"id":"9d07a4b84612ea21","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"5f23486cf9a93774","toSide":"left"},
-		{"id":"ac5a6d6be7f1246f","fromNode":"5f23486cf9a93774","fromSide":"right","toNode":"ac624e32eb8d356f","toSide":"left"}
+		{"id":"ac5a6d6be7f1246f","fromNode":"5f23486cf9a93774","fromSide":"right","toNode":"ac624e32eb8d356f","toSide":"left"},
+		{"id":"138ee536d454fc56","fromNode":"ac624e32eb8d356f","fromSide":"right","toNode":"d104b6dbb60c2b46","toSide":"left"},
+		{"id":"30b4c4be996473c5","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"799878aae294e336","toSide":"left"},
+		{"id":"842244089f77410a","fromNode":"799878aae294e336","fromSide":"right","toNode":"7ab1febbbb9562f2","toSide":"left"}
 	]
 }
