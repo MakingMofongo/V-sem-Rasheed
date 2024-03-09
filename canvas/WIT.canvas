@@ -55,7 +55,11 @@
 		{"id":"ac624e32eb8d356f","x":2951,"y":1498,"width":329,"height":151,"type":"text","text":"Any type of media is supported AS LONG AS both the client and server know how to handle the data content. "},
 		{"id":"d104b6dbb60c2b46","x":3360,"y":1574,"width":250,"height":107,"type":"text","text":"Both client and server specify content type in MIME-type header"},
 		{"id":"7ab1febbbb9562f2","x":2951,"y":1780,"width":329,"height":126,"type":"text","text":"Client and server know each other ONLY during the current request, NO info is retained b/w various requests"},
-		{"id":"799878aae294e336","x":2582,"y":1720,"width":250,"height":60,"type":"text","text":"Stateless"}
+		{"id":"799878aae294e336","x":2582,"y":1720,"width":250,"height":60,"type":"text","text":"Stateless"},
+		{"id":"910f95d22f69280f","x":2102,"y":1847,"width":250,"height":60,"type":"text","text":"HTTP Transactions"},
+		{"id":"209380e4d102cab1","x":2420,"y":1843,"width":400,"height":364,"type":"file","file":"Pasted image 20240309145950.png"},
+		{"id":"ad1160d7fd81d0cf","x":2053,"y":2364,"width":250,"height":60,"type":"text","text":"HTTP messages"},
+		{"id":"04059436d8ecd7f4","x":2410,"y":2307,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -113,6 +117,10 @@
 		{"id":"447cc927725fdf5d","fromNode":"af960655010ac45b","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
 		{"id":"7c10fe04ff5c1b01","fromNode":"af960655010ac45b","fromSide":"top","toNode":"4dd791c1087d5254","toSide":"bottom"},
 		{"id":"75ce0785454a2a33","fromNode":"af960655010ac45b","fromSide":"bottom","toNode":"3d3d5edcdada5ddd","toSide":"top"},
-		{"id":"447aae09da25af75","fromNode":"af960655010ac45b","fromSide":"left","toNode":"55d5091406ac6f0a","toSide":"right"}
+		{"id":"447aae09da25af75","fromNode":"af960655010ac45b","fromSide":"left","toNode":"55d5091406ac6f0a","toSide":"right"},
+		{"id":"3b7220d4051ac542","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"910f95d22f69280f","toSide":"top","color":"1"},
+		{"id":"dc5605fbf0d68781","fromNode":"910f95d22f69280f","fromSide":"right","toNode":"209380e4d102cab1","toSide":"left"},
+		{"id":"35bd6c553886501b","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"ad1160d7fd81d0cf","toSide":"top"},
+		{"id":"cd135d5ae07903ed","fromNode":"ad1160d7fd81d0cf","fromSide":"right","toNode":"04059436d8ecd7f4","toSide":"left"}
 	]
 }
