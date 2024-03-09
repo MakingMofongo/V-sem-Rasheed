@@ -67,11 +67,6 @@
 		{"id":"cd71c8cbb8c6e9cd","type":"text","text":"# HTML","x":640,"y":2394,"width":250,"height":286,"color":"2"},
 		{"id":"825c9291ab2acdff","type":"text","text":"HTML5","x":1060,"y":3078,"width":250,"height":102,"color":"2"},
 		{"id":"c9799a59f2f33e0a","type":"text","text":"Differences b/w HTML and HTML5","x":1405,"y":3580,"width":250,"height":100,"color":"2"},
-		{"id":"e43d7d252d68923a","type":"text","text":"A/V support","x":1869,"y":3482,"width":250,"height":60},
-		{"id":"23b4e1be94b36408","type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLASH,VML or SILVERLIGHT","x":1869,"y":3582,"width":250,"height":152},
-		{"id":"206baf5c396c84a8","type":"text","text":"Unrestricted use of inline MathML and SVG in text","x":1869,"y":3774,"width":250,"height":93},
-		{"id":"2d5065a8a8d22944","type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles","x":1869,"y":3907,"width":250,"height":129},
-		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":1869,"y":4076,"width":250,"height":144},
 		{"id":"68626fe99a57af6a","type":"text","text":"Evolution of HTMl","x":240,"y":3455,"width":250,"height":175,"color":"2"},
 		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":661,"y":4938,"width":250,"height":165,"color":"#b10bfe"},
 		{"id":"4af0c395653743dc","type":"text","text":"Inline","x":1143,"y":4923,"width":250,"height":60},
@@ -97,7 +92,13 @@
 		{"id":"c2a571b447f36cf6","type":"text","text":"## Syntax of HTML","x":893,"y":4247,"width":250,"height":133,"color":"2"},
 		{"id":"93709d96ac49f53b","type":"text","text":"Defined by TAGS\n\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT\n\n","x":1197,"y":3907,"width":250,"height":286},
 		{"id":"7d51768c88e2398a","type":"text","text":"new tags like `<canvas> <video> <audio` and `<footer> <header> <article>`","x":1440,"y":2860,"width":250,"height":162},
-		{"id":"5b3ae545f2a8c3c0","type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video","x":1530,"y":3040,"width":236,"height":140}
+		{"id":"5b3ae545f2a8c3c0","type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video","x":1530,"y":3040,"width":236,"height":140},
+		{"id":"e43d7d252d68923a","type":"text","text":"A/V support","x":2020,"y":3150,"width":250,"height":60},
+		{"id":"23b4e1be94b36408","type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLASH,VML or SILVERLIGHT","x":2020,"y":3250,"width":250,"height":152},
+		{"id":"206baf5c396c84a8","type":"text","text":"Unrestricted use of inline MathML and SVG in text","x":2020,"y":3442,"width":250,"height":93},
+		{"id":"2d5065a8a8d22944","type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles","x":2020,"y":3575,"width":250,"height":129},
+		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":2020,"y":3744,"width":250,"height":144},
+		{"id":"9faa5330fcd911cb","x":1990,"y":3974,"width":250,"height":60,"type":"text","text":"inJS and Browser interface run in the SAME thread"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -198,6 +199,7 @@
 		{"id":"de019d43eb63b741","fromNode":"a7432d12ace87a10","fromSide":"bottom","toNode":"c51bcc5c4e1fc0e7","toSide":"top"},
 		{"id":"b5fe5859844a3320","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"c2a571b447f36cf6","toSide":"left","color":"2"},
 		{"id":"3f05af5d05a0dfb8","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"019198fc49b7d8ba","toSide":"left","color":"6"},
-		{"id":"ddab06432c08f66e","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"93709d96ac49f53b","toSide":"left"}
+		{"id":"ddab06432c08f66e","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"93709d96ac49f53b","toSide":"left"},
+		{"id":"06586de46abf5d6c","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"9faa5330fcd911cb","toSide":"left"}
 	]
 }
