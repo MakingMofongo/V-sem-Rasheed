@@ -37,17 +37,17 @@
 		{"id":"e2af4ca779e82bf8","type":"text","text":"Used to access data on WWW","x":2533,"y":1359,"width":276,"height":60},
 		{"id":"b2fd8549ec4febfa","type":"text","text":"Used to transfer plain text, hypertext, audio, video, and so on.","x":2533,"y":1461,"width":276,"height":87},
 		{"id":"6c387a6ee5ffef92","type":"text","text":"Called 'HyperText' since it allows rapid jumping between one document to another document","x":2533,"y":1602,"width":250,"height":123},
-		{"id":"5c8f7ded038166d2","x":2924,"y":1480,"width":250,"height":60,"type":"text","text":"Uses MIME-like format to carry data"},
+		{"id":"5c8f7ded038166d2","type":"text","text":"Uses MIME-like format to carry data","x":2924,"y":1480,"width":250,"height":60},
 		{"id":"29fdc654836884e1","type":"text","text":"Contains data, webpages, images, files etc","x":1605,"y":-115,"width":250,"height":60},
 		{"id":"6053d1d7fb388fbf","type":"text","text":"Main purpose is to display webpages by storing, processing and delivering webpages","x":1605,"y":-25,"width":250,"height":135},
 		{"id":"bd3b10c0fd8ad6e9","type":"text","text":"Handles User Requests for data and files","x":1605,"y":130,"width":250,"height":60},
 		{"id":"40fe366aac840733","type":"text","text":"Allows Exchange of data between connected devices","x":1605,"y":220,"width":250,"height":91},
 		{"id":"b8fe7c55dd9d82dd","type":"text","text":"Controls how hosted files are accessed","x":1985,"y":59,"width":250,"height":60},
 		{"id":"033e1eb7be581219","type":"text","text":"Client/Sever Model","x":1985,"y":160,"width":250,"height":60},
-		{"id":"c7aa3d225e98a015","type":"text","text":"Similarity: Similarity: Both Transfer files from one host to another host\n\nDifference: HTTP uses only one connection, FTP uses additional 'Control connection' along with Data connection","x":2300,"y":676,"width":289,"height":212,"color":"#cfc4c4"},
-		{"id":"ddd209eb9b467978","type":"text","text":"Similarity: Similarity: Both Transfer data b/w client and server\n\nDifference: SMTP messages are stored and forwarded, HTTP messages are delivered IMMEDIATELY","x":2300,"y":419,"width":289,"height":212,"color":"#cfc4c4"},
-		{"id":"958124b4e05678d8","x":1880,"y":359,"width":250,"height":60,"type":"text","text":"SMTP"},
-		{"id":"eaecf48e4cffdcf6","x":1860,"y":525,"width":250,"height":76,"type":"text","text":"FTP"}
+		{"id":"958124b4e05678d8","type":"text","text":"SMTP","x":1800,"y":428,"width":250,"height":60},
+		{"id":"ddd209eb9b467978","type":"text","text":"Similarity: Similarity: Both Transfer data b/w client and server\n\nDifference: SMTP messages are stored and forwarded, HTTP messages are delivered IMMEDIATELY","x":2320,"y":352,"width":289,"height":212,"color":"#cfc4c4"},
+		{"id":"eaecf48e4cffdcf6","type":"text","text":"FTP","x":2020,"y":682,"width":250,"height":76},
+		{"id":"c7aa3d225e98a015","type":"text","text":"Similarity: Similarity: Both Transfer files from one host to another host\n\nDifference: HTTP uses only one connection, FTP uses additional 'Control connection' along with Data connection","x":2389,"y":614,"width":289,"height":212,"color":"#cfc4c4"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
