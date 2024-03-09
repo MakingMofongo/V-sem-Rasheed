@@ -46,7 +46,8 @@
 		{"id":"033e1eb7be581219","type":"text","text":"Client/Sever Model","x":1985,"y":160,"width":250,"height":60},
 		{"id":"958124b4e05678d8","x":1880,"y":465,"width":250,"height":60,"type":"text","text":"SMTP"},
 		{"id":"eaecf48e4cffdcf6","x":1880,"y":600,"width":250,"height":76,"type":"text","text":"FTP"},
-		{"id":"c7aa3d225e98a015","type":"text","text":"Similarity: Similarity: Both Transfer files from one host to another host\n\nDifference: HTTP uses only one connection, FTP uses additional 'Control connection' along with Data connection","x":2300,"y":676,"width":289,"height":212,"color":"#cfc4c4"}
+		{"id":"c7aa3d225e98a015","type":"text","text":"Similarity: Similarity: Both Transfer files from one host to another host\n\nDifference: HTTP uses only one connection, FTP uses additional 'Control connection' along with Data connection","x":2300,"y":676,"width":289,"height":212,"color":"#cfc4c4"},
+		{"id":"ddd209eb9b467978","type":"text","text":"Similarity: Similarity: Both Transfer data b/w client and server\n\nDifference: SMTP messages are stored and forwarded, HTTP messages are delivered IMME","x":2300,"y":419,"width":289,"height":212,"color":"#cfc4c4"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
