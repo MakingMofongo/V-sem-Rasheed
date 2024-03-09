@@ -138,10 +138,12 @@
 		{"id":"d03b96fb609f14c3","type":"text","text":"`<img src=\"img_girl.jpg\" alt=\"Girl in a jacket\" width=\"500\" height=\"600\">`","x":2290,"y":4841,"width":710,"height":52},
 		{"id":"de79a1783aa0d571","type":"file","file":"Pasted image 20240309181531.png","x":2658,"y":5140,"width":400,"height":101},
 		{"id":"7643c8d8095abcb3","type":"text","text":"alternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2920,"y":4901,"width":250,"height":181},
-		{"id":"9fb22fea431fb779","x":-1615,"y":-63,"width":250,"height":60,"type":"text","text":"Servlet"},
+		{"id":"9fb22fea431fb779","x":-1615,"y":-63,"width":250,"height":60,"color":"2","type":"text","text":"Servlet"},
 		{"id":"89772bc94588f197","x":-2180,"y":-209,"width":276,"height":94,"type":"text","text":"## Architecture Diagram"},
 		{"id":"655708b90e2ef1ac","x":-2400,"y":-500,"width":400,"height":196,"type":"file","file":"Pasted image 20240309192015.png"},
-		{"id":"2517f9c306396702","x":-1684,"y":-537,"width":389,"height":271,"type":"text","text":"Points:"}
+		{"id":"2517f9c306396702","x":-1879,"y":-567,"width":389,"height":271,"type":"text","text":"Points:"},
+		{"id":"77fe465f5fdd94ad","x":-1420,"y":-567,"width":250,"height":271,"type":"text","text":"Advantages"},
+		{"id":"2cea385a49ee86f7","x":-1800,"y":191,"width":250,"height":60,"type":"text","text":"Java Servlet Technology"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -289,6 +291,8 @@
 		{"id":"1f2433c7ef895528","fromNode":"55d5091406ac6f0a","fromSide":"left","toNode":"9fb22fea431fb779","toSide":"right"},
 		{"id":"e7337b5091dcb431","fromNode":"9fb22fea431fb779","fromSide":"top","toNode":"2517f9c306396702","toSide":"bottom"},
 		{"id":"0998e65dc7cb1b79","fromNode":"9fb22fea431fb779","fromSide":"top","toNode":"89772bc94588f197","toSide":"bottom"},
-		{"id":"4f2a86c86dd11e45","fromNode":"89772bc94588f197","fromSide":"top","toNode":"655708b90e2ef1ac","toSide":"bottom"}
+		{"id":"4f2a86c86dd11e45","fromNode":"89772bc94588f197","fromSide":"top","toNode":"655708b90e2ef1ac","toSide":"bottom"},
+		{"id":"7336ade6e386276a","fromNode":"9fb22fea431fb779","fromSide":"top","toNode":"77fe465f5fdd94ad","toSide":"bottom"},
+		{"id":"d85bb6c403ced1eb","fromNode":"9fb22fea431fb779","fromSide":"bottom","toNode":"2cea385a49ee86f7","toSide":"top"}
 	]
 }
