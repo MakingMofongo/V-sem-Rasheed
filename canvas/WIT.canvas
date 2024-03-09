@@ -73,7 +73,7 @@
 		{"id":"d7a2d05661e8aaa1","x":1151,"y":2781,"width":250,"height":123,"type":"text","text":"Works STATICALLY, cannot be used to create DYNAMIC elements"},
 		{"id":"b8e6e8efef0d49bd","x":1480,"y":2873,"width":250,"height":87,"type":"text","text":"Combined with CSS and JS to make dynamic websites"},
 		{"id":"825c9291ab2acdff","x":1060,"y":3078,"width":250,"height":102,"color":"2","type":"text","text":"HTML5"},
-		{"id":"7d51768c88e2398a","x":1420,"y":3158,"width":250,"height":162,"type":"text","text":"new tags like `<canvas> <video> <audio` and `<footer> <header> <article>`"}
+		{"id":"7d51768c88e2398a","x":1440,"y":3078,"width":250,"height":162,"type":"text","text":"new tags like `<canvas> <video> <audio` and `<footer> <header> <article>`"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
