@@ -103,8 +103,8 @@
 		{"id":"3cf3930315bb707a","x":1964,"y":4347,"width":250,"height":96,"type":"text","text":"Doctype\nhtml\nbody"},
 		{"id":"489c3a981526876e","x":2460,"y":4066,"width":369,"height":300,"type":"text","text":"```\n<!DOCTYPE html>\n<html>\n<body>\n\n<h1>My First Heading</h1>\n<p>My first paragraph.</p>\nMy first paragraph.\n\n</body>\n</html>\n```"},
 		{"id":"8fcf6b4b8e1972e6","x":2297,"y":4489,"width":250,"height":60,"type":"text","text":"`<!DOCTYPE>`"},
-		{"id":"3487944d174f12dc","x":2645,"y":4443,"width":250,"height":60,"type":"text","text":"Appears once at top"},
-		{"id":"ab1a01ca03cbbd44","x":2645,"y":4562,"width":250,"height":60,"type":"text","text":"Represents document type th"}
+		{"id":"3487944d174f12dc","x":2645,"y":4443,"width":250,"height":140,"type":"text","text":"Appears once at top\n\nNot case sensitive\n\nRepresents document type thus helping browsers to display web pages correctly\n"},
+		{"id":"ab1a01ca03cbbd44","x":2645,"y":4622,"width":250,"height":121,"type":"text","text":"for html5:\n`<!DOCTYPE HTML`"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
