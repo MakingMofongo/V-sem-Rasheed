@@ -48,7 +48,8 @@
 		{"id":"b2fd8549ec4febfa","type":"text","text":"Used to transfer plain text, hypertext, audio, video, and so on.","x":2240,"y":1067,"width":276,"height":87},
 		{"id":"6c387a6ee5ffef92","type":"text","text":"Called 'HyperText' since it allows rapid jumping between one document to another document","x":2240,"y":1208,"width":250,"height":123},
 		{"id":"5c8f7ded038166d2","type":"text","text":"Uses MIME-like format to carry data","x":2631,"y":1086,"width":250,"height":60},
-		{"id":"176f99327a5e5a41","x":2152,"y":1440,"width":250,"height":103,"type":"text","text":"## Features of HTTP"}
+		{"id":"176f99327a5e5a41","x":2152,"y":1440,"width":250,"height":103,"type":"text","text":"## Features of HTTP"},
+		{"id":"a0eee1f4e35bb578","x":2582,"y":1374,"width":250,"height":60,"type":"text","text":"Connectionless Protocol"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -95,6 +96,7 @@
 		{"id":"9fd480f2f415253e","fromNode":"958124b4e05678d8","fromSide":"right","toNode":"ddd209eb9b467978","toSide":"left"},
 		{"id":"80c9a979b19acd01","fromNode":"d07913367daea04b","fromSide":"top","toNode":"ddd209eb9b467978","toSide":"left","color":"1"},
 		{"id":"de24b75debf41625","fromNode":"eaecf48e4cffdcf6","fromSide":"right","toNode":"c7aa3d225e98a015","toSide":"left"},
-		{"id":"833eda71b2dfbcf0","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"176f99327a5e5a41","toSide":"top"}
+		{"id":"833eda71b2dfbcf0","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"176f99327a5e5a41","toSide":"top","color":"1"},
+		{"id":"3702fc1e5eddce23","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"a0eee1f4e35bb578","toSide":"left"}
 	]
 }
