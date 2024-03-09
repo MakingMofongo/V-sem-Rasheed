@@ -46,12 +46,13 @@
 		{"id":"d07913367daea04b","type":"text","text":"## HTTP","x":1803,"y":985,"width":250,"height":161,"color":"1"},
 		{"id":"176f99327a5e5a41","x":2152,"y":1440,"width":250,"height":103,"type":"text","text":"## Features of HTTP"},
 		{"id":"a0eee1f4e35bb578","x":2582,"y":1374,"width":250,"height":60,"type":"text","text":"Connectionless Protocol"},
-		{"id":"cec58068d959a1b4","x":2951,"y":1270,"width":250,"height":116,"type":"text","text":"Connection is Alive only thru Request ->Processing ->Response, after which it is severed"},
+		{"id":"cec58068d959a1b4","x":2951,"y":1270,"width":329,"height":116,"type":"text","text":"Connection is Alive only thru Request ->Processing ->Response, after which it is severed"},
 		{"id":"5f23486cf9a93774","x":2582,"y":1543,"width":250,"height":60,"type":"text","text":"Media Indepenent"},
 		{"id":"e2af4ca779e82bf8","type":"text","text":"Used to access data on WWW","x":2227,"y":925,"width":276,"height":60},
 		{"id":"b2fd8549ec4febfa","type":"text","text":"Used to transfer plain text, hypertext, audio, video, and so on.","x":2227,"y":1022,"width":276,"height":87},
 		{"id":"6c387a6ee5ffef92","type":"text","text":"Called 'HyperText' since it allows rapid jumping between one document to another document","x":2227,"y":1146,"width":276,"height":123},
-		{"id":"5c8f7ded038166d2","type":"text","text":"Uses MIME-like format to carry data","x":2640,"y":1086,"width":250,"height":60}
+		{"id":"5c8f7ded038166d2","type":"text","text":"Uses MIME-like format to carry data","x":2640,"y":1086,"width":250,"height":60},
+		{"id":"ac624e32eb8d356f","x":2945,"y":1509,"width":250,"height":60,"type":"text","text":"Any type of media is supported AS LONG AS both the client and server know how to handle the data content."}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -101,6 +102,7 @@
 		{"id":"833eda71b2dfbcf0","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"176f99327a5e5a41","toSide":"top","color":"1"},
 		{"id":"3702fc1e5eddce23","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"a0eee1f4e35bb578","toSide":"left"},
 		{"id":"1346ecc6e2c1ca8d","fromNode":"a0eee1f4e35bb578","fromSide":"right","toNode":"cec58068d959a1b4","toSide":"left"},
-		{"id":"9d07a4b84612ea21","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"5f23486cf9a93774","toSide":"left"}
+		{"id":"9d07a4b84612ea21","fromNode":"176f99327a5e5a41","fromSide":"right","toNode":"5f23486cf9a93774","toSide":"left"},
+		{"id":"ac5a6d6be7f1246f","fromNode":"5f23486cf9a93774","fromSide":"right","toNode":"ac624e32eb8d356f","toSide":"left"}
 	]
 }
