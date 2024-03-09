@@ -79,7 +79,8 @@
 		{"id":"e43d7d252d68923a","x":1869,"y":3482,"width":250,"height":60,"type":"text","text":"A/V support"},
 		{"id":"23b4e1be94b36408","x":1869,"y":3604,"width":250,"height":152,"type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLASH,VML or SILVERLIGHT"},
 		{"id":"206baf5c396c84a8","x":1869,"y":3840,"width":250,"height":93,"type":"text","text":"Unrestricted use of inline MathML and SVG in text"},
-		{"id":"2d5065a8a8d22944","x":1909,"y":4011,"width":250,"height":60,"type":"text","text":"Allows "}
+		{"id":"2d5065a8a8d22944","x":1869,"y":4000,"width":250,"height":129,"type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles"},
+		{"id":"50af86b3cf966600","x":1904,"y":4222,"width":250,"height":60,"type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -162,6 +163,7 @@
 		{"id":"c6ea95b53097d5e8","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"e43d7d252d68923a","toSide":"left"},
 		{"id":"62a8e2556ce667dc","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"23b4e1be94b36408","toSide":"left"},
 		{"id":"dbd967fb1493ff07","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"206baf5c396c84a8","toSide":"left"},
-		{"id":"fec6bfe77369ce61","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"2d5065a8a8d22944","toSide":"left"}
+		{"id":"fec6bfe77369ce61","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"2d5065a8a8d22944","toSide":"left"},
+		{"id":"10c483e668571740","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"50af86b3cf966600","toSide":"left"}
 	]
 }
