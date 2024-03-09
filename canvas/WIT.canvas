@@ -106,7 +106,7 @@
 		{"id":"ab1a01ca03cbbd44","type":"text","text":"for html5:\n`<!DOCTYPE html>`","x":2946,"y":4633,"width":250,"height":121},
 		{"id":"489c3a981526876e","type":"text","text":"```\n<!DOCTYPE html>\n<html>\n<body>\n\n<h1>My First Heading</h1>\n<p>My first paragraph.</p>\nMy first paragraph.\n\n</body>\n</html>\n```","x":2696,"y":3986,"width":369,"height":300},
 		{"id":"3cf3930315bb707a","type":"text","text":"Doctype\nhtml\nbody","x":2200,"y":4267,"width":250,"height":96},
-		{"id":"a83b01b6a1d5b70d","x":2020,"y":4422,"width":250,"height":60,"type":"text","text":"Relationship between HTML document and external page/"}
+		{"id":"a83b01b6a1d5b70d","x":2020,"y":4422,"width":250,"height":161,"type":"text","text":"Relationship between HTML document and external resource"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
