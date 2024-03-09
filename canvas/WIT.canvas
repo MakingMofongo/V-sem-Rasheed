@@ -18,7 +18,7 @@
 		{"id":"5fc6fd7cf800ea2e","type":"text","text":"1995 - IE","x":1133,"y":49,"width":250,"height":60},
 		{"id":"0c492e20bdf9cf2a","type":"text","text":"2002 - Firefox","x":1108,"y":125,"width":250,"height":60},
 		{"id":"3e2ffb296075301a","type":"text","text":"2003 Safari","x":1080,"y":220,"width":250,"height":60},
-		{"id":"9194476f9963e182","type":"text","text":"Made of Web apps and Hardware","x":1073,"y":540,"width":250,"height":60},
+		{"id":"9194476f9963e182","type":"text","text":"Made of Web server software and Hardware","x":1073,"y":540,"width":250,"height":60},
 		{"id":"959d7d455cee4001","type":"text","text":"Web Server","x":745,"y":465,"width":250,"height":174,"color":"3"},
 		{"id":"29fdc654836884e1","type":"text","text":"Contains data, webpages, images, files etc","x":1588,"y":160,"width":250,"height":60},
 		{"id":"40fe366aac840733","type":"text","text":"Allows Exchange of data between connected devices","x":1588,"y":495,"width":250,"height":91},
@@ -36,11 +36,11 @@
 		{"id":"35b9d008c2de7183","x":667,"y":1603,"width":249,"height":161,"color":"4","type":"text","text":"## MIME Protocol"},
 		{"id":"af3e5e77f89ad5d5","x":1520,"y":1589,"width":283,"height":163,"type":"text","text":"allows the users to exchange various types of digital content such as pictures, audio, video, and various types of documents and files"},
 		{"id":"0c387bd5b0fdcb63","x":1495,"y":1883,"width":265,"height":117,"type":"text","text":"Not independent, works by EXTENDING email protocols such as SMTP"},
-		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1463,"y":720,"width":250,"height":60},
 		{"id":"d07913367daea04b","x":1712,"y":880,"width":250,"height":161,"color":"1","type":"text","text":"## HTML"},
 		{"id":"0bdf69512155c013","type":"text","text":"URL","x":700,"y":814,"width":250,"height":182,"color":"#006cfa"},
 		{"id":"e2af4ca779e82bf8","x":2124,"y":798,"width":276,"height":60,"type":"text","text":"Used to access data on WWW"},
-		{"id":"b2fd8549ec4febfa","x":2124,"y":900,"width":276,"height":87,"type":"text","text":"plain text, hypertext, audio, video, and so on."}
+		{"id":"b2fd8549ec4febfa","x":2124,"y":900,"width":276,"height":87,"type":"text","text":"plain text, hypertext, audio, video, and so on."},
+		{"id":"4d586915905bdfdc","type":"text","text":"Can also use SMTP and FTP","x":1520,"y":690,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
