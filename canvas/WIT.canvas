@@ -4,11 +4,11 @@
 		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-405,"y":520,"width":250,"height":60},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
 		{"id":"55d5091406ac6f0a","type":"text","text":"UNIT 4","x":-1200,"y":-80,"width":250,"height":60},
-		{"id":"9d6f83d3b8ad73f3","type":"text","text":"Intro to Internet","x":800,"y":-760,"width":250,"height":60},
-		{"id":"0066cd778fbd5d12","type":"text","text":"World Wide Web","x":870,"y":-600,"width":250,"height":60},
+		{"id":"9d6f83d3b8ad73f3","type":"text","text":"Intro to Internet","x":800,"y":-800,"width":250,"height":100},
+		{"id":"0066cd778fbd5d12","type":"text","text":"World Wide Web","x":870,"y":-640,"width":250,"height":100},
 		{"id":"a6a4d532e49da9ea","type":"text","text":"Collection of websites","x":1200,"y":-600,"width":250,"height":60},
 		{"id":"5701334b907ea34f","type":"text","text":"What is Website","x":1520,"y":-600,"width":250,"height":60},
-		{"id":"c510c630c2c40ecf","type":"text","text":"Web Browser","x":932,"y":-487,"width":250,"height":60},
+		{"id":"c510c630c2c40ecf","type":"text","text":"Web Browser","x":932,"y":-487,"width":250,"height":152,"color":"5"},
 		{"id":"ccb98d537cd35d81","type":"text","text":"Displays Webpages","x":1270,"y":-487,"width":250,"height":60},
 		{"id":"eda2d62f8a50b7b8","type":"text","text":"History of Web Browsers","x":933,"y":-292,"width":250,"height":60},
 		{"id":"141088ab125d2f91","type":"text","text":"1990 - WWW","x":1247,"y":-204,"width":250,"height":60},
@@ -78,6 +78,7 @@
 		{"id":"4286c2eb7f8b675f","fromNode":"34bfde843bb93a97","fromSide":"right","toNode":"0c387bd5b0fdcb63","toSide":"left"},
 		{"id":"3883f541fa67534b","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"d07913367daea04b","toSide":"left"},
 		{"id":"b989c35cdc267a4e","fromNode":"d07913367daea04b","fromSide":"right","toNode":"e2af4ca779e82bf8","toSide":"left"},
-		{"id":"1f47eba18b515a83","fromNode":"d07913367daea04b","fromSide":"right","toNode":"b2fd8549ec4febfa","toSide":"left"}
+		{"id":"1f47eba18b515a83","fromNode":"d07913367daea04b","fromSide":"right","toNode":"b2fd8549ec4febfa","toSide":"left"},
+		{"id":"567f96913e13c54f","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"35b9d008c2de7183","toSide":"left"}
 	]
 }
