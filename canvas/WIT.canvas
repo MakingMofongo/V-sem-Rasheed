@@ -40,7 +40,8 @@
 		{"id":"0bdf69512155c013","type":"text","text":"URL","x":700,"y":814,"width":250,"height":182,"color":"#006cfa"},
 		{"id":"e2af4ca779e82bf8","type":"text","text":"Used to access data on WWW","x":2124,"y":798,"width":276,"height":60},
 		{"id":"b2fd8549ec4febfa","type":"text","text":"plain text, hypertext, audio, video, and so on.","x":2124,"y":900,"width":276,"height":87},
-		{"id":"af960655010ac45b","x":-762,"y":-522,"width":964,"height":802,"type":"file","file":"Pasted image 20240309130711.png"}
+		{"id":"af960655010ac45b","type":"file","file":"Pasted image 20240309130711.png","x":-762,"y":-522,"width":964,"height":802},
+		{"id":"84461f4b36c9389c","x":677,"y":2142,"width":250,"height":60,"type":"text","text":"HTTP"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
