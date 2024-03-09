@@ -107,7 +107,8 @@
 		{"id":"489c3a981526876e","type":"text","text":"```\n<!DOCTYPE html>\n<html>\n<body>\n\n<h1>My First Heading</h1>\n<p>My first paragraph.</p>\nMy first paragraph.\n\n</body>\n</html>\n```","x":2696,"y":3986,"width":369,"height":300},
 		{"id":"3cf3930315bb707a","type":"text","text":"Doctype\nhtml\nbody","x":2200,"y":4267,"width":250,"height":96},
 		{"id":"a83b01b6a1d5b70d","x":2040,"y":4472,"width":250,"height":131,"type":"text","text":"Relationship between HTML document and external resource\n\n"},
-		{"id":"c37593d7db7f65c8","x":2397,"y":4568,"width":250,"height":60,"type":"text","text":"Type of relationship defined by 'rel' attribute"}
+		{"id":"c37593d7db7f65c8","x":2397,"y":4568,"width":250,"height":58,"type":"text","text":"Type of relationship defined by 'rel' attribute"},
+		{"id":"3ec4a1ecc9e0a7e7","x":2397,"y":4703,"width":250,"height":60,"type":"text","text":"25 available values for rel"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -220,6 +221,7 @@
 		{"id":"aca684e4af01ddb5","fromNode":"8fcf6b4b8e1972e6","fromSide":"right","toNode":"ab1a01ca03cbbd44","toSide":"left"},
 		{"id":"160aa8e51f8ea5b6","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"07e819acda5b8a4e","toSide":"left"},
 		{"id":"9d51100ca6c6bd9b","fromNode":"07e819acda5b8a4e","fromSide":"right","toNode":"a83b01b6a1d5b70d","toSide":"left"},
-		{"id":"3001a52e4f39d465","fromNode":"a83b01b6a1d5b70d","fromSide":"right","toNode":"c37593d7db7f65c8","toSide":"left"}
+		{"id":"3001a52e4f39d465","fromNode":"a83b01b6a1d5b70d","fromSide":"right","toNode":"c37593d7db7f65c8","toSide":"left"},
+		{"id":"ab8f3d04b779558e","fromNode":"c37593d7db7f65c8","fromSide":"bottom","toNode":"3ec4a1ecc9e0a7e7","toSide":"top"}
 	]
 }
