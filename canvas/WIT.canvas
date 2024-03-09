@@ -52,10 +52,10 @@
 		{"id":"b2fd8549ec4febfa","type":"text","text":"Used to transfer plain text, hypertext, audio, video, and so on.","x":2227,"y":1022,"width":276,"height":87},
 		{"id":"6c387a6ee5ffef92","type":"text","text":"Called 'HyperText' since it allows rapid jumping between one document to another document","x":2227,"y":1146,"width":276,"height":123},
 		{"id":"5c8f7ded038166d2","type":"text","text":"Uses MIME-like format to carry data","x":2640,"y":1086,"width":250,"height":60},
-		{"id":"ac624e32eb8d356f","x":2951,"y":1498,"width":275,"height":151,"type":"text","text":"Any type of media is supported AS LONG AS both the client and server know how to handle the data content. "},
+		{"id":"ac624e32eb8d356f","x":2951,"y":1498,"width":329,"height":151,"type":"text","text":"Any type of media is supported AS LONG AS both the client and server know how to handle the data content. "},
 		{"id":"d104b6dbb60c2b46","x":3340,"y":1574,"width":250,"height":107,"type":"text","text":"Both client and server specify content type in MIME-type header"},
-		{"id":"799878aae294e336","x":2604,"y":1775,"width":250,"height":60,"type":"text","text":"Stateless"},
-		{"id":"7ab1febbbb9562f2","x":2928,"y":1814,"width":250,"height":60,"type":"text","text":""}
+		{"id":"799878aae294e336","x":2582,"y":1745,"width":250,"height":60,"type":"text","text":"Stateless"},
+		{"id":"7ab1febbbb9562f2","x":2951,"y":1805,"width":329,"height":126,"type":"text","text":"Client and server know each other ONLY during the current request, NO info is retained b/w various requests"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
