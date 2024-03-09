@@ -90,7 +90,7 @@
 		{"id":"fbc4a6ea4275a49b","type":"text","text":"Works on TAGS","x":1236,"y":2444,"width":250,"height":60},
 		{"id":"869ea1d55f143b14","type":"text","text":"`<A> </A>` formula for each tag, known as closing and opening tag","x":1605,"y":2474,"width":269,"height":101},
 		{"id":"c2a571b447f36cf6","type":"text","text":"## Syntax of HTML","x":893,"y":4247,"width":250,"height":133,"color":"2"},
-		{"id":"93709d96ac49f53b","type":"text","text":"Defined by TAGS\n\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT\n\n","x":1197,"y":3907,"width":250,"height":286},
+		{"id":"93709d96ac49f53b","type":"text","text":"Defined by TAGS\n\nOpening T\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT\n\n","x":1197,"y":3907,"width":250,"height":286},
 		{"id":"7d51768c88e2398a","type":"text","text":"new tags like `<canvas> <video> <audio` and `<footer> <header> <article>`","x":1440,"y":2860,"width":250,"height":162},
 		{"id":"5b3ae545f2a8c3c0","type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video","x":1530,"y":3040,"width":236,"height":140},
 		{"id":"e43d7d252d68923a","type":"text","text":"A/V support","x":2020,"y":3150,"width":250,"height":60},
