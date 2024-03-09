@@ -77,8 +77,9 @@
 		{"id":"5b3ae545f2a8c3c0","x":1447,"y":3280,"width":236,"height":140,"type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video"},
 		{"id":"c9799a59f2f33e0a","x":1405,"y":3580,"width":250,"height":100,"type":"text","text":"Differences b/w HTML and HTML5"},
 		{"id":"e43d7d252d68923a","x":1869,"y":3482,"width":250,"height":60,"type":"text","text":"A/V support"},
-		{"id":"23b4e1be94b36408","x":1893,"y":3648,"width":250,"height":112,"type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLAS"},
-		{"id":"206baf5c396c84a8","x":1901,"y":3847,"width":250,"height":60,"type":"text","text":""}
+		{"id":"23b4e1be94b36408","x":1869,"y":3604,"width":250,"height":152,"type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLASH,VML or SILVERLIGHT"},
+		{"id":"206baf5c396c84a8","x":1869,"y":3840,"width":250,"height":93,"type":"text","text":"Unrestricted use of inline MathML and SVG in text"},
+		{"id":"2d5065a8a8d22944","x":1909,"y":4011,"width":250,"height":60,"type":"text","text":"Allows "}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -160,6 +161,7 @@
 		{"id":"26f890025e555bee","fromNode":"825c9291ab2acdff","fromSide":"right","toNode":"c9799a59f2f33e0a","toSide":"left","color":"2"},
 		{"id":"c6ea95b53097d5e8","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"e43d7d252d68923a","toSide":"left"},
 		{"id":"62a8e2556ce667dc","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"23b4e1be94b36408","toSide":"left"},
-		{"id":"dbd967fb1493ff07","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"206baf5c396c84a8","toSide":"left"}
+		{"id":"dbd967fb1493ff07","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"206baf5c396c84a8","toSide":"left"},
+		{"id":"fec6bfe77369ce61","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"2d5065a8a8d22944","toSide":"left"}
 	]
 }
