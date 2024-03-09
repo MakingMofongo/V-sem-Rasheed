@@ -54,7 +54,7 @@
 		{"id":"7ab1febbbb9562f2","type":"text","text":"Client and server know each other ONLY during the current request, NO info is retained b/w various requests","x":2951,"y":1780,"width":329,"height":126},
 		{"id":"799878aae294e336","type":"text","text":"Stateless","x":2582,"y":1720,"width":250,"height":60},
 		{"id":"910f95d22f69280f","type":"text","text":"HTTP Transactions","x":2102,"y":1847,"width":250,"height":60},
-		{"id":"209380e4d102cab1","type":"file","file":"Pasted image 20240309145950.png","x":2420,"y":1843,"width":400,"height":364},
+		{"id":"209380e4d102cab1","type":"file","file":"Pasted image 20240309145950.png","x":2420,"y":1843,"width":399,"height":364},
 		{"id":"ad1160d7fd81d0cf","type":"text","text":"HTTP messages","x":2053,"y":2364,"width":250,"height":60},
 		{"id":"5ce3135c645621d1","type":"text","text":"Response message","x":2420,"y":2460,"width":250,"height":60},
 		{"id":"04059436d8ecd7f4","type":"text","text":"Request message","x":2420,"y":2304,"width":250,"height":60},
@@ -97,7 +97,7 @@
 		{"id":"63cb0cc979753555","type":"text","text":"HTML lists","x":1655,"y":4583,"width":250,"height":60},
 		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1655,"y":4683,"width":250,"height":60},
 		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1655,"y":4783,"width":250,"height":60},
-		{"id":"93709d96ac49f53b","x":980,"y":3658,"width":250,"height":286,"type":"text","text":"Defined by TAGS\n\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT\n\n"}
+		{"id":"93709d96ac49f53b","type":"text","text":"Defined by TAGS\n\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT\n\n","x":980,"y":3658,"width":250,"height":286}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
