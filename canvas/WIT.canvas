@@ -82,7 +82,11 @@
 		{"id":"2d5065a8a8d22944","x":1869,"y":4000,"width":250,"height":129,"type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles"},
 		{"id":"50af86b3cf966600","x":1904,"y":4222,"width":250,"height":60,"type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage"},
 		{"id":"68626fe99a57af6a","x":240,"y":3455,"width":250,"height":175,"color":"2","type":"text","text":"Evolution of HTMl"},
-		{"id":"c2a571b447f36cf6","x":1529,"y":4800,"width":250,"height":133,"color":"2","type":"text","text":"## Syntax of HTML"}
+		{"id":"c2a571b447f36cf6","x":1529,"y":4800,"width":250,"height":133,"color":"2","type":"text","text":"## Syntax of HTML"},
+		{"id":"0f1baf56c42ce001","x":1970,"y":4636,"width":250,"height":60,"type":"text","text":"HTML Documents"},
+		{"id":"6a646d02cc33f071","x":1986,"y":4846,"width":250,"height":60,"type":"text","text":"Images"},
+		{"id":"85a41560651a0706","x":1986,"y":5020,"width":250,"height":60,"type":"text","text":"Multimedia"},
+		{"id":"63cb0cc979753555","x":2033,"y":5176,"width":250,"height":60,"type":"text","text":"HTML lists"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -168,6 +172,10 @@
 		{"id":"fec6bfe77369ce61","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"2d5065a8a8d22944","toSide":"left"},
 		{"id":"10c483e668571740","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"50af86b3cf966600","toSide":"left"},
 		{"id":"e253d94766406163","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"68626fe99a57af6a","toSide":"left","color":"2"},
-		{"id":"b5fe5859844a3320","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"c2a571b447f36cf6","toSide":"left","color":"2"}
+		{"id":"b5fe5859844a3320","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"c2a571b447f36cf6","toSide":"left","color":"2"},
+		{"id":"a49f55d451fcfbbb","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"0f1baf56c42ce001","toSide":"left"},
+		{"id":"44eda065958e6507","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"6a646d02cc33f071","toSide":"left"},
+		{"id":"9ceda229b81c1e63","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"85a41560651a0706","toSide":"left"},
+		{"id":"6a0355cc8e8b4df6","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"63cb0cc979753555","toSide":"left"}
 	]
 }
