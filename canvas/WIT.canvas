@@ -148,12 +148,12 @@
 		{"id":"8ef1b3d6a94c6c58","type":"text","text":"Features","x":-2525,"y":400,"width":250,"height":60},
 		{"id":"5876f33e5035f8e2","type":"text","text":"APIs","x":-2111,"y":400,"width":250,"height":60},
 		{"id":"89a11c9aa72a006a","type":"text","text":"Lifecycle","x":-1802,"y":400,"width":250,"height":60},
-		{"id":"059b0cd0b9858405","x":-1122,"y":376,"width":250,"height":60,"type":"text","text":"Session Tracking"},
+		{"id":"059b0cd0b9858405","type":"text","text":"Session Tracking","x":-1122,"y":376,"width":250,"height":60},
 		{"id":"a6e5e7fd877a4bd2","type":"text","text":"Steps to create servlet with eg","x":-1490,"y":376,"width":250,"height":160},
-		{"id":"8caabf55bc42b3f0","x":-2386,"y":617,"width":250,"height":60,"type":"text","text":"Servlet config"},
-		{"id":"257ad115e4699983","x":-2216,"y":800,"width":250,"height":60,"type":"text","text":"Servlet Context"},
-		{"id":"3386c49cc6c82ccd","x":-2008,"y":965,"width":250,"height":60,"type":"text","text":"Servlet Collaboration"},
-		{"id":"f73d60020d9b6db5","x":-1861,"y":663,"width":250,"height":60,"type":"text","text":"Advantages"}
+		{"id":"8caabf55bc42b3f0","type":"text","text":"Servlet config","x":-2386,"y":617,"width":250,"height":60},
+		{"id":"257ad115e4699983","type":"text","text":"Servlet Context","x":-2216,"y":800,"width":250,"height":60},
+		{"id":"3386c49cc6c82ccd","type":"text","text":"Servlet Collaboration","x":-2008,"y":965,"width":250,"height":60},
+		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-1861,"y":663,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
