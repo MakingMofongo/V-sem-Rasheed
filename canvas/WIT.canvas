@@ -77,11 +77,6 @@
 		{"id":"c51bcc5c4e1fc0e7","type":"text","text":"Padding","x":1315,"y":5503,"width":250,"height":60},
 		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":1565,"y":5643,"width":250,"height":60},
 		{"id":"0f1baf56c42ce001","type":"text","text":"HTML Documents","x":1655,"y":4283,"width":250,"height":60},
-		{"id":"6a646d02cc33f071","type":"text","text":"Images","x":1655,"y":4383,"width":250,"height":60},
-		{"id":"85a41560651a0706","type":"text","text":"Multimedia","x":1655,"y":4483,"width":250,"height":60},
-		{"id":"63cb0cc979753555","type":"text","text":"HTML lists","x":1655,"y":4583,"width":250,"height":60},
-		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1655,"y":4683,"width":250,"height":60},
-		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1655,"y":4783,"width":250,"height":60},
 		{"id":"d7a2d05661e8aaa1","type":"text","text":"Works STATICALLY, cannot be used to create DYNAMIC elements","x":1236,"y":2575,"width":250,"height":123},
 		{"id":"b8e6e8efef0d49bd","type":"text","text":"Combined with CSS and JS to make dynamic websites","x":1565,"y":2667,"width":250,"height":87},
 		{"id":"84eb2481b7757e60","type":"text","text":"Primary lang of www","x":1025,"y":1994,"width":250,"height":60},
@@ -103,8 +98,14 @@
 		{"id":"3cf3930315bb707a","x":1964,"y":4347,"width":250,"height":96,"type":"text","text":"Doctype\nhtml\nbody"},
 		{"id":"489c3a981526876e","x":2460,"y":4066,"width":369,"height":300,"type":"text","text":"```\n<!DOCTYPE html>\n<html>\n<body>\n\n<h1>My First Heading</h1>\n<p>My first paragraph.</p>\nMy first paragraph.\n\n</body>\n</html>\n```"},
 		{"id":"8fcf6b4b8e1972e6","x":2297,"y":4489,"width":250,"height":60,"type":"text","text":"`<!DOCTYPE>`"},
-		{"id":"3487944d174f12dc","x":2645,"y":4443,"width":250,"height":140,"type":"text","text":"Appears once at top\n\nNot case sensitive\n\nRepresents document type thus helping browsers to display web pages correctly\n"},
-		{"id":"ab1a01ca03cbbd44","x":2645,"y":4622,"width":250,"height":121,"type":"text","text":"for html5:\n`<!DOCTYPE HTML`"}
+		{"id":"3487944d174f12dc","x":2710,"y":4429,"width":250,"height":240,"type":"text","text":"Appears once at top\n\nNot case sensitive\n\nRepresents document type thus helping browsers to display web pages correctly\n"},
+		{"id":"ab1a01ca03cbbd44","x":2710,"y":4713,"width":250,"height":121,"type":"text","text":"for html5:\n`<!DOCTYPE html>`"},
+		{"id":"6a646d02cc33f071","type":"text","text":"Images","x":1655,"y":4519,"width":250,"height":60},
+		{"id":"85a41560651a0706","type":"text","text":"Multimedia","x":1655,"y":4619,"width":250,"height":60},
+		{"id":"63cb0cc979753555","type":"text","text":"HTML lists","x":1655,"y":4719,"width":250,"height":60},
+		{"id":"14e99b06cc2dc886","type":"text","text":"HTML Tables","x":1655,"y":4819,"width":250,"height":60},
+		{"id":"459e814294c005f3","type":"text","text":"HTML Forms","x":1655,"y":4919,"width":250,"height":60},
+		{"id":"07e819acda5b8a4e","x":1649,"y":4410,"width":250,"height":60,"type":"text","text":"<"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -214,6 +215,7 @@
 		{"id":"0a3028703766d7b3","fromNode":"3cf3930315bb707a","fromSide":"right","toNode":"489c3a981526876e","toSide":"left"},
 		{"id":"e0fef285df390caf","fromNode":"3cf3930315bb707a","fromSide":"right","toNode":"8fcf6b4b8e1972e6","toSide":"left"},
 		{"id":"a0fef78a8ebd4a85","fromNode":"8fcf6b4b8e1972e6","fromSide":"right","toNode":"3487944d174f12dc","toSide":"left"},
-		{"id":"aca684e4af01ddb5","fromNode":"8fcf6b4b8e1972e6","fromSide":"right","toNode":"ab1a01ca03cbbd44","toSide":"left"}
+		{"id":"aca684e4af01ddb5","fromNode":"8fcf6b4b8e1972e6","fromSide":"right","toNode":"ab1a01ca03cbbd44","toSide":"left"},
+		{"id":"160aa8e51f8ea5b6","fromNode":"c2a571b447f36cf6","fromSide":"right","toNode":"07e819acda5b8a4e","toSide":"left"}
 	]
 }
