@@ -1,12 +1,9 @@
 {
 	"nodes":[
 		{"id":"d6c0d4be297cb1c0","type":"group","x":-4960,"y":-2896,"width":7115,"height":5837,"color":"#007bff","label":"Internal2"},
-		{"id":"aeef8b081f0c7766","type":"group","x":3840,"y":-322,"width":2080,"height":1682,"color":"#ffffff","label":"Subjects"},
+		{"id":"aeef8b081f0c7766","type":"group","x":3840,"y":-322,"width":2080,"height":1682,"color":"4","label":"Subjects"},
 		{"id":"6f5ad50b4bbb26b4","type":"group","x":-480,"y":-302,"width":568,"height":325,"label":"Internal2Subs"},
 		{"id":"bd80ec63d0cb499c","type":"group","x":3950,"y":1480,"width":290,"height":320,"label":"Backlogs"},
-		{"id":"4764d7f5736a45a7","type":"file","file":"ETC/Syntax Directed Translation and Definition. GPT + Research.md","x":-3980,"y":-1980,"width":600,"height":576},
-		{"id":"e13299690518c8b3","type":"text","text":"## PDF\n\n1.What is syntax Directed definition\n\n![[Pasted image 20240217203727.png]]\n\n\nand syntax directed translation \n![[Pasted image 20240217203958.png]]\n\nwith examples ...\n","x":-4160,"y":-2876,"width":625,"height":621},
-		{"id":"a3bd60d59fde7489","type":"file","file":"ETC/6.Give annotated parse tree and 3-address  code.md","x":-3960,"y":-1040,"width":780,"height":808},
 		{"id":"94550d673743ef6b","type":"text","text":"# 2.Write a short note on  syntax tree, parameter passing with examples","x":-2603,"y":-1240,"width":383,"height":160,"color":"4"},
 		{"id":"11002d409535b6f6","type":"file","file":"cd imp 2.5.docx","x":-1355,"y":45,"width":200,"height":80,"color":"4"},
 		{"id":"d72c9d39b7812473","type":"text","text":"10. what is storage organization","x":-1680,"y":300,"width":260,"height":100},
@@ -70,7 +67,10 @@
 		{"id":"c74b20207d4c5805","type":"text","text":"CD","x":-460,"y":-282,"width":250,"height":60,"color":"4"},
 		{"id":"0717a62c6bd43a5e","type":"text","text":"OS","x":-460,"y":-177,"width":250,"height":60},
 		{"id":"352f46086bea4476","type":"text","text":"SNLP","x":-460,"y":-57,"width":250,"height":60,"color":"2"},
-		{"id":"24a5e7f6bafdfc39","type":"file","file":"Images/WhatsApp Image 2024-02-15 at 13.05.21_b2b8aeb6.jpg","x":-880,"y":460,"width":484,"height":860}
+		{"id":"24a5e7f6bafdfc39","type":"file","file":"Images/WhatsApp Image 2024-02-15 at 13.05.21_b2b8aeb6.jpg","x":-880,"y":460,"width":484,"height":860},
+		{"id":"a3bd60d59fde7489","type":"file","file":"ETC/6.Give annotated parse tree and 3-address  code.md","x":-3960,"y":-1040,"width":780,"height":808},
+		{"id":"4764d7f5736a45a7","type":"file","file":"ETC/Syntax Directed Translation and Definition. GPT + Research.md","x":-3980,"y":-1980,"width":600,"height":576},
+		{"id":"e13299690518c8b3","type":"text","text":"## PDF\n\n1.What is syntax Directed definition\n\n![[Pasted image 20240217203727.png]]\n\n\nand syntax directed translation \n![[Pasted image 20240217203958.png]]\n\nwith examples ...\n","x":-4160,"y":-2876,"width":625,"height":621}
 	],
 	"edges":[
 		{"id":"47fde9acda44a61a","fromNode":"352f46086bea4476","fromSide":"bottom","toNode":"24a5e7f6bafdfc39","toSide":"top","color":"2"},
