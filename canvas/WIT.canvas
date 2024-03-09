@@ -126,7 +126,6 @@
 		{"id":"c18c2e57d8c0d227","type":"file","file":"Pasted image 20240309175509.png","x":2400,"y":7737,"width":400,"height":115},
 		{"id":"a50cb5ec5b5eaccc","type":"text","text":"Text input","x":2071,"y":7920,"width":250,"height":60},
 		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":726,"height":150},
-		{"id":"7643c8d8095abcb3","type":"text","text":"alternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2694,"y":4802,"width":250,"height":181},
 		{"id":"2d22a5fb80501840","type":"file","file":"Pasted image 20240309180006.png","x":2920,"y":5507,"width":260,"height":163},
 		{"id":"c8b229b5711194e3","type":"text","text":"List items will be marked by numbers by default","x":3291,"y":5567,"width":250,"height":60},
 		{"id":"2d5065a8a8d22944","type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles","x":2220,"y":3443,"width":250,"height":129},
@@ -135,7 +134,10 @@
 		{"id":"206baf5c396c84a8","type":"text","text":"Unrestricted use of inline MathML and SVG in text","x":2220,"y":3310,"width":250,"height":93},
 		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":1915,"y":3608,"width":250,"height":144},
 		{"id":"9faa5330fcd911cb","type":"text","text":"in HTML JS and Browser interface run in the SAME thread, in HTML5, they run in SEPARATE threads","x":1915,"y":3804,"width":250,"height":126},
-		{"id":"db320b2a63624f25","type":"text","text":"Compatibility. HTML all browsers, HTML5 newer browsers","x":1915,"y":3970,"width":250,"height":87}
+		{"id":"db320b2a63624f25","type":"text","text":"Compatibility. HTML all browsers, HTML5 newer browsers","x":1915,"y":3970,"width":250,"height":87},
+		{"id":"d03b96fb609f14c3","x":2290,"y":4841,"width":710,"height":52,"type":"text","text":"`<img src=\"img_girl.jpg\" alt=\"Girl in a jacket\" width=\"500\" height=\"600\">`"},
+		{"id":"de79a1783aa0d571","x":2658,"y":5140,"width":400,"height":101,"type":"file","file":"Pasted image 20240309181531.png"},
+		{"id":"7643c8d8095abcb3","type":"text","text":"alternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2920,"y":4901,"width":250,"height":181}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -277,6 +279,8 @@
 		{"id":"ae3938c933172ca8","fromNode":"3ec4a1ecc9e0a7e7","fromSide":"right","toNode":"7643c8d8095abcb3","toSide":"left"},
 		{"id":"3baf1964976559af","fromNode":"6769109428849fd0","fromSide":"right","toNode":"2d22a5fb80501840","toSide":"left"},
 		{"id":"48b4696615752593","fromNode":"2d22a5fb80501840","fromSide":"right","toNode":"c8b229b5711194e3","toSide":"left"},
-		{"id":"0c59737f015ec66a","fromNode":"7d51768c88e2398a","fromSide":"right","toNode":"85a41560651a0706","toSide":"top","color":"#413e3e"}
+		{"id":"0c59737f015ec66a","fromNode":"7d51768c88e2398a","fromSide":"right","toNode":"85a41560651a0706","toSide":"top","color":"#413e3e"},
+		{"id":"74de00d4046c2b08","fromNode":"f10272340ecb6846","fromSide":"right","toNode":"d03b96fb609f14c3","toSide":"left"},
+		{"id":"a1606e1002760c48","fromNode":"5b425348b2e5ee31","fromSide":"right","toNode":"de79a1783aa0d571","toSide":"left"}
 	]
 }
