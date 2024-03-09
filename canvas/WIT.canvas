@@ -74,7 +74,9 @@
 		{"id":"b8e6e8efef0d49bd","x":1480,"y":2873,"width":250,"height":87,"type":"text","text":"Combined with CSS and JS to make dynamic websites"},
 		{"id":"825c9291ab2acdff","x":1060,"y":3078,"width":250,"height":102,"color":"2","type":"text","text":"HTML5"},
 		{"id":"7d51768c88e2398a","x":1440,"y":3078,"width":250,"height":162,"type":"text","text":"new tags like `<canvas> <video> <audio` and `<footer> <header> <article>`"},
-		{"id":"5b3ae545f2a8c3c0","x":1447,"y":3280,"width":236,"height":140,"type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video"}
+		{"id":"5b3ae545f2a8c3c0","x":1447,"y":3280,"width":236,"height":140,"type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video"},
+		{"id":"c9799a59f2f33e0a","x":1405,"y":3580,"width":250,"height":100,"type":"text","text":"Differences b/w HTML and HTML5"},
+		{"id":"e43d7d252d68923a","x":1869,"y":3482,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -152,6 +154,8 @@
 		{"id":"3fc97154f9c3fbe6","fromNode":"d7a2d05661e8aaa1","fromSide":"right","toNode":"b8e6e8efef0d49bd","toSide":"left"},
 		{"id":"0d3911084ad29ce2","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"825c9291ab2acdff","toSide":"left","color":"2"},
 		{"id":"8ed381e394680dbc","fromNode":"825c9291ab2acdff","fromSide":"right","toNode":"7d51768c88e2398a","toSide":"left"},
-		{"id":"b9835fc96a85f32f","fromNode":"825c9291ab2acdff","fromSide":"right","toNode":"5b3ae545f2a8c3c0","toSide":"left"}
+		{"id":"b9835fc96a85f32f","fromNode":"825c9291ab2acdff","fromSide":"right","toNode":"5b3ae545f2a8c3c0","toSide":"left"},
+		{"id":"26f890025e555bee","fromNode":"825c9291ab2acdff","fromSide":"right","toNode":"c9799a59f2f33e0a","toSide":"left","color":"2"},
+		{"id":"c6ea95b53097d5e8","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"e43d7d252d68923a","toSide":"left"}
 	]
 }
