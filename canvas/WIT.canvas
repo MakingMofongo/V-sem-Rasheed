@@ -44,10 +44,10 @@
 		{"id":"40fe366aac840733","type":"text","text":"Allows Exchange of data between connected devices","x":1605,"y":220,"width":250,"height":91},
 		{"id":"b8fe7c55dd9d82dd","type":"text","text":"Controls how hosted files are accessed","x":1985,"y":59,"width":250,"height":60},
 		{"id":"033e1eb7be581219","type":"text","text":"Client/Sever Model","x":1985,"y":160,"width":250,"height":60},
-		{"id":"958124b4e05678d8","x":1880,"y":465,"width":250,"height":60,"type":"text","text":"SMTP"},
-		{"id":"eaecf48e4cffdcf6","x":1880,"y":600,"width":250,"height":76,"type":"text","text":"FTP"},
 		{"id":"c7aa3d225e98a015","type":"text","text":"Similarity: Similarity: Both Transfer files from one host to another host\n\nDifference: HTTP uses only one connection, FTP uses additional 'Control connection' along with Data connection","x":2300,"y":676,"width":289,"height":212,"color":"#cfc4c4"},
-		{"id":"ddd209eb9b467978","type":"text","text":"Similarity: Similarity: Both Transfer data b/w client and server\n\nDifference: SMTP messages are stored and forwarded, HTTP messages are delivered IMME","x":2300,"y":419,"width":289,"height":212,"color":"#cfc4c4"}
+		{"id":"ddd209eb9b467978","type":"text","text":"Similarity: Similarity: Both Transfer data b/w client and server\n\nDifference: SMTP messages are stored and forwarded, HTTP messages are delivered IMMEDIATELY","x":2300,"y":419,"width":289,"height":212,"color":"#cfc4c4"},
+		{"id":"958124b4e05678d8","x":1880,"y":359,"width":250,"height":60,"type":"text","text":"SMTP"},
+		{"id":"eaecf48e4cffdcf6","x":1860,"y":525,"width":250,"height":76,"type":"text","text":"FTP"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -66,7 +66,7 @@
 		{"id":"52f61d437e05605c","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"959d7d455cee4001","toSide":"left"},
 		{"id":"f480c89874fbdb4f","fromNode":"959d7d455cee4001","fromSide":"right","toNode":"9194476f9963e182","toSide":"left"},
 		{"id":"4e11c5ab9b68bd28","fromNode":"959d7d455cee4001","fromSide":"right","toNode":"482ad6aa19cca3bb","toSide":"left"},
-		{"id":"79e93dbe0d5bea17","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"4d586915905bdfdc","toSide":"left"},
+		{"id":"79e93dbe0d5bea17","fromNode":"482ad6aa19cca3bb","fromSide":"right","toNode":"4d586915905bdfdc","toSide":"left","color":"1"},
 		{"id":"2fc637129969ec26","fromNode":"9194476f9963e182","fromSide":"right","toNode":"29fdc654836884e1","toSide":"left"},
 		{"id":"35e92a8386a1ba4c","fromNode":"9194476f9963e182","fromSide":"right","toNode":"bd3b10c0fd8ad6e9","toSide":"left"},
 		{"id":"b9af196908fdc716","fromNode":"9194476f9963e182","fromSide":"right","toNode":"40fe366aac840733","toSide":"left"},
@@ -90,7 +90,9 @@
 		{"id":"b3651a5f0bd2921e","fromNode":"b2fd8549ec4febfa","fromSide":"right","toNode":"5c8f7ded038166d2","toSide":"left"},
 		{"id":"da01b954589b1d62","fromNode":"4d586915905bdfdc","fromSide":"right","toNode":"958124b4e05678d8","toSide":"left"},
 		{"id":"31d68a2e98dd01ac","fromNode":"4d586915905bdfdc","fromSide":"right","toNode":"eaecf48e4cffdcf6","toSide":"left"},
-		{"id":"aacba62f35f6c982","fromNode":"d07913367daea04b","fromSide":"top","toNode":"c7aa3d225e98a015","toSide":"left"},
-		{"id":"87be94fc55ce1543","fromNode":"eaecf48e4cffdcf6","fromSide":"bottom","toNode":"c7aa3d225e98a015","toSide":"left"}
+		{"id":"aacba62f35f6c982","fromNode":"d07913367daea04b","fromSide":"top","toNode":"c7aa3d225e98a015","toSide":"left","color":"1"},
+		{"id":"9fd480f2f415253e","fromNode":"958124b4e05678d8","fromSide":"right","toNode":"ddd209eb9b467978","toSide":"left"},
+		{"id":"80c9a979b19acd01","fromNode":"d07913367daea04b","fromSide":"top","toNode":"ddd209eb9b467978","toSide":"left","color":"1"},
+		{"id":"de24b75debf41625","fromNode":"eaecf48e4cffdcf6","fromSide":"right","toNode":"c7aa3d225e98a015","toSide":"left"}
 	]
 }
