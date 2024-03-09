@@ -44,10 +44,10 @@
 		{"id":"40fe366aac840733","type":"text","text":"Allows Exchange of data between connected devices","x":1605,"y":220,"width":250,"height":91},
 		{"id":"b8fe7c55dd9d82dd","type":"text","text":"Controls how hosted files are accessed","x":1985,"y":59,"width":250,"height":60},
 		{"id":"033e1eb7be581219","type":"text","text":"Client/Sever Model","x":1985,"y":160,"width":250,"height":60},
-		{"id":"958124b4e05678d8","type":"text","text":"SMTP","x":1800,"y":428,"width":250,"height":60},
-		{"id":"ddd209eb9b467978","type":"text","text":"Similarity: Similarity: Both Transfer data b/w client and server\n\nDifference: SMTP messages are stored and forwarded, HTTP messages are delivered IMMEDIATELY","x":2320,"y":352,"width":289,"height":212,"color":"#cfc4c4"},
-		{"id":"eaecf48e4cffdcf6","type":"text","text":"FTP","x":2020,"y":682,"width":250,"height":76},
-		{"id":"c7aa3d225e98a015","type":"text","text":"Similarity: Similarity: Both Transfer files from one host to another host\n\nDifference: HTTP uses only one connection, FTP uses additional 'Control connection' along with Data connection","x":2389,"y":614,"width":289,"height":212,"color":"#cfc4c4"}
+		{"id":"c7aa3d225e98a015","type":"text","text":"Similarity: Similarity: Both Transfer files from one host to another host\n\nDifference: HTTP uses only one connection, FTP uses additional 'Control connection' along with Data connection","x":2275,"y":640,"width":289,"height":212,"color":"#cfc4c4"},
+		{"id":"eaecf48e4cffdcf6","type":"text","text":"FTP","x":1880,"y":660,"width":250,"height":76},
+		{"id":"958124b4e05678d8","type":"text","text":"SMTP","x":1880,"y":572,"width":250,"height":60},
+		{"id":"ddd209eb9b467978","type":"text","text":"Similarity: Similarity: Both Transfer data b/w client and server\n\nDifference: SMTP messages are stored and forwarded, HTTP messages are delivered IMMEDIATELY","x":2275,"y":360,"width":289,"height":212,"color":"#cfc4c4"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
