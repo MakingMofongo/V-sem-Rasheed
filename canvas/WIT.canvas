@@ -99,7 +99,8 @@
 		{"id":"2d5065a8a8d22944","type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles","x":2020,"y":3575,"width":250,"height":129},
 		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":2020,"y":3744,"width":250,"height":144},
 		{"id":"9faa5330fcd911cb","x":2020,"y":3940,"width":250,"height":126,"type":"text","text":"in HTML JS and Browser interface run in the SAME thread, in HTML5, they run in SEPARATE threads"},
-		{"id":"db320b2a63624f25","x":2020,"y":4106,"width":250,"height":87,"type":"text","text":"Compatibility. HTML all browsers, HTML5 newer browsers"}
+		{"id":"db320b2a63624f25","x":2020,"y":4106,"width":250,"height":87,"type":"text","text":"Compatibility. HTML all browsers, HTML5 newer browsers"},
+		{"id":"489c3a981526876e","x":2071,"y":4283,"width":250,"height":100,"type":"text","text":"```<!DOCTYPE html>\n<html>\n<body>```"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -204,6 +205,7 @@
 		{"id":"06586de46abf5d6c","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"9faa5330fcd911cb","toSide":"left"},
 		{"id":"b52853276a8b9e17","fromNode":"c9799a59f2f33e0a","fromSide":"right","toNode":"db320b2a63624f25","toSide":"left"},
 		{"id":"da23116c6bbfdf89","fromNode":"fbc4a6ea4275a49b","fromSide":"right","toNode":"93709d96ac49f53b","toSide":"left"},
-		{"id":"27aeadd909bc6448","fromNode":"b8e6e8efef0d49bd","fromSide":"right","toNode":"019198fc49b7d8ba","toSide":"left"}
+		{"id":"27aeadd909bc6448","fromNode":"b8e6e8efef0d49bd","fromSide":"right","toNode":"019198fc49b7d8ba","toSide":"left"},
+		{"id":"717c6f63f01d7ddf","fromNode":"0f1baf56c42ce001","fromSide":"right","toNode":"489c3a981526876e","toSide":"left"}
 	]
 }
