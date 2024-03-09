@@ -108,7 +108,7 @@
 		{"id":"2494b3646e5a6462","type":"text","text":"ul tag\neach list item: li tag","x":2553,"y":5390,"width":250,"height":70},
 		{"id":"944c912f0a810190","type":"file","file":"Pasted image 20240309174801.png","x":2920,"y":5267,"width":200,"height":193},
 		{"id":"76a1fb90472ed0e4","type":"text","text":"Description lists","x":2225,"y":5640,"width":250,"height":60},
-		{"id":"30a2a4bef68d8884","type":"text","text":"A description list is a list of terms, with a description of each term.\n\ndl tag\ndt tag - term (name)\ndd tag - describes each term","x":2553,"y":5630,"width":250,"height":250},
+		{"id":"30a2a4bef68d8884","type":"text","text":"A description list is a list of terms, with a description of each term.\n\ndl tag\ndt tag - data term (name)\ndd tag - data description","x":2553,"y":5630,"width":250,"height":250},
 		{"id":"aad0884a3447ae01","type":"file","file":"Pasted image 20240309174953.png","x":2900,"y":5727,"width":400,"height":250},
 		{"id":"6769109428849fd0","type":"text","text":"ol tag","x":2553,"y":5542,"width":250,"height":60},
 		{"id":"19d2e4aca9aff3cf","type":"file","file":"Pasted image 20240309175040.png","x":2104,"y":5880,"width":400,"height":397},
