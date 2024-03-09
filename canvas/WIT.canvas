@@ -66,8 +66,6 @@
 		{"id":"5701334b907ea34f","type":"text","text":"What is Website","x":1580,"y":-570,"width":250,"height":60},
 		{"id":"cd71c8cbb8c6e9cd","type":"text","text":"# HTML","x":640,"y":2394,"width":250,"height":286,"color":"2"},
 		{"id":"825c9291ab2acdff","type":"text","text":"HTML5","x":1060,"y":3078,"width":250,"height":102,"color":"2"},
-		{"id":"7d51768c88e2398a","type":"text","text":"new tags like `<canvas> <video> <audio` and `<footer> <header> <article>`","x":1440,"y":3078,"width":250,"height":162},
-		{"id":"5b3ae545f2a8c3c0","type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video","x":1447,"y":3280,"width":236,"height":140},
 		{"id":"c9799a59f2f33e0a","type":"text","text":"Differences b/w HTML and HTML5","x":1405,"y":3580,"width":250,"height":100},
 		{"id":"e43d7d252d68923a","type":"text","text":"A/V support","x":1869,"y":3482,"width":250,"height":60},
 		{"id":"23b4e1be94b36408","type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLASH,VML or SILVERLIGHT","x":1869,"y":3582,"width":250,"height":152},
@@ -92,12 +90,14 @@
 		{"id":"d7a2d05661e8aaa1","type":"text","text":"Works STATICALLY, cannot be used to create DYNAMIC elements","x":1236,"y":2575,"width":250,"height":123},
 		{"id":"b8e6e8efef0d49bd","type":"text","text":"Combined with CSS and JS to make dynamic websites","x":1565,"y":2667,"width":250,"height":87},
 		{"id":"84eb2481b7757e60","type":"text","text":"Primary lang of www","x":1025,"y":1994,"width":250,"height":60},
-		{"id":"809c9de1749631a5","type":"text","text":"Staandad markup language for creating webpages","x":1236,"y":2115,"width":250,"height":103},
+		{"id":"809c9de1749631a5","type":"text","text":"Standard markup language for creating webpages","x":1236,"y":2115,"width":250,"height":103},
 		{"id":"bbc2c322bfa84d53","type":"text","text":"Used to design page elements such as text, hyperlinks, multimedia files ","x":1221,"y":2279,"width":250,"height":115},
 		{"id":"fbc4a6ea4275a49b","type":"text","text":"Works on TAGS","x":1236,"y":2444,"width":250,"height":60},
 		{"id":"869ea1d55f143b14","type":"text","text":"`<A> </A>` formula for each tag, known as closing and opening tag","x":1605,"y":2474,"width":269,"height":101},
 		{"id":"c2a571b447f36cf6","type":"text","text":"## Syntax of HTML","x":893,"y":4247,"width":250,"height":133,"color":"2"},
-		{"id":"93709d96ac49f53b","type":"text","text":"Defined by TAGS\n\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT\n\n","x":1197,"y":3907,"width":250,"height":286}
+		{"id":"93709d96ac49f53b","type":"text","text":"Defined by TAGS\n\nTAGS appear in PAIRS\n\nTags together specify a CONTAINER\n\ncontainer and content together are ELEMENT\n\n","x":1197,"y":3907,"width":250,"height":286},
+		{"id":"7d51768c88e2398a","type":"text","text":"new tags like `<canvas> <video> <audio` and `<footer> <header> <article>`","x":1440,"y":2860,"width":250,"height":162},
+		{"id":"5b3ae545f2a8c3c0","type":"text","text":"New APIs, XHTML and error handling also supports Audio and Video","x":1530,"y":3040,"width":236,"height":140}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
