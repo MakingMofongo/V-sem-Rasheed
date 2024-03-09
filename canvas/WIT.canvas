@@ -71,7 +71,7 @@
 		{"id":"23b4e1be94b36408","type":"text","text":"Native support for SVG, Canvas and other vector graphics, whereas HTML needs FLASH,VML or SILVERLIGHT","x":1869,"y":3582,"width":250,"height":152},
 		{"id":"206baf5c396c84a8","type":"text","text":"Unrestricted use of inline MathML and SVG in text","x":1869,"y":3774,"width":250,"height":93},
 		{"id":"2d5065a8a8d22944","type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles","x":1869,"y":3907,"width":250,"height":129},
-		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":1869,"y":4076,"width":250,"height":60},
+		{"id":"50af86b3cf966600","type":"text","text":"HTML uses browser cache and Cookies to store temp data\n\nHTML5 uses Web SQL, Local Storage","x":1869,"y":4076,"width":250,"height":144},
 		{"id":"68626fe99a57af6a","type":"text","text":"Evolution of HTMl","x":240,"y":3455,"width":250,"height":175,"color":"2"},
 		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":661,"y":4938,"width":250,"height":165,"color":"#b10bfe"},
 		{"id":"4af0c395653743dc","type":"text","text":"Inline","x":1143,"y":4923,"width":250,"height":60},
