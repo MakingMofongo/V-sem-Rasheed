@@ -64,7 +64,7 @@
 		{"id":"b5b56befdb2e6248","x":3180,"y":2553,"width":277,"height":142,"type":"text","text":"Consists of a status line, headers, and sometimes a body."},
 		{"id":"a6a4d532e49da9ea","type":"text","text":"Collection of websites","x":1220,"y":-620,"width":250,"height":60},
 		{"id":"5701334b907ea34f","type":"text","text":"What is Website","x":1580,"y":-570,"width":250,"height":60},
-		{"id":"cd71c8cbb8c6e9cd","x":703,"y":2375,"width":250,"height":60,"type":"text","text":"HTML"}
+		{"id":"cd71c8cbb8c6e9cd","x":666,"y":2200,"width":250,"height":80,"color":"2","type":"text","text":"HTML"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
