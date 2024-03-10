@@ -15,16 +15,16 @@
 		{"id":"b34efdba064e4a45","x":1092,"y":1552,"width":444,"height":288,"type":"text","text":"9.     Explain all three problems of classical problem of synchronization (producer-consumer, reader-writer, dining philosopher). (or) Explain the reader-writer problem of synchronization and explain the semaphore solution for it. (or) What is dining philosophers problem?(5/10m) (V V V IMP)"},
 		{"id":"0a02fcf334b31705","x":1754,"y":1784,"width":250,"height":60,"type":"text","text":"Semaphores"},
 		{"id":"7062f97a89678b23","x":2100,"y":1869,"width":250,"height":60,"type":"text","text":"Signal"},
-		{"id":"e3267cc35678f13b","x":1773,"y":1580,"width":250,"height":141,"type":"text","text":"Simple numeric value to synchronize processes and control access to critical sections"},
 		{"id":"b8e70a5f0f2073ef","x":2100,"y":1724,"width":250,"height":60,"type":"text","text":"Wait "},
 		{"id":"400f0f496bc2aaa0","x":2454,"y":1680,"width":250,"height":164,"type":"text","text":"```c\nP (semaphore s){\nwhile (s<=0)\n\t;\ns--;\n}\n```"},
 		{"id":"b1937a5c6bc210a9","x":2456,"y":1929,"width":250,"height":131,"type":"text","text":"``` c\nV (sempahore s){\ns++\n}\n```"},
 		{"id":"b1f3e81f4df92b50","x":2080,"y":2140,"width":250,"height":60,"type":"text","text":"Producer"},
-		{"id":"1b14eff446ebc3b0","x":2080,"y":2250,"width":250,"height":60,"type":"text","text":"Consumer"},
+		{"id":"1b14eff446ebc3b0","x":2080,"y":2220,"width":250,"height":60,"type":"text","text":"Consumer"},
 		{"id":"322028eb5fa23d73","x":1754,"y":2174,"width":250,"height":60,"type":"text","text":"Bounded buffer problem"},
-		{"id":"e152b3a59acb4a43","x":2080,"y":2360,"width":400,"height":155,"type":"file","file":"Pasted image 20240310183556.png"},
-		{"id":"3684487f34cd3a04","x":2090,"y":2579,"width":250,"height":60,"type":"text","text":"Semaphores Used"},
-		{"id":"9fc2c25ba1a3825f","x":2451,"y":2574,"width":510,"height":131,"type":"file","file":"Pasted image 20240310183630.png"}
+		{"id":"e152b3a59acb4a43","x":2420,"y":2140,"width":400,"height":155,"type":"file","file":"Pasted image 20240310183556.png"},
+		{"id":"3684487f34cd3a04","x":2080,"y":2300,"width":250,"height":60,"type":"text","text":"Semaphores Used"},
+		{"id":"9fc2c25ba1a3825f","x":2420,"y":2400,"width":510,"height":131,"type":"file","file":"Pasted image 20240310183630.png"},
+		{"id":"e3267cc35678f13b","x":1800,"y":1555,"width":250,"height":141,"type":"text","text":"Simple numeric value to synchronize processes and control access to critical sections"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -48,6 +48,8 @@
 		{"id":"2cc491177d12dea0","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"b1f3e81f4df92b50","toSide":"left"},
 		{"id":"6ecb6e1f90bd597d","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"1b14eff446ebc3b0","toSide":"left"},
 		{"id":"257e4b171e410112","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"3684487f34cd3a04","toSide":"left"},
-		{"id":"79eddba57c685405","fromNode":"3684487f34cd3a04","fromSide":"right","toNode":"9fc2c25ba1a3825f","toSide":"left"}
+		{"id":"79eddba57c685405","fromNode":"3684487f34cd3a04","fromSide":"right","toNode":"9fc2c25ba1a3825f","toSide":"left"},
+		{"id":"d82c407a7393b31d","fromNode":"b1f3e81f4df92b50","fromSide":"right","toNode":"e152b3a59acb4a43","toSide":"left"},
+		{"id":"b4d5958feecff886","fromNode":"1b14eff446ebc3b0","fromSide":"right","toNode":"e152b3a59acb4a43","toSide":"left"}
 	]
 }
