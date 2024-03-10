@@ -28,7 +28,7 @@
 		{"id":"7e7ce951562895cc","x":3020,"y":2218,"width":400,"height":372,"type":"file","file":"Pasted image 20240310183807.png"},
 		{"id":"24c7a3180befacca","x":3020,"y":1827,"width":400,"height":371,"type":"file","file":"Pasted image 20240310183757.png"},
 		{"id":"4c8238c4bdb8e47f","x":1793,"y":2498,"width":250,"height":60,"type":"text","text":"Reader Writer Problem"},
-		{"id":"a2d3195703843781","x":2130,"y":2558,"width":400,"height":230,"type":"file","file":"Pasted image 20240310184148.png"}
+		{"id":"a2d3195703843781","x":2100,"y":2620,"width":400,"height":230,"type":"file","file":"Pasted image 20240310184148.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
