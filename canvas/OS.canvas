@@ -21,7 +21,10 @@
 		{"id":"b1937a5c6bc210a9","x":2456,"y":1929,"width":250,"height":131,"type":"text","text":"``` c\nV (sempahore s){\ns++\n}\n```"},
 		{"id":"b1f3e81f4df92b50","x":2080,"y":2140,"width":250,"height":60,"type":"text","text":"Producer"},
 		{"id":"1b14eff446ebc3b0","x":2080,"y":2250,"width":250,"height":60,"type":"text","text":"Consumer"},
-		{"id":"322028eb5fa23d73","x":1754,"y":2174,"width":250,"height":60,"type":"text","text":"Bounded buffer problem"}
+		{"id":"322028eb5fa23d73","x":1754,"y":2174,"width":250,"height":60,"type":"text","text":"Bounded buffer problem"},
+		{"id":"e152b3a59acb4a43","x":2080,"y":2360,"width":400,"height":155,"type":"file","file":"Pasted image 20240310183556.png"},
+		{"id":"3684487f34cd3a04","x":2090,"y":2579,"width":250,"height":60,"type":"text","text":"Semaphores Used"},
+		{"id":"9fc2c25ba1a3825f","x":2451,"y":2574,"width":510,"height":131,"type":"file","file":"Pasted image 20240310183630.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -43,6 +46,8 @@
 		{"id":"cef36b48b4aa99be","fromNode":"7062f97a89678b23","fromSide":"right","toNode":"b1937a5c6bc210a9","toSide":"left"},
 		{"id":"238654831b4b14bb","fromNode":"0a02fcf334b31705","fromSide":"bottom","toNode":"322028eb5fa23d73","toSide":"top"},
 		{"id":"2cc491177d12dea0","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"b1f3e81f4df92b50","toSide":"left"},
-		{"id":"6ecb6e1f90bd597d","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"1b14eff446ebc3b0","toSide":"left"}
+		{"id":"6ecb6e1f90bd597d","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"1b14eff446ebc3b0","toSide":"left"},
+		{"id":"257e4b171e410112","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"3684487f34cd3a04","toSide":"left"},
+		{"id":"79eddba57c685405","fromNode":"3684487f34cd3a04","fromSide":"right","toNode":"9fc2c25ba1a3825f","toSide":"left"}
 	]
 }
