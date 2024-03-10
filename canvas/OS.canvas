@@ -5,8 +5,10 @@
 		{"id":"8a7003345dc66592","type":"text","text":"4.\tPractice all the problems of CPU scheduling algorithms discussed in class (10m)(V V V IMP)","x":1035,"y":709,"width":405,"height":111},
 		{"id":"3192e9f1dc474401","type":"text","text":"FCFS","x":1563,"y":648,"width":250,"height":60},
 		{"id":"3585f3a0aa3b3b0a","type":"text","text":"SJF","x":1599,"y":775,"width":250,"height":60},
-		{"id":"9e96c053298562f6","type":"text","text":"With preemption","x":1940,"y":707,"width":250,"height":60},
-		{"id":"0a24dd997ea7694a","x":1936,"y":859,"width":250,"height":60,"type":"text","text":"W/O Preemption"}
+		{"id":"9e96c053298562f6","type":"text","text":"With preemption","x":1940,"y":707,"width":250,"height":60,"color":"1"},
+		{"id":"0a24dd997ea7694a","type":"text","text":"W/O Preemption","x":1936,"y":859,"width":250,"height":60},
+		{"id":"ee81ab21412460f8","x":1411,"y":1007,"width":250,"height":60,"type":"text","text":"Problems"},
+		{"id":"88391efe5de67269","x":1846,"y":1034,"width":494,"height":406,"type":"text","text":"1) Discuss CPU scheduling algorithms with the following example and find avg. waiting time and avg. turn aroused time in a) FCFS b) SJF c) RR (Time slice = 2 ms).\n\nProcess Burst time Arrival time\n\nP1                    10         0\n\nP2                    2          0\n\nP3                    4          1\n\nP4                    5          2\n\nP5                    3          1"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -14,6 +16,8 @@
 		{"id":"d5ba19ab19c68678","fromNode":"8a7003345dc66592","fromSide":"right","toNode":"3192e9f1dc474401","toSide":"left"},
 		{"id":"7d80f996dc1d4e97","fromNode":"8a7003345dc66592","fromSide":"right","toNode":"3585f3a0aa3b3b0a","toSide":"left"},
 		{"id":"7c9958fe31fe6a50","fromNode":"3585f3a0aa3b3b0a","fromSide":"right","toNode":"9e96c053298562f6","toSide":"left"},
-		{"id":"10c1fec28aa703f8","fromNode":"3585f3a0aa3b3b0a","fromSide":"right","toNode":"0a24dd997ea7694a","toSide":"left"}
+		{"id":"10c1fec28aa703f8","fromNode":"3585f3a0aa3b3b0a","fromSide":"right","toNode":"0a24dd997ea7694a","toSide":"left"},
+		{"id":"32e3c7c3682c5dad","fromNode":"8a7003345dc66592","fromSide":"right","toNode":"ee81ab21412460f8","toSide":"left"},
+		{"id":"e523caa0c26b4901","fromNode":"ee81ab21412460f8","fromSide":"right","toNode":"88391efe5de67269","toSide":"left"}
 	]
 }
