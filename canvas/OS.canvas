@@ -17,8 +17,8 @@
 		{"id":"7062f97a89678b23","x":2100,"y":1869,"width":250,"height":60,"type":"text","text":"Signal"},
 		{"id":"e3267cc35678f13b","x":1773,"y":1580,"width":250,"height":141,"type":"text","text":"Simple numeric value to synchronize processes and control access to critical sections"},
 		{"id":"b8e70a5f0f2073ef","x":2100,"y":1724,"width":250,"height":60,"type":"text","text":"Wait "},
-		{"id":"400f0f496bc2aaa0","x":2454,"y":1680,"width":250,"height":164,"type":"text","text":"```c\nP \nwhile (n<=0){\n\t;\n\t}\nn--;\n```"},
-		{"id":"b1937a5c6bc210a9","x":2456,"y":1929,"width":250,"height":60,"type":"text","text":"n++"}
+		{"id":"400f0f496bc2aaa0","x":2454,"y":1680,"width":250,"height":164,"type":"text","text":"```c\nP (semaphore s){\nwhile (s<=0)\n\t;\ns--;\n}\n```"},
+		{"id":"b1937a5c6bc210a9","x":2456,"y":1929,"width":250,"height":60,"type":"text","text":"``` c\nV (sempahore s)\n```"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
