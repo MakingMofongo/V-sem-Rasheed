@@ -7,8 +7,10 @@
 		{"id":"3585f3a0aa3b3b0a","type":"text","text":"SJF","x":1599,"y":775,"width":250,"height":60},
 		{"id":"9e96c053298562f6","type":"text","text":"With preemption","x":1940,"y":707,"width":250,"height":60,"color":"1"},
 		{"id":"0a24dd997ea7694a","type":"text","text":"W/O Preemption","x":1936,"y":859,"width":250,"height":60},
-		{"id":"ee81ab21412460f8","x":1411,"y":1007,"width":250,"height":60,"type":"text","text":"Problems"},
-		{"id":"88391efe5de67269","x":1846,"y":1034,"width":494,"height":406,"type":"text","text":"1) Discuss CPU scheduling algorithms with the following example and find avg. waiting time and avg. turn aroused time in a) FCFS b) SJF c) RR (Time slice = 2 ms).\n\nProcess Burst time Arrival time\n\nP1                    10         0\n\nP2                    2          0\n\nP3                    4          1\n\nP4                    5          2\n\nP5                    3          1"}
+		{"id":"ee81ab21412460f8","type":"text","text":"Problems","x":1411,"y":1007,"width":250,"height":60},
+		{"id":"88391efe5de67269","type":"text","text":"1) Discuss CPU scheduling algorithms with the following example and find avg. waiting time and avg. turn aroused time in a) FCFS b) SJF c) RR (Time slice = 2 ms).\n\nProcess Burst time Arrival time\n\nP1                    10         0\n\nP2                    2          0\n\nP3                    4          1\n\nP4                    5          2\n\nP5                    3          1","x":1846,"y":1034,"width":494,"height":406},
+		{"id":"eb875c51b977b5f2","type":"file","file":"Excalidraw/Drawing 2024-03-10 18.00.35.excalidraw.md","x":2420,"y":1220,"width":400,"height":400},
+		{"id":"df0c0f8beec88bdf","x":1617,"y":898,"width":250,"height":60,"color":"1","type":"text","text":"RR"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -18,6 +20,8 @@
 		{"id":"7c9958fe31fe6a50","fromNode":"3585f3a0aa3b3b0a","fromSide":"right","toNode":"9e96c053298562f6","toSide":"left"},
 		{"id":"10c1fec28aa703f8","fromNode":"3585f3a0aa3b3b0a","fromSide":"right","toNode":"0a24dd997ea7694a","toSide":"left"},
 		{"id":"32e3c7c3682c5dad","fromNode":"8a7003345dc66592","fromSide":"right","toNode":"ee81ab21412460f8","toSide":"left"},
-		{"id":"e523caa0c26b4901","fromNode":"ee81ab21412460f8","fromSide":"right","toNode":"88391efe5de67269","toSide":"left"}
+		{"id":"e523caa0c26b4901","fromNode":"ee81ab21412460f8","fromSide":"right","toNode":"88391efe5de67269","toSide":"left"},
+		{"id":"77bc006143a3617d","fromNode":"88391efe5de67269","fromSide":"right","toNode":"eb875c51b977b5f2","toSide":"left"},
+		{"id":"6875e1936b79e2eb","fromNode":"8a7003345dc66592","fromSide":"right","toNode":"df0c0f8beec88bdf","toSide":"left"}
 	]
 }
