@@ -18,7 +18,10 @@
 		{"id":"e3267cc35678f13b","x":1773,"y":1580,"width":250,"height":141,"type":"text","text":"Simple numeric value to synchronize processes and control access to critical sections"},
 		{"id":"b8e70a5f0f2073ef","x":2100,"y":1724,"width":250,"height":60,"type":"text","text":"Wait "},
 		{"id":"400f0f496bc2aaa0","x":2454,"y":1680,"width":250,"height":164,"type":"text","text":"```c\nP (semaphore s){\nwhile (s<=0)\n\t;\ns--;\n}\n```"},
-		{"id":"b1937a5c6bc210a9","x":2456,"y":1929,"width":250,"height":131,"type":"text","text":"``` c\nV (sempahore s){\ns++\n}\n```"}
+		{"id":"b1937a5c6bc210a9","x":2456,"y":1929,"width":250,"height":131,"type":"text","text":"``` c\nV (sempahore s){\ns++\n}\n```"},
+		{"id":"b1f3e81f4df92b50","x":2080,"y":2140,"width":250,"height":60,"type":"text","text":"Producer"},
+		{"id":"1b14eff446ebc3b0","x":2080,"y":2250,"width":250,"height":60,"type":"text","text":"Consumer"},
+		{"id":"322028eb5fa23d73","x":1754,"y":2174,"width":250,"height":60,"type":"text","text":"Bounded buffer problem"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -37,6 +40,9 @@
 		{"id":"168e7930fcd30c2c","fromNode":"0a02fcf334b31705","fromSide":"right","toNode":"7062f97a89678b23","toSide":"left"},
 		{"id":"baa882ad34873b08","fromNode":"0a02fcf334b31705","fromSide":"top","toNode":"e3267cc35678f13b","toSide":"bottom"},
 		{"id":"27ab9258e6515411","fromNode":"b8e70a5f0f2073ef","fromSide":"right","toNode":"400f0f496bc2aaa0","toSide":"left"},
-		{"id":"cef36b48b4aa99be","fromNode":"7062f97a89678b23","fromSide":"right","toNode":"b1937a5c6bc210a9","toSide":"left"}
+		{"id":"cef36b48b4aa99be","fromNode":"7062f97a89678b23","fromSide":"right","toNode":"b1937a5c6bc210a9","toSide":"left"},
+		{"id":"238654831b4b14bb","fromNode":"0a02fcf334b31705","fromSide":"bottom","toNode":"322028eb5fa23d73","toSide":"top"},
+		{"id":"2cc491177d12dea0","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"b1f3e81f4df92b50","toSide":"left"},
+		{"id":"6ecb6e1f90bd597d","fromNode":"322028eb5fa23d73","fromSide":"right","toNode":"1b14eff446ebc3b0","toSide":"left"}
 	]
 }
