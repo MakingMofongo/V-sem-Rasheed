@@ -26,7 +26,9 @@
 		{"id":"9fc2c25ba1a3825f","x":2420,"y":2400,"width":510,"height":131,"type":"file","file":"Pasted image 20240310183630.png"},
 		{"id":"e3267cc35678f13b","x":1800,"y":1555,"width":250,"height":141,"type":"text","text":"Simple numeric value to synchronize processes and control access to critical sections"},
 		{"id":"7e7ce951562895cc","x":3020,"y":2218,"width":400,"height":372,"type":"file","file":"Pasted image 20240310183807.png"},
-		{"id":"24c7a3180befacca","x":3020,"y":1827,"width":400,"height":371,"type":"file","file":"Pasted image 20240310183757.png"}
+		{"id":"24c7a3180befacca","x":3020,"y":1827,"width":400,"height":371,"type":"file","file":"Pasted image 20240310183757.png"},
+		{"id":"4c8238c4bdb8e47f","x":1793,"y":2498,"width":250,"height":60,"type":"text","text":"Reader Writer Problem"},
+		{"id":"a2d3195703843781","x":2130,"y":2558,"width":400,"height":230,"type":"file","file":"Pasted image 20240310184148.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -54,6 +56,7 @@
 		{"id":"d82c407a7393b31d","fromNode":"b1f3e81f4df92b50","fromSide":"right","toNode":"e152b3a59acb4a43","toSide":"left"},
 		{"id":"b4d5958feecff886","fromNode":"1b14eff446ebc3b0","fromSide":"right","toNode":"e152b3a59acb4a43","toSide":"left"},
 		{"id":"105d7b51bc84154b","fromNode":"e152b3a59acb4a43","fromSide":"right","toNode":"24c7a3180befacca","toSide":"left"},
-		{"id":"1d317134be3e2df2","fromNode":"e152b3a59acb4a43","fromSide":"right","toNode":"7e7ce951562895cc","toSide":"left"}
+		{"id":"1d317134be3e2df2","fromNode":"e152b3a59acb4a43","fromSide":"right","toNode":"7e7ce951562895cc","toSide":"left"},
+		{"id":"6706cedf4253b2fb","fromNode":"b34efdba064e4a45","fromSide":"right","toNode":"4c8238c4bdb8e47f","toSide":"left"}
 	]
 }
