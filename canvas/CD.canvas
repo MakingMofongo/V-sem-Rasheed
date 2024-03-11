@@ -34,15 +34,16 @@
 		{"id":"a48cc29df1a434a4","type":"text","text":"Code optimization - What it is, Types - Local, Loop with egs","x":2475,"y":1632,"width":245,"height":115},
 		{"id":"99e1b123e07561f1","type":"text","text":"+Symbol Table\n+Error Handler","x":2475,"y":1229,"width":250,"height":60},
 		{"id":"7454a4160e3df850","type":"text","text":"Example of entire process (Position = initial + rate * 60)","x":2475,"y":1780,"width":286,"height":60},
-		{"id":"c4e07524070770cc","type":"text","text":"## Lexical Analysis","x":1009,"y":1603,"width":250,"height":60,"color":"4"},
-		{"id":"93bca9de8183c97a","type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces","x":1400,"y":1603,"width":260,"height":117},
-		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1405,"y":1841,"width":250,"height":60},
-		{"id":"04854d3c289645c2","type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters","x":1803,"y":1846,"width":283,"height":114},
-		{"id":"bb392ab9e67ab748","type":"text","text":"Define by, Recognized by","x":1819,"y":2049,"width":250,"height":60},
 		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-171,"y":-1168,"width":503,"height":554},
 		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":420,"y":-1168,"width":515,"height":557},
 		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":1009,"y":-1198,"width":558,"height":634},
-		{"id":"037255bd5bfc7579","type":"file","file":"Drawing 2024-03-11 21.26.00.excalidraw.md","x":-500,"y":-380,"width":1041,"height":768}
+		{"id":"037255bd5bfc7579","type":"file","file":"Drawing 2024-03-11 21.26.00.excalidraw.md","x":-500,"y":-380,"width":1041,"height":768},
+		{"id":"04854d3c289645c2","type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters","x":1787,"y":2403,"width":283,"height":114},
+		{"id":"bb392ab9e67ab748","type":"text","text":"Define by, Recognized by","x":1803,"y":2606,"width":250,"height":60},
+		{"id":"c4e07524070770cc","type":"text","text":"## Lexical Analysis","x":993,"y":2160,"width":250,"height":60,"color":"4"},
+		{"id":"93bca9de8183c97a","type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces","x":1384,"y":2160,"width":260,"height":117},
+		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1389,"y":2398,"width":250,"height":60},
+		{"id":"d384892f6773be9b","x":1334,"y":1494,"width":250,"height":60,"type":"text","text":"Data Structures "}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -82,6 +83,7 @@
 		{"id":"95121a2ffb97d97a","fromNode":"c4e07524070770cc","fromSide":"right","toNode":"93bca9de8183c97a","toSide":"left"},
 		{"id":"18cd104cf7f54fe7","fromNode":"93bca9de8183c97a","fromSide":"bottom","toNode":"c118aed37beb6ae6","toSide":"top"},
 		{"id":"5c522f78ae4639d7","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"04854d3c289645c2","toSide":"left"},
-		{"id":"8c94cda18ae3cf4c","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"bb392ab9e67ab748","toSide":"left"}
+		{"id":"8c94cda18ae3cf4c","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"bb392ab9e67ab748","toSide":"left"},
+		{"id":"2d57010f3c0dbab8","fromNode":"35328df1c34b5e5f","fromSide":"right","toNode":"d384892f6773be9b","toSide":"left"}
 	]
 }
