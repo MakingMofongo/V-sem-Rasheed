@@ -34,7 +34,9 @@
 		{"id":"f7932445a8b7db06","x":2475,"y":1469,"width":250,"height":143,"type":"text","text":"Intermediate Code Generation details - Whats its input, what it makes, style of intermediate code"},
 		{"id":"a48cc29df1a434a4","x":2475,"y":1632,"width":245,"height":115,"type":"text","text":"Code optimization - What it is, Types - Local, Loop with egs"},
 		{"id":"99e1b123e07561f1","type":"text","text":"+Symbol Table\n+Error Handler","x":2475,"y":1229,"width":250,"height":60},
-		{"id":"7454a4160e3df850","x":2475,"y":1780,"width":286,"height":60,"type":"text","text":"Example of entire process (Position = initial + rate * 60)"}
+		{"id":"7454a4160e3df850","x":2475,"y":1780,"width":286,"height":60,"type":"text","text":"Example of entire process (Position = initial + rate * 60)"},
+		{"id":"c4e07524070770cc","x":1009,"y":1603,"width":250,"height":60,"color":"4","type":"text","text":"## Lexical Analysis"},
+		{"id":"93bca9de8183c97a","x":1400,"y":1603,"width":250,"height":60,"type":"text","text":"What it is"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -69,6 +71,8 @@
 		{"id":"e793826e111c16ff","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"0d1d06bd54f55f02","toSide":"left"},
 		{"id":"cc3ac6db68a53787","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"f7932445a8b7db06","toSide":"left"},
 		{"id":"d91118be116438f7","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"a48cc29df1a434a4","toSide":"left"},
-		{"id":"1428b396f806a30a","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"7454a4160e3df850","toSide":"left"}
+		{"id":"1428b396f806a30a","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"7454a4160e3df850","toSide":"left"},
+		{"id":"377a7ff489fd9d79","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"c4e07524070770cc","toSide":"left"},
+		{"id":"95121a2ffb97d97a","fromNode":"c4e07524070770cc","fromSide":"right","toNode":"93bca9de8183c97a","toSide":"left"}
 	]
 }
