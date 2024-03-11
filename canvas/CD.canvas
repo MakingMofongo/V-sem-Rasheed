@@ -27,7 +27,7 @@
 		{"id":"02341be34e4f882a","x":1364,"y":859,"width":376,"height":261,"type":"text","text":"List of compilers:\n\n 1 .Ada compilers 2 .ALGOL compilers 3 .BASIC compilers 4 .C# compilers 5 .C compilers 6 .C++ compilers 7 .COBOL compilers 8 .Common Lisp compilers 9. ECMAScript interpreters 10. Fortran compilers 11 .Java compilers 12. Pascal compilers 13. PL/I compilers 14. Python compilers 15. Smalltalk compilers"},
 		{"id":"823bfe64fee0d36d","x":1363,"y":1199,"width":250,"height":121,"color":"1","type":"text","text":"Structure"},
 		{"id":"d14117073a43e62c","x":1717,"y":1199,"width":250,"height":60,"type":"text","text":"Phases of Compiler"},
-		{"id":"1edb812e8a1e5fe7","x":1772,"y":1081,"width":250,"height":60,"type":"text","text":"\"Logically Interrelated opertions\""}
+		{"id":"1edb812e8a1e5fe7","x":1820,"y":1090,"width":250,"height":60,"type":"text","text":"\"Logically Interrelated operations\""}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
