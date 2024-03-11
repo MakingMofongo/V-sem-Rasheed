@@ -32,7 +32,8 @@
 		{"id":"99e1b123e07561f1","type":"text","text":"+Symbol Table\n+Error Handler","x":2480,"y":1199,"width":250,"height":60},
 		{"id":"31be7a64be748168","type":"text","text":"Input>Tokens>Expressions>Statements","x":2480,"y":1360,"width":260,"height":60},
 		{"id":"0d1d06bd54f55f02","x":2480,"y":1460,"width":250,"height":60,"type":"text","text":"Parser functions(2) with eg"},
-		{"id":"f7932445a8b7db06","x":2480,"y":1580,"width":250,"height":143,"type":"text","text":"Intermediate Code Generation details - Whats its input, what it makes, style of intermediate code"}
+		{"id":"f7932445a8b7db06","x":2480,"y":1580,"width":250,"height":143,"type":"text","text":"Intermediate Code Generation details - Whats its input, what it makes, style of intermediate code"},
+		{"id":"a48cc29df1a434a4","x":2495,"y":1765,"width":250,"height":60,"type":"text","text":"Code optim"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -65,6 +66,7 @@
 		{"id":"2bbe35b9d155d801","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"99e1b123e07561f1","toSide":"left"},
 		{"id":"6d1787b88c089110","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"31be7a64be748168","toSide":"left"},
 		{"id":"e793826e111c16ff","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"0d1d06bd54f55f02","toSide":"left"},
-		{"id":"cc3ac6db68a53787","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"f7932445a8b7db06","toSide":"left"}
+		{"id":"cc3ac6db68a53787","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"f7932445a8b7db06","toSide":"left"},
+		{"id":"d91118be116438f7","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"a48cc29df1a434a4","toSide":"left"}
 	]
 }
