@@ -1,6 +1,18 @@
 {
 	"nodes":[
-		{"id":"8e3791a5b2e8a767","type":"file","file":"Pasted image 20240311151710.png","x":-260,"y":-347,"width":680,"height":542}
+		{"id":"8e3791a5b2e8a767","type":"file","file":"Pasted image 20240311151710.png","x":-260,"y":-347,"width":680,"height":542},
+		{"id":"00158b878956ee4f","x":569,"y":-116,"width":250,"height":60,"type":"text","text":"Unit 1"},
+		{"id":"8c4959474e9f458f","x":955,"y":-302,"width":250,"height":60,"type":"text","text":"Structure of a compiler"},
+		{"id":"6a288ce477731043","x":1317,"y":-434,"width":250,"height":60,"type":"text","text":"Preprocessor"},
+		{"id":"24591226b558df29","x":1317,"y":-354,"width":250,"height":60,"type":"text","text":"Compiler"},
+		{"id":"ab6f7beb0d02b242","x":1317,"y":-274,"width":250,"height":60,"type":"text","text":"Assembler"},
+		{"id":"44da60ba783b4463","x":1317,"y":-194,"width":250,"height":60,"type":"text","text":"Loader/Linker-editor"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
+		{"id":"1d626e2f984816a0","fromNode":"8c4959474e9f458f","fromSide":"right","toNode":"6a288ce477731043","toSide":"left"},
+		{"id":"5913df3167667e80","fromNode":"8c4959474e9f458f","fromSide":"right","toNode":"24591226b558df29","toSide":"left"},
+		{"id":"a63fe4cde2cd023f","fromNode":"8c4959474e9f458f","fromSide":"right","toNode":"ab6f7beb0d02b242","toSide":"left"},
+		{"id":"ea1e1b10b79e874f","fromNode":"8c4959474e9f458f","fromSide":"right","toNode":"44da60ba783b4463","toSide":"left"}
+	]
 }
