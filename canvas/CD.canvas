@@ -25,7 +25,9 @@
 		{"id":"be48af33839a5da9","x":1309,"y":518,"width":291,"height":122,"type":"text","text":"What is Translator, HLL specification, Important Roles (2)"},
 		{"id":"35328df1c34b5e5f","x":1000,"y":786,"width":250,"height":60,"type":"text","text":"## Compiler"},
 		{"id":"02341be34e4f882a","x":1364,"y":859,"width":376,"height":261,"type":"text","text":"List of compilers:\n\n 1 .Ada compilers 2 .ALGOL compilers 3 .BASIC compilers 4 .C# compilers 5 .C compilers 6 .C++ compilers 7 .COBOL compilers 8 .Common Lisp compilers 9. ECMAScript interpreters 10. Fortran compilers 11 .Java compilers 12. Pascal compilers 13. PL/I compilers 14. Python compilers 15. Smalltalk compilers"},
-		{"id":"823bfe64fee0d36d","x":1363,"y":1199,"width":250,"height":60,"type":"text","text":"Structure"}
+		{"id":"823bfe64fee0d36d","x":1363,"y":1199,"width":250,"height":121,"color":"1","type":"text","text":"Structure"},
+		{"id":"d14117073a43e62c","x":1717,"y":1199,"width":250,"height":60,"type":"text","text":"Phases of Compiler"},
+		{"id":"1edb812e8a1e5fe7","x":1772,"y":1081,"width":250,"height":60,"type":"text","text":"\"Logically Interrelated opertions\""}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -51,6 +53,8 @@
 		{"id":"a8dbf4b0f58e88f4","fromNode":"a95308b4119c1915","fromSide":"right","toNode":"be48af33839a5da9","toSide":"left"},
 		{"id":"e1afd58178448ada","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"35328df1c34b5e5f","toSide":"left"},
 		{"id":"976143c0c00f707b","fromNode":"35328df1c34b5e5f","fromSide":"right","toNode":"02341be34e4f882a","toSide":"left"},
-		{"id":"b3ff19b3c404f0b5","fromNode":"35328df1c34b5e5f","fromSide":"right","toNode":"823bfe64fee0d36d","toSide":"left"}
+		{"id":"b3ff19b3c404f0b5","fromNode":"35328df1c34b5e5f","fromSide":"right","toNode":"823bfe64fee0d36d","toSide":"left"},
+		{"id":"6c1d0bd8d89af749","fromNode":"823bfe64fee0d36d","fromSide":"right","toNode":"d14117073a43e62c","toSide":"left"},
+		{"id":"b2a675f59d5d42b1","fromNode":"d14117073a43e62c","fromSide":"top","toNode":"1edb812e8a1e5fe7","toSide":"bottom"}
 	]
 }
