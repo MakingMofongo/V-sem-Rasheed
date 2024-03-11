@@ -28,7 +28,7 @@
 		{"id":"823bfe64fee0d36d","x":1363,"y":1199,"width":250,"height":121,"color":"1","type":"text","text":"Structure"},
 		{"id":"d14117073a43e62c","x":1717,"y":1199,"width":250,"height":60,"type":"text","text":"Phases of Compiler"},
 		{"id":"1edb812e8a1e5fe7","x":1820,"y":1090,"width":250,"height":60,"type":"text","text":"\"Logically Interrelated operations\""},
-		{"id":"d74ab46c171dc00b","x":2086,"y":1220,"width":274,"height":200,"type":"text","text":"Lexical Analyzser\nSyntax Analyzer\nSemantic Analyzer\nIntermediate Code Generator\nCode Optimizer\nCode Generator"},
+		{"id":"d74ab46c171dc00b","x":2086,"y":1220,"width":274,"height":200,"type":"text","text":"Lexical Analyzer\nSyntax Analyzer AKA Parser\nSemantic Analyzer\nIntermediate Code Generator\nCode Optimizer\nCode Generator"},
 		{"id":"99e1b123e07561f1","x":2480,"y":1199,"width":250,"height":60,"type":"text","text":"+Symbol Table\n+Error Handler"},
 		{"id":"31be7a64be748168","x":2480,"y":1360,"width":260,"height":60,"type":"text","text":"Input>Tokens>Expressions>Statements"}
 	],
