@@ -44,7 +44,8 @@
 		{"id":"93bca9de8183c97a","type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces","x":1384,"y":2160,"width":260,"height":117},
 		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1389,"y":2398,"width":250,"height":60},
 		{"id":"d384892f6773be9b","x":1363,"y":1500,"width":279,"height":106,"color":"2","type":"text","text":"Major Data Structures used in Compilers"},
-		{"id":"94e85e3351cee210","x":1740,"y":1525,"width":262,"height":163,"type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nConstant Table\nParse Tree\n"}
+		{"id":"94e85e3351cee210","x":1740,"y":1525,"width":262,"height":163,"type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nConstant Table\nParse Tree\n"},
+		{"id":"5401a2d27ad2a504","x":2116,"y":1669,"width":250,"height":60,"type":"text","text":"Details of each"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -86,6 +87,7 @@
 		{"id":"5c522f78ae4639d7","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"04854d3c289645c2","toSide":"left"},
 		{"id":"8c94cda18ae3cf4c","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"bb392ab9e67ab748","toSide":"left"},
 		{"id":"2d57010f3c0dbab8","fromNode":"35328df1c34b5e5f","fromSide":"right","toNode":"d384892f6773be9b","toSide":"left"},
-		{"id":"388af968c691ec24","fromNode":"d384892f6773be9b","fromSide":"right","toNode":"94e85e3351cee210","toSide":"left"}
+		{"id":"388af968c691ec24","fromNode":"d384892f6773be9b","fromSide":"right","toNode":"94e85e3351cee210","toSide":"left"},
+		{"id":"f385bdc5d073ccf5","fromNode":"94e85e3351cee210","fromSide":"right","toNode":"5401a2d27ad2a504","toSide":"left"}
 	]
 }
