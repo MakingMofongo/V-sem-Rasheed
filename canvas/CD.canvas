@@ -10,7 +10,9 @@
 		{"id":"29bbf48a4dc1e8eb","x":1820,"y":-574,"width":250,"height":60,"type":"text","text":"File Inclusion"},
 		{"id":"27b3048948647d45","x":1820,"y":-654,"width":250,"height":60,"type":"text","text":"Macro Processing"},
 		{"id":"06e197ef9c4046da","x":1820,"y":-414,"width":250,"height":60,"type":"text","text":"Additional features/ Language Extensions"},
-		{"id":"7f6905b37eaf2528","x":1820,"y":-494,"width":250,"height":60,"type":"text","text":"Rational Preprocessor"}
+		{"id":"7f6905b37eaf2528","x":1820,"y":-494,"width":250,"height":60,"type":"text","text":"Rational Preprocessor"},
+		{"id":"8d85fdccd3051326","x":1665,"y":-301,"width":250,"height":60,"type":"text","text":"What is compiler"},
+		{"id":"4b95ea515bc15c63","x":2000,"y":-241,"width":250,"height":60,"type":"text","text":"How HLL program is executed"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -21,6 +23,8 @@
 		{"id":"db25c6535fe6e254","fromNode":"6a288ce477731043","fromSide":"right","toNode":"27b3048948647d45","toSide":"left"},
 		{"id":"86e1c1c32e8fc5c0","fromNode":"6a288ce477731043","fromSide":"right","toNode":"29bbf48a4dc1e8eb","toSide":"left"},
 		{"id":"c69400c898e75d6c","fromNode":"6a288ce477731043","fromSide":"right","toNode":"06e197ef9c4046da","toSide":"left"},
-		{"id":"65138ad5283a8c5c","fromNode":"6a288ce477731043","fromSide":"right","toNode":"7f6905b37eaf2528","toSide":"left"}
+		{"id":"65138ad5283a8c5c","fromNode":"6a288ce477731043","fromSide":"right","toNode":"7f6905b37eaf2528","toSide":"left"},
+		{"id":"f471c1611af1aaa7","fromNode":"24591226b558df29","fromSide":"right","toNode":"8d85fdccd3051326","toSide":"left"},
+		{"id":"112dc5718b8971ad","fromNode":"8d85fdccd3051326","fromSide":"right","toNode":"4b95ea515bc15c63","toSide":"left"}
 	]
 }
