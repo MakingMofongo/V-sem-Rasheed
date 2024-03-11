@@ -19,7 +19,8 @@
 		{"id":"44da60ba783b4463","type":"text","text":"Loader/Linker-editor","x":1317,"y":100,"width":250,"height":60},
 		{"id":"a44ed33263354f76","x":1317,"y":-86,"width":250,"height":60,"type":"text","text":"Interpreter"},
 		{"id":"3db2905f5553e7e4","x":1673,"y":-72,"width":250,"height":60,"type":"text","text":"What it is, How it works"},
-		{"id":"6c96b748f8a89899","x":1992,"y":6,"width":250,"height":60,"type":"text","text":"Phases of Interpreter"}
+		{"id":"6c96b748f8a89899","x":1992,"y":6,"width":250,"height":60,"type":"text","text":"Phases of Interpreter"},
+		{"id":"f36817fe3922242a","x":2302,"y":70,"width":250,"height":60,"type":"text","text":"- "}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -39,6 +40,7 @@
 		{"id":"085f983baf28415e","fromNode":"44da60ba783b4463","fromSide":"right","toNode":"ee12aa52a0652625","toSide":"left"},
 		{"id":"2ca39e3b2040c298","fromNode":"d16c02bca9bfc574","fromSide":"right","toNode":"dbdd473bd520c600","toSide":"left"},
 		{"id":"a9512bd312f95338","fromNode":"a44ed33263354f76","fromSide":"right","toNode":"3db2905f5553e7e4","toSide":"left"},
-		{"id":"e13eb2297bff0bf7","fromNode":"3db2905f5553e7e4","fromSide":"right","toNode":"6c96b748f8a89899","toSide":"left"}
+		{"id":"e13eb2297bff0bf7","fromNode":"3db2905f5553e7e4","fromSide":"right","toNode":"6c96b748f8a89899","toSide":"left"},
+		{"id":"c6d87bbd57d96491","fromNode":"6c96b748f8a89899","fromSide":"right","toNode":"f36817fe3922242a","toSide":"left"}
 	]
 }
