@@ -37,7 +37,8 @@
 		{"id":"7454a4160e3df850","x":2475,"y":1780,"width":286,"height":60,"type":"text","text":"Example of entire process (Position = initial + rate * 60)"},
 		{"id":"c4e07524070770cc","x":1009,"y":1603,"width":250,"height":60,"color":"4","type":"text","text":"## Lexical Analysis"},
 		{"id":"93bca9de8183c97a","x":1400,"y":1603,"width":260,"height":117,"type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces"},
-		{"id":"c118aed37beb6ae6","x":1405,"y":1841,"width":250,"height":60,"type":"text","text":"Tokens"}
+		{"id":"c118aed37beb6ae6","x":1405,"y":1841,"width":250,"height":60,"type":"text","text":"Tokens"},
+		{"id":"04854d3c289645c2","x":1803,"y":1846,"width":250,"height":60,"type":"text","text":"Identifier, Separator, "}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -75,6 +76,7 @@
 		{"id":"1428b396f806a30a","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"7454a4160e3df850","toSide":"left"},
 		{"id":"377a7ff489fd9d79","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"c4e07524070770cc","toSide":"left"},
 		{"id":"95121a2ffb97d97a","fromNode":"c4e07524070770cc","fromSide":"right","toNode":"93bca9de8183c97a","toSide":"left"},
-		{"id":"18cd104cf7f54fe7","fromNode":"93bca9de8183c97a","fromSide":"bottom","toNode":"c118aed37beb6ae6","toSide":"top"}
+		{"id":"18cd104cf7f54fe7","fromNode":"93bca9de8183c97a","fromSide":"bottom","toNode":"c118aed37beb6ae6","toSide":"top"},
+		{"id":"5c522f78ae4639d7","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"04854d3c289645c2","toSide":"left"}
 	]
 }
