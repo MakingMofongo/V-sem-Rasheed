@@ -29,8 +29,8 @@
 		{"id":"d14117073a43e62c","x":1717,"y":1199,"width":250,"height":60,"type":"text","text":"Phases of Compiler"},
 		{"id":"1edb812e8a1e5fe7","x":1820,"y":1090,"width":250,"height":60,"type":"text","text":"\"Logically Interrelated operations\""},
 		{"id":"d74ab46c171dc00b","x":2086,"y":1220,"width":274,"height":200,"type":"text","text":"Lexical Analysis\nSyntactic Analysis\nSemantic Analysis\nIntermediate Code Generator\nCode Optimizer\nCode Generator"},
-		{"id":"99e1b123e07561f1","x":2481,"y":1247,"width":250,"height":60,"type":"text","text":"+Symbol Table\n+Error Handler"},
-		{"id":"871979377c2dcac7","x":2459,"y":1412,"width":250,"height":60,"type":"text","text":"S"}
+		{"id":"99e1b123e07561f1","x":2480,"y":1199,"width":250,"height":60,"type":"text","text":"+Symbol Table\n+Error Handler"},
+		{"id":"31be7a64be748168","x":2440,"y":1359,"width":250,"height":60,"type":"text","text":"Input>Tokens>Expressions>"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -61,6 +61,6 @@
 		{"id":"b2a675f59d5d42b1","fromNode":"d14117073a43e62c","fromSide":"top","toNode":"1edb812e8a1e5fe7","toSide":"bottom"},
 		{"id":"88ad040076bbdb96","fromNode":"d14117073a43e62c","fromSide":"right","toNode":"d74ab46c171dc00b","toSide":"left"},
 		{"id":"2bbe35b9d155d801","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"99e1b123e07561f1","toSide":"left"},
-		{"id":"d53118eb515a641a","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"871979377c2dcac7","toSide":"left"}
+		{"id":"6d1787b88c089110","fromNode":"d74ab46c171dc00b","fromSide":"right","toNode":"31be7a64be748168","toSide":"left"}
 	]
 }
