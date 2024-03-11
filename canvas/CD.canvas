@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"8e3791a5b2e8a767","type":"file","file":"Pasted image 20240311151710.png","x":-260,"y":-347,"width":680,"height":542},
 		{"id":"00158b878956ee4f","type":"text","text":"Unit 1","x":569,"y":-116,"width":250,"height":60},
-		{"id":"8c4959474e9f458f","type":"text","text":"Structure of a compiler","x":955,"y":-302,"width":250,"height":60},
-		{"id":"6a288ce477731043","type":"text","text":"Preprocessor","x":1317,"y":-434,"width":250,"height":60},
+		{"id":"8c4959474e9f458f","type":"text","text":"Structure of a compiler","x":955,"y":-302,"width":250,"height":60,"color":"5"},
+		{"id":"6a288ce477731043","type":"text","text":"Preprocessor","x":1317,"y":-434,"width":250,"height":60,"color":"1"},
 		{"id":"ab6f7beb0d02b242","type":"text","text":"Assembler","x":1317,"y":-274,"width":250,"height":60},
 		{"id":"24591226b558df29","type":"text","text":"Compiler","x":1317,"y":-354,"width":250,"height":60},
 		{"id":"d16c02bca9bfc574","type":"text","text":"What is assembly","x":1665,"y":-211,"width":250,"height":60},
@@ -17,7 +17,7 @@
 		{"id":"babe3ade6aea40e3","x":1653,"y":158,"width":250,"height":60,"type":"text","text":"What is Linker"},
 		{"id":"ee12aa52a0652625","x":1653,"y":255,"width":250,"height":60,"type":"text","text":"What is Loader"},
 		{"id":"44da60ba783b4463","type":"text","text":"Loader/Linker-editor","x":1317,"y":100,"width":250,"height":60},
-		{"id":"a44ed33263354f76","x":1317,"y":-86,"width":250,"height":60,"type":"text","text":"Interpreter"},
+		{"id":"a44ed33263354f76","x":1317,"y":-86,"width":250,"height":60,"color":"6","type":"text","text":"Interpreter"},
 		{"id":"3db2905f5553e7e4","x":1673,"y":-72,"width":250,"height":60,"type":"text","text":"What it is, How it works"},
 		{"id":"6c96b748f8a89899","x":1992,"y":6,"width":250,"height":60,"type":"text","text":"Phases of Interpreter"},
 		{"id":"f36817fe3922242a","x":2302,"y":70,"width":278,"height":148,"type":"text","text":"Lexical analysis\nSyntax analysis\nSemantic Analysis\nDirect Execution"}
