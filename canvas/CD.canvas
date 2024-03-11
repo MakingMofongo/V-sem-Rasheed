@@ -6,10 +6,6 @@
 		{"id":"6a288ce477731043","type":"text","text":"Preprocessor","x":1317,"y":-434,"width":250,"height":60},
 		{"id":"ab6f7beb0d02b242","type":"text","text":"Assembler","x":1317,"y":-274,"width":250,"height":60},
 		{"id":"24591226b558df29","type":"text","text":"Compiler","x":1317,"y":-354,"width":250,"height":60},
-		{"id":"44da60ba783b4463","type":"text","text":"Loader/Linker-editor","x":1317,"y":-86,"width":250,"height":60},
-		{"id":"a44ed33263354f76","x":1317,"y":-181,"width":250,"height":60,"type":"text","text":"Interpreter"},
-		{"id":"babe3ade6aea40e3","x":1653,"y":-28,"width":250,"height":60,"type":"text","text":"What is Linker"},
-		{"id":"ee12aa52a0652625","x":1653,"y":69,"width":250,"height":60,"type":"text","text":"What is Loader"},
 		{"id":"d16c02bca9bfc574","type":"text","text":"What is assembly","x":1665,"y":-211,"width":250,"height":60},
 		{"id":"27b3048948647d45","type":"text","text":"Macro Processing","x":1820,"y":-674,"width":250,"height":60},
 		{"id":"29bbf48a4dc1e8eb","type":"text","text":"File Inclusion","x":1820,"y":-594,"width":250,"height":60},
@@ -17,7 +13,12 @@
 		{"id":"06e197ef9c4046da","type":"text","text":"Additional features/ Language Extensions","x":1820,"y":-434,"width":250,"height":60},
 		{"id":"8d85fdccd3051326","type":"text","text":"What is compiler","x":1665,"y":-304,"width":250,"height":60},
 		{"id":"4b95ea515bc15c63","type":"text","text":"How HLL program is executed","x":2020,"y":-244,"width":250,"height":60},
-		{"id":"dbdd473bd520c600","x":1986,"y":-125,"width":250,"height":60,"type":"text","text":"What is assembler"}
+		{"id":"dbdd473bd520c600","x":1986,"y":-125,"width":250,"height":60,"type":"text","text":"What is assembler"},
+		{"id":"babe3ade6aea40e3","x":1653,"y":158,"width":250,"height":60,"type":"text","text":"What is Linker"},
+		{"id":"ee12aa52a0652625","x":1653,"y":255,"width":250,"height":60,"type":"text","text":"What is Loader"},
+		{"id":"44da60ba783b4463","type":"text","text":"Loader/Linker-editor","x":1317,"y":100,"width":250,"height":60},
+		{"id":"a44ed33263354f76","x":1317,"y":-86,"width":250,"height":60,"type":"text","text":"Interpreter"},
+		{"id":"fe6c19c54c4a750a","x":1639,"y":-121,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -35,6 +36,7 @@
 		{"id":"cd723314568e88d3","fromNode":"8c4959474e9f458f","fromSide":"right","toNode":"a44ed33263354f76","toSide":"left"},
 		{"id":"95e32d95371cbc94","fromNode":"44da60ba783b4463","fromSide":"right","toNode":"babe3ade6aea40e3","toSide":"left"},
 		{"id":"085f983baf28415e","fromNode":"44da60ba783b4463","fromSide":"right","toNode":"ee12aa52a0652625","toSide":"left"},
-		{"id":"2ca39e3b2040c298","fromNode":"d16c02bca9bfc574","fromSide":"right","toNode":"dbdd473bd520c600","toSide":"left"}
+		{"id":"2ca39e3b2040c298","fromNode":"d16c02bca9bfc574","fromSide":"right","toNode":"dbdd473bd520c600","toSide":"left"},
+		{"id":"7e1a5457927c05e9","fromNode":"a44ed33263354f76","fromSide":"right","toNode":"fe6c19c54c4a750a","toSide":"left"}
 	]
 }
