@@ -20,7 +20,7 @@
 		{"id":"a44ed33263354f76","x":1317,"y":-86,"width":250,"height":60,"type":"text","text":"Interpreter"},
 		{"id":"3db2905f5553e7e4","x":1673,"y":-72,"width":250,"height":60,"type":"text","text":"What it is, How it works"},
 		{"id":"6c96b748f8a89899","x":1992,"y":6,"width":250,"height":60,"type":"text","text":"Phases of Interpreter"},
-		{"id":"f36817fe3922242a","x":2302,"y":70,"width":250,"height":60,"type":"text","text":"- "}
+		{"id":"f36817fe3922242a","x":2302,"y":70,"width":278,"height":148,"type":"text","text":"Lexical analysis\nSyntax analysis\nSemantic Analysis\nDirect Execution"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
