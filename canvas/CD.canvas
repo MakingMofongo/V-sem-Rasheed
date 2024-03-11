@@ -38,14 +38,15 @@
 		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":420,"y":-1168,"width":515,"height":557},
 		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":1009,"y":-1198,"width":558,"height":634},
 		{"id":"037255bd5bfc7579","type":"file","file":"Drawing 2024-03-11 21.26.00.excalidraw.md","x":-500,"y":-380,"width":1041,"height":768},
-		{"id":"04854d3c289645c2","type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters","x":1787,"y":2403,"width":283,"height":114},
-		{"id":"bb392ab9e67ab748","type":"text","text":"Define by, Recognized by","x":1803,"y":2606,"width":250,"height":60},
-		{"id":"c4e07524070770cc","type":"text","text":"## Lexical Analysis","x":993,"y":2160,"width":250,"height":60,"color":"4"},
-		{"id":"93bca9de8183c97a","type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces","x":1384,"y":2160,"width":260,"height":117},
-		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1389,"y":2398,"width":250,"height":60},
 		{"id":"d384892f6773be9b","x":1363,"y":1500,"width":279,"height":106,"color":"2","type":"text","text":"Major Data Structures used in Compilers"},
 		{"id":"94e85e3351cee210","x":1740,"y":1525,"width":262,"height":163,"type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nConstant Table\nParse Tree\n"},
-		{"id":"5401a2d27ad2a504","x":2116,"y":1669,"width":250,"height":60,"type":"text","text":"Details of each"}
+		{"id":"5401a2d27ad2a504","x":2116,"y":1669,"width":250,"height":60,"type":"text","text":"Details of each"},
+		{"id":"04854d3c289645c2","type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters","x":1776,"y":1995,"width":283,"height":114},
+		{"id":"bb392ab9e67ab748","type":"text","text":"Define by, Recognized by","x":1792,"y":2198,"width":250,"height":60},
+		{"id":"c4e07524070770cc","type":"text","text":"## Lexical Analysis","x":982,"y":1752,"width":250,"height":60,"color":"4"},
+		{"id":"93bca9de8183c97a","type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces","x":1373,"y":1752,"width":260,"height":117},
+		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1378,"y":1990,"width":250,"height":60},
+		{"id":"0a2a7f8a15f23ce8","x":982,"y":2500,"width":250,"height":87,"type":"text","text":"Bootstrapping"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -88,6 +89,7 @@
 		{"id":"8c94cda18ae3cf4c","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"bb392ab9e67ab748","toSide":"left"},
 		{"id":"2d57010f3c0dbab8","fromNode":"35328df1c34b5e5f","fromSide":"right","toNode":"d384892f6773be9b","toSide":"left"},
 		{"id":"388af968c691ec24","fromNode":"d384892f6773be9b","fromSide":"right","toNode":"94e85e3351cee210","toSide":"left"},
-		{"id":"f385bdc5d073ccf5","fromNode":"94e85e3351cee210","fromSide":"right","toNode":"5401a2d27ad2a504","toSide":"left"}
+		{"id":"f385bdc5d073ccf5","fromNode":"94e85e3351cee210","fromSide":"right","toNode":"5401a2d27ad2a504","toSide":"left"},
+		{"id":"aa8b506b56049f23","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"0a2a7f8a15f23ce8","toSide":"left"}
 	]
 }
