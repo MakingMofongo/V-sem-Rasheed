@@ -38,7 +38,7 @@
 		{"id":"c4e07524070770cc","x":1009,"y":1603,"width":250,"height":60,"color":"4","type":"text","text":"## Lexical Analysis"},
 		{"id":"93bca9de8183c97a","x":1400,"y":1603,"width":260,"height":117,"type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces"},
 		{"id":"c118aed37beb6ae6","x":1405,"y":1841,"width":250,"height":60,"type":"text","text":"Tokens"},
-		{"id":"04854d3c289645c2","x":1803,"y":1846,"width":250,"height":60,"type":"text","text":"Identifier, Separator, "}
+		{"id":"04854d3c289645c2","x":1803,"y":1846,"width":283,"height":114,"type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
