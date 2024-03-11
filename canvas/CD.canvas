@@ -39,7 +39,7 @@
 		{"id":"93bca9de8183c97a","x":1400,"y":1603,"width":260,"height":117,"type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces"},
 		{"id":"c118aed37beb6ae6","x":1405,"y":1841,"width":250,"height":60,"type":"text","text":"Tokens"},
 		{"id":"04854d3c289645c2","x":1803,"y":1846,"width":283,"height":114,"type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters"},
-		{"id":"3842c0765249c9a7","x":1463,"y":1450,"width":250,"height":60,"type":"text","text":"Finite Autom"}
+		{"id":"3842c0765249c9a7","x":1592,"y":1500,"width":250,"height":60,"type":"text","text":"Finite Automata (DFA/NFA) is used to define tokens"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -79,6 +79,6 @@
 		{"id":"95121a2ffb97d97a","fromNode":"c4e07524070770cc","fromSide":"right","toNode":"93bca9de8183c97a","toSide":"left"},
 		{"id":"18cd104cf7f54fe7","fromNode":"93bca9de8183c97a","fromSide":"bottom","toNode":"c118aed37beb6ae6","toSide":"top"},
 		{"id":"5c522f78ae4639d7","fromNode":"c118aed37beb6ae6","fromSide":"right","toNode":"04854d3c289645c2","toSide":"left"},
-		{"id":"e571053ea32493f8","fromNode":"93bca9de8183c97a","fromSide":"top","toNode":"3842c0765249c9a7","toSide":"bottom"}
+		{"id":"de086af3adebe415","fromNode":"93bca9de8183c97a","fromSide":"top","toNode":"3842c0765249c9a7","toSide":"left"}
 	]
 }
