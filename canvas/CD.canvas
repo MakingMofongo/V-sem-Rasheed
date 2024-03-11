@@ -29,7 +29,7 @@
 		{"id":"d14117073a43e62c","x":1717,"y":1199,"width":250,"height":60,"type":"text","text":"Phases of Compiler"},
 		{"id":"1edb812e8a1e5fe7","x":1820,"y":1090,"width":250,"height":60,"type":"text","text":"\"Logically Interrelated operations\""},
 		{"id":"d74ab46c171dc00b","x":2086,"y":1220,"width":274,"height":200,"type":"text","text":"Lexical Analysis\nSyntactic Analysis\nSemantic Analysis\nIntermediate Code Generator\nCode Optimizer\nCode Generator"},
-		{"id":"99e1b123e07561f1","x":2481,"y":1247,"width":250,"height":60,"type":"text","text":"+Symbol Table\n+Error "}
+		{"id":"99e1b123e07561f1","x":2481,"y":1247,"width":250,"height":60,"type":"text","text":"+Symbol Table\n+Error Handler"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
