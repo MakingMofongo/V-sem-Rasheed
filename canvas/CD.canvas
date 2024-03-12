@@ -35,7 +35,6 @@
 		{"id":"a48cc29df1a434a4","type":"text","text":"Code optimization - What it is, Types - Local, Loop with egs","x":2475,"y":1632,"width":245,"height":115},
 		{"id":"99e1b123e07561f1","type":"text","text":"+Symbol Table\n+Error Handler","x":2475,"y":1229,"width":250,"height":60},
 		{"id":"7454a4160e3df850","type":"text","text":"Example of entire process (Position = initial + rate * 60)","x":2475,"y":1780,"width":286,"height":60},
-		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-171,"y":-1208,"width":511,"height":634},
 		{"id":"037255bd5bfc7579","type":"file","file":"Drawing 2024-03-11 21.26.00.excalidraw.md","x":-500,"y":-380,"width":1041,"height":768},
 		{"id":"d384892f6773be9b","type":"text","text":"Major Data Structures used in Compilers","x":1363,"y":1500,"width":279,"height":106,"color":"2"},
 		{"id":"94e85e3351cee210","type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nLiteral Table\nParse Tree\n","x":1740,"y":1525,"width":262,"height":163},
@@ -89,7 +88,8 @@
 		{"id":"93220afc8a1b8881","type":"file","file":"IMG-20240312-WA0063 1.jpg","x":4381,"y":2320,"width":395,"height":526},
 		{"id":"c5ad39744a2c985e","type":"file","file":"IMG-20240312-WA0073 1.jpg","x":4381,"y":2906,"width":395,"height":526},
 		{"id":"6d0a1f68d2adc97a","type":"text","text":"## UNIT 2","x":3210,"y":3649,"width":275,"height":154,"color":"5"},
-		{"id":"058b70862c0b28c2","type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md","x":3210,"y":1541,"width":1160,"height":723}
+		{"id":"058b70862c0b28c2","type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md","x":3221,"y":1541,"width":1160,"height":723},
+		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-160,"y":-1208,"width":511,"height":634}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
