@@ -117,7 +117,9 @@
 		{"id":"9897ee734b33414e","type":"file","file":"IMG-20240312-WA0067 1.jpg","x":6738,"y":2320,"width":395,"height":526},
 		{"id":"b6e0c23ea852d8ab","type":"file","file":"IMG-20240312-WA0066 1.jpg","x":7378,"y":2320,"width":395,"height":526},
 		{"id":"399ba433fa588e08","type":"file","file":"IMG-20240312-WA0070 1.jpg","x":8538,"y":2320,"width":395,"height":526},
-		{"id":"244b4db80074156e","type":"file","file":"IMG-20240312-WA0069 1.jpg","x":7938,"y":2320,"width":395,"height":526}
+		{"id":"244b4db80074156e","type":"file","file":"IMG-20240312-WA0069 1.jpg","x":7938,"y":2320,"width":395,"height":526},
+		{"id":"44c216de7f3d24df","x":5520,"y":1880,"width":400,"height":294,"type":"file","file":"Pasted image 20240312200307.png"},
+		{"id":"02a69e63173d05b4","x":6060,"y":1800,"width":496,"height":294,"type":"file","file":"Pasted image 20240312200332.png"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -181,6 +183,8 @@
 		{"id":"60e0158cb615e7aa","fromNode":"3de9f1abde83867e","fromSide":"right","toNode":"f25aac981470aa10","toSide":"left"},
 		{"id":"679c42202768b0da","fromNode":"f25aac981470aa10","fromSide":"right","toNode":"c733f73492121104","toSide":"left"},
 		{"id":"c76ff013a5bf5754","fromNode":"c733f73492121104","fromSide":"right","toNode":"29fac58ce662844e","toSide":"left"},
-		{"id":"392500e7760588c2","fromNode":"800125d49d673ec6","fromSide":"bottom","toNode":"75a2baec1d3a05dd","toSide":"top"}
+		{"id":"392500e7760588c2","fromNode":"800125d49d673ec6","fromSide":"bottom","toNode":"75a2baec1d3a05dd","toSide":"top"},
+		{"id":"88a57c8fc857ce85","fromNode":"5f3724b2716eacba","fromSide":"top","toNode":"44c216de7f3d24df","toSide":"bottom"},
+		{"id":"fb31f1c62b3094ce","fromNode":"44c216de7f3d24df","fromSide":"right","toNode":"02a69e63173d05b4","toSide":"left"}
 	]
 }
