@@ -92,7 +92,19 @@
 		{"id":"058b70862c0b28c2","type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md","x":3221,"y":1419,"width":1160,"height":723},
 		{"id":"dea2011b95fd0e2a","type":"file","file":"Pasted image 20240312144608.png","x":3794,"y":2220,"width":400,"height":63},
 		{"id":"57fd867c035593ea","type":"text","text":"What is parser\nIts Role\nTypes\nDiagram","x":3609,"y":3649,"width":250,"height":124},
-		{"id":"ab4812269a959561","type":"text","text":"Error Handling -\nTypes\nGoals\n","x":3675,"y":3821,"width":225,"height":79}
+		{"id":"ab4812269a959561","type":"text","text":"Error Handling -\nTypes\nGoals\n","x":3675,"y":3821,"width":225,"height":79},
+		{"id":"62c32d58d39950a8","x":4979,"y":4745,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0077.jpg"},
+		{"id":"f948de293069dedb","x":5424,"y":4745,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0078.jpg"},
+		{"id":"ac7f5e297528540a","x":5869,"y":4745,"width":400,"height":300,"type":"file","file":"IMG-20240312-WA0079.jpg"},
+		{"id":"d26103004c8eed7d","x":6314,"y":4745,"width":400,"height":300,"type":"file","file":"IMG-20240312-WA0080.jpg"},
+		{"id":"0b558de7b8aaeba1","x":6759,"y":4745,"width":400,"height":300,"type":"file","file":"IMG-20240312-WA0081.jpg"},
+		{"id":"f91596a0c01b65f3","x":7204,"y":4745,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0082.jpg"},
+		{"id":"096f320f22bf0c9c","x":7649,"y":4745,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0083.jpg"},
+		{"id":"3619346d3c57818f","x":8094,"y":4745,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0084.jpg"},
+		{"id":"d091cff09172678f","x":8539,"y":4745,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0085.jpg"},
+		{"id":"df58b172b4f3c552","x":8984,"y":4745,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0086.jpg"},
+		{"id":"4a4656b36d8c1913","x":4979,"y":5190,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0087.jpg"},
+		{"id":"0a73a50a3cb7d8dc","x":5424,"y":5190,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0088.jpg"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
