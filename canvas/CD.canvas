@@ -113,8 +113,6 @@
 		{"id":"df020f3728761f44","type":"file","file":"IMG-20240313-WA0010 1.jpg","x":6629,"y":-1680,"width":330,"height":440,"color":"1"},
 		{"id":"31b6add30b34f829","type":"file","file":"IMG-20240313-WA0011 1.jpg","x":7118,"y":-1680,"width":330,"height":440,"color":"1"},
 		{"id":"e9e18a24e0483ff2","type":"text","text":"Issues in design of Code Generator","x":3792,"y":-711,"width":250,"height":60},
-		{"id":"510aa7fe12a6ce89","type":"file","file":"IMG-20240312-WA0006 4.jpg","x":3494,"y":-2800,"width":300,"height":400},
-		{"id":"2f098dba36e62092","type":"file","file":"IMG-20240312-WA0007 4.jpg","x":3939,"y":-2800,"width":300,"height":400},
 		{"id":"a1c8e0ebcdc7e7ed","type":"text","text":"DAG","x":3495,"y":-2262,"width":250,"height":60},
 		{"id":"e54a859841d720c9","type":"text","text":"Quadruple\nTriple\nIndirect Triple","x":3942,"y":-2232,"width":250,"height":135},
 		{"id":"8ed8b256651ecc0c","type":"text","text":"## UNIT 4","x":3056,"y":-2157,"width":344,"height":128,"color":"4"},
@@ -156,7 +154,9 @@
 		{"id":"399ba433fa588e08","type":"file","file":"IMG-20240312-WA0070 1.jpg","x":8538,"y":2320,"width":395,"height":526},
 		{"id":"244b4db80074156e","type":"file","file":"IMG-20240312-WA0069 1.jpg","x":7938,"y":2320,"width":395,"height":526},
 		{"id":"841ea66731f9c940","type":"file","file":"Pasted image 20240312225357.png","x":4390,"y":3794,"width":400,"height":213},
-		{"id":"ae54021a6e45ecc8","type":"file","file":"Pasted image 20240313035717.png","x":1809,"y":2512,"width":400,"height":285}
+		{"id":"ae54021a6e45ecc8","type":"file","file":"Pasted image 20240313035717.png","x":1809,"y":2512,"width":400,"height":285},
+		{"id":"510aa7fe12a6ce89","type":"file","file":"IMG-20240312-WA0006 4.jpg","x":4067,"y":-2780,"width":300,"height":400},
+		{"id":"2f098dba36e62092","type":"file","file":"IMG-20240312-WA0007 4.jpg","x":3680,"y":-2780,"width":300,"height":400}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
