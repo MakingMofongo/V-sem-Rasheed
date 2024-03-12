@@ -52,7 +52,8 @@
 		{"id":"fdfa91d4edc07a2e","x":1336,"y":2440,"width":257,"height":155,"type":"text","text":"Source lang\nTarget lang\nImplementation lang\n\nT graph\n3T's Graph"},
 		{"id":"29085cad01e399f5","x":982,"y":2720,"width":250,"height":106,"color":"4","type":"text","text":"Porting"},
 		{"id":"e303b79f8fb52b05","x":1333,"y":2685,"width":250,"height":60,"type":"text","text":"Process of..."},
-		{"id":"0b09e50a9ff21fa6","x":1398,"y":2777,"width":250,"height":60,"type":"text","text":""}
+		{"id":"0b09e50a9ff21fa6","x":1333,"y":2765,"width":250,"height":60,"type":"text","text":"Involves..."},
+		{"id":"f613312a606c8a52","x":1333,"y":2845,"width":250,"height":60,"type":"text","text":"Useful as it.."}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -101,6 +102,7 @@
 		{"id":"019569726039c81c","fromNode":"0a2a7f8a15f23ce8","fromSide":"right","toNode":"ef68ae1b5db161cf","toSide":"left"},
 		{"id":"3a2bcf54a32bf801","fromNode":"0a2a7f8a15f23ce8","fromSide":"right","toNode":"fdfa91d4edc07a2e","toSide":"left"},
 		{"id":"ab3340922f42aa46","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"e303b79f8fb52b05","toSide":"left"},
-		{"id":"52fc41356d125805","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"0b09e50a9ff21fa6","toSide":"left"}
+		{"id":"52fc41356d125805","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"0b09e50a9ff21fa6","toSide":"left"},
+		{"id":"8bfc5849fb387a88","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"f613312a606c8a52","toSide":"left"}
 	]
 }
