@@ -98,7 +98,7 @@
 		{"id":"45ad982a2ff76215","type":"file","file":"IMG-20240312-WA0080 1.jpg","x":5324,"y":4280,"width":475,"height":633},
 		{"id":"d29446cc8e671420","type":"file","file":"IMG-20240312-WA0088 1.jpg","x":3915,"y":4985,"width":475,"height":633},
 		{"id":"bed18cd82a2b3794","type":"file","file":"IMG-20240312-WA0081 1.jpg","x":6029,"y":4280,"width":475,"height":633},
-		{"id":"d3aaf4b510804861","type":"file","file":"IMG-20240312-WA0082 1.jpg","x":6733,"y":4280,"width":475,"height":633},
+		{"id":"d3aaf4b510804861","type":"file","file":"IMG-20240312-WA0082 1.jpg","x":6740,"y":4280,"width":475,"height":633},
 		{"id":"047d5c1d123515ff","type":"file","file":"IMG-20240312-WA0083 1.jpg","x":7438,"y":4280,"width":475,"height":633},
 		{"id":"036075a563d08b05","type":"file","file":"IMG-20240312-WA0084 1.jpg","x":8142,"y":4280,"width":475,"height":633},
 		{"id":"053bc058a90f5261","type":"file","file":"IMG-20240312-WA0085 1.jpg","x":8847,"y":4280,"width":475,"height":633},
@@ -110,7 +110,7 @@
 		{"id":"7c2e2cf379b56188","type":"text","text":"Which Order suitable, why","x":5437,"y":4940,"width":250,"height":60,"color":"4"},
 		{"id":"4d651270e3653b6c","type":"text","text":"Useful for what","x":5963,"y":4940,"width":250,"height":50,"color":"4"},
 		{"id":"274fe2dc54058304","type":"text","text":"Compare with parse tree","x":6201,"y":5056,"width":250,"height":60},
-		{"id":"f295c070f26651a3","x":6379,"y":5200,"width":250,"height":60,"type":"text","text":"Details about edge"}
+		{"id":"f295c070f26651a3","type":"text","text":"Details about edge","x":6379,"y":5200,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
