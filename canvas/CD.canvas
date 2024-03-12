@@ -70,7 +70,8 @@
 		{"id":"3ed10f3a4f3fb302","type":"file","file":"IMG-20240312-WA0060.jpg","x":4290,"y":600,"width":367,"height":490},
 		{"id":"c2dba72a4d66334a","type":"file","file":"IMG-20240312-WA0059.jpg","x":4835,"y":600,"width":367,"height":490},
 		{"id":"31c3a5cc37566824","x":982,"y":3028,"width":250,"height":72,"color":"2","type":"text","text":"Input Buffering"},
-		{"id":"c1be9f579f468e01","x":1336,"y":3028,"width":282,"height":223,"type":"text","text":"What\n\nWhy with eg\n\nBLOCK details with pointers\n\nAdvantages"}
+		{"id":"c1be9f579f468e01","x":1336,"y":3028,"width":282,"height":223,"type":"text","text":"What\n\nWhy with eg\n\nBLOCK details with pointers\n\nAdvantages"},
+		{"id":"dbffcc3898cce82a","x":1717,"y":1813,"width":250,"height":60,"type":"text","text":"Diagram"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -121,6 +122,7 @@
 		{"id":"ab3340922f42aa46","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"e303b79f8fb52b05","toSide":"left"},
 		{"id":"52fc41356d125805","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"0b09e50a9ff21fa6","toSide":"left"},
 		{"id":"8bfc5849fb387a88","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"f613312a606c8a52","toSide":"left"},
-		{"id":"51390093a286d075","fromNode":"31c3a5cc37566824","fromSide":"right","toNode":"c1be9f579f468e01","toSide":"left"}
+		{"id":"51390093a286d075","fromNode":"31c3a5cc37566824","fromSide":"right","toNode":"c1be9f579f468e01","toSide":"left"},
+		{"id":"ea2478a5a6450782","fromNode":"93bca9de8183c97a","fromSide":"right","toNode":"dbffcc3898cce82a","toSide":"left"}
 	]
 }
