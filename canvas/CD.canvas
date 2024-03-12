@@ -112,10 +112,10 @@
 		{"id":"036075a563d08b05","type":"file","file":"IMG-20240312-WA0084 1.jpg","x":8760,"y":4280,"width":475,"height":633},
 		{"id":"053bc058a90f5261","type":"file","file":"IMG-20240312-WA0085 1.jpg","x":8120,"y":4280,"width":475,"height":633},
 		{"id":"aea42f1aa122f06d","type":"file","file":"IMG-20240312-WA0086 1.jpg","x":9440,"y":4280,"width":475,"height":633},
-		{"id":"3de9f1abde83867e","x":7799,"y":5000,"width":250,"height":60,"type":"text","text":"What it is"},
-		{"id":"f25aac981470aa10","x":8108,"y":5035,"width":250,"height":60,"type":"text","text":"Collected during, used during"},
-		{"id":"c733f73492121104","x":8421,"y":5118,"width":250,"height":60,"type":"text","text":"What it contains"},
-		{"id":"29fac58ce662844e","x":8727,"y":5183,"width":250,"height":60,"type":"text","text":"Role - pass info from..."}
+		{"id":"3de9f1abde83867e","x":7984,"y":4980,"width":250,"height":60,"type":"text","text":"What it is"},
+		{"id":"f25aac981470aa10","x":8180,"y":5098,"width":250,"height":60,"type":"text","text":"Collected during, used during"},
+		{"id":"c733f73492121104","x":8345,"y":5193,"width":250,"height":60,"type":"text","text":"What it contains"},
+		{"id":"29fac58ce662844e","x":8543,"y":5280,"width":250,"height":60,"type":"text","text":"Role - pass info from..."}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
