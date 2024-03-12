@@ -50,7 +50,7 @@
 		{"id":"0b09e50a9ff21fa6","type":"text","text":"Involves...","x":1333,"y":2765,"width":250,"height":60},
 		{"id":"f613312a606c8a52","type":"text","text":"Useful as it..","x":1333,"y":2845,"width":250,"height":60},
 		{"id":"31c3a5cc37566824","type":"text","text":"Input Buffering","x":982,"y":3028,"width":250,"height":72,"color":"2"},
-		{"id":"c1be9f579f468e01","type":"text","text":"What\n\nWhy with eg\n\nBLOCK details with pointers\n\nAdvantages","x":1336,"y":3028,"width":282,"height":223},
+		{"id":"c1be9f579f468e01","type":"text","text":"What\n\nWhy with eg\n\nbuffer details with pointers\n\nAdvantages","x":1336,"y":3028,"width":282,"height":223},
 		{"id":"a95308b4119c1915","type":"text","text":"Translator","x":985,"y":468,"width":250,"height":60},
 		{"id":"be48af33839a5da9","type":"text","text":"What is Translator, Should follow HLL specification, Important Roles (2)","x":1309,"y":518,"width":291,"height":122},
 		{"id":"35328df1c34b5e5f","type":"text","text":"## Compiler","x":1000,"y":786,"width":250,"height":134,"color":"1"},
