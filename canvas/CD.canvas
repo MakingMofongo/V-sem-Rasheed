@@ -147,7 +147,7 @@
 		{"id":"123d4e8a7e8d5364","x":7689,"y":-2240,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0015 4.jpg"},
 		{"id":"a1c8e0ebcdc7e7ed","x":3685,"y":-1702,"width":250,"height":60,"type":"text","text":"DAG"},
 		{"id":"86d6a7db04a294be","x":3723,"y":-1592,"width":250,"height":60,"type":"text","text":"TAC"},
-		{"id":"e54a859841d720c9","x":4132,"y":-1597,"width":250,"height":60,"type":"text","text":"Quadruple\nTriple\nIndirect Triple"}
+		{"id":"e54a859841d720c9","x":4132,"y":-1672,"width":250,"height":135,"type":"text","text":"Quadruple\nTriple\nIndirect Triple"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
