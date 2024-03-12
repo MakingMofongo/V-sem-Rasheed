@@ -154,7 +154,8 @@
 		{"id":"8e16bfb500e7ad20","type":"file","file":"IMG-20240312-WA0014 4.jpg","x":7054,"y":-2800,"width":300,"height":400},
 		{"id":"123d4e8a7e8d5364","type":"file","file":"IMG-20240312-WA0015 4.jpg","x":7499,"y":-2800,"width":300,"height":400},
 		{"id":"07cc5ee059f2a66a","type":"file","file":"IMG-20240312-WA0011 4.jpg","x":5730,"y":-2800,"width":300,"height":400},
-		{"id":"5d89ffcdd55fdebe","x":3600,"y":-1660,"width":533,"height":400,"type":"file","file":"IMG-20240313-WA0004 2.jpg"}
+		{"id":"5d89ffcdd55fdebe","x":3600,"y":-1660,"width":533,"height":400,"type":"file","file":"IMG-20240313-WA0004 2.jpg"},
+		{"id":"39a6bf062b5527de","x":2780,"y":1680,"width":400,"height":400,"type":"file","file":"Excalidraw/Drawing 2024-03-13 02.00.27.excalidraw.md"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
