@@ -56,9 +56,7 @@
 		{"id":"f613312a606c8a52","x":1333,"y":2845,"width":250,"height":60,"type":"text","text":"Useful as it.."},
 		{"id":"3984019ac80c93ea","x":3745,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0048.jpg"},
 		{"id":"5265aafb89201579","x":3745,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0058.jpg"},
-		{"id":"c2dba72a4d66334a","x":4290,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0059.jpg"},
 		{"id":"f280198a7c3c9483","x":4290,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0049.jpg"},
-		{"id":"3ed10f3a4f3fb302","x":4835,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0060.jpg"},
 		{"id":"cdc620dab2665475","x":4835,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0050.jpg"},
 		{"id":"8bcb818a11eac7de","x":5380,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0051.jpg"},
 		{"id":"1a25e7f3d09b8c64","x":5925,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0052.jpg"},
@@ -68,7 +66,9 @@
 		{"id":"0a7cfcd395f523bb","x":7560,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0055.jpg"},
 		{"id":"3a328d8d2e479788","x":3200,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0047.jpg"},
 		{"id":"baec76b776920a67","x":3200,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0057.jpg"},
-		{"id":"058b70862c0b28c2","x":-619,"y":468,"width":1160,"height":723,"type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md"}
+		{"id":"058b70862c0b28c2","x":-619,"y":468,"width":1160,"height":723,"type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md"},
+		{"id":"c2dba72a4d66334a","x":4835,"y":620,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0059.jpg"},
+		{"id":"3ed10f3a4f3fb302","x":4290,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0060.jpg"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
