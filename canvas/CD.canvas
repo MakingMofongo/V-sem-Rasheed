@@ -44,9 +44,9 @@
 		{"id":"c4e07524070770cc","type":"text","text":"## Lexical Analysis","x":982,"y":1752,"width":250,"height":60,"color":"4"},
 		{"id":"93bca9de8183c97a","type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces","x":1373,"y":1752,"width":260,"height":117},
 		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1378,"y":1990,"width":250,"height":60},
-		{"id":"0a2a7f8a15f23ce8","type":"text","text":"Bootstrapping","x":982,"y":2500,"width":250,"height":87},
 		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":440,"y":-1208,"width":558,"height":634},
-		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":1060,"y":-1208,"width":515,"height":634}
+		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":1060,"y":-1208,"width":515,"height":634},
+		{"id":"0a2a7f8a15f23ce8","type":"text","text":"Bootstrapping","x":982,"y":2320,"width":250,"height":87,"color":"#4d82ff"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
