@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"f269a0bd4f5f3f8d","x":-443,"y":1398,"width":400,"height":400,"type":"file","file":"canvas/Drawing 2024-03-10 18.02.03.excalidraw.md"},
 		{"id":"00158b878956ee4f","type":"text","text":"## Unit 1","x":569,"y":-200,"width":250,"height":144,"color":"4"},
 		{"id":"8c4959474e9f458f","type":"text","text":"Language Processing System","x":955,"y":-302,"width":250,"height":60,"color":"5"},
 		{"id":"6a288ce477731043","type":"text","text":"Preprocessor","x":1317,"y":-434,"width":250,"height":60,"color":"1"},
@@ -69,7 +68,7 @@
 		{"id":"0a7cfcd395f523bb","x":6760,"y":55,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0055.jpg"},
 		{"id":"3a328d8d2e479788","x":3200,"y":55,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0047.jpg"},
 		{"id":"baec76b776920a67","x":3200,"y":500,"width":300,"height":400,"type":"file","file":"IMG-20240312-WA0057.jpg"},
-		{"id":"5eac6107edba5c9b","x":-684,"y":618,"width":1225,"height":604,"type":"file","file":"WhatsApp Image 2024-03-12 at 14.02.10_53764039.jpg"}
+		{"id":"058b70862c0b28c2","x":-619,"y":468,"width":1160,"height":723,"type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
