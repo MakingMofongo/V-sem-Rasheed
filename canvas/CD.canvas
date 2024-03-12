@@ -62,10 +62,6 @@
 		{"id":"3ac6a5812482b1cc","type":"file","file":"IMG-20240312-WA0061 1.jpg","x":3210,"y":2320,"width":395,"height":526},
 		{"id":"0745fefc60c79b1b","type":"file","file":"IMG-20240312-WA0062 1.jpg","x":3796,"y":2320,"width":395,"height":526,"color":"1"},
 		{"id":"93220afc8a1b8881","type":"file","file":"IMG-20240312-WA0063 1.jpg","x":4381,"y":2320,"width":395,"height":526},
-		{"id":"fa5b1b942456b266","type":"file","file":"IMG-20240312-WA0074 1.jpg","x":4967,"y":2906,"width":395,"height":526},
-		{"id":"03d00d574443e4d3","type":"file","file":"IMG-20240312-WA0071 1.jpg","x":3210,"y":2906,"width":395,"height":526},
-		{"id":"894e3886e8c3679d","type":"file","file":"IMG-20240312-WA0072 1.jpg","x":3796,"y":2906,"width":395,"height":526},
-		{"id":"c5ad39744a2c985e","type":"file","file":"IMG-20240312-WA0073 1.jpg","x":4381,"y":2906,"width":395,"height":526},
 		{"id":"5f3724b2716eacba","type":"file","file":"IMG-20240312-WA0065 1.jpg","x":5552,"y":2320,"width":395,"height":526},
 		{"id":"885ef2d5a3496fff","type":"file","file":"IMG-20240312-WA0075 1.jpg","x":5552,"y":2906,"width":395,"height":526},
 		{"id":"d74ab46c171dc00b","type":"text","text":"Lexical Analyzer\nSyntax Analyzer AKA Parser\nSemantic Analyzer\nIntermediate Code Generator\nCode Optimizer\nCode Generator","x":2086,"y":1220,"width":274,"height":200},
@@ -117,7 +113,11 @@
 		{"id":"36a9464900998e90","type":"file","file":"Pasted image 20240312164653.png","x":3210,"y":5660,"width":559,"height":162},
 		{"id":"800125d49d673ec6","type":"text","text":"## Unit 5","x":3246,"y":-1084,"width":250,"height":60},
 		{"id":"75a2baec1d3a05dd","type":"text","text":"![[Pasted image 20240312173302.png]]\n![[Pasted image 20240312175139.png]]\n![[Pasted image 20240312175333.png]]\n![[Pasted image 20240312175433.png]]\n![[Pasted image 20240312175549.png]]\n![[Pasted image 20240312175610.png]]\n![[Pasted image 20240312175754.png]]\n![[Pasted image 20240312175815.png]]","x":3121,"y":-932,"width":579,"height":867},
-		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-140,"y":-1200,"width":511,"height":634}
+		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-140,"y":-1200,"width":511,"height":634},
+		{"id":"c5ad39744a2c985e","type":"file","file":"IMG-20240312-WA0073 1.jpg","x":4967,"y":2920,"width":395,"height":526},
+		{"id":"fa5b1b942456b266","type":"file","file":"IMG-20240312-WA0074 1.jpg","x":4381,"y":2920,"width":395,"height":526},
+		{"id":"03d00d574443e4d3","type":"file","file":"IMG-20240312-WA0071 1.jpg","x":3880,"y":3000,"width":395,"height":526},
+		{"id":"894e3886e8c3679d","type":"file","file":"IMG-20240312-WA0072 1.jpg","x":3210,"y":2940,"width":395,"height":526}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
