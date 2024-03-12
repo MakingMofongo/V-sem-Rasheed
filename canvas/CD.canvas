@@ -36,7 +36,6 @@
 		{"id":"c4e07524070770cc","type":"text","text":"## Lexical Analysis","x":982,"y":1752,"width":250,"height":117,"color":"4"},
 		{"id":"93bca9de8183c97a","type":"text","text":"WHAT it is, Tokenization, Stores in symbol table, Error msgs, Elimination of comments, white spaces","x":1373,"y":1752,"width":260,"height":117},
 		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1378,"y":1990,"width":250,"height":60},
-		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":440,"y":-1208,"width":558,"height":634},
 		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":1060,"y":-1208,"width":515,"height":634},
 		{"id":"0a2a7f8a15f23ce8","type":"text","text":"Bootstrapping","x":982,"y":2320,"width":250,"height":87,"color":"#4d82ff"},
 		{"id":"ab62a3bb00f6e30e","type":"text","text":"Process of creating a compiler using...","x":1336,"y":2237,"width":250,"height":60},
@@ -89,7 +88,8 @@
 		{"id":"1a25e7f3d09b8c64","type":"file","file":"IMG-20240312-WA0052.jpg","x":5925,"y":55,"width":367,"height":489},
 		{"id":"3a328d8d2e479788","type":"file","file":"IMG-20240312-WA0047.jpg","x":3200,"y":55,"width":367,"height":489},
 		{"id":"9897ee734b33414e","type":"file","file":"IMG-20240312-WA0067 1.jpg","x":6724,"y":2320,"width":395,"height":526},
-		{"id":"ef5938a38eec5b08","type":"file","file":"IMG-20240312-WA0068 1.jpg","x":7309,"y":2320,"width":395,"height":526}
+		{"id":"ef5938a38eec5b08","type":"file","file":"IMG-20240312-WA0068 1.jpg","x":7309,"y":2320,"width":395,"height":526},
+		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":440,"y":-1200,"width":558,"height":634}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
