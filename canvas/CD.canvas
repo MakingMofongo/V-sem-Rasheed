@@ -70,7 +70,7 @@
 		{"id":"3ed10f3a4f3fb302","type":"file","file":"IMG-20240312-WA0060.jpg","x":4290,"y":600,"width":367,"height":490},
 		{"id":"c2dba72a4d66334a","type":"file","file":"IMG-20240312-WA0059.jpg","x":4835,"y":600,"width":367,"height":490},
 		{"id":"31c3a5cc37566824","x":982,"y":3028,"width":250,"height":72,"color":"2","type":"text","text":"Input Buffering"},
-		{"id":"c1be9f579f468e01","x":1301,"y":3037,"width":250,"height":60,"type":"text","text":"What\n\nWhy with eg\n\nBLOCK"}
+		{"id":"c1be9f579f468e01","x":1336,"y":3028,"width":282,"height":223,"type":"text","text":"What\n\nWhy with eg\n\nBLOCK details with pointers\n\nAdvantages"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
