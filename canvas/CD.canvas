@@ -67,8 +67,8 @@
 		{"id":"3a328d8d2e479788","x":3200,"y":55,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0047.jpg"},
 		{"id":"baec76b776920a67","x":3200,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0057.jpg"},
 		{"id":"058b70862c0b28c2","x":-619,"y":468,"width":1160,"height":723,"type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md"},
-		{"id":"c2dba72a4d66334a","x":4835,"y":620,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0059.jpg"},
-		{"id":"3ed10f3a4f3fb302","x":4290,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0060.jpg"}
+		{"id":"3ed10f3a4f3fb302","x":4290,"y":600,"width":370,"height":493,"type":"file","file":"IMG-20240312-WA0060.jpg"},
+		{"id":"c2dba72a4d66334a","x":4835,"y":600,"width":367,"height":490,"type":"file","file":"IMG-20240312-WA0059.jpg"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
