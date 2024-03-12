@@ -15,7 +15,7 @@
 		{"id":"d74ab46c171dc00b","type":"text","text":"Lexical Analyzer\nSyntax Analyzer AKA Parser\nSemantic Analyzer\nIntermediate Code Generator\nCode Optimizer\nCode Generator","x":2086,"y":1220,"width":274,"height":200},
 		{"id":"0d1d06bd54f55f02","type":"text","text":"Parser functions(2) with eg","x":2475,"y":1389,"width":250,"height":60},
 		{"id":"5401a2d27ad2a504","type":"text","text":"Details of each","x":2116,"y":1669,"width":250,"height":60},
-		{"id":"94e85e3351cee210","type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nLiteral Table\nParse Tree\n","x":1740,"y":1525,"width":262,"height":163},
+		{"id":"94e85e3351cee210","type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nLiteral Table\nParse Tree AKA Syntax Tree\n","x":1740,"y":1525,"width":262,"height":163},
 		{"id":"04854d3c289645c2","type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters","x":1776,"y":1995,"width":283,"height":114},
 		{"id":"bb392ab9e67ab748","type":"text","text":"Defined by, Recognized by","x":1792,"y":2198,"width":250,"height":60},
 		{"id":"0745fefc60c79b1b","type":"file","file":"IMG-20240312-WA0062 1.jpg","x":3796,"y":2320,"width":395,"height":526,"color":"1"},
