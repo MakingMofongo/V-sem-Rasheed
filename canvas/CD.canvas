@@ -124,7 +124,8 @@
 		{"id":"930027c96cceb64c","x":3957,"y":3668,"width":363,"height":193,"type":"text","text":"LL(1) -\nLR(0) - \nSLR - Reduced collision chances\nLR(1)- LR(0) with follow\nCLR - LR(1) with preprocessing \nLALR - CLR but weaker"},
 		{"id":"ec1152f8a4d4dec2","x":4381,"y":3545,"width":400,"height":209,"type":"file","file":"Pasted image 20240312225332.png"},
 		{"id":"841ea66731f9c940","x":4381,"y":3794,"width":400,"height":213,"type":"file","file":"Pasted image 20240312225357.png"},
-		{"id":"8662425c4f37dc23","x":4381,"y":4036,"width":400,"height":244,"type":"file","file":"Pasted image 20240312231630.png"}
+		{"id":"8662425c4f37dc23","x":4381,"y":4036,"width":400,"height":244,"type":"file","file":"Pasted image 20240312231630.png"},
+		{"id":"6c07d40664008b66","x":3853,"y":3980,"width":447,"height":259,"type":"file","file":"Pasted image 20240312231834.png"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -194,6 +195,7 @@
 		{"id":"916ff5ecbe5147e3","fromNode":"ef5938a38eec5b08","fromSide":"top","toNode":"c9cf30a37eda04d8","toSide":"bottom"},
 		{"id":"74f769bd42b5c2fb","fromNode":"930027c96cceb64c","fromSide":"right","toNode":"ec1152f8a4d4dec2","toSide":"left"},
 		{"id":"90a19a4717cc5c3b","fromNode":"930027c96cceb64c","fromSide":"right","toNode":"841ea66731f9c940","toSide":"left"},
-		{"id":"64db7b2fabca0d19","fromNode":"930027c96cceb64c","fromSide":"right","toNode":"8662425c4f37dc23","toSide":"left","label":"SLR"}
+		{"id":"64db7b2fabca0d19","fromNode":"930027c96cceb64c","fromSide":"right","toNode":"8662425c4f37dc23","toSide":"left","label":"SLR"},
+		{"id":"696c5756bf56e346","fromNode":"930027c96cceb64c","fromSide":"right","toNode":"6c07d40664008b66","toSide":"left","label":"CLR"}
 	]
 }
