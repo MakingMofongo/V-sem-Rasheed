@@ -34,6 +34,7 @@
 		{"id":"a48cc29df1a434a4","type":"text","text":"Code optimization - What it is, Types - Local, Loop with egs","x":2475,"y":1632,"width":245,"height":115},
 		{"id":"99e1b123e07561f1","type":"text","text":"+Symbol Table\n+Error Handler","x":2475,"y":1229,"width":250,"height":60},
 		{"id":"7454a4160e3df850","type":"text","text":"Example of entire process (Position = initial + rate * 60)","x":2475,"y":1780,"width":286,"height":60},
+		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-171,"y":-1208,"width":511,"height":634},
 		{"id":"037255bd5bfc7579","type":"file","file":"Drawing 2024-03-11 21.26.00.excalidraw.md","x":-500,"y":-380,"width":1041,"height":768},
 		{"id":"d384892f6773be9b","type":"text","text":"Major Data Structures used in Compilers","x":1363,"y":1500,"width":279,"height":106,"color":"2"},
 		{"id":"94e85e3351cee210","type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nConstant Table\nParse Tree\n","x":1740,"y":1525,"width":262,"height":163},
@@ -45,8 +46,7 @@
 		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1378,"y":1990,"width":250,"height":60},
 		{"id":"0a2a7f8a15f23ce8","type":"text","text":"Bootstrapping","x":982,"y":2500,"width":250,"height":87},
 		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":440,"y":-1208,"width":558,"height":634},
-		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":1060,"y":-1208,"width":515,"height":634},
-		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-160,"y":-1220,"width":511,"height":634}
+		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":1060,"y":-1208,"width":515,"height":634}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
