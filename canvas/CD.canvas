@@ -89,8 +89,8 @@
 		{"id":"9897ee734b33414e","type":"file","file":"IMG-20240312-WA0067 1.jpg","x":6724,"y":2320,"width":395,"height":526},
 		{"id":"ef5938a38eec5b08","type":"file","file":"IMG-20240312-WA0068 1.jpg","x":7309,"y":2320,"width":395,"height":526},
 		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":440,"y":-1200,"width":558,"height":634},
-		{"id":"dea2011b95fd0e2a","x":3920,"y":2380,"width":400,"height":63,"type":"file","file":"Pasted image 20240312144608.png"},
-		{"id":"058b70862c0b28c2","type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md","x":3221,"y":1419,"width":1160,"height":723}
+		{"id":"058b70862c0b28c2","type":"file","file":"Drawing 2024-03-12 14.02.52.excalidraw.md","x":3221,"y":1419,"width":1160,"height":723},
+		{"id":"dea2011b95fd0e2a","type":"file","file":"Pasted image 20240312144608.png","x":3794,"y":2220,"width":400,"height":63}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -142,6 +142,7 @@
 		{"id":"52fc41356d125805","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"0b09e50a9ff21fa6","toSide":"left"},
 		{"id":"8bfc5849fb387a88","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"f613312a606c8a52","toSide":"left"},
 		{"id":"51390093a286d075","fromNode":"31c3a5cc37566824","fromSide":"right","toNode":"c1be9f579f468e01","toSide":"left"},
-		{"id":"ea2478a5a6450782","fromNode":"93bca9de8183c97a","fromSide":"right","toNode":"dbffcc3898cce82a","toSide":"left"}
+		{"id":"ea2478a5a6450782","fromNode":"93bca9de8183c97a","fromSide":"right","toNode":"dbffcc3898cce82a","toSide":"left"},
+		{"id":"77568f0aa23441d1","fromNode":"dea2011b95fd0e2a","fromSide":"bottom","toNode":"0745fefc60c79b1b","toSide":"top"}
 	]
 }
