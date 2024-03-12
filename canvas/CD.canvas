@@ -49,7 +49,10 @@
 		{"id":"0a2a7f8a15f23ce8","type":"text","text":"Bootstrapping","x":982,"y":2320,"width":250,"height":87,"color":"#4d82ff"},
 		{"id":"ab62a3bb00f6e30e","x":1336,"y":2237,"width":250,"height":60,"type":"text","text":"Process of creating a compiler using..."},
 		{"id":"ef68ae1b5db161cf","x":1336,"y":2332,"width":250,"height":64,"type":"text","text":"Goal"},
-		{"id":"fdfa91d4edc07a2e","x":1329,"y":2485,"width":250,"height":60,"type":"text","text":"Source lang\nTarget lang\nImplementation lang\n\nT grap"}
+		{"id":"fdfa91d4edc07a2e","x":1336,"y":2440,"width":257,"height":155,"type":"text","text":"Source lang\nTarget lang\nImplementation lang\n\nT graph\n3T's Graph"},
+		{"id":"29085cad01e399f5","x":982,"y":2720,"width":250,"height":106,"color":"4","type":"text","text":"Porting"},
+		{"id":"e303b79f8fb52b05","x":1333,"y":2685,"width":250,"height":60,"type":"text","text":"Process of..."},
+		{"id":"0b09e50a9ff21fa6","x":1398,"y":2777,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -96,6 +99,8 @@
 		{"id":"aa8b506b56049f23","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"0a2a7f8a15f23ce8","toSide":"left"},
 		{"id":"903a761cf8a244bc","fromNode":"0a2a7f8a15f23ce8","fromSide":"right","toNode":"ab62a3bb00f6e30e","toSide":"left"},
 		{"id":"019569726039c81c","fromNode":"0a2a7f8a15f23ce8","fromSide":"right","toNode":"ef68ae1b5db161cf","toSide":"left"},
-		{"id":"3a2bcf54a32bf801","fromNode":"0a2a7f8a15f23ce8","fromSide":"right","toNode":"fdfa91d4edc07a2e","toSide":"left"}
+		{"id":"3a2bcf54a32bf801","fromNode":"0a2a7f8a15f23ce8","fromSide":"right","toNode":"fdfa91d4edc07a2e","toSide":"left"},
+		{"id":"ab3340922f42aa46","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"e303b79f8fb52b05","toSide":"left"},
+		{"id":"52fc41356d125805","fromNode":"29085cad01e399f5","fromSide":"right","toNode":"0b09e50a9ff21fa6","toSide":"left"}
 	]
 }
