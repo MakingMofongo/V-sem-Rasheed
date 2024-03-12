@@ -52,7 +52,6 @@
 		{"id":"31c3a5cc37566824","type":"text","text":"Input Buffering","x":982,"y":3028,"width":250,"height":72,"color":"2"},
 		{"id":"c1be9f579f468e01","type":"text","text":"What\n\nWhy with eg\n\nBLOCK details with pointers\n\nAdvantages","x":1336,"y":3028,"width":282,"height":223},
 		{"id":"dbffcc3898cce82a","type":"text","text":"Diagram","x":1717,"y":1813,"width":250,"height":60},
-		{"id":"399ba433fa588e08","type":"file","file":"IMG-20240312-WA0070 1.jpg","x":8480,"y":2320,"width":395,"height":526},
 		{"id":"5265aafb89201579","type":"file","file":"IMG-20240312-WA0058.jpg","x":3745,"y":600,"width":367,"height":489},
 		{"id":"baec76b776920a67","type":"file","file":"IMG-20240312-WA0057.jpg","x":3200,"y":600,"width":367,"height":489},
 		{"id":"3ed10f3a4f3fb302","type":"file","file":"IMG-20240312-WA0060.jpg","x":4290,"y":600,"width":367,"height":489},
@@ -114,10 +113,11 @@
 		{"id":"fa5b1b942456b266","type":"file","file":"IMG-20240312-WA0074 1.jpg","x":4381,"y":2920,"width":395,"height":526},
 		{"id":"894e3886e8c3679d","type":"file","file":"IMG-20240312-WA0072 1.jpg","x":3210,"y":2940,"width":395,"height":526},
 		{"id":"03d00d574443e4d3","type":"file","file":"IMG-20240312-WA0071 1.jpg","x":3796,"y":2940,"width":395,"height":526},
-		{"id":"ef5938a38eec5b08","type":"file","file":"IMG-20240312-WA0068 1.jpg","x":6680,"y":2320,"width":395,"height":526},
-		{"id":"9897ee734b33414e","type":"file","file":"IMG-20240312-WA0067 1.jpg","x":7280,"y":2320,"width":395,"height":526},
-		{"id":"244b4db80074156e","type":"file","file":"IMG-20240312-WA0069 1.jpg","x":7000,"y":1720,"width":395,"height":526},
-		{"id":"b6e0c23ea852d8ab","type":"file","file":"IMG-20240312-WA0066 1.jpg","x":7920,"y":2320,"width":395,"height":526}
+		{"id":"ef5938a38eec5b08","type":"file","file":"IMG-20240312-WA0068 1.jpg","x":6138,"y":2320,"width":395,"height":526},
+		{"id":"9897ee734b33414e","type":"file","file":"IMG-20240312-WA0067 1.jpg","x":6738,"y":2320,"width":395,"height":526},
+		{"id":"b6e0c23ea852d8ab","type":"file","file":"IMG-20240312-WA0066 1.jpg","x":7378,"y":2320,"width":395,"height":526},
+		{"id":"399ba433fa588e08","type":"file","file":"IMG-20240312-WA0070 1.jpg","x":8538,"y":2320,"width":395,"height":526},
+		{"id":"244b4db80074156e","type":"file","file":"IMG-20240312-WA0069 1.jpg","x":7938,"y":2320,"width":395,"height":526}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
