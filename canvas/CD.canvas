@@ -42,7 +42,7 @@
 		{"id":"04854d3c289645c2","type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters","x":1776,"y":1995,"width":283,"height":114},
 		{"id":"bb392ab9e67ab748","type":"text","text":"Defined by, Recognized by","x":1792,"y":2198,"width":250,"height":60},
 		{"id":"c4e07524070770cc","type":"text","text":"## Lexical Analysis","x":982,"y":1752,"width":250,"height":117,"color":"4"},
-		{"id":"93bca9de8183c97a","type":"text","text":"What it is, Tokenization, Error msgs, Elimination of comments, white spaces","x":1373,"y":1752,"width":260,"height":117},
+		{"id":"93bca9de8183c97a","type":"text","text":"WHAT it is, Tokenization, Stores in symbol table, Error msgs, Elimination of comments, white spaces","x":1373,"y":1752,"width":260,"height":117},
 		{"id":"c118aed37beb6ae6","type":"text","text":"Tokens","x":1378,"y":1990,"width":250,"height":60},
 		{"id":"59c9fc3256d6d006","type":"file","file":"CD AIML FEB 23QP.pdf","x":440,"y":-1208,"width":558,"height":634},
 		{"id":"34b3c068b051bed7","type":"file","file":"CD AIML QP.pdf","x":1060,"y":-1208,"width":515,"height":634},
