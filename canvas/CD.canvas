@@ -106,7 +106,10 @@
 		{"id":"d5c3bf5ae9ce15f0","x":3210,"y":4280,"width":475,"height":633,"type":"file","file":"IMG-20240312-WA0077 1.jpg"},
 		{"id":"2f538db6533326b5","x":3210,"y":4985,"width":475,"height":633,"type":"file","file":"IMG-20240312-WA0087 1.jpg"},
 		{"id":"156eea8b0f54e238","type":"text","text":"## UNIT 3","x":3200,"y":5800,"width":275,"height":154,"color":"3"},
-		{"id":"a7ef9b438bfdbc33","x":2360,"y":3960,"width":643,"height":640,"type":"file","file":"ETC/Syntax Directed Translation and Definition. GPT + Research.md"}
+		{"id":"a7ef9b438bfdbc33","x":2360,"y":3960,"width":643,"height":640,"type":"file","file":"ETC/Syntax Directed Translation and Definition. GPT + Research.md"},
+		{"id":"7c2e2cf379b56188","x":5437,"y":4940,"width":250,"height":60,"color":"4","type":"text","text":"Which Order suitable, why"},
+		{"id":"4d651270e3653b6c","type":"text","text":"Useful for what","x":6029,"y":4940,"width":250,"height":60,"color":"4"},
+		{"id":"274fe2dc54058304","x":6349,"y":4986,"width":250,"height":60,"type":"text","text":"Compare with parse tree"}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
@@ -164,6 +167,7 @@
 		{"id":"de185e81e477574c","fromNode":"6d0a1f68d2adc97a","fromSide":"right","toNode":"ab4812269a959561","toSide":"left"},
 		{"id":"731ed6a538682218","fromNode":"a7ef9b438bfdbc33","fromSide":"right","toNode":"d5c3bf5ae9ce15f0","toSide":"left"},
 		{"id":"8b81a910457fb68f","fromNode":"a7ef9b438bfdbc33","fromSide":"right","toNode":"ab57c3db2fc506a2","toSide":"left"},
-		{"id":"0c072e137d55b958","fromNode":"a7ef9b438bfdbc33","fromSide":"right","toNode":"5a1743045db930d1","toSide":"left"}
+		{"id":"0c072e137d55b958","fromNode":"a7ef9b438bfdbc33","fromSide":"right","toNode":"5a1743045db930d1","toSide":"left"},
+		{"id":"518234ed045a203a","fromNode":"4d651270e3653b6c","fromSide":"right","toNode":"274fe2dc54058304","toSide":"left"}
 	]
 }
