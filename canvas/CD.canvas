@@ -27,7 +27,7 @@
 		{"id":"6c96b748f8a89899","type":"text","text":"Phases of Interpreter","x":1992,"y":6,"width":250,"height":60},
 		{"id":"f36817fe3922242a","type":"text","text":"Lexical analysis\nSyntax analysis\nSemantic Analysis\nDirect Execution","x":2302,"y":70,"width":278,"height":148},
 		{"id":"a95308b4119c1915","type":"text","text":"Translator","x":985,"y":468,"width":250,"height":60},
-		{"id":"be48af33839a5da9","type":"text","text":"What is Translator, HLL specification, Important Roles (2)","x":1309,"y":518,"width":291,"height":122},
+		{"id":"be48af33839a5da9","type":"text","text":"What is Translator, Should follow HLL specification, Important Roles (2)","x":1309,"y":518,"width":291,"height":122},
 		{"id":"35328df1c34b5e5f","type":"text","text":"## Compiler","x":1000,"y":786,"width":250,"height":134,"color":"1"},
 		{"id":"02341be34e4f882a","type":"text","text":"List of compilers:\n\n 1 .Ada compilers 2 .ALGOL compilers 3 .BASIC compilers 4 .C# compilers 5 .C compilers 6 .C++ compilers 7 .COBOL compilers 8 .Common Lisp compilers 9. ECMAScript interpreters 10. Fortran compilers 11 .Java compilers 12. Pascal compilers 13. PL/I compilers 14. Python compilers 15. Smalltalk compilers","x":1364,"y":859,"width":376,"height":261},
 		{"id":"823bfe64fee0d36d","type":"text","text":"## Structure of Compiler","x":1363,"y":1199,"width":250,"height":121,"color":"1"},
