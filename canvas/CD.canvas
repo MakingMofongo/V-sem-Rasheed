@@ -121,7 +121,7 @@
 		{"id":"44c216de7f3d24df","x":5520,"y":1880,"width":400,"height":294,"type":"file","file":"Pasted image 20240312200307.png"},
 		{"id":"02a69e63173d05b4","x":5600,"y":1480,"width":496,"height":294,"type":"file","file":"Pasted image 20240312200332.png"},
 		{"id":"c9cf30a37eda04d8","x":6096,"y":1880,"width":633,"height":332,"type":"file","file":"Pasted image 20240312201321.png"},
-		{"id":"930027c96cceb64c","x":3957,"y":3668,"width":363,"height":193,"type":"text","text":"LL(1) -\nLR(0) - \nSLR - Reduced collision chances\nLR(1)- LR(0) with follow\nCLR - \nLALR - "}
+		{"id":"930027c96cceb64c","x":3957,"y":3668,"width":363,"height":193,"type":"text","text":"LL(1) -\nLR(0) - \nSLR - Reduced collision chances\nLR(1)- LR(0) with follow\nCLR -\nLALR - "}
 	],
 	"edges":[
 		{"id":"41772047dd665990","fromNode":"00158b878956ee4f","fromSide":"right","toNode":"8c4959474e9f458f","toSide":"left"},
