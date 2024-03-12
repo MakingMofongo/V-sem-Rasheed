@@ -37,7 +37,7 @@
 		{"id":"48d6f687a6bdce24","type":"file","file":"Compiler design pyq.pdf","x":-171,"y":-1208,"width":511,"height":634},
 		{"id":"037255bd5bfc7579","type":"file","file":"Drawing 2024-03-11 21.26.00.excalidraw.md","x":-500,"y":-380,"width":1041,"height":768},
 		{"id":"d384892f6773be9b","type":"text","text":"Major Data Structures used in Compilers","x":1363,"y":1500,"width":279,"height":106,"color":"2"},
-		{"id":"94e85e3351cee210","type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nConstant Table\nParse Tree\n","x":1740,"y":1525,"width":262,"height":163},
+		{"id":"94e85e3351cee210","type":"text","text":"Tokens\nAbstract Syntax Tree\nSymbol Table\nLiteral Table\nParse Tree\n","x":1740,"y":1525,"width":262,"height":163},
 		{"id":"5401a2d27ad2a504","type":"text","text":"Details of each","x":2116,"y":1669,"width":250,"height":60},
 		{"id":"04854d3c289645c2","type":"text","text":"Identifier, Separator, Keyword, Operator, Constants, Special Characters","x":1776,"y":1995,"width":283,"height":114},
 		{"id":"bb392ab9e67ab748","type":"text","text":"Define by, Recognized by","x":1792,"y":2198,"width":250,"height":60},
