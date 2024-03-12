@@ -63,7 +63,7 @@
 		{"id":"c5ad39744a2c985e","type":"file","file":"IMG-20240312-WA0073 1.jpg","x":4967,"y":2920,"width":395,"height":526},
 		{"id":"44c216de7f3d24df","type":"file","file":"Pasted image 20240312200307.png","x":5520,"y":1880,"width":400,"height":294},
 		{"id":"02a69e63173d05b4","type":"file","file":"Pasted image 20240312200332.png","x":5600,"y":1480,"width":496,"height":294},
-		{"id":"930027c96cceb64c","type":"text","text":"LL(1) -\nLR(0) - \nSLR - Reduced collision chances\nLR(1)- LR(0) with follow\nCLR - LR(1) with preprocessing \nLALR - CLR but weaker","x":3957,"y":3668,"width":363,"height":193},
+		{"id":"930027c96cceb64c","type":"text","text":"LL(1) -\nLR(0) - \nSLR - Reduced collision chances\nLR(1)- LR(0) with follow\nCLR - LR(1) with \nLALR - CLR but combine some productions","x":3957,"y":3668,"width":363,"height":193},
 		{"id":"ec1152f8a4d4dec2","type":"file","file":"Pasted image 20240312225332.png","x":4381,"y":3500,"width":487,"height":254},
 		{"id":"bed16e0315303095","type":"file","file":"IMG-20240312-WA0076 1.jpg","x":6138,"y":2906,"width":395,"height":526},
 		{"id":"6d0a1f68d2adc97a","type":"text","text":"## UNIT 2","x":3200,"y":3649,"width":275,"height":154,"color":"5"},
