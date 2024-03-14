@@ -115,7 +115,7 @@
 		{"id":"f9eefabc157c9b97","type":"text","text":"tag = form","x":2071,"y":7764,"width":250,"height":60},
 		{"id":"c18c2e57d8c0d227","type":"file","file":"Pasted image 20240309175509.png","x":2400,"y":7737,"width":399,"height":115},
 		{"id":"a50cb5ec5b5eaccc","type":"text","text":"Text input","x":2071,"y":7920,"width":250,"height":60},
-		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":726,"height":150},
+		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":721,"height":150},
 		{"id":"2d22a5fb80501840","type":"file","file":"Pasted image 20240309180006.png","x":2920,"y":5507,"width":260,"height":163},
 		{"id":"c8b229b5711194e3","type":"text","text":"List items will be marked by numbers by default","x":3291,"y":5567,"width":250,"height":60},
 		{"id":"2d5065a8a8d22944","type":"text","text":"Allows users to draw shapes such as Circles, Triangles and Rectangles","x":2220,"y":3443,"width":250,"height":129},
