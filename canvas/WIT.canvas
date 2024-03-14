@@ -147,7 +147,6 @@
 		{"id":"6947d39cf79030a0","type":"file","file":"WhatsApp Image 2024-03-14 at 17.11.01_34a3c1b4.jpg","x":2633,"y":-511,"width":647,"height":1402},
 		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
 		{"id":"ddcea76385f807b2","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":3360,"y":-92,"width":1048,"height":565},
-		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4440,"y":-118,"width":700,"height":690},
 		{"id":"40f44546b5ef24c6","type":"text","text":"","x":2907,"y":6780,"width":400,"height":375},
 		{"id":"4673d75ea8f91af8","type":"text","text":"XHTML SYNTAX","x":3808,"y":707,"width":600,"height":293,"color":"1"},
 		{"id":"065a6d5849e52166","type":"text","text":"HTTP Request and response format","x":4728,"y":723,"width":312,"height":131,"color":"1"},
@@ -164,7 +163,8 @@
 		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":-539,"y":4118,"width":250,"height":165,"color":"#b10bfe"},
 		{"id":"d6eb7eb9b5c40ebe","type":"file","file":"Pasted image 20240314181614.png","x":1904,"y":4637,"width":400,"height":96},
 		{"id":"121519ea433fce5a","type":"file","file":"Pasted image 20240314181729.png","x":2052,"y":5727,"width":452,"height":99},
-		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60}
+		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60},
+		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4460,"y":-118,"width":700,"height":690}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
