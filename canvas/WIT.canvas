@@ -167,7 +167,7 @@
 		{"id":"065a6d5849e52166","type":"text","text":"HTTP Request and response format","x":4540,"y":723,"width":312,"height":131,"color":"1"},
 		{"id":"7a2a8541d70d4d49","x":4908,"y":724,"width":504,"height":176,"type":"text","text":"FRAMESET - The `<frameset>` tag in HTML is used to define the frameset. The `<frameset>` element contains one or more frame elements. It is used to specify the number of rows and columns in frameset with their pixel of spaces. Each element can hold a separate document."},
 		{"id":"7699e3be7c1a1f8e","x":4971,"y":960,"width":539,"height":407,"type":"text","text":"![[Pasted image 20240314195050.png]]"},
-		{"id":"522f92cfc92352d8","x":5343,"y":728,"width":250,"height":60,"type":"text","text":"Diff b/w "}
+		{"id":"522f92cfc92352d8","x":5412,"y":752,"width":250,"height":60,"type":"text","text":"Diff b/w HTMl and XML"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
