@@ -127,7 +127,7 @@
 		{"id":"db320b2a63624f25","type":"text","text":"Compatibility. HTML all browsers, HTML5 newer browsers","x":1915,"y":3970,"width":250,"height":87},
 		{"id":"d03b96fb609f14c3","type":"text","text":"`<img src=\"img_girl.jpg\" alt=\"Girl in a jacket\" width=\"500\" height=\"600\">`","x":2290,"y":4841,"width":710,"height":52},
 		{"id":"de79a1783aa0d571","type":"file","file":"Pasted image 20240309181531.png","x":2658,"y":5140,"width":400,"height":101},
-		{"id":"7643c8d8095abcb3","type":"text","text":"alternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2920,"y":4901,"width":250,"height":181},
+		{"id":"7643c8d8095abcb3","type":"text","text":"stylesheet\nalternate\nauthor\nbookmark\nhelp\nlicense\netc","x":2920,"y":4901,"width":250,"height":181},
 		{"id":"9fb22fea431fb779","type":"text","text":"Servlet","x":-1615,"y":-63,"width":250,"height":60,"color":"2"},
 		{"id":"89772bc94588f197","type":"text","text":"## Architecture Diagram","x":-2180,"y":-209,"width":276,"height":94},
 		{"id":"655708b90e2ef1ac","type":"file","file":"Pasted image 20240309192015.png","x":-2400,"y":-500,"width":400,"height":196},
@@ -163,7 +163,8 @@
 		{"id":"4af0c395653743dc","type":"text","text":"Inline","x":-57,"y":4103,"width":250,"height":60},
 		{"id":"519566620515ed34","type":"text","text":"Internal","x":-57,"y":4203,"width":250,"height":60},
 		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":-539,"y":4118,"width":250,"height":165,"color":"#b10bfe"},
-		{"id":"d6eb7eb9b5c40ebe","x":1904,"y":4637,"width":400,"height":96,"type":"file","file":"Pasted image 20240314181614.png"}
+		{"id":"d6eb7eb9b5c40ebe","x":1904,"y":4637,"width":400,"height":96,"type":"file","file":"Pasted image 20240314181614.png"},
+		{"id":"121519ea433fce5a","x":2052,"y":5727,"width":452,"height":99,"type":"file","file":"Pasted image 20240314181729.png"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -328,6 +329,7 @@
 		{"id":"ee56f6a75258b09f","fromNode":"065a6d5849e52166","fromSide":"bottom","toNode":"ad1160d7fd81d0cf","toSide":"left","color":"1"},
 		{"id":"38a68dd94463e3bd","fromNode":"602bc55cc968f44d","fromSide":"right","toNode":"0b22b30eb2201415","toSide":"left"},
 		{"id":"d6a901c054e3bb53","fromNode":"57123e1afacb78df","fromSide":"right","toNode":"f4175f318240c8f7","toSide":"left"},
-		{"id":"561a31ae9fca1f6b","fromNode":"07e819acda5b8a4e","fromSide":"right","toNode":"d6eb7eb9b5c40ebe","toSide":"left"}
+		{"id":"561a31ae9fca1f6b","fromNode":"07e819acda5b8a4e","fromSide":"right","toNode":"d6eb7eb9b5c40ebe","toSide":"left"},
+		{"id":"f881cc69d1c5991b","fromNode":"63cb0cc979753555","fromSide":"right","toNode":"121519ea433fce5a","toSide":"left"}
 	]
 }
