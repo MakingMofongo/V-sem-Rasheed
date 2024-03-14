@@ -183,10 +183,12 @@
 		{"id":"320934252efa08ec","type":"text","text":"webINF - lib, classes-classfiles, web.xml\nhtml\nstaticfiles","x":-714,"y":446,"width":354,"height":194,"color":"1"},
 		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-300,"y":513,"width":250,"height":60},
 		{"id":"059b0cd0b9858405","type":"text","text":"Session Tracking","x":-1098,"y":280,"width":250,"height":60},
-		{"id":"714269ccafffb771","x":3484,"y":-540,"width":400,"height":61,"type":"file","file":"Pasted image 20240314233314.png"},
-		{"id":"7ba1a8559ab6b984","x":3608,"y":-360,"width":400,"height":54,"type":"file","file":"Pasted image 20240314233343.png"},
 		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4480,"y":-118,"width":700,"height":690},
-		{"id":"8e8da08cfc74adb4","x":4008,"y":-200,"width":314,"height":50,"type":"file","file":"Pasted image 20240314233416.png"}
+		{"id":"5a570ad7c9313b94","type":"file","file":"wit paper.pdf","x":-1088,"y":-2247,"width":1079,"height":638},
+		{"id":"96dc4f9bb5afaeb8","type":"text","text":"","x":-762,"y":-2129,"width":250,"height":60},
+		{"id":"a4e0832c87935477","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":-1848,"y":-2247,"width":700,"height":690},
+		{"id":"570087f620a6a58c","type":"file","file":"WhatsApp Image 2024-03-14 at 17.11.01_34a3c1b4.jpg","x":-3695,"y":-2640,"width":647,"height":1402},
+		{"id":"65de3bbd5f476707","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":-2968,"y":-2221,"width":1048,"height":565}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
