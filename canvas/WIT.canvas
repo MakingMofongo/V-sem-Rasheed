@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"ca59d9b8a29ff473","type":"group","x":-559,"y":4083,"width":1194,"height":898,"color":"1","label":"Untitled group"},
 		{"id":"b37e2334e7049e3a","type":"group","x":2255,"y":340,"width":329,"height":532,"color":"1","label":"Untitled group"},
-		{"id":"43b451eb34d80d7c","x":5566,"y":0,"width":250,"height":60,"type":"text","text":""},
+		{"id":"db66d9dec0e7f639","x":-2565,"y":747,"width":250,"height":60,"type":"text","text":""},
 		{"id":"9194476f9963e182","type":"text","text":"Made of Web apps and Hardware","x":1073,"y":540,"width":250,"height":60},
 		{"id":"959d7d455cee4001","type":"text","text":"Web Server","x":745,"y":465,"width":250,"height":174,"color":"3"},
 		{"id":"106767a9b16ce85e","type":"text","text":"address of a resource on the Internet and the protocol used to access it.","x":1185,"y":921,"width":277,"height":128},
@@ -26,7 +26,7 @@
 		{"id":"ba21fbcecf8db2f8","type":"text","text":"Overview","x":-2995,"y":400,"width":250,"height":60},
 		{"id":"8ef1b3d6a94c6c58","type":"text","text":"Features","x":-2525,"y":400,"width":250,"height":60},
 		{"id":"5876f33e5035f8e2","type":"text","text":"APIs","x":-2111,"y":400,"width":250,"height":60},
-		{"id":"89a11c9aa72a006a","type":"text","text":"Lifecycle","x":-1802,"y":400,"width":250,"height":60},
+		{"id":"89a11c9aa72a006a","type":"text","text":"## Lifecycle","x":-1840,"y":400,"width":288,"height":180,"color":"1"},
 		{"id":"a6e5e7fd877a4bd2","type":"text","text":"Steps to create servlet with eg","x":-1490,"y":376,"width":250,"height":160},
 		{"id":"8caabf55bc42b3f0","type":"text","text":"Servlet config","x":-2386,"y":617,"width":250,"height":60},
 		{"id":"257ad115e4699983","type":"text","text":"Servlet Context","x":-2216,"y":800,"width":250,"height":60},
@@ -171,7 +171,8 @@
 		{"id":"e5a7b3827059a0a4","x":-1200,"y":-820,"width":400,"height":202,"type":"file","file":"Pasted image 20240314202034.png"},
 		{"id":"f48e90db9e124554","x":-2469,"y":-660,"width":483,"height":321,"type":"file","file":"Pasted image 20240314202311.png"},
 		{"id":"b7a6796a14cf2f7d","x":-2444,"y":-911,"width":1167,"height":171,"type":"file","file":"Pasted image 20240314202426.png"},
-		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638}
+		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
+		{"id":"43b451eb34d80d7c","x":5566,"y":0,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
