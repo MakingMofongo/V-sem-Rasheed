@@ -83,7 +83,7 @@
 		{"id":"c6d2a14cb40feda6","type":"text","text":"### ·        Translation\n\n### ·        Compilation\n\n### ·        ClassLoading\n### ·        Instantiation\n\n### ·        Initialization\n\n### ·  Request Processing\n\n### .      Destroy","x":-377,"y":-2000,"width":360,"height":363,"color":"6"},
 		{"id":"55d5091406ac6f0a","type":"text","text":"# UNIT 5:- JSP Technology","x":-447,"y":-1079,"width":334,"height":153,"color":"1"},
 		{"id":"30c5e2d6fb6afd58","type":"text","text":"# UNIT-4","x":-1126,"y":-158,"width":250,"height":63},
-		{"id":"6985091af832a8ec","x":1395,"y":1310,"width":651,"height":842,"type":"file","file":"Module 4 notes2020.pdf"}
+		{"id":"6985091af832a8ec","type":"file","file":"Module 4 notes2020.pdf","x":1395,"y":1310,"width":651,"height":842}
 	],
 	"edges":[
 		{"id":"7c22da750f7601b9","fromNode":"8696477c9004c287","fromSide":"right","toNode":"142c606213a01ea5","toSide":"left"},
