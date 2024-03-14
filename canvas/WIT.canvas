@@ -149,7 +149,6 @@
 		{"id":"ddcea76385f807b2","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":3360,"y":-92,"width":1048,"height":565},
 		{"id":"40f44546b5ef24c6","type":"text","text":"","x":2907,"y":6780,"width":400,"height":375},
 		{"id":"4673d75ea8f91af8","type":"text","text":"XHTML SYNTAX","x":3808,"y":707,"width":600,"height":293,"color":"1"},
-		{"id":"065a6d5849e52166","type":"text","text":"HTTP Request and response format","x":4728,"y":723,"width":312,"height":131,"color":"1"},
 		{"id":"209380e4d102cab1","type":"file","file":"Pasted image 20240309145950.png","x":2192,"y":1812,"width":399,"height":364},
 		{"id":"910f95d22f69280f","type":"text","text":"HTTP Transactions","x":1874,"y":1816,"width":250,"height":60},
 		{"id":"0b22b30eb2201415","type":"text","text":"- A request line (containing the HTTP method, URI, and HTTP version).\n- Headers (providing additional information about the request, such as the type of content accepted by the client, authentication credentials, etc.).\n- An optional message body (containing data sent to the server, often used in POST requests).","x":3687,"y":2243,"width":473,"height":217},
@@ -164,7 +163,9 @@
 		{"id":"d6eb7eb9b5c40ebe","type":"file","file":"Pasted image 20240314181614.png","x":1904,"y":4637,"width":400,"height":96},
 		{"id":"121519ea433fce5a","type":"file","file":"Pasted image 20240314181729.png","x":2052,"y":5727,"width":452,"height":99},
 		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60},
-		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4460,"y":-118,"width":700,"height":690}
+		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4460,"y":-118,"width":700,"height":690},
+		{"id":"065a6d5849e52166","type":"text","text":"HTTP Request and response format","x":4540,"y":723,"width":312,"height":131,"color":"1"},
+		{"id":"7a2a8541d70d4d49","x":4856,"y":724,"width":250,"height":60,"type":"text","text":"FRAMESET - "}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -331,6 +332,7 @@
 		{"id":"d6a901c054e3bb53","fromNode":"57123e1afacb78df","fromSide":"right","toNode":"f4175f318240c8f7","toSide":"left"},
 		{"id":"561a31ae9fca1f6b","fromNode":"07e819acda5b8a4e","fromSide":"right","toNode":"d6eb7eb9b5c40ebe","toSide":"left"},
 		{"id":"f881cc69d1c5991b","fromNode":"63cb0cc979753555","fromSide":"right","toNode":"121519ea433fce5a","toSide":"left"},
-		{"id":"3a6a8c56439fca3e","fromNode":"c51bcc5c4e1fc0e7","fromSide":"bottom","toNode":"e8864da383a659cb","toSide":"top"}
+		{"id":"3a6a8c56439fca3e","fromNode":"c51bcc5c4e1fc0e7","fromSide":"bottom","toNode":"e8864da383a659cb","toSide":"top"},
+		{"id":"5aeb1857d1c4cd84","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"7a2a8541d70d4d49","toSide":"top"}
 	]
 }
