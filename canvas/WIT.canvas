@@ -172,7 +172,7 @@
 		{"id":"b7a6796a14cf2f7d","type":"file","file":"Pasted image 20240314202426.png","x":-2444,"y":-911,"width":1167,"height":171},
 		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
 		{"id":"43b451eb34d80d7c","type":"text","text":"","x":5566,"y":0,"width":250,"height":60},
-		{"id":"db66d9dec0e7f639","type":"text","text":"Working with","x":-2565,"y":747,"width":250,"height":60},
+		{"id":"db66d9dec0e7f639","type":"text","text":"Working with and egs","x":-2565,"y":747,"width":250,"height":60},
 		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-2020,"y":680,"width":250,"height":60},
 		{"id":"0cce1037d5cecdff","type":"text","text":"init","x":-1552,"y":752,"width":250,"height":51},
 		{"id":"c6c85992c33ccd56","type":"text","text":"service()","x":-1552,"y":823,"width":250,"height":60},
