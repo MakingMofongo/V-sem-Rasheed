@@ -92,7 +92,6 @@
 		{"id":"ddcea76385f807b2","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":3360,"y":-92,"width":1048,"height":565},
 		{"id":"4673d75ea8f91af8","type":"text","text":"XHTML SYNTAX","x":3808,"y":707,"width":600,"height":293,"color":"1"},
 		{"id":"065a6d5849e52166","type":"text","text":"HTTP Request and response format","x":4540,"y":723,"width":312,"height":131,"color":"1"},
-		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4460,"y":-118,"width":700,"height":690},
 		{"id":"7a2a8541d70d4d49","type":"text","text":"FRAMESET - The `<frameset>` tag in HTML is used to define the frameset. The `<frameset>` element contains one or more frame elements. It is used to specify the number of rows and columns in frameset with their pixel of spaces. Each element can hold a separate document.","x":4908,"y":724,"width":504,"height":176},
 		{"id":"7699e3be7c1a1f8e","type":"text","text":"![[Pasted image 20240314195050.png]]","x":4971,"y":960,"width":539,"height":407},
 		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
@@ -184,7 +183,10 @@
 		{"id":"320934252efa08ec","type":"text","text":"webINF - lib, classes-classfiles, web.xml\nhtml\nstaticfiles","x":-714,"y":446,"width":354,"height":194,"color":"1"},
 		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-300,"y":513,"width":250,"height":60},
 		{"id":"059b0cd0b9858405","type":"text","text":"Session Tracking","x":-1098,"y":280,"width":250,"height":60},
-		{"id":"714269ccafffb771","x":3484,"y":-540,"width":400,"height":61,"type":"file","file":"Pasted image 20240314233314.png"}
+		{"id":"714269ccafffb771","x":3484,"y":-540,"width":400,"height":61,"type":"file","file":"Pasted image 20240314233314.png"},
+		{"id":"7ba1a8559ab6b984","x":3608,"y":-360,"width":400,"height":54,"type":"file","file":"Pasted image 20240314233343.png"},
+		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4480,"y":-118,"width":700,"height":690},
+		{"id":"8e8da08cfc74adb4","x":4008,"y":-200,"width":314,"height":50,"type":"file","file":"Pasted image 20240314233416.png"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
