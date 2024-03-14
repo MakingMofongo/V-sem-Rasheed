@@ -25,7 +25,6 @@
 		{"id":"2cea385a49ee86f7","type":"text","text":"Java Servlet Technology","x":-2111,"y":191,"width":250,"height":60},
 		{"id":"ba21fbcecf8db2f8","type":"text","text":"Overview","x":-2995,"y":400,"width":250,"height":60},
 		{"id":"8ef1b3d6a94c6c58","type":"text","text":"Features","x":-2525,"y":400,"width":250,"height":60},
-		{"id":"5876f33e5035f8e2","type":"text","text":"APIs","x":-2111,"y":400,"width":250,"height":60},
 		{"id":"8caabf55bc42b3f0","type":"text","text":"Servlet config","x":-2386,"y":617,"width":250,"height":60},
 		{"id":"257ad115e4699983","type":"text","text":"Servlet Context","x":-2216,"y":800,"width":250,"height":60},
 		{"id":"16dc5c61776a3740","type":"text","text":"1993 - Mosaic","x":1220,"y":-106,"width":250,"height":60},
@@ -174,12 +173,14 @@
 		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-2020,"y":680,"width":250,"height":60},
 		{"id":"0cce1037d5cecdff","type":"text","text":"init","x":-1552,"y":752,"width":250,"height":51},
 		{"id":"c6c85992c33ccd56","type":"text","text":"service()","x":-1552,"y":823,"width":250,"height":60},
-		{"id":"b3e2b4bddbc54fbc","type":"text","text":"terminate","x":-1552,"y":903,"width":250,"height":60},
+		{"id":"b3e2b4bddbc54fbc","type":"text","text":"destroy()","x":-1552,"y":903,"width":250,"height":60},
 		{"id":"dbc315b251f03d31","type":"text","text":"garbage collected","x":-1552,"y":983,"width":250,"height":60},
 		{"id":"27b4c001cf578cb3","type":"text","text":"Performs the actual tasks\nServlet container calls it when requested, response is returned\n\nNew thread, request type is checked and appropriate method is called\nmethod signature:\n```JAVA\npublic void service(ServletRequest request, ServletResponse response) throws ServletException, IOException { }\n```\nService method cannot be modified, doGet, doPost, doPut, doDelete CAN be modified. doGet() and doPost() most frequently used\n```JAVA\npublic void doGet(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n\npublic void doPost(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n","x":-1160,"y":752,"width":1060,"height":468},
 		{"id":"89a11c9aa72a006a","type":"text","text":"## Lifecycle","x":-1840,"y":400,"width":288,"height":180,"color":"1"},
 		{"id":"059b0cd0b9858405","type":"text","text":"Session Tracking","x":-1122,"y":376,"width":250,"height":60},
-		{"id":"66b31dfcf11e3970","type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for doGet or doPost\n\n```JAVA\npublic void init() throws ServletException { // Initialization code... }\n```","x":-1160,"y":552,"width":434,"height":188}
+		{"id":"66b31dfcf11e3970","type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for doGet or doPost\n\n```JAVA\npublic void init() throws ServletException { // Initialization code... }\n```","x":-1160,"y":552,"width":434,"height":188},
+		{"id":"5876f33e5035f8e2","type":"text","text":"APIs","x":-2111,"y":400,"width":250,"height":60},
+		{"id":"d09be3708ab5331a","x":-1099,"y":1327,"width":250,"height":60,"type":"text","text":"Cleanup tasks - db,"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -358,6 +359,7 @@
 		{"id":"4d4251bb71251560","fromNode":"c6c85992c33ccd56","fromSide":"bottom","toNode":"b3e2b4bddbc54fbc","toSide":"top"},
 		{"id":"00e8489ef252c7cc","fromNode":"b3e2b4bddbc54fbc","fromSide":"bottom","toNode":"dbc315b251f03d31","toSide":"top"},
 		{"id":"b71e124744de049e","fromNode":"0cce1037d5cecdff","fromSide":"right","toNode":"66b31dfcf11e3970","toSide":"left"},
-		{"id":"b3b496eb20f28f6a","fromNode":"c6c85992c33ccd56","fromSide":"right","toNode":"27b4c001cf578cb3","toSide":"left"}
+		{"id":"b3b496eb20f28f6a","fromNode":"c6c85992c33ccd56","fromSide":"right","toNode":"27b4c001cf578cb3","toSide":"left"},
+		{"id":"1cee5b2d934c1f36","fromNode":"b3e2b4bddbc54fbc","fromSide":"right","toNode":"d09be3708ab5331a","toSide":"left"}
 	]
 }
