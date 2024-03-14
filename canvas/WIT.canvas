@@ -155,9 +155,10 @@
 		{"id":"3386c49cc6c82ccd","type":"text","text":"Servlet Collaboration","x":-2008,"y":965,"width":250,"height":60},
 		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-1861,"y":663,"width":250,"height":60},
 		{"id":"6947d39cf79030a0","type":"file","file":"WhatsApp Image 2024-03-14 at 17.11.01_34a3c1b4.jpg","x":2633,"y":-511,"width":647,"height":1402},
-		{"id":"414eb4e307d65635","x":5240,"y":-118,"width":1079,"height":638,"type":"file","file":"wit paper.pdf"},
-		{"id":"ddcea76385f807b2","x":3360,"y":-92,"width":1048,"height":565,"type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf"},
-		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4440,"y":-118,"width":700,"height":690}
+		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
+		{"id":"ddcea76385f807b2","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":3360,"y":-92,"width":1048,"height":565},
+		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4440,"y":-118,"width":700,"height":690},
+		{"id":"40f44546b5ef24c6","type":"text","text":"","x":2907,"y":6780,"width":400,"height":375}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -317,6 +318,7 @@
 		{"id":"b7a66d80e9fc2752","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"8caabf55bc42b3f0","toSide":"top"},
 		{"id":"526cfdbe67d689e1","fromNode":"8caabf55bc42b3f0","fromSide":"bottom","toNode":"257ad115e4699983","toSide":"top"},
 		{"id":"ccecdf4404d13b00","fromNode":"257ad115e4699983","fromSide":"bottom","toNode":"3386c49cc6c82ccd","toSide":"top"},
-		{"id":"6740881b80ba3370","fromNode":"8caabf55bc42b3f0","fromSide":"right","toNode":"f73d60020d9b6db5","toSide":"left"}
+		{"id":"6740881b80ba3370","fromNode":"8caabf55bc42b3f0","fromSide":"right","toNode":"f73d60020d9b6db5","toSide":"left"},
+		{"id":"c375ec3051f7596d","fromNode":"78490ca21529e630","fromSide":"right","toNode":"40f44546b5ef24c6","toSide":"left"}
 	]
 }
