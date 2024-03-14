@@ -150,8 +150,6 @@
 		{"id":"519566620515ed34","type":"text","text":"Internal","x":-57,"y":4203,"width":250,"height":60},
 		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":-539,"y":4118,"width":250,"height":165,"color":"#b10bfe"},
 		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60},
-		{"id":"e5a7b3827059a0a4","type":"file","file":"Pasted image 20240314202034.png","x":-1200,"y":-820,"width":400,"height":202},
-		{"id":"b7a6796a14cf2f7d","type":"file","file":"Pasted image 20240314202426.png","x":-2444,"y":-911,"width":1167,"height":171},
 		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
 		{"id":"43b451eb34d80d7c","type":"text","text":"","x":5566,"y":0,"width":250,"height":60},
 		{"id":"a6e5e7fd877a4bd2","type":"text","text":"Steps to create servlet with eg","x":-1490,"y":376,"width":250,"height":160,"color":"1"},
@@ -160,8 +158,8 @@
 		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-2020,"y":680,"width":250,"height":60},
 		{"id":"0cce1037d5cecdff","type":"text","text":"init","x":-1552,"y":752,"width":250,"height":51},
 		{"id":"c6c85992c33ccd56","type":"text","text":"service()","x":-1552,"y":823,"width":250,"height":60},
-		{"id":"b3e2b4bddbc54fbc","type":"text","text":"destroy()","x":-1552,"y":903,"width":250,"height":60},
-		{"id":"dbc315b251f03d31","type":"text","text":"garbage collected","x":-1552,"y":983,"width":250,"height":60},
+		{"id":"b3e2b4bddbc54fbc","type":"text","text":"terminated by destroy()","x":-1552,"y":903,"width":250,"height":60},
+		{"id":"dbc315b251f03d31","type":"text","text":"garbage collected by garbage collector of JVM","x":-1552,"y":983,"width":250,"height":60},
 		{"id":"27b4c001cf578cb3","type":"text","text":"Performs the actual tasks\nServlet container calls it when requested, response is returned\n\nNew thread, request type is checked and appropriate method is called\nmethod signature:\n```JAVA\npublic void service(ServletRequest request, ServletResponse response) throws ServletException, IOException { }\n```\nService method cannot be modified, doGet, doPost, doPut, doDelete CAN be modified. doGet() and doPost() most frequently used\n```JAVA\npublic void doGet(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n\npublic void doPost(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n","x":-1160,"y":752,"width":1060,"height":468},
 		{"id":"89a11c9aa72a006a","type":"text","text":"## Lifecycle","x":-1840,"y":400,"width":288,"height":180,"color":"1"},
 		{"id":"059b0cd0b9858405","type":"text","text":"Session Tracking","x":-1122,"y":376,"width":250,"height":60},
@@ -180,7 +178,9 @@
 		{"id":"55d5091406ac6f0a","type":"text","text":"UNIT 4","x":-1200,"y":-80,"width":250,"height":60},
 		{"id":"2517f9c306396702","type":"text","text":"Points:\n\n- Used to create Web Apps (Server side dynamic web page)\n- Used to create DYNAMIC web pages\n- Is an API with interfaces and classes with documentation\n- has INTERFACES that needs to be IMPLEMENTED to create a servlet\n- has CLASSES that extends the capability of servers","x":-1879,"y":-600,"width":389,"height":304},
 		{"id":"77fe465f5fdd94ad","type":"text","text":"Advantages\n\n- has THREADS to process concurrent REQUESTS, Threads>Processes as shared memory\n- **Performance** - threads\n- **Portability** - since JAVA\n- **Robust** - since JVM\n- **Secure** - since JAVA","x":-1420,"y":-567,"width":420,"height":271},
-		{"id":"f48e90db9e124554","type":"file","file":"Pasted image 20240314202311.png","x":-2469,"y":-660,"width":483,"height":321}
+		{"id":"f48e90db9e124554","type":"file","file":"Pasted image 20240314202311.png","x":-2469,"y":-660,"width":483,"height":321},
+		{"id":"e5a7b3827059a0a4","type":"file","file":"Pasted image 20240314202034.png","x":-1200,"y":-820,"width":399,"height":202},
+		{"id":"b7a6796a14cf2f7d","type":"file","file":"Pasted image 20240314202426.png","x":-2444,"y":-911,"width":1167,"height":171}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
