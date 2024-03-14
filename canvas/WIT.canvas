@@ -60,7 +60,6 @@
 		{"id":"c891813d23dda2ba","type":"text","text":"Sent by client","x":2800,"y":2274,"width":250,"height":60},
 		{"id":"602bc55cc968f44d","type":"file","file":"Pasted image 20240309150146.png","x":3180,"y":2060,"width":393,"height":400},
 		{"id":"57123e1afacb78df","type":"text","text":"Sent by server","x":2795,"y":2493,"width":250,"height":60},
-		{"id":"b5b56befdb2e6248","type":"text","text":"Consists of a status line, headers, and sometimes a body.","x":3180,"y":2553,"width":277,"height":142},
 		{"id":"a6a4d532e49da9ea","type":"text","text":"Collection of websites","x":1220,"y":-620,"width":250,"height":60},
 		{"id":"5701334b907ea34f","type":"text","text":"What is Website","x":1580,"y":-570,"width":250,"height":60},
 		{"id":"cd71c8cbb8c6e9cd","type":"text","text":"# HTML","x":640,"y":2394,"width":250,"height":286,"color":"2"},
@@ -161,7 +160,9 @@
 		{"id":"4673d75ea8f91af8","type":"text","text":"XHTML SYNTAX","x":3808,"y":707,"width":600,"height":293,"color":"1"},
 		{"id":"065a6d5849e52166","type":"text","text":"HTTP Request and response format","x":4728,"y":723,"width":312,"height":131,"color":"1"},
 		{"id":"209380e4d102cab1","type":"file","file":"Pasted image 20240309145950.png","x":2192,"y":1812,"width":399,"height":364},
-		{"id":"910f95d22f69280f","type":"text","text":"HTTP Transactions","x":1874,"y":1816,"width":250,"height":60}
+		{"id":"910f95d22f69280f","type":"text","text":"HTTP Transactions","x":1874,"y":1816,"width":250,"height":60},
+		{"id":"0b22b30eb2201415","type":"text","text":"- A request line (containing the HTTP method, URI, and HTTP version).\n- Headers (providing additional information about the request, such as the type of content accepted by the client, authentication credentials, etc.).\n- An optional message body (containing data sent to the server, often used in POST requests).","x":3687,"y":2243,"width":473,"height":217},
+		{"id":"f4175f318240c8f7","type":"text","text":"- A status line (indicating the status of the request, including the HTTP version, status code, and reason phrase).\n- Headers (providing additional information about the response, such as the content type, cache directives, etc.).\n- An optional message body (containing the requested resource, error message, or other relevant data).","x":3180,"y":2523,"width":560,"height":197}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -227,7 +228,6 @@
 		{"id":"d1479b7ddfdb2bba","fromNode":"04059436d8ecd7f4","fromSide":"right","toNode":"c891813d23dda2ba","toSide":"left"},
 		{"id":"075f6e1c2738b5cb","fromNode":"c891813d23dda2ba","fromSide":"right","toNode":"602bc55cc968f44d","toSide":"left"},
 		{"id":"d754cfbffa7d7648","fromNode":"5ce3135c645621d1","fromSide":"right","toNode":"57123e1afacb78df","toSide":"left"},
-		{"id":"0cda5c13e00ddf68","fromNode":"57123e1afacb78df","fromSide":"right","toNode":"b5b56befdb2e6248","toSide":"left"},
 		{"id":"ba238ff2479f55a3","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"cd71c8cbb8c6e9cd","toSide":"left"},
 		{"id":"8319de2823c316ee","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"809c9de1749631a5","toSide":"left"},
 		{"id":"06285408419f60ba","fromNode":"cd71c8cbb8c6e9cd","fromSide":"right","toNode":"84eb2481b7757e60","toSide":"left"},
@@ -324,6 +324,9 @@
 		{"id":"c375ec3051f7596d","fromNode":"78490ca21529e630","fromSide":"right","toNode":"40f44546b5ef24c6","toSide":"left"},
 		{"id":"857d530567895832","fromNode":"ddcea76385f807b2","fromSide":"bottom","toNode":"4673d75ea8f91af8","toSide":"top"},
 		{"id":"ce36574386f75f40","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"065a6d5849e52166","toSide":"top"},
-		{"id":"20e6d97be2d7ee2b","fromNode":"209380e4d102cab1","fromSide":"bottom","toNode":"ad1160d7fd81d0cf","toSide":"top"}
+		{"id":"20e6d97be2d7ee2b","fromNode":"209380e4d102cab1","fromSide":"bottom","toNode":"ad1160d7fd81d0cf","toSide":"top"},
+		{"id":"ee56f6a75258b09f","fromNode":"065a6d5849e52166","fromSide":"bottom","toNode":"ad1160d7fd81d0cf","toSide":"left","color":"1"},
+		{"id":"38a68dd94463e3bd","fromNode":"602bc55cc968f44d","fromSide":"right","toNode":"0b22b30eb2201415","toSide":"left"},
+		{"id":"d6a901c054e3bb53","fromNode":"57123e1afacb78df","fromSide":"right","toNode":"f4175f318240c8f7","toSide":"left"}
 	]
 }
