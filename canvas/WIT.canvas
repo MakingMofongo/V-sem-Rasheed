@@ -258,7 +258,12 @@
 		{"id":"3f0d4f386829dcae","type":"file","file":"IMG-20240314-WA0058.jpg","x":-534,"y":-3177,"width":380,"height":506},
 		{"id":"0ad400c007542b9e","type":"file","file":"IMG-20240314-WA0049.jpg","x":29,"y":-3740,"width":380,"height":506},
 		{"id":"d7a5c2e6fa3da7a9","type":"file","file":"IMG-20240314-WA0054.jpg","x":2844,"y":-3740,"width":380,"height":506},
-		{"id":"7c16462b1ad794a7","type":"file","file":"IMG-20240314-WA0055.jpg","x":3406,"y":-3740,"width":380,"height":506}
+		{"id":"7c16462b1ad794a7","type":"file","file":"IMG-20240314-WA0055.jpg","x":3406,"y":-3740,"width":380,"height":506},
+		{"id":"9c855e78d49b7ce0","type":"file","file":"wit paper.pdf","x":2058,"y":-5101,"width":1586,"height":839},
+		{"id":"0e86b2457751d1cd","type":"text","text":"","x":1706,"y":-4946,"width":310,"height":79},
+		{"id":"1f3b836a99954424","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":359,"y":-5101,"width":1699,"height":839},
+		{"id":"7dde276d0ae42aa9","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":-1029,"y":-5067,"width":1299,"height":975},
+		{"id":"3723eb216945b2f6","type":"file","file":"WhatsApp Image 2024-03-14 at 17.11.01_34a3c1b4.jpg","x":-1756,"y":-5494,"width":647,"height":1402}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
