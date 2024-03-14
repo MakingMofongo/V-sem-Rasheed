@@ -31,7 +31,6 @@
 		{"id":"8caabf55bc42b3f0","type":"text","text":"Servlet config","x":-2386,"y":617,"width":250,"height":60},
 		{"id":"257ad115e4699983","type":"text","text":"Servlet Context","x":-2216,"y":800,"width":250,"height":60},
 		{"id":"3386c49cc6c82ccd","type":"text","text":"Servlet Collaboration","x":-2008,"y":965,"width":250,"height":60},
-		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-1861,"y":663,"width":250,"height":60},
 		{"id":"16dc5c61776a3740","type":"text","text":"1993 - Mosaic","x":1220,"y":-106,"width":250,"height":60},
 		{"id":"aaec4121fe458dfb","type":"text","text":"1994 Netscape Navigator","x":1169,"y":-18,"width":250,"height":60},
 		{"id":"5fc6fd7cf800ea2e","type":"text","text":"1995 - IE","x":1133,"y":49,"width":250,"height":60},
@@ -173,7 +172,8 @@
 		{"id":"b7a6796a14cf2f7d","x":-2444,"y":-911,"width":1167,"height":171,"type":"file","file":"Pasted image 20240314202426.png"},
 		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
 		{"id":"43b451eb34d80d7c","x":5566,"y":0,"width":250,"height":60,"type":"text","text":""},
-		{"id":"db66d9dec0e7f639","x":-2565,"y":747,"width":250,"height":60,"type":"text","text":"Working with"}
+		{"id":"db66d9dec0e7f639","x":-2565,"y":747,"width":250,"height":60,"type":"text","text":"Working with"},
+		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-2020,"y":680,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
