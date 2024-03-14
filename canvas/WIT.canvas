@@ -165,7 +165,9 @@
 		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60},
 		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4460,"y":-118,"width":700,"height":690},
 		{"id":"065a6d5849e52166","type":"text","text":"HTTP Request and response format","x":4540,"y":723,"width":312,"height":131,"color":"1"},
-		{"id":"7a2a8541d70d4d49","x":4856,"y":724,"width":250,"height":60,"type":"text","text":"FRAMESET - "}
+		{"id":"7a2a8541d70d4d49","x":4908,"y":724,"width":504,"height":176,"type":"text","text":"FRAMESET - The `<frameset>` tag in HTML is used to define the frameset. The `<frameset>` element contains one or more frame elements. It is used to specify the number of rows and columns in frameset with their pixel of spaces. Each element can hold a separate document."},
+		{"id":"7699e3be7c1a1f8e","x":4971,"y":960,"width":539,"height":407,"type":"text","text":"![[Pasted image 20240314195050.png]]"},
+		{"id":"522f92cfc92352d8","x":5343,"y":728,"width":250,"height":60,"type":"text","text":"Diff b/w "}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -333,6 +335,8 @@
 		{"id":"561a31ae9fca1f6b","fromNode":"07e819acda5b8a4e","fromSide":"right","toNode":"d6eb7eb9b5c40ebe","toSide":"left"},
 		{"id":"f881cc69d1c5991b","fromNode":"63cb0cc979753555","fromSide":"right","toNode":"121519ea433fce5a","toSide":"left"},
 		{"id":"3a6a8c56439fca3e","fromNode":"c51bcc5c4e1fc0e7","fromSide":"bottom","toNode":"e8864da383a659cb","toSide":"top"},
-		{"id":"5aeb1857d1c4cd84","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"7a2a8541d70d4d49","toSide":"top"}
+		{"id":"5aeb1857d1c4cd84","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"7a2a8541d70d4d49","toSide":"top"},
+		{"id":"00201a98eded099c","fromNode":"7a2a8541d70d4d49","fromSide":"bottom","toNode":"7699e3be7c1a1f8e","toSide":"top"},
+		{"id":"615a39f858976a42","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"522f92cfc92352d8","toSide":"top"}
 	]
 }
