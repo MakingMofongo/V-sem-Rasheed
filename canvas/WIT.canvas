@@ -169,7 +169,8 @@
 		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":-539,"y":4118,"width":250,"height":165,"color":"#b10bfe"},
 		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60},
 		{"id":"e5a7b3827059a0a4","x":-1200,"y":-820,"width":400,"height":202,"type":"file","file":"Pasted image 20240314202034.png"},
-		{"id":"f48e90db9e124554","x":-2469,"y":-660,"width":483,"height":321,"type":"file","file":"Pasted image 20240314202311.png"}
+		{"id":"f48e90db9e124554","x":-2469,"y":-660,"width":483,"height":321,"type":"file","file":"Pasted image 20240314202311.png"},
+		{"id":"b7a6796a14cf2f7d","x":-2444,"y":-911,"width":1167,"height":171,"type":"file","file":"Pasted image 20240314202426.png"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
