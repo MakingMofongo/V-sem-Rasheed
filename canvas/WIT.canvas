@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"ca59d9b8a29ff473","type":"group","x":-559,"y":4083,"width":1194,"height":898,"color":"1","label":"Untitled group"},
 		{"id":"b37e2334e7049e3a","type":"group","x":2255,"y":340,"width":329,"height":532,"color":"1","label":"Untitled group"},
+		{"id":"43b451eb34d80d7c","x":5566,"y":0,"width":250,"height":60,"type":"text","text":""},
 		{"id":"9194476f9963e182","type":"text","text":"Made of Web apps and Hardware","x":1073,"y":540,"width":250,"height":60},
 		{"id":"959d7d455cee4001","type":"text","text":"Web Server","x":745,"y":465,"width":250,"height":174,"color":"3"},
 		{"id":"106767a9b16ce85e","type":"text","text":"address of a resource on the Internet and the protocol used to access it.","x":1185,"y":921,"width":277,"height":128},
@@ -95,7 +96,6 @@
 		{"id":"3cf3930315bb707a","type":"text","text":"Doctype\nhtml\nbody","x":2200,"y":4267,"width":250,"height":96},
 		{"id":"a83b01b6a1d5b70d","type":"text","text":"Relationship between HTML document and external resource\n\n","x":2040,"y":4472,"width":250,"height":131},
 		{"id":"07e819acda5b8a4e","type":"text","text":"Link","x":1655,"y":4508,"width":250,"height":60},
-		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638},
 		{"id":"ddcea76385f807b2","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":3360,"y":-92,"width":1048,"height":565},
 		{"id":"d6eb7eb9b5c40ebe","type":"file","file":"Pasted image 20240314181614.png","x":1904,"y":4637,"width":399,"height":96},
 		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4460,"y":-118,"width":700,"height":690},
@@ -170,7 +170,8 @@
 		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60},
 		{"id":"e5a7b3827059a0a4","x":-1200,"y":-820,"width":400,"height":202,"type":"file","file":"Pasted image 20240314202034.png"},
 		{"id":"f48e90db9e124554","x":-2469,"y":-660,"width":483,"height":321,"type":"file","file":"Pasted image 20240314202311.png"},
-		{"id":"b7a6796a14cf2f7d","x":-2444,"y":-911,"width":1167,"height":171,"type":"file","file":"Pasted image 20240314202426.png"}
+		{"id":"b7a6796a14cf2f7d","x":-2444,"y":-911,"width":1167,"height":171,"type":"file","file":"Pasted image 20240314202426.png"},
+		{"id":"414eb4e307d65635","type":"file","file":"wit paper.pdf","x":5240,"y":-118,"width":1079,"height":638}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
