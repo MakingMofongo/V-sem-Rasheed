@@ -192,8 +192,8 @@
 		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-2755,"y":743,"width":250,"height":60},
 		{"id":"3386c49cc6c82ccd","type":"text","text":"Servlet Collaboration","x":-2743,"y":1028,"width":250,"height":60},
 		{"id":"6e38da14cebb6474","x":-2447,"y":625,"width":607,"height":836,"type":"file","file":"Pasted image 20240314235216.png"},
-		{"id":"db66d9dec0e7f639","type":"text","text":"Working with and egs","x":-3360,"y":833,"width":250,"height":60},
-		{"id":"5000525ac3fe22f0","x":-3166,"y":790,"width":250,"height":60,"type":"text","text":"stores config info and init info for a specific servlet"}
+		{"id":"5000525ac3fe22f0","x":-3246,"y":833,"width":250,"height":127,"type":"text","text":"stores config info and init info for a specific servlet. Eg: email info"},
+		{"id":"b9d4ba77c8d89bf3","x":-3149,"y":986,"width":278,"height":114,"type":"text","text":"Stores config info and init info for EVERY servlet, eg: title of website"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -365,8 +365,6 @@
 		{"id":"615a39f858976a42","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"522f92cfc92352d8","toSide":"top"},
 		{"id":"f6ad9d88b32b8e5e","fromNode":"77fe465f5fdd94ad","fromSide":"right","toNode":"e5a7b3827059a0a4","toSide":"bottom"},
 		{"id":"32527ec5bc6727eb","fromNode":"f48e90db9e124554","fromSide":"bottom","toNode":"89772bc94588f197","toSide":"top"},
-		{"id":"0261f6535962bb5b","fromNode":"db66d9dec0e7f639","fromSide":"right","toNode":"8caabf55bc42b3f0","toSide":"left"},
-		{"id":"a3b0ce411ce93ebe","fromNode":"db66d9dec0e7f639","fromSide":"right","toNode":"257ad115e4699983","toSide":"left"},
 		{"id":"9ace2b944f63d565","fromNode":"89a11c9aa72a006a","fromSide":"bottom","toNode":"0cce1037d5cecdff","toSide":"top"},
 		{"id":"d926a5273ea1f712","fromNode":"0cce1037d5cecdff","fromSide":"bottom","toNode":"c6c85992c33ccd56","toSide":"top"},
 		{"id":"4d4251bb71251560","fromNode":"c6c85992c33ccd56","fromSide":"bottom","toNode":"b3e2b4bddbc54fbc","toSide":"top"},
@@ -381,6 +379,7 @@
 		{"id":"9f3320eea61370cf","fromNode":"65de3bbd5f476707","fromSide":"bottom","toNode":"2561e1abef0cc125","toSide":"left","color":"2"},
 		{"id":"3eaa6dd221bc5279","fromNode":"2cea385a49ee86f7","fromSide":"left","toNode":"014359a64965d836","toSide":"right"},
 		{"id":"06ddb6a548a3d111","fromNode":"5876f33e5035f8e2","fromSide":"bottom","toNode":"6e38da14cebb6474","toSide":"top"},
-		{"id":"30f15f1127b5680e","fromNode":"8caabf55bc42b3f0","fromSide":"bottom","toNode":"5000525ac3fe22f0","toSide":"top"}
+		{"id":"30f15f1127b5680e","fromNode":"8caabf55bc42b3f0","fromSide":"bottom","toNode":"5000525ac3fe22f0","toSide":"top"},
+		{"id":"1789ec4580fd1a8d","fromNode":"257ad115e4699983","fromSide":"bottom","toNode":"b9d4ba77c8d89bf3","toSide":"top"}
 	]
 }
