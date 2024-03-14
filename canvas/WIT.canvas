@@ -154,8 +154,10 @@
 		{"id":"257ad115e4699983","type":"text","text":"Servlet Context","x":-2216,"y":800,"width":250,"height":60},
 		{"id":"3386c49cc6c82ccd","type":"text","text":"Servlet Collaboration","x":-2008,"y":965,"width":250,"height":60},
 		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-1861,"y":663,"width":250,"height":60},
-		{"id":"6947d39cf79030a0","x":3009,"y":-608,"width":185,"height":400,"type":"file","file":"WhatsApp Image 2024-03-14 at 17.11.01_34a3c1b4.jpg"},
-		{"id":"eaebe83fe55bf0ca","x":2873,"y":184,"width":700,"height":690,"type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf"}
+		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":3360,"y":-118,"width":700,"height":690},
+		{"id":"6947d39cf79030a0","type":"file","file":"WhatsApp Image 2024-03-14 at 17.11.01_34a3c1b4.jpg","x":2633,"y":-511,"width":647,"height":1402},
+		{"id":"ddcea76385f807b2","x":4120,"y":-118,"width":1048,"height":565,"type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf"},
+		{"id":"414eb4e307d65635","x":5240,"y":-118,"width":1079,"height":638,"type":"file","file":"wit paper.pdf"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
