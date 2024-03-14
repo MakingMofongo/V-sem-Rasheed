@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"b37e2334e7049e3a","x":2255,"y":340,"width":329,"height":532,"color":"1","type":"group","label":"Untitled group"},
 		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-460,"width":250,"height":125,"color":"4"},
 		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-405,"y":520,"width":250,"height":60},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
@@ -159,8 +160,8 @@
 		{"id":"ddcea76385f807b2","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":3360,"y":-92,"width":1048,"height":565},
 		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4440,"y":-118,"width":700,"height":690},
 		{"id":"40f44546b5ef24c6","type":"text","text":"","x":2907,"y":6780,"width":400,"height":375},
-		{"id":"4673d75ea8f91af8","x":3808,"y":707,"width":600,"height":293,"color":"1","type":"text","text":"XHTML SYNTAX"},
-		{"id":"065a6d5849e52166","x":4728,"y":723,"width":250,"height":60,"type":"text","text":"HTTP Requests "}
+		{"id":"4673d75ea8f91af8","type":"text","text":"XHTML SYNTAX","x":3808,"y":707,"width":600,"height":293,"color":"1"},
+		{"id":"065a6d5849e52166","type":"text","text":"HTTP Requests ","x":4728,"y":723,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
