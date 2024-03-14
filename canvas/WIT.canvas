@@ -5,7 +5,6 @@
 		{"id":"b37e2334e7049e3a","type":"group","x":2255,"y":340,"width":329,"height":532,"color":"1","label":"Untitled group"},
 		{"id":"a6e5e7fd877a4bd2","type":"text","text":"Steps to create servlet with eg","x":-1490,"y":376,"width":250,"height":160,"color":"1"},
 		{"id":"3386c49cc6c82ccd","type":"text","text":"Servlet Collaboration","x":-2008,"y":965,"width":250,"height":60},
-		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-405,"y":520,"width":250,"height":60},
 		{"id":"f73d60020d9b6db5","type":"text","text":"Advantages","x":-2020,"y":680,"width":250,"height":60},
 		{"id":"0cce1037d5cecdff","type":"text","text":"init","x":-1552,"y":752,"width":250,"height":51},
 		{"id":"c6c85992c33ccd56","type":"text","text":"service()","x":-1552,"y":823,"width":250,"height":60},
@@ -182,7 +181,8 @@
 		{"id":"a50cb5ec5b5eaccc","type":"text","text":"Text input","x":2071,"y":7920,"width":250,"height":60},
 		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":721,"height":150},
 		{"id":"27b4c001cf578cb3","type":"text","text":"Performs the actual tasks\nServlet container calls it when requested, response is returned\n\nNew thread, request type is checked and appropriate method is called\nmethod signature:\n```JAVA\npublic void service(ServletRequest request, ServletResponse response) throws ServletException, IOException { }\n```\nService method cannot be modified, doGet, doPost, doPut, doDelete CAN be modified. doGet() and doPost() most frequently used\n```JAVA\npublic void doGet(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n\npublic void doPost(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n","x":-1120,"y":1101,"width":1060,"height":468},
-		{"id":"320934252efa08ec","x":-714,"y":446,"width":250,"height":60,"type":"text","text":"webINF - lib, \nhtml\nstaticfiles"}
+		{"id":"320934252efa08ec","x":-714,"y":446,"width":354,"height":194,"type":"text","text":"webINF - lib, classes-classfiles, web.xml\nhtml\nstaticfiles"},
+		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-300,"y":513,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
