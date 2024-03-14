@@ -5,7 +5,6 @@
 		{"id":"30d22747c1240584","type":"group","x":-3320,"y":660,"width":847,"height":448,"color":"4","label":"SirPDF"},
 		{"id":"7d30b8c2b23b3d05","type":"group","x":-1167,"y":426,"width":827,"height":234,"color":"1","label":"Untitled group"},
 		{"id":"b37e2334e7049e3a","type":"group","x":2255,"y":340,"width":329,"height":532,"color":"1","label":"Untitled group"},
-		{"id":"8f3b31071bc85bbf","x":-145,"y":-4423,"width":250,"height":60,"type":"text","text":""},
 		{"id":"8eec1975933182c8","type":"text","text":"directory setup\ncreate servlet\ncompile servlet\ncreate deployment descriptor\nstart and deploy\naccess","x":-1147,"y":436,"width":347,"height":204},
 		{"id":"77fe465f5fdd94ad","type":"text","text":"Advantages\n\n- has THREADS to process concurrent REQUESTS, Threads>Processes as shared memory\n- **Performance** - threads\n- **Portability** - since JAVA\n- **Robust** - since JVM\n- **Secure** - since JAVA","x":-1420,"y":-567,"width":420,"height":271},
 		{"id":"55d5091406ac6f0a","type":"text","text":"UNIT 4","x":-1200,"y":-80,"width":250,"height":60},
@@ -265,11 +264,12 @@
 		{"id":"4f85d7593d082799","type":"text","text":"Sum of n even numbers,read value of n from user\n\nWhat is AJAX, list various security issues with AJAX","x":984,"y":-4147,"width":416,"height":147},
 		{"id":"de75437d920f6d87","type":"text","text":"JS program to check strong number","x":2719,"y":-4128,"width":250,"height":60},
 		{"id":"7dde276d0ae42aa9","type":"file","file":"WEB AND INTERNET TECHNOLOGIES_2021.pdf","x":-1032,"y":-5433,"width":1299,"height":975},
-		{"id":"f23ec230dd51c54d","type":"text","text":"Control and Looping Statements in JS with Eg\n\nHTML DOM events in JS with eg","x":-600,"y":-4420,"width":357,"height":174},
 		{"id":"4d390e40f272560e","type":"text","text":"MATRUSRI - \nWrite JavaScript code to validate the form fields username (alphabets onlymaximum 10 characters), password and retype password (must match withpassword). L3\n\nWrite JavaScript code to validate the form fields username, password andemail id. L3 \n\nWrite a JavaScript program to validate the following form fields Username(Must start with a Capital Letter, alphabets only) Password(Must contain one Special character and number) Email(universally accepted email pattern) Mobile(must contain exactly 10 digits)\n\n What is AJAX? List out various examples with AJAX?\n \n Difference between JavaScript and Ajax? L2 7 What are the key features of AJAX?","x":-761,"y":-4180,"width":835,"height":360},
 		{"id":"3f55465487da7a5c","type":"file","file":"IMG-20240314-WA0047.jpg","x":-533,"y":-3720,"width":380,"height":506},
 		{"id":"280751af58b917a8","type":"file","file":"IMG-20240314-WA0048.jpg","x":-1097,"y":-3720,"width":380,"height":506},
-		{"id":"3f0d4f386829dcae","type":"file","file":"IMG-20240314-WA0058.jpg","x":3969,"y":-3740,"width":380,"height":506}
+		{"id":"3f0d4f386829dcae","type":"file","file":"IMG-20240314-WA0058.jpg","x":3969,"y":-3740,"width":380,"height":506},
+		{"id":"f23ec230dd51c54d","type":"text","text":"Control and Looping Statements in JS with Eg\n\nHTML DOM events in JS with eg","x":-1032,"y":-4400,"width":357,"height":174},
+		{"id":"8f3b31071bc85bbf","x":74,"y":-4432,"width":863,"height":680,"type":"text","text":"In JavaScript, control and looping statements help manage the flow of your code. Here are some common ones along with examples:\n\n1. **if statement**: It's used to execute a block of code if a specified condition is true.\n\n```javascript\nlet x = 10;\nif (x > 5) {\n  console.log(\"x is greater than 5\");\n}\n```\n\n2. **if...else statement**: It's used to execute one block of code if the condition is true, and another block if the condition is false.\n\n```javascript\nlet x = 10;\nif (x > 5) {\n  console.log(\"x is greater than 5\");\n} else {\n  console.log(\"x is less than or equal to 5\");\n}\n```\n\n3. **for loop**: It's used to repeat a block of code a specified number of times.\n\n```javascript\nfor (let i = 0; i < 5; i++) {\n  console.log(\"The value of i is: \" + i);\n}\n```\n\n4. **while loop**: It's used to execute a block of code as long as a specified condition is true.\n\n```javascript\nlet i = 0;\nwhile (i < 5) {\n  console.log(\"The value of i is: \" + i);\n  i++;\n}\n```\n\n5. **do...while loop**: Similar to the while loop, but the block of code is executed once before the condition is checked.\n\n```javascript\nlet i = 0;\ndo {\n  console.log(\"The value of i is: \" + i);\n  i++;\n} while (i < 5);\n```\n\n6. **for...in loop**: It iterates over the enumerable properties of an object.\n\n```javascript\nconst person = {\n  name: \"John\",\n  age: 30,\n  gender: \"male\"\n};\n\nfor (let key in person) {\n  console.log(key + \": \" + person[key]);\n}\n```\n\n7. **for...of loop**: It iterates over iterable objects like arrays, strings, etc.\n\n```javascript\nconst colors = [\"red\", \"green\", \"blue\"];\nfor (let color of colors) {\n  console.log(color);\n}\n```\n\n\n8. The `switch` statement provides a convenient way to handle multiple conditions based on the value of an expression. Here's how it works:\n\n```javascript\nlet fruit = \"Apple\";\n\nswitch (fruit) {\n  case \"Apple\":\n    console.log(\"It's an apple\");\n    break;\n  case \"Banana\":\n    console.log(\"It's a banana\");\n    break;\n  case \"Orange\":\n    console.log(\"It's an orange\");\n    break;\n  default:\n    console.log(\"Unknown fruit\");\n}\n```\n"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -508,6 +508,7 @@
 		{"id":"f1c1a132bd00154b","fromNode":"3723eb216945b2f6","fromSide":"bottom","toNode":"0e80b9fea9578b70","toSide":"top"},
 		{"id":"1086a6e0ad29a08a","fromNode":"7dde276d0ae42aa9","fromSide":"bottom","toNode":"f23ec230dd51c54d","toSide":"top"},
 		{"id":"4be75d486b27cc5f","fromNode":"1f3b836a99954424","fromSide":"bottom","toNode":"4f85d7593d082799","toSide":"top"},
-		{"id":"49bb0f1d83fd614d","fromNode":"9c855e78d49b7ce0","fromSide":"bottom","toNode":"de75437d920f6d87","toSide":"top"}
+		{"id":"49bb0f1d83fd614d","fromNode":"9c855e78d49b7ce0","fromSide":"bottom","toNode":"de75437d920f6d87","toSide":"top"},
+		{"id":"6e819f84235d12a0","fromNode":"f23ec230dd51c54d","fromSide":"right","toNode":"8f3b31071bc85bbf","toSide":"left"}
 	]
 }
