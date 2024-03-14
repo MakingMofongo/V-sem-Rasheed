@@ -268,7 +268,7 @@
 		{"id":"f23ec230dd51c54d","x":-531,"y":-3984,"width":291,"height":104,"type":"text","text":"Servlet API with code\nServlet config object with eg"},
 		{"id":"4f85d7593d082799","x":984,"y":-4147,"width":416,"height":147,"type":"text","text":"Sum of n even numbers,read value of n from user\n\nWhat is AJAX, list various security issues with AJAX"},
 		{"id":"de75437d920f6d87","x":2719,"y":-4128,"width":250,"height":60,"type":"text","text":"JS program to check strong number"},
-		{"id":"4d390e40f272560e","x":-1142,"y":-3978,"width":250,"height":60,"type":"text","text":"MATRUSRI"}
+		{"id":"4d390e40f272560e","x":-147,"y":-4161,"width":835,"height":360,"type":"text","text":"MATRUSRI - \nWrite JavaScript code to validate the form fields username (alphabets onlymaximum 10 characters), password and retype password (must match withpassword). L3\n\nWrite JavaScript code to validate the form fields username, password andemail id. L3 \n\nWrite a JavaScript program to validate the following form fields Username(Must start with a Capital Letter, alphabets only) Password(Must contain one Special character and number) Email(universally accepted email pattern) Mobile(must contain exactly 10 digits)\n\n What is AJAX? List out various examples with AJAX?\n \n Difference between JavaScript and Ajax? L2 7 What are the key features of AJAX?"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
