@@ -267,7 +267,7 @@
 		{"id":"0e80b9fea9578b70","x":-1680,"y":-4040,"width":384,"height":117,"type":"text","text":"Sum of even\nDiff b/w JS and AJAX"},
 		{"id":"f23ec230dd51c54d","x":-531,"y":-3984,"width":291,"height":104,"type":"text","text":"Servlet API with code\nServlet config object with eg"},
 		{"id":"4f85d7593d082799","x":984,"y":-4147,"width":416,"height":147,"type":"text","text":"Sum of n even numbers,read value of n from user\n\nWhat is AJAX, list various security issues with AJAX"},
-		{"id":"de75437d920f6d87","x":2719,"y":-4128,"width":250,"height":60,"type":"text","text":"JS program"}
+		{"id":"de75437d920f6d87","x":2719,"y":-4128,"width":250,"height":60,"type":"text","text":"JS program to check strong number"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
