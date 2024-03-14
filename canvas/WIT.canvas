@@ -32,7 +32,7 @@
 		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-460,"width":250,"height":125,"color":"4"},
 		{"id":"d09be3708ab5331a","x":-1051,"y":1676,"width":579,"height":133,"type":"text","text":"Cleanup tasks - db,thread,cookie,disk. Mark for Garbage Collection\n\n```JAVA\npublic void destroy() { // Finalization code... }\n```"},
 		{"id":"66b31dfcf11e3970","type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for doGet or doPost\n\n```JAVA\npublic void init() throws ServletException { // Initialization code... }\n```","x":-1112,"y":901,"width":434,"height":188},
-		{"id":"8eec1975933182c8","x":-1147,"y":527,"width":250,"height":60,"type":"text","text":"directory setup\ncreate servlet\ncompile servlet\ncreate deployment descriptor\ndeploy\nuse\nclose\n"},
+		{"id":"8eec1975933182c8","x":-1147,"y":527,"width":347,"height":113,"type":"text","text":"directory setup\ncreate servlet\ncompile servlet\ncreate deployment \ncreate descriptor\nstart and deploy\naccess"},
 		{"id":"959d7d455cee4001","type":"text","text":"Web Server","x":745,"y":465,"width":250,"height":174,"color":"3"},
 		{"id":"35b9d008c2de7183","type":"text","text":"## MIME Protocol","x":667,"y":1603,"width":249,"height":161,"color":"4"},
 		{"id":"0bdf69512155c013","type":"text","text":"URL","x":700,"y":814,"width":250,"height":182,"color":"#006cfa"},
@@ -181,7 +181,8 @@
 		{"id":"c18c2e57d8c0d227","type":"file","file":"Pasted image 20240309175509.png","x":2400,"y":7737,"width":399,"height":115},
 		{"id":"a50cb5ec5b5eaccc","type":"text","text":"Text input","x":2071,"y":7920,"width":250,"height":60},
 		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":721,"height":150},
-		{"id":"27b4c001cf578cb3","type":"text","text":"Performs the actual tasks\nServlet container calls it when requested, response is returned\n\nNew thread, request type is checked and appropriate method is called\nmethod signature:\n```JAVA\npublic void service(ServletRequest request, ServletResponse response) throws ServletException, IOException { }\n```\nService method cannot be modified, doGet, doPost, doPut, doDelete CAN be modified. doGet() and doPost() most frequently used\n```JAVA\npublic void doGet(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n\npublic void doPost(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n","x":-1120,"y":1101,"width":1060,"height":468}
+		{"id":"27b4c001cf578cb3","type":"text","text":"Performs the actual tasks\nServlet container calls it when requested, response is returned\n\nNew thread, request type is checked and appropriate method is called\nmethod signature:\n```JAVA\npublic void service(ServletRequest request, ServletResponse response) throws ServletException, IOException { }\n```\nService method cannot be modified, doGet, doPost, doPut, doDelete CAN be modified. doGet() and doPost() most frequently used\n```JAVA\npublic void doGet(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n\npublic void doPost(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n","x":-1120,"y":1101,"width":1060,"height":468},
+		{"id":"320934252efa08ec","x":-714,"y":446,"width":250,"height":60,"type":"text","text":"\nhtml\nstaticfiles"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -362,6 +363,7 @@
 		{"id":"b71e124744de049e","fromNode":"0cce1037d5cecdff","fromSide":"right","toNode":"66b31dfcf11e3970","toSide":"left"},
 		{"id":"b3b496eb20f28f6a","fromNode":"c6c85992c33ccd56","fromSide":"right","toNode":"27b4c001cf578cb3","toSide":"left"},
 		{"id":"1cee5b2d934c1f36","fromNode":"b3e2b4bddbc54fbc","fromSide":"right","toNode":"d09be3708ab5331a","toSide":"left"},
-		{"id":"2953c30db815bdc6","fromNode":"a6e5e7fd877a4bd2","fromSide":"right","toNode":"8eec1975933182c8","toSide":"left"}
+		{"id":"2953c30db815bdc6","fromNode":"a6e5e7fd877a4bd2","fromSide":"right","toNode":"8eec1975933182c8","toSide":"left"},
+		{"id":"b2d77f3466b224a2","fromNode":"8eec1975933182c8","fromSide":"right","toNode":"320934252efa08ec","toSide":"left"}
 	]
 }
