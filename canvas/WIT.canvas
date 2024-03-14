@@ -178,7 +178,7 @@
 		{"id":"c6c85992c33ccd56","type":"text","text":"Serve","x":-1552,"y":823,"width":250,"height":60},
 		{"id":"b3e2b4bddbc54fbc","type":"text","text":"terminate","x":-1552,"y":903,"width":250,"height":60},
 		{"id":"dbc315b251f03d31","type":"text","text":"garbage collected","x":-1552,"y":983,"width":250,"height":60},
-		{"id":"66b31dfcf11e3970","x":-1196,"y":633,"width":250,"height":60,"type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for do get or "}
+		{"id":"66b31dfcf11e3970","x":-1160,"y":552,"width":434,"height":188,"type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for doGet or doPost\n\n```JAVA\npublic void init() throws ServletException { // Initialization code... }\n```"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
