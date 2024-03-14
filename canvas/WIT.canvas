@@ -32,7 +32,7 @@
 		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-460,"width":250,"height":125,"color":"4"},
 		{"id":"d09be3708ab5331a","x":-1051,"y":1676,"width":579,"height":133,"type":"text","text":"Cleanup tasks - db,thread,cookie,disk. Mark for Garbage Collection\n\n```JAVA\npublic void destroy() { // Finalization code... }\n```"},
 		{"id":"66b31dfcf11e3970","type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for doGet or doPost\n\n```JAVA\npublic void init() throws ServletException { // Initialization code... }\n```","x":-1112,"y":901,"width":434,"height":188},
-		{"id":"8eec1975933182c8","x":-1147,"y":527,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8eec1975933182c8","x":-1147,"y":527,"width":250,"height":60,"type":"text","text":"directory setup\ncreate servlet\ncompile servlet\ncreate deployment descriptor\ndeploy\nuse\nclose\n"},
 		{"id":"959d7d455cee4001","type":"text","text":"Web Server","x":745,"y":465,"width":250,"height":174,"color":"3"},
 		{"id":"35b9d008c2de7183","type":"text","text":"## MIME Protocol","x":667,"y":1603,"width":249,"height":161,"color":"4"},
 		{"id":"0bdf69512155c013","type":"text","text":"URL","x":700,"y":814,"width":250,"height":182,"color":"#006cfa"},
