@@ -177,7 +177,8 @@
 		{"id":"0cce1037d5cecdff","type":"text","text":"init","x":-1552,"y":752,"width":250,"height":51},
 		{"id":"c6c85992c33ccd56","type":"text","text":"Serve","x":-1552,"y":823,"width":250,"height":60},
 		{"id":"b3e2b4bddbc54fbc","type":"text","text":"terminate","x":-1552,"y":903,"width":250,"height":60},
-		{"id":"dbc315b251f03d31","type":"text","text":"garbage collected","x":-1552,"y":983,"width":250,"height":60}
+		{"id":"dbc315b251f03d31","type":"text","text":"garbage collected","x":-1552,"y":983,"width":250,"height":60},
+		{"id":"66b31dfcf11e3970","x":-1196,"y":633,"width":250,"height":60,"type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for do get or "}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -354,6 +355,7 @@
 		{"id":"9ace2b944f63d565","fromNode":"89a11c9aa72a006a","fromSide":"bottom","toNode":"0cce1037d5cecdff","toSide":"top"},
 		{"id":"d926a5273ea1f712","fromNode":"0cce1037d5cecdff","fromSide":"bottom","toNode":"c6c85992c33ccd56","toSide":"top"},
 		{"id":"4d4251bb71251560","fromNode":"c6c85992c33ccd56","fromSide":"bottom","toNode":"b3e2b4bddbc54fbc","toSide":"top"},
-		{"id":"00e8489ef252c7cc","fromNode":"b3e2b4bddbc54fbc","fromSide":"bottom","toNode":"dbc315b251f03d31","toSide":"top"}
+		{"id":"00e8489ef252c7cc","fromNode":"b3e2b4bddbc54fbc","fromSide":"bottom","toNode":"dbc315b251f03d31","toSide":"top"},
+		{"id":"b71e124744de049e","fromNode":"0cce1037d5cecdff","fromSide":"right","toNode":"66b31dfcf11e3970","toSide":"left"}
 	]
 }
