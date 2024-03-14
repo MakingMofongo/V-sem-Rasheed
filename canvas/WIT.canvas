@@ -266,7 +266,8 @@
 		{"id":"9c855e78d49b7ce0","type":"file","file":"wit paper.pdf","x":2051,"y":-5101,"width":1586,"height":839},
 		{"id":"0e80b9fea9578b70","x":-1680,"y":-4040,"width":384,"height":117,"type":"text","text":"Sum of even\nDiff b/w JS and AJAX"},
 		{"id":"f23ec230dd51c54d","x":-531,"y":-3984,"width":291,"height":104,"type":"text","text":"Servlet API with code\nServlet config object with eg"},
-		{"id":"4f85d7593d082799","x":984,"y":-4147,"width":250,"height":60,"type":"text","text":""}
+		{"id":"4f85d7593d082799","x":984,"y":-4147,"width":416,"height":147,"type":"text","text":"Sum of n even numbers,read value of n from user\n\nWhat is AJAX, list various security issues with AJAX"},
+		{"id":"de75437d920f6d87","x":2719,"y":-4128,"width":250,"height":60,"type":"text","text":"JS program"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -504,6 +505,7 @@
 		{"id":"8f0ed38fe06d4e33","fromNode":"90c84115f9c5f1e3","fromSide":"top","toNode":"4770ca3ae03b6a22","toSide":"top","color":"1"},
 		{"id":"f1c1a132bd00154b","fromNode":"3723eb216945b2f6","fromSide":"bottom","toNode":"0e80b9fea9578b70","toSide":"top"},
 		{"id":"1086a6e0ad29a08a","fromNode":"7dde276d0ae42aa9","fromSide":"bottom","toNode":"f23ec230dd51c54d","toSide":"top"},
-		{"id":"4be75d486b27cc5f","fromNode":"1f3b836a99954424","fromSide":"bottom","toNode":"4f85d7593d082799","toSide":"top"}
+		{"id":"4be75d486b27cc5f","fromNode":"1f3b836a99954424","fromSide":"bottom","toNode":"4f85d7593d082799","toSide":"top"},
+		{"id":"49bb0f1d83fd614d","fromNode":"9c855e78d49b7ce0","fromSide":"bottom","toNode":"de75437d920f6d87","toSide":"top"}
 	]
 }
