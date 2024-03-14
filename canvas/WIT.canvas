@@ -30,7 +30,6 @@
 		{"id":"e5a7b3827059a0a4","type":"file","file":"Pasted image 20240314202034.png","x":-1200,"y":-820,"width":399,"height":202},
 		{"id":"b7a6796a14cf2f7d","type":"file","file":"Pasted image 20240314202426.png","x":-2444,"y":-911,"width":1167,"height":171},
 		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-460,"width":250,"height":125,"color":"4"},
-		{"id":"27b4c001cf578cb3","type":"text","text":"Performs the actual tasks\nServlet container calls it when requested, response is returned\n\nNew thread, request type is checked and appropriate method is called\nmethod signature:\n```JAVA\npublic void service(ServletRequest request, ServletResponse response) throws ServletException, IOException { }\n```\nService method cannot be modified, doGet, doPost, doPut, doDelete CAN be modified. doGet() and doPost() most frequently used\n```JAVA\npublic void doGet(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n\npublic void doPost(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n","x":-1112,"y":1101,"width":1060,"height":468},
 		{"id":"d09be3708ab5331a","x":-1051,"y":1676,"width":579,"height":133,"type":"text","text":"Cleanup tasks - db,thread,cookie,disk. Mark for Garbage Collection\n\n```JAVA\npublic void destroy() { // Finalization code... }\n```"},
 		{"id":"66b31dfcf11e3970","type":"text","text":"Called once - When URL\nSingle instance of each servlet created, each request in new thread for doGet or doPost\n\n```JAVA\npublic void init() throws ServletException { // Initialization code... }\n```","x":-1112,"y":901,"width":434,"height":188},
 		{"id":"8eec1975933182c8","x":-1147,"y":527,"width":250,"height":60,"type":"text","text":""},
@@ -181,7 +180,8 @@
 		{"id":"f9eefabc157c9b97","type":"text","text":"tag = form","x":2071,"y":7764,"width":250,"height":60},
 		{"id":"c18c2e57d8c0d227","type":"file","file":"Pasted image 20240309175509.png","x":2400,"y":7737,"width":399,"height":115},
 		{"id":"a50cb5ec5b5eaccc","type":"text","text":"Text input","x":2071,"y":7920,"width":250,"height":60},
-		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":721,"height":150}
+		{"id":"c6e4f0ec069335a3","type":"file","file":"Pasted image 20240309175557.png","x":2400,"y":7875,"width":721,"height":150},
+		{"id":"27b4c001cf578cb3","type":"text","text":"Performs the actual tasks\nServlet container calls it when requested, response is returned\n\nNew thread, request type is checked and appropriate method is called\nmethod signature:\n```JAVA\npublic void service(ServletRequest request, ServletResponse response) throws ServletException, IOException { }\n```\nService method cannot be modified, doGet, doPost, doPut, doDelete CAN be modified. doGet() and doPost() most frequently used\n```JAVA\npublic void doGet(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n\npublic void doPost(HttpServletRequest req, HttpServletResponse res) throws IOexception, ServletExcption\n{}\n","x":-1120,"y":1101,"width":1060,"height":468}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
