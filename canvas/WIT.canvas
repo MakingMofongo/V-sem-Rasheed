@@ -38,9 +38,8 @@
 		{"id":"3e2ffb296075301a","type":"text","text":"2003 Safari","x":1080,"y":220,"width":250,"height":60},
 		{"id":"9fb22fea431fb779","type":"text","text":"Servlet","x":-1615,"y":-63,"width":250,"height":60,"color":"2"},
 		{"id":"89772bc94588f197","type":"text","text":"## Architecture Diagram","x":-2180,"y":-209,"width":276,"height":94},
-		{"id":"655708b90e2ef1ac","type":"file","file":"Pasted image 20240309192015.png","x":-2400,"y":-500,"width":400,"height":196},
 		{"id":"2517f9c306396702","type":"text","text":"Points:\n\n- Used to create Web Apps (Server side dynamic web page)\n- Used to create DYNAMIC web pages\n- Is an API with interfaces and classes with documentation\n- has INTERFACES that needs to be IMPLEMENTED to create a servlet\n- has CLASSES that extends the capability of servers","x":-1879,"y":-600,"width":389,"height":304},
-		{"id":"77fe465f5fdd94ad","type":"text","text":"Advantages\n\n- has THREADS to process concurrent REQUESTS, Threads>Processes as shared memory\n- **Performance**, **Portability** - since JAVA, **Robust** - since JVM, **Secure** - since JAVA","x":-1420,"y":-567,"width":420,"height":271},
+		{"id":"77fe465f5fdd94ad","type":"text","text":"Advantages\n\n- has THREADS to process concurrent REQUESTS, Threads>Processes as shared memory\n- **Performance** - threads\n- **Portability** - since JAVA\n- **Robust** - since JVM\n- **Secure** - since JAVA","x":-1420,"y":-567,"width":420,"height":271},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
 		{"id":"9d6f83d3b8ad73f3","type":"text","text":"Intro to Internet","x":800,"y":-800,"width":250,"height":100},
 		{"id":"0066cd778fbd5d12","type":"text","text":"World Wide Web","x":870,"y":-640,"width":250,"height":100},
@@ -169,7 +168,8 @@
 		{"id":"519566620515ed34","type":"text","text":"Internal","x":-57,"y":4203,"width":250,"height":60},
 		{"id":"019198fc49b7d8ba","type":"text","text":"## CSS","x":-539,"y":4118,"width":250,"height":165,"color":"#b10bfe"},
 		{"id":"e8864da383a659cb","type":"text","text":"Margin","x":365,"y":4901,"width":250,"height":60},
-		{"id":"e5a7b3827059a0a4","x":-1200,"y":-820,"width":400,"height":202,"type":"file","file":"Pasted image 20240314202034.png"}
+		{"id":"e5a7b3827059a0a4","x":-1200,"y":-820,"width":400,"height":202,"type":"file","file":"Pasted image 20240314202034.png"},
+		{"id":"f48e90db9e124554","x":-2469,"y":-660,"width":483,"height":321,"type":"file","file":"Pasted image 20240314202311.png"}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -314,7 +314,6 @@
 		{"id":"1f2433c7ef895528","fromNode":"55d5091406ac6f0a","fromSide":"left","toNode":"9fb22fea431fb779","toSide":"right"},
 		{"id":"e7337b5091dcb431","fromNode":"9fb22fea431fb779","fromSide":"top","toNode":"2517f9c306396702","toSide":"bottom"},
 		{"id":"0998e65dc7cb1b79","fromNode":"9fb22fea431fb779","fromSide":"top","toNode":"89772bc94588f197","toSide":"bottom"},
-		{"id":"4f2a86c86dd11e45","fromNode":"89772bc94588f197","fromSide":"top","toNode":"655708b90e2ef1ac","toSide":"bottom"},
 		{"id":"7336ade6e386276a","fromNode":"9fb22fea431fb779","fromSide":"top","toNode":"77fe465f5fdd94ad","toSide":"bottom"},
 		{"id":"d85bb6c403ced1eb","fromNode":"9fb22fea431fb779","fromSide":"bottom","toNode":"2cea385a49ee86f7","toSide":"top"},
 		{"id":"1a92d696350984ce","fromNode":"2cea385a49ee86f7","fromSide":"bottom","toNode":"ba21fbcecf8db2f8","toSide":"top"},
@@ -340,6 +339,7 @@
 		{"id":"5aeb1857d1c4cd84","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"7a2a8541d70d4d49","toSide":"top"},
 		{"id":"00201a98eded099c","fromNode":"7a2a8541d70d4d49","fromSide":"bottom","toNode":"7699e3be7c1a1f8e","toSide":"top"},
 		{"id":"615a39f858976a42","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"522f92cfc92352d8","toSide":"top"},
-		{"id":"f6ad9d88b32b8e5e","fromNode":"77fe465f5fdd94ad","fromSide":"right","toNode":"e5a7b3827059a0a4","toSide":"bottom"}
+		{"id":"f6ad9d88b32b8e5e","fromNode":"77fe465f5fdd94ad","fromSide":"right","toNode":"e5a7b3827059a0a4","toSide":"bottom"},
+		{"id":"32527ec5bc6727eb","fromNode":"f48e90db9e124554","fromSide":"bottom","toNode":"89772bc94588f197","toSide":"top"}
 	]
 }
