@@ -39,7 +39,7 @@
 		{"id":"9fb22fea431fb779","type":"text","text":"Servlet","x":-1615,"y":-63,"width":250,"height":60,"color":"2"},
 		{"id":"89772bc94588f197","type":"text","text":"## Architecture Diagram","x":-2180,"y":-209,"width":276,"height":94},
 		{"id":"655708b90e2ef1ac","type":"file","file":"Pasted image 20240309192015.png","x":-2400,"y":-500,"width":400,"height":196},
-		{"id":"2517f9c306396702","type":"text","text":"Points:\n\n- Used to create Web Apps (Server side dynamic web page)\n- Is an API with interfaces and classes with documentation\n- is an INTERFACE that needs to be IMPLEMENTED to create a servlet\n- ","x":-1879,"y":-567,"width":389,"height":271},
+		{"id":"2517f9c306396702","type":"text","text":"Points:\n\n- Used to create Web Apps (Server side dynamic web page)\n- Is an API with interfaces and classes with documentation\n- has INTERFACES that needs to be IMPLEMENTED to create a servlet\n- has CLAA that extends the capability of servers\n- Used to create DYNAMIC web pages","x":-1879,"y":-567,"width":389,"height":271},
 		{"id":"77fe465f5fdd94ad","type":"text","text":"Advantages","x":-1420,"y":-567,"width":250,"height":271},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
 		{"id":"9d6f83d3b8ad73f3","type":"text","text":"Intro to Internet","x":800,"y":-800,"width":250,"height":100},
