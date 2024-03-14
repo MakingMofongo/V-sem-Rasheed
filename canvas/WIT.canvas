@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b37e2334e7049e3a","x":2255,"y":340,"width":329,"height":532,"color":"1","type":"group","label":"Untitled group"},
+		{"id":"b37e2334e7049e3a","type":"group","x":2255,"y":340,"width":329,"height":532,"color":"1","label":"Untitled group"},
 		{"id":"142c606213a01ea5","type":"text","text":"UNIT 1","x":398,"y":-460,"width":250,"height":125,"color":"4"},
 		{"id":"3d3d5edcdada5ddd","type":"text","text":"UNIT 2","x":-405,"y":520,"width":250,"height":60},
 		{"id":"4dd791c1087d5254","type":"text","text":"UNIT 5","x":-480,"y":-800,"width":250,"height":60},
@@ -54,8 +54,6 @@
 		{"id":"d104b6dbb60c2b46","type":"text","text":"Both client and server specify content type in MIME-type header","x":3360,"y":1574,"width":250,"height":107},
 		{"id":"7ab1febbbb9562f2","type":"text","text":"Client and server know each other ONLY during the current request, NO info is retained b/w various requests","x":2951,"y":1780,"width":329,"height":126},
 		{"id":"799878aae294e336","type":"text","text":"Stateless","x":2582,"y":1720,"width":250,"height":60},
-		{"id":"910f95d22f69280f","type":"text","text":"HTTP Transactions","x":2102,"y":1847,"width":250,"height":60},
-		{"id":"209380e4d102cab1","type":"file","file":"Pasted image 20240309145950.png","x":2420,"y":1843,"width":399,"height":364},
 		{"id":"ad1160d7fd81d0cf","type":"text","text":"HTTP messages","x":2053,"y":2364,"width":250,"height":60},
 		{"id":"5ce3135c645621d1","type":"text","text":"Response message","x":2420,"y":2460,"width":250,"height":60},
 		{"id":"04059436d8ecd7f4","type":"text","text":"Request message","x":2420,"y":2304,"width":250,"height":60},
@@ -161,7 +159,9 @@
 		{"id":"eaebe83fe55bf0ca","type":"file","file":"be-cse-6-sem-web-programming-11591-jun-2019 2.pdf","x":4440,"y":-118,"width":700,"height":690},
 		{"id":"40f44546b5ef24c6","type":"text","text":"","x":2907,"y":6780,"width":400,"height":375},
 		{"id":"4673d75ea8f91af8","type":"text","text":"XHTML SYNTAX","x":3808,"y":707,"width":600,"height":293,"color":"1"},
-		{"id":"065a6d5849e52166","type":"text","text":"HTTP Requests ","x":4728,"y":723,"width":250,"height":60}
+		{"id":"065a6d5849e52166","type":"text","text":"HTTP Requests ","x":4728,"y":723,"width":250,"height":60},
+		{"id":"209380e4d102cab1","type":"file","file":"Pasted image 20240309145950.png","x":2192,"y":1812,"width":399,"height":364},
+		{"id":"910f95d22f69280f","type":"text","text":"HTTP Transactions","x":1874,"y":1816,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"05520d01510483e5","fromNode":"142c606213a01ea5","fromSide":"right","toNode":"9d6f83d3b8ad73f3","toSide":"left"},
@@ -222,7 +222,6 @@
 		{"id":"447aae09da25af75","fromNode":"af960655010ac45b","fromSide":"left","toNode":"55d5091406ac6f0a","toSide":"right"},
 		{"id":"3b7220d4051ac542","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"910f95d22f69280f","toSide":"top","color":"1"},
 		{"id":"dc5605fbf0d68781","fromNode":"910f95d22f69280f","fromSide":"right","toNode":"209380e4d102cab1","toSide":"left"},
-		{"id":"35bd6c553886501b","fromNode":"d07913367daea04b","fromSide":"bottom","toNode":"ad1160d7fd81d0cf","toSide":"top","color":"1"},
 		{"id":"cd135d5ae07903ed","fromNode":"ad1160d7fd81d0cf","fromSide":"right","toNode":"04059436d8ecd7f4","toSide":"left"},
 		{"id":"ea93d5a27e1d08b2","fromNode":"ad1160d7fd81d0cf","fromSide":"right","toNode":"5ce3135c645621d1","toSide":"left"},
 		{"id":"d1479b7ddfdb2bba","fromNode":"04059436d8ecd7f4","fromSide":"right","toNode":"c891813d23dda2ba","toSide":"left"},
@@ -324,6 +323,7 @@
 		{"id":"6740881b80ba3370","fromNode":"8caabf55bc42b3f0","fromSide":"right","toNode":"f73d60020d9b6db5","toSide":"left"},
 		{"id":"c375ec3051f7596d","fromNode":"78490ca21529e630","fromSide":"right","toNode":"40f44546b5ef24c6","toSide":"left"},
 		{"id":"857d530567895832","fromNode":"ddcea76385f807b2","fromSide":"bottom","toNode":"4673d75ea8f91af8","toSide":"top"},
-		{"id":"ce36574386f75f40","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"065a6d5849e52166","toSide":"top"}
+		{"id":"ce36574386f75f40","fromNode":"eaebe83fe55bf0ca","fromSide":"bottom","toNode":"065a6d5849e52166","toSide":"top"},
+		{"id":"20e6d97be2d7ee2b","fromNode":"209380e4d102cab1","fromSide":"bottom","toNode":"ad1160d7fd81d0cf","toSide":"top"}
 	]
 }
