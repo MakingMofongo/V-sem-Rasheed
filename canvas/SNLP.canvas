@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"9f6b1cf29bedfa12","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.09_81e11286.jpg","x":0,"y":0,"width":225,"height":400},
 		{"id":"aed1321b156cff68","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":280,"y":160,"width":300,"height":400},
-		{"id":"f59a57452af582cc","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.11_03b13e55.jpg","x":620,"y":240,"width":267,"height":400}
+		{"id":"f59a57452af582cc","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.11_03b13e55.jpg","x":620,"y":240,"width":267,"height":400},
+		{"id":"b3aff2cbc7ee4169","x":113,"y":660,"width":631,"height":441,"type":"file","file":"Pasted image 20240318021924.png"}
 	],
 	"edges":[]
 }
