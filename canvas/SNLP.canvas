@@ -22,7 +22,7 @@
 		{"id":"c4dbfc6723e1af1a","x":519,"y":1550,"width":250,"height":60,"type":"text","text":"Normalization"},
 		{"id":"99507b5af0e32c36","x":952,"y":2200,"width":585,"height":252,"type":"text","text":"Applications:\n- IR - Query Expansion, Regular normalization ('U.S.A.' and 'USA')\n- Conversational AI - ASR, TTS, (\"five p m\", ASR should interpret this as \"5:00PM\". This is called inverse text normalization. Dr. could be drive or Doctor, context matters)\n- Egs of NLP tasks that benefit from normalization: Machine transaltion, opinion mining, spell checking, sentiment analysis, dependency parsing, named entity analysis"},
 		{"id":"fba5b1a2fa4d90d4","x":952,"y":2680,"width":250,"height":60,"type":"text","text":"Approaches"},
-		{"id":"c7e7e336c5fc3c68","x":1288,"y":2621,"width":492,"height":259,"type":"text","text":"Mapping\nRule based\nDistance Based\nASR\nMachine Learning\nNeural Networks\n"}
+		{"id":"c7e7e336c5fc3c68","x":1288,"y":2621,"width":492,"height":259,"type":"text","text":"Mapping\nRule based\nDistance Based\nSpelling correction\n\nASR\nMachine Learning\nNeural Networks\n"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
