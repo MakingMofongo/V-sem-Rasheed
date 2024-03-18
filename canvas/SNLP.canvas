@@ -26,7 +26,9 @@
 		{"id":"0e30a2051e5cffa4","x":2338,"y":1331,"width":250,"height":60,"type":"text","text":"Problems"},
 		{"id":"636e42312bd0df4c","x":2721,"y":1255,"width":479,"height":305,"type":"text","text":"Contractions, Social Media text, hyphens.\n\nJapanese,Chinese, no whitespaces to separate words, greedy algos find longest dict word instead\n\nFrench \"L'ensemble\" -> L,L' or Le?\n\nGerman noun compounds aren't segmented."},
 		{"id":"8518c1f61fc0a709","x":2328,"y":1070,"width":250,"height":60,"type":"text","text":"Approaches"},
-		{"id":"0d877222cf2b0d2c","x":2715,"y":942,"width":250,"height":60,"type":"text","text":"Byte Pair enco"}
+		{"id":"0d877222cf2b0d2c","x":2721,"y":972,"width":285,"height":128,"type":"text","text":"Byte Pair encoding\nWordPiece\nSentencePiece"},
+		{"id":"0b3e8340b19194d9","x":952,"y":3080,"width":250,"height":60,"type":"text","text":"Problems"},
+		{"id":"d093bd696a95c767","x":1306,"y":3062,"width":250,"height":60,"type":"text","text":"Social Media Text"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -49,6 +51,8 @@
 		{"id":"3a25fcb9e50f0220","fromNode":"f70840f717ad8062","fromSide":"right","toNode":"0e30a2051e5cffa4","toSide":"left"},
 		{"id":"5cd5db9a3d240066","fromNode":"0e30a2051e5cffa4","fromSide":"right","toNode":"636e42312bd0df4c","toSide":"left"},
 		{"id":"e2b0829987384f8a","fromNode":"f70840f717ad8062","fromSide":"right","toNode":"8518c1f61fc0a709","toSide":"left"},
-		{"id":"8fe679d6689a49c5","fromNode":"8518c1f61fc0a709","fromSide":"right","toNode":"0d877222cf2b0d2c","toSide":"left"}
+		{"id":"8fe679d6689a49c5","fromNode":"8518c1f61fc0a709","fromSide":"right","toNode":"0d877222cf2b0d2c","toSide":"left"},
+		{"id":"c867a3a28e9e940f","fromNode":"c4dbfc6723e1af1a","fromSide":"right","toNode":"0b3e8340b19194d9","toSide":"left"},
+		{"id":"8028ba470f89df0c","fromNode":"0b3e8340b19194d9","fromSide":"right","toNode":"d093bd696a95c767","toSide":"left"}
 	]
 }
