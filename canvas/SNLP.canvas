@@ -36,9 +36,9 @@
 		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":865,"y":1130,"width":380,"height":400},
 		{"id":"7262758f3063f800","type":"text","text":"## Unit 1","x":2460,"y":-460,"width":291,"height":169},
 		{"id":"c805c6ae79c4315a","type":"text","text":"## Unit 2","x":2460,"y":-160,"width":291,"height":169},
-		{"id":"e6e64b4600da945a","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":1850,"y":-560,"width":498,"height":664},
 		{"id":"da5818fd1b703597","type":"text","text":"Origins and Challenges off NLP","x":3087,"y":-703,"width":250,"height":58},
-		{"id":"2346d1071f1318d2","type":"file","file":"Origin and challenges of NLP.md","x":3520,"y":-800,"width":825,"height":1260}
+		{"id":"2346d1071f1318d2","type":"file","file":"Origin and challenges of NLP.md","x":3520,"y":-800,"width":825,"height":1260},
+		{"id":"e6e64b4600da945a","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":1860,"y":-560,"width":498,"height":664}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
