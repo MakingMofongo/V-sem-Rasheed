@@ -15,10 +15,10 @@
 		{"id":"5a8ee337091ca947","x":1104,"y":1948,"width":250,"height":60,"type":"text","text":"Others"},
 		{"id":"dbc885ec45e3d9ec","x":1104,"y":1868,"width":250,"height":60,"color":"1","type":"text","text":"Spelling Correction"},
 		{"id":"dcd938f2ed7cf28d","x":1460,"y":1528,"width":250,"height":60,"type":"text","text":"sang sung sings -> sing"},
-		{"id":"55593b826d731043","x":1436,"y":1598,"width":364,"height":110,"type":"text","text":"trouble, troubled, troubles -> troubl (SHORTEN TO SOME ROOT WORD)"},
-		{"id":"8bd9b2b76a4d578f","x":1544,"y":1781,"width":250,"height":60,"type":"text","text":"Same sounding but different spelling -> reduce to some same token for speech processing programs"},
-		{"id":"50b46772d5957bd3","x":1434,"y":1881,"width":250,"height":60,"type":"text","text":"Useful in IR - Information retrieval systems"},
-		{"id":"de9ceecf4c40156a","x":1403,"y":1977,"width":250,"height":60,"type":"text","text":"Accents, UK/US, etc"}
+		{"id":"55593b826d731043","x":1460,"y":1608,"width":364,"height":110,"type":"text","text":"trouble, troubled, troubles -> troubl (SHORTEN TO SOME ROOT WORD)"},
+		{"id":"8bd9b2b76a4d578f","x":1460,"y":1738,"width":250,"height":60,"type":"text","text":"Same sounding but different spelling -> reduce to some same token for speech processing programs"},
+		{"id":"50b46772d5957bd3","x":1460,"y":1818,"width":250,"height":60,"type":"text","text":"Useful in IR - Information retrieval systems"},
+		{"id":"de9ceecf4c40156a","x":1460,"y":1898,"width":250,"height":60,"type":"text","text":"Accents, UK/US, etc"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"a4e6ed077aead144","toSide":"left"},
