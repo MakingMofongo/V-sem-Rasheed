@@ -3,7 +3,6 @@
 		{"id":"aed1321b156cff68","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":280,"y":160,"width":300,"height":400},
 		{"id":"f59a57452af582cc","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.11_03b13e55.jpg","x":620,"y":240,"width":267,"height":400},
 		{"id":"9f6b1cf29bedfa12","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.09_81e11286.jpg","x":1,"y":160,"width":225,"height":400},
-		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":887,"y":701,"width":380,"height":400},
 		{"id":"40f3bd698f4b9996","type":"file","file":"Excalidraw/Drawing 2024-03-18 02.23.26.excalidraw.md","x":-75,"y":640,"width":829,"height":540},
 		{"id":"5105dc88bd2af747","type":"text","text":"## Unit 5","x":-40,"y":1400,"width":415,"height":200,"color":"5"},
 		{"id":"55593b826d731043","type":"text","text":"trouble, troubled, troubles -> troubl (SHORTEN TO SOME ROOT WORD)","x":1956,"y":1610,"width":364,"height":110},
@@ -30,7 +29,8 @@
 		{"id":"0b3e8340b19194d9","type":"text","text":"Problems","x":952,"y":3080,"width":250,"height":60},
 		{"id":"d093bd696a95c767","type":"text","text":"Social Media Text","x":1306,"y":3062,"width":250,"height":60},
 		{"id":"1bc920f8c3733cfa","type":"text","text":"Abbreviations\nMisspellings\nOmmited Punctuations\nSlang\nWordplay\nEmoticons\nDisguised Vulgarities\n","x":1709,"y":2998,"width":291,"height":182},
-		{"id":"483b82f90a235721","type":"text","text":"Social Media Pipeline\n![[Pasted image 20240318162358.png]]","x":1709,"y":3280,"width":486,"height":639}
+		{"id":"483b82f90a235721","type":"text","text":"Social Media Pipeline\n![[Pasted image 20240318162358.png]]","x":1709,"y":3280,"width":486,"height":639},
+		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":920,"y":1100,"width":380,"height":400}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -57,6 +57,7 @@
 		{"id":"c867a3a28e9e940f","fromNode":"c4dbfc6723e1af1a","fromSide":"right","toNode":"0b3e8340b19194d9","toSide":"left"},
 		{"id":"8028ba470f89df0c","fromNode":"0b3e8340b19194d9","fromSide":"right","toNode":"d093bd696a95c767","toSide":"left"},
 		{"id":"9e58e3cdfdae4ef6","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"1bc920f8c3733cfa","toSide":"left"},
-		{"id":"e3ddedaafec4cc4b","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"483b82f90a235721","toSide":"left"}
+		{"id":"e3ddedaafec4cc4b","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"483b82f90a235721","toSide":"left"},
+		{"id":"d10335b6afa2e5ed","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"f34afda20bf38976","toSide":"left"}
 	]
 }
