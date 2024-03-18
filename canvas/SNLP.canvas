@@ -14,7 +14,8 @@
 		{"id":"7b256f62eebc7c27","x":1104,"y":1788,"width":250,"height":60,"type":"text","text":"Phonetic Normalization\n"},
 		{"id":"5a8ee337091ca947","x":1104,"y":1948,"width":250,"height":60,"type":"text","text":"Others"},
 		{"id":"dbc885ec45e3d9ec","x":1104,"y":1868,"width":250,"height":60,"color":"1","type":"text","text":"Spelling Correction"},
-		{"id":"dcd938f2ed7cf28d","x":1432,"y":1546,"width":250,"height":60,"type":"text","text":""}
+		{"id":"dcd938f2ed7cf28d","x":1460,"y":1528,"width":250,"height":60,"type":"text","text":"sang sung sings -> sing"},
+		{"id":"55593b826d731043","x":1436,"y":1598,"width":364,"height":110,"type":"text","text":"trouble, troubled, troubles -> troubl (SHORTEN TO SOME ROOT WORD)"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"a4e6ed077aead144","toSide":"left"},
@@ -25,6 +26,7 @@
 		{"id":"6132c78582aefda5","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"7b256f62eebc7c27","toSide":"left"},
 		{"id":"8828beca5c3ea44f","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"5a8ee337091ca947","toSide":"left"},
 		{"id":"b632213a1f068f52","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"dbc885ec45e3d9ec","toSide":"left"},
-		{"id":"70c67d2f98926b62","fromNode":"f051cd1ef9a5cbad","fromSide":"right","toNode":"dcd938f2ed7cf28d","toSide":"left"}
+		{"id":"70c67d2f98926b62","fromNode":"f051cd1ef9a5cbad","fromSide":"right","toNode":"dcd938f2ed7cf28d","toSide":"left"},
+		{"id":"9304f9c49040fe49","fromNode":"7ab9f504629f5513","fromSide":"right","toNode":"55593b826d731043","toSide":"left"}
 	]
 }
