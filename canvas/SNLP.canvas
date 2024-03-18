@@ -38,7 +38,7 @@
 		{"id":"c805c6ae79c4315a","type":"text","text":"## Unit 2","x":2460,"y":-160,"width":291,"height":169},
 		{"id":"da5818fd1b703597","type":"text","text":"Origins and Challenges off NLP","x":3087,"y":-703,"width":250,"height":58},
 		{"id":"2346d1071f1318d2","type":"file","file":"Origin and challenges of NLP.md","x":3520,"y":-800,"width":825,"height":1260},
-		{"id":"0563e5f16341bed3","type":"file","file":"ETC/Drawing 2024-03-18 22.38.05.excalidraw.md","x":1850,"y":-560,"width":520,"height":654}
+		{"id":"0563e5f16341bed3","type":"file","file":"ETC/Drawing 2024-03-18 22.38.05.excalidraw.md","x":1760,"y":-620,"width":610,"height":768}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
