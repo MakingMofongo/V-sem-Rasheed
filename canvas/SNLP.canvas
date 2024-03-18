@@ -50,7 +50,7 @@
 		{"id":"5fbcfead0eead686","type":"text","text":"Stochastic POS Taggers","x":2300,"y":532,"width":250,"height":60},
 		{"id":"c65cff89b0d6fd97","type":"text","text":"Here, a probability dist for a ....\n\nn=4 eg\n\nuni,bi,tri gram\n\nthe cow jumps over the grass Example with various grams\n\nHow many n grams can we have in a sentence","x":3040,"y":-14,"width":379,"height":288},
 		{"id":"51a97d00a4a50e05","type":"text","text":"POS tagging:\n\nWhat it is\n\nPurpose\n\nPerformed using: two things with details\n\n","x":2053,"y":647,"width":297,"height":233},
-		{"id":"ed3d8af661d82193","type":"text","text":"Problems:\n\nAmbiguity\n\nDomain Problems\n\nLanguage Ambiguity \n\nContext\n\nTagging errors\n\nOut of vocabulary words","x":2401,"y":731,"width":298,"height":305,"color":"1"},
+		{"id":"ed3d8af661d82193","type":"text","text":"Problems:\n\nAmbiguity\n\nDomain Problems\n\nLanguage Ambiguity \n\nContext\n\nTagging errors\n\nOut of vocabulary words","x":2401,"y":731,"width":298,"height":305},
 		{"id":"67fda99693b0a3c5","type":"text","text":"Serves to estimate the likelihood...... most lm based models...\n\neqn\n\ngrammar based lm\nwith eg\n\nstatistical based lm\n","x":3021,"y":-1700,"width":250,"height":340},
 		{"id":"f9d47c3b1efffd9f","type":"file","file":"Untitled.md","x":1950,"y":-1880,"width":841,"height":1082},
 		{"id":"57a3a2b05f7ce8e5","type":"text","text":"Diphone wave synthesis","x":460,"y":1270,"width":250,"height":60,"color":"1"},
