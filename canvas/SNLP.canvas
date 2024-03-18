@@ -29,7 +29,8 @@
 		{"id":"0d877222cf2b0d2c","x":2721,"y":972,"width":285,"height":128,"type":"text","text":"Byte Pair encoding\nWordPiece\nSentencePiece"},
 		{"id":"0b3e8340b19194d9","x":952,"y":3080,"width":250,"height":60,"type":"text","text":"Problems"},
 		{"id":"d093bd696a95c767","x":1306,"y":3062,"width":250,"height":60,"type":"text","text":"Social Media Text"},
-		{"id":"1bc920f8c3733cfa","x":1709,"y":2998,"width":291,"height":182,"type":"text","text":"Abbreviations\nMisspellings\nOmmited Punctuations\nSlang\nWordplay\nEmoticons\nDisguised Vulgarities\n"}
+		{"id":"1bc920f8c3733cfa","x":1709,"y":2998,"width":291,"height":182,"type":"text","text":"Abbreviations\nMisspellings\nOmmited Punctuations\nSlang\nWordplay\nEmoticons\nDisguised Vulgarities\n"},
+		{"id":"483b82f90a235721","x":1709,"y":3280,"width":486,"height":639,"type":"text","text":"Social Media Pipeline\n![[Pasted image 20240318162358.png]]"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -55,6 +56,7 @@
 		{"id":"8fe679d6689a49c5","fromNode":"8518c1f61fc0a709","fromSide":"right","toNode":"0d877222cf2b0d2c","toSide":"left"},
 		{"id":"c867a3a28e9e940f","fromNode":"c4dbfc6723e1af1a","fromSide":"right","toNode":"0b3e8340b19194d9","toSide":"left"},
 		{"id":"8028ba470f89df0c","fromNode":"0b3e8340b19194d9","fromSide":"right","toNode":"d093bd696a95c767","toSide":"left"},
-		{"id":"9e58e3cdfdae4ef6","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"1bc920f8c3733cfa","toSide":"left"}
+		{"id":"9e58e3cdfdae4ef6","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"1bc920f8c3733cfa","toSide":"left"},
+		{"id":"e3ddedaafec4cc4b","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"483b82f90a235721","toSide":"left"}
 	]
 }
