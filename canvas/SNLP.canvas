@@ -37,8 +37,10 @@
 		{"id":"7262758f3063f800","type":"text","text":"## Unit 1","x":2460,"y":-460,"width":291,"height":169},
 		{"id":"c805c6ae79c4315a","type":"text","text":"## Unit 2","x":2460,"y":-160,"width":291,"height":169},
 		{"id":"da5818fd1b703597","type":"text","text":"Origins and Challenges off NLP","x":3087,"y":-703,"width":250,"height":58},
-		{"id":"2346d1071f1318d2","type":"file","file":"Origin and challenges of NLP.md","x":3520,"y":-800,"width":825,"height":1260},
-		{"id":"0563e5f16341bed3","type":"file","file":"ETC/Drawing 2024-03-18 22.38.05.excalidraw.md","x":1760,"y":-620,"width":610,"height":768}
+		{"id":"0563e5f16341bed3","type":"file","file":"ETC/Drawing 2024-03-18 22.38.05.excalidraw.md","x":1760,"y":-620,"width":610,"height":768},
+		{"id":"2346d1071f1318d2","type":"file","file":"Origin and challenges of NLP.md","x":3680,"y":-1580,"width":825,"height":1260},
+		{"id":"45d0bb0d069cd73f","x":3132,"y":-390,"width":250,"height":60,"type":"text","text":"Regular Expressions"},
+		{"id":"8d716ac5af2e1e3f","x":3601,"y":-149,"width":839,"height":869,"type":"text","text":"Regular expressions, often abbreviated as regex or regexp, are sequences of characters used to define search patterns. They provide a concise and flexible means of matching strings of text based on specific patterns of characters.\n\nHere's a breakdown of the main components and functionalities of regular expressions:\n\n1. *Literals:* Regular expressions can include literal characters, which match themselves exactly. For example, the regular expression \"cat\" matches the string \"cat\" in a text.\n\n2. *Metacharacters:* Metacharacters are special characters in regular expressions that don't match themselves literally but instead have special meanings. Examples include:\n   - . (dot): Matches any single character except newline.\n   - *, +, ?: Quantifiers that specify the number of occurrences of the preceding character or group.\n   - []: Character classes that match any one of the characters within the brackets.\n   - ^, $: Anchors that match the start and end of a line, respectively.\n   - |: Alternation operator that matches either the expression before or after it.\n   - \\: Escape character used to escape metacharacters to match them literally.\n\n3. *Grouping and Capturing:* Parentheses ( ) are used for grouping expressions together and capturing matched substrings for later use or reference.\n\n4. *Modifiers:* Modifiers are optional flags that can be added to the end of a regular expression to specify how the pattern should be matched. Common modifiers include:\n   - i: Case-insensitive matching.\n   - g: Global matching (matches all occurrences, not just the first one).\n   - m: Multiline mode (treats beginning and end anchors as the start and end of lines).\n\nRegular expressions are widely used in text processing tasks such as search and replace operations, text validation, pattern extraction, and more. They are supported in various programming languages and tools, such as Python, JavaScript, Perl, and Unix utilities like grep and sed. Learning regular expressions can greatly enhance your ability to manipulate and process text effectively."}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -72,6 +74,8 @@
 		{"id":"094d885525364367","fromNode":"da5818fd1b703597","fromSide":"right","toNode":"2346d1071f1318d2","toSide":"left"},
 		{"id":"43d9aea079c1f182","fromNode":"0563e5f16341bed3","fromSide":"right","toNode":"7262758f3063f800","toSide":"left"},
 		{"id":"d741badd0b13ee9e","fromNode":"0563e5f16341bed3","fromSide":"right","toNode":"c805c6ae79c4315a","toSide":"left"},
-		{"id":"cb217072145c2195","fromNode":"aed1321b156cff68","fromSide":"right","toNode":"0563e5f16341bed3","toSide":"left","color":"4"}
+		{"id":"cb217072145c2195","fromNode":"aed1321b156cff68","fromSide":"right","toNode":"0563e5f16341bed3","toSide":"left","color":"4"},
+		{"id":"0f5da23f8ae4d21b","fromNode":"7262758f3063f800","fromSide":"right","toNode":"45d0bb0d069cd73f","toSide":"left"},
+		{"id":"f1e0fbaefbaf880f","fromNode":"45d0bb0d069cd73f","fromSide":"right","toNode":"8d716ac5af2e1e3f","toSide":"left"}
 	]
 }
