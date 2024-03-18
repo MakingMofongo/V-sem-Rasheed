@@ -56,7 +56,8 @@
 		{"id":"0a28ddb3f79b6c0e","type":"text","text":"Resonance","x":2103,"y":2648,"width":250,"height":60,"color":"3"},
 		{"id":"3da86fad95cb0d67","type":"text","text":"Formants","x":2105,"y":2817,"width":250,"height":60,"color":"5"},
 		{"id":"49447bffa72d7228","type":"text","text":"Numbered by frequency.\nF1,F2,F3 so on","x":2105,"y":2940,"width":250,"height":60},
-		{"id":"6ce30afc1e8f8ca5","type":"text","text":"Formants can be viewed by spectogram, show up as dark bands and their movements can be tracked through time","x":2450,"y":2860,"width":290,"height":110}
+		{"id":"6ce30afc1e8f8ca5","type":"text","text":"Formants can be viewed by spectogram, show up as dark bands and their movements can be tracked through time","x":2450,"y":2860,"width":290,"height":110},
+		{"id":"71811ca75ccf83ab","x":495,"y":2004,"width":325,"height":116,"type":"text","text":"Building a Diphone database Example pipeline"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -107,6 +108,7 @@
 		{"id":"b090f430a6a8c543","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"0e92aaa2d9382c1e","toSide":"left"},
 		{"id":"e05e74a2aa0d77fd","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"e7caf89ddff430c7","toSide":"left"},
 		{"id":"b80bfd383a38c699","fromNode":"0e92aaa2d9382c1e","fromSide":"right","toNode":"0855d8fd605a184c","toSide":"left"},
-		{"id":"53ba28e6b8c1c12d","fromNode":"e7caf89ddff430c7","fromSide":"right","toNode":"6c370c2729053e8a","toSide":"left"}
+		{"id":"53ba28e6b8c1c12d","fromNode":"e7caf89ddff430c7","fromSide":"right","toNode":"6c370c2729053e8a","toSide":"left"},
+		{"id":"29ed043cabfd6ea9","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"71811ca75ccf83ab","toSide":"left"}
 	]
 }
