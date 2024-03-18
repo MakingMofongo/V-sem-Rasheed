@@ -18,7 +18,8 @@
 		{"id":"55593b826d731043","x":1460,"y":1608,"width":364,"height":110,"type":"text","text":"trouble, troubled, troubles -> troubl (SHORTEN TO SOME ROOT WORD)"},
 		{"id":"8bd9b2b76a4d578f","x":1460,"y":1738,"width":250,"height":60,"type":"text","text":"Same sounding but different spelling -> reduce to some same token for speech processing programs"},
 		{"id":"50b46772d5957bd3","x":1460,"y":1818,"width":250,"height":60,"type":"text","text":"Useful in IR - Information retrieval systems"},
-		{"id":"de9ceecf4c40156a","x":1460,"y":1898,"width":250,"height":60,"type":"text","text":"Accents, UK/US, etc"}
+		{"id":"de9ceecf4c40156a","x":1460,"y":1898,"width":250,"height":60,"type":"text","text":"Accents, UK/US, etc"},
+		{"id":"99507b5af0e32c36","x":375,"y":2008,"width":505,"height":172,"type":"text","text":"Applications:\n- IR - Query Expansion,"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"a4e6ed077aead144","toSide":"left"},
@@ -33,6 +34,7 @@
 		{"id":"9304f9c49040fe49","fromNode":"7ab9f504629f5513","fromSide":"right","toNode":"55593b826d731043","toSide":"left"},
 		{"id":"fc57fe50bc130e8b","fromNode":"7b256f62eebc7c27","fromSide":"right","toNode":"8bd9b2b76a4d578f","toSide":"left"},
 		{"id":"01f3abb6ff29f4e4","fromNode":"dbc885ec45e3d9ec","fromSide":"right","toNode":"50b46772d5957bd3","toSide":"left"},
-		{"id":"c4e2b66c009f420b","fromNode":"5a8ee337091ca947","fromSide":"right","toNode":"de9ceecf4c40156a","toSide":"left"}
+		{"id":"c4e2b66c009f420b","fromNode":"5a8ee337091ca947","fromSide":"right","toNode":"de9ceecf4c40156a","toSide":"left"},
+		{"id":"272412ada1f2360f","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"99507b5af0e32c36","toSide":"left"}
 	]
 }
