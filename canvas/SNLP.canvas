@@ -31,7 +31,9 @@
 		{"id":"1bc920f8c3733cfa","type":"text","text":"Abbreviations\nMisspellings\nOmmited Punctuations\nSlang\nWordplay\nEmoticons\nDisguised Vulgarities\n","x":1709,"y":2998,"width":291,"height":182},
 		{"id":"483b82f90a235721","type":"text","text":"Social Media Pipeline\n![[Pasted image 20240318162358.png]]","x":1709,"y":3280,"width":486,"height":639},
 		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":920,"y":1100,"width":380,"height":400},
-		{"id":"dbbc6e9076213d69","type":"file","file":"WhatsApp Image 2024-03-18 at 14.34.54_a22c2a7e.jpg","x":920,"y":240,"width":360,"height":480}
+		{"id":"dbbc6e9076213d69","type":"file","file":"WhatsApp Image 2024-03-18 at 14.34.54_a22c2a7e.jpg","x":920,"y":240,"width":360,"height":480},
+		{"id":"d3b58eff7bb86ed2","x":1420,"y":900,"width":400,"height":400,"type":"file","file":"SNLP - CIE-2 (MSA).pdf"},
+		{"id":"31ea1acaea33fd31","x":799,"y":1298,"width":421,"height":400,"type":"file","file":"Snlp Cie-1 Imp(MSA).pdf"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -59,6 +61,7 @@
 		{"id":"8028ba470f89df0c","fromNode":"0b3e8340b19194d9","fromSide":"right","toNode":"d093bd696a95c767","toSide":"left"},
 		{"id":"9e58e3cdfdae4ef6","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"1bc920f8c3733cfa","toSide":"left"},
 		{"id":"e3ddedaafec4cc4b","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"483b82f90a235721","toSide":"left"},
-		{"id":"d10335b6afa2e5ed","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"f34afda20bf38976","toSide":"left"}
+		{"id":"d10335b6afa2e5ed","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"f34afda20bf38976","toSide":"left"},
+		{"id":"2895f47825d6bba8","fromNode":"f34afda20bf38976","fromSide":"right","toNode":"d3b58eff7bb86ed2","toSide":"left"}
 	]
 }
