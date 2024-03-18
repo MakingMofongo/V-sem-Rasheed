@@ -4,7 +4,7 @@
 		{"id":"f59a57452af582cc","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.11_03b13e55.jpg","x":620,"y":240,"width":267,"height":400},
 		{"id":"9f6b1cf29bedfa12","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.09_81e11286.jpg","x":1,"y":160,"width":225,"height":400},
 		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":887,"y":701,"width":380,"height":400},
-		{"id":"40f3bd698f4b9996","x":-75,"y":640,"width":829,"height":540,"type":"file","file":"Excalidraw/Drawing 2024-03-18 02.23.26.excalidraw.md"}
+		{"id":"40f3bd698f4b9996","type":"file","file":"Excalidraw/Drawing 2024-03-18 02.23.26.excalidraw.md","x":-75,"y":640,"width":829,"height":540}
 	],
 	"edges":[]
 }
