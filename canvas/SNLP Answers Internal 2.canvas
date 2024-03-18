@@ -52,7 +52,10 @@
 		{"id":"50bded5820d23d2c","type":"text","text":"The vowels - a,u and i\nShow up as f1 and f2 formants","x":1876,"y":2496,"width":318,"height":144},
 		{"id":"d7abc6ef7f7a2173","x":-153,"y":3960,"width":440,"height":120,"type":"text","text":"## Diphone Wave Synthesis"},
 		{"id":"a98ebb3e190028a5","x":432,"y":3905,"width":250,"height":60,"type":"text","text":"Diphone - Sequence between one middle of phoneme and other phoneme"},
-		{"id":"d701c946cefd0684","x":444,"y":4025,"width":250,"height":60,"type":"text","text":"Diphones are recorded, stored and then later stiched together for speech synthesis"}
+		{"id":"d701c946cefd0684","x":444,"y":4025,"width":250,"height":60,"type":"text","text":"Diphones are recorded, stored and then later stitched together for speech synthesis"},
+		{"id":"e7caf89ddff430c7","x":444,"y":4320,"width":250,"height":60,"type":"text","text":"Synthesis"},
+		{"id":"0e92aaa2d9382c1e","x":444,"y":4160,"width":250,"height":60,"type":"text","text":"Training"},
+		{"id":"0855d8fd605a184c","x":879,"y":4135,"width":250,"height":60,"type":"text","text":"Recording\nCutting\nStoring"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -99,6 +102,9 @@
 		{"id":"a117590221dc56a4","fromNode":"c330fdc6b78ccaa0","fromSide":"top","toNode":"44e0c19d7c733cb0","toSide":"bottom"},
 		{"id":"7f0a7edea7ebf319","fromNode":"3da86fad95cb0d67","fromSide":"bottom","toNode":"50bded5820d23d2c","toSide":"top"},
 		{"id":"3b07fa556ef26abc","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"a98ebb3e190028a5","toSide":"left"},
-		{"id":"083ae57cae644038","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"d701c946cefd0684","toSide":"left"}
+		{"id":"083ae57cae644038","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"d701c946cefd0684","toSide":"left"},
+		{"id":"b090f430a6a8c543","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"0e92aaa2d9382c1e","toSide":"left"},
+		{"id":"e05e74a2aa0d77fd","fromNode":"d7abc6ef7f7a2173","fromSide":"right","toNode":"e7caf89ddff430c7","toSide":"left"},
+		{"id":"b80bfd383a38c699","fromNode":"0e92aaa2d9382c1e","fromSide":"right","toNode":"0855d8fd605a184c","toSide":"left"}
 	]
 }
