@@ -31,7 +31,7 @@
 		{"id":"035a8ef20925107d","type":"text","text":"Amplitude = Loudness","x":1220,"y":2106,"width":250,"height":60},
 		{"id":"1d19a4207329c133","type":"text","text":"Plots pressure against time","x":900,"y":2106,"width":250,"height":60},
 		{"id":"b1943c2f48c98b40","type":"text","text":"Sound produced in Oral Tract","x":1450,"y":1950,"width":250,"height":60,"color":"1"},
-		{"id":"c330fdc6b78ccaa0","type":"text","text":"Harmonic Oscillator","x":1782,"y":2067,"width":250,"height":60},
+		{"id":"c330fdc6b78ccaa0","type":"text","text":"Column of air serves as Harmonic Oscillator","x":1782,"y":2067,"width":250,"height":60},
 		{"id":"0a28ddb3f79b6c0e","type":"text","text":"Resonance","x":2103,"y":2128,"width":250,"height":60,"color":"3"},
 		{"id":"3da86fad95cb0d67","type":"text","text":"Formants","x":2105,"y":2297,"width":250,"height":60,"color":"5"},
 		{"id":"49447bffa72d7228","type":"text","text":"Numbered by frequency.\nF1,F2,F3 so on","x":2105,"y":2420,"width":250,"height":60},
@@ -47,7 +47,8 @@
 		{"id":"8e2b1eb3e6312fda","type":"text","text":"Example:\nTake Non terminals= S,NP (Noun Phrase), VP (Verb Phrase) , PP(Prepositional Phrase), Det(Determiner) , Noun, Verb, Pre\n","x":1242,"y":2940,"width":298,"height":180},
 		{"id":"949c4c2ce11ee62b","type":"file","file":"ETC/Pasted image 20240223004951.png","x":1180,"y":3160,"width":666,"height":155},
 		{"id":"3847e063aadcdab1","type":"file","file":"ETC/Pasted image 20240223005027.png","x":1220,"y":3360,"width":400,"height":308},
-		{"id":"2a630f0758a1e08d","type":"file","file":"ETC/Pasted image 20240223005156.png","x":1220,"y":3680,"width":400,"height":164}
+		{"id":"2a630f0758a1e08d","type":"file","file":"ETC/Pasted image 20240223005156.png","x":1220,"y":3680,"width":400,"height":164},
+		{"id":"44e0c19d7c733cb0","x":1944,"y":1900,"width":250,"height":60,"type":"text","text":"Numerous Frequencies Simultaneously"}
 	],
 	"edges":[
 		{"id":"626045df1db339d4","fromNode":"219c28a572c9817b","fromSide":"right","toNode":"82638cbeb4817ec0","toSide":"left"},
@@ -90,6 +91,7 @@
 		{"id":"a41b4915807f9249","fromNode":"56bbb8f0ee83fe6a","fromSide":"bottom","toNode":"757f5ce713d5f256","toSide":"top"},
 		{"id":"516ebd7ca3db6041","fromNode":"56bbb8f0ee83fe6a","fromSide":"bottom","toNode":"56c2b31bb3e44201","toSide":"top"},
 		{"id":"c4b84c8ce0e21aae","fromNode":"56c2b31bb3e44201","fromSide":"bottom","toNode":"324ad15a0c51fb11","toSide":"top"},
-		{"id":"d0d7d0dcd8c41c39","fromNode":"56bbb8f0ee83fe6a","fromSide":"right","toNode":"8e2b1eb3e6312fda","toSide":"left"}
+		{"id":"d0d7d0dcd8c41c39","fromNode":"56bbb8f0ee83fe6a","fromSide":"right","toNode":"8e2b1eb3e6312fda","toSide":"left"},
+		{"id":"a117590221dc56a4","fromNode":"c330fdc6b78ccaa0","fromSide":"top","toNode":"44e0c19d7c733cb0","toSide":"bottom"}
 	]
 }
