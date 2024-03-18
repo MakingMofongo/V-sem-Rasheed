@@ -38,7 +38,7 @@
 		{"id":"c805c6ae79c4315a","type":"text","text":"## Unit 2","x":2460,"y":-160,"width":291,"height":169},
 		{"id":"da5818fd1b703597","type":"text","text":"Origins and Challenges off NLP","x":3087,"y":-703,"width":250,"height":58},
 		{"id":"2346d1071f1318d2","type":"file","file":"Origin and challenges of NLP.md","x":3520,"y":-800,"width":825,"height":1260},
-		{"id":"e6e64b4600da945a","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":1860,"y":-560,"width":498,"height":664}
+		{"id":"0563e5f16341bed3","type":"file","file":"ETC/Drawing 2024-03-18 22.38.05.excalidraw.md","x":1850,"y":-560,"width":520,"height":654}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -68,10 +68,10 @@
 		{"id":"e3ddedaafec4cc4b","fromNode":"d093bd696a95c767","fromSide":"right","toNode":"483b82f90a235721","toSide":"left"},
 		{"id":"d10335b6afa2e5ed","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"f34afda20bf38976","toSide":"left"},
 		{"id":"2895f47825d6bba8","fromNode":"f34afda20bf38976","fromSide":"right","toNode":"d3b58eff7bb86ed2","toSide":"left"},
-		{"id":"e600e220cbb04a64","fromNode":"aed1321b156cff68","fromSide":"right","toNode":"e6e64b4600da945a","toSide":"left","color":"4"},
-		{"id":"07856be550e69b3a","fromNode":"e6e64b4600da945a","fromSide":"right","toNode":"7262758f3063f800","toSide":"left"},
-		{"id":"3c546024330488dc","fromNode":"e6e64b4600da945a","fromSide":"right","toNode":"c805c6ae79c4315a","toSide":"left"},
 		{"id":"f1c655208d9aa7f6","fromNode":"7262758f3063f800","fromSide":"right","toNode":"da5818fd1b703597","toSide":"left"},
-		{"id":"094d885525364367","fromNode":"da5818fd1b703597","fromSide":"right","toNode":"2346d1071f1318d2","toSide":"left"}
+		{"id":"094d885525364367","fromNode":"da5818fd1b703597","fromSide":"right","toNode":"2346d1071f1318d2","toSide":"left"},
+		{"id":"43d9aea079c1f182","fromNode":"0563e5f16341bed3","fromSide":"right","toNode":"7262758f3063f800","toSide":"left"},
+		{"id":"d741badd0b13ee9e","fromNode":"0563e5f16341bed3","fromSide":"right","toNode":"c805c6ae79c4315a","toSide":"left"},
+		{"id":"cb217072145c2195","fromNode":"aed1321b156cff68","fromSide":"right","toNode":"0563e5f16341bed3","toSide":"left","color":"4"}
 	]
 }
