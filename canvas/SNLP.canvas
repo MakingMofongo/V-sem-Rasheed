@@ -30,7 +30,8 @@
 		{"id":"d093bd696a95c767","type":"text","text":"Social Media Text","x":1306,"y":3062,"width":250,"height":60},
 		{"id":"1bc920f8c3733cfa","type":"text","text":"Abbreviations\nMisspellings\nOmmited Punctuations\nSlang\nWordplay\nEmoticons\nDisguised Vulgarities\n","x":1709,"y":2998,"width":291,"height":182},
 		{"id":"483b82f90a235721","type":"text","text":"Social Media Pipeline\n![[Pasted image 20240318162358.png]]","x":1709,"y":3280,"width":486,"height":639},
-		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":920,"y":1100,"width":380,"height":400}
+		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":920,"y":1100,"width":380,"height":400},
+		{"id":"dbbc6e9076213d69","x":920,"y":240,"width":360,"height":480,"type":"file","file":"WhatsApp Image 2024-03-18 at 14.34.54_a22c2a7e.jpg"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
