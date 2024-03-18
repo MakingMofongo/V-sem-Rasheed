@@ -19,7 +19,7 @@
 		{"id":"8bd9b2b76a4d578f","x":1460,"y":1738,"width":250,"height":60,"type":"text","text":"Same sounding but different spelling -> reduce to some same token for speech processing programs"},
 		{"id":"50b46772d5957bd3","x":1460,"y":1818,"width":250,"height":60,"type":"text","text":"Useful in IR - Information retrieval systems"},
 		{"id":"de9ceecf4c40156a","x":1460,"y":1898,"width":250,"height":60,"type":"text","text":"Accents, UK/US, etc"},
-		{"id":"99507b5af0e32c36","x":375,"y":2008,"width":505,"height":172,"type":"text","text":"Applications:\n- IR - Query Expansion, Regular normalization ('U.S.A.' and 'USA')\n- Conversational AI - ASR, TTS, (\"five p m\", ASR should interpret this as \"5:00PM\". This is called inverse text normalization. Dr. could be drive or Doctor, context matters)\n- "}
+		{"id":"99507b5af0e32c36","x":375,"y":2008,"width":585,"height":252,"type":"text","text":"Applications:\n- IR - Query Expansion, Regular normalization ('U.S.A.' and 'USA')\n- Conversational AI - ASR, TTS, (\"five p m\", ASR should interpret this as \"5:00PM\". This is called inverse text normalization. Dr. could be drive or Doctor, context matters)\n- Egs of NLP tasks that benefit from normalization: Machine transaltion, opinion mining, spell checking, sentiment analysis, dependency parsing, named entity analysis"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"a4e6ed077aead144","toSide":"left"},
