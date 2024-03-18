@@ -36,7 +36,9 @@
 		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":865,"y":1130,"width":380,"height":400},
 		{"id":"7262758f3063f800","x":2460,"y":-460,"width":291,"height":169,"type":"text","text":"## Unit 1"},
 		{"id":"c805c6ae79c4315a","type":"text","text":"## Unit 2","x":2460,"y":-160,"width":291,"height":169},
-		{"id":"e6e64b4600da945a","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":1850,"y":-560,"width":498,"height":664}
+		{"id":"e6e64b4600da945a","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":1850,"y":-560,"width":498,"height":664},
+		{"id":"da5818fd1b703597","x":3087,"y":-703,"width":250,"height":58,"type":"text","text":"Origins and Challenges off NLP"},
+		{"id":"2346d1071f1318d2","x":3495,"y":-799,"width":825,"height":1199,"type":"file","file":"Origin and challenges of NLP.md"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -68,6 +70,8 @@
 		{"id":"2895f47825d6bba8","fromNode":"f34afda20bf38976","fromSide":"right","toNode":"d3b58eff7bb86ed2","toSide":"left"},
 		{"id":"e600e220cbb04a64","fromNode":"aed1321b156cff68","fromSide":"right","toNode":"e6e64b4600da945a","toSide":"left","color":"4"},
 		{"id":"07856be550e69b3a","fromNode":"e6e64b4600da945a","fromSide":"right","toNode":"7262758f3063f800","toSide":"left"},
-		{"id":"3c546024330488dc","fromNode":"e6e64b4600da945a","fromSide":"right","toNode":"c805c6ae79c4315a","toSide":"left"}
+		{"id":"3c546024330488dc","fromNode":"e6e64b4600da945a","fromSide":"right","toNode":"c805c6ae79c4315a","toSide":"left"},
+		{"id":"f1c655208d9aa7f6","fromNode":"7262758f3063f800","fromSide":"right","toNode":"da5818fd1b703597","toSide":"left"},
+		{"id":"094d885525364367","fromNode":"da5818fd1b703597","fromSide":"right","toNode":"2346d1071f1318d2","toSide":"left"}
 	]
 }
