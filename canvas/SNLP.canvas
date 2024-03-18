@@ -8,11 +8,23 @@
 		{"id":"5105dc88bd2af747","type":"text","text":"## Unit 5","x":-40,"y":1400,"width":415,"height":200,"color":"5"},
 		{"id":"a4e6ed077aead144","type":"text","text":"Normalization\n","x":774,"y":1534,"width":250,"height":60},
 		{"id":"f70840f717ad8062","x":1104,"y":1468,"width":250,"height":60,"type":"text","text":"Tokenization"},
-		{"id":"f051cd1ef9a5cbad","x":1165,"y":1573,"width":250,"height":60,"type":"text","text":""}
+		{"id":"f051cd1ef9a5cbad","x":1104,"y":1548,"width":250,"height":60,"type":"text","text":"Lemmitization"},
+		{"id":"7ab9f504629f5513","x":1104,"y":1628,"width":250,"height":60,"type":"text","text":"Stemming"},
+		{"id":"3c7724753f453b40","x":1104,"y":1708,"width":250,"height":60,"type":"text","text":"Sentence Division"},
+		{"id":"7b256f62eebc7c27","x":1104,"y":1788,"width":250,"height":60,"type":"text","text":"Phonetic Normalization\n"},
+		{"id":"5a8ee337091ca947","x":1104,"y":1948,"width":250,"height":60,"type":"text","text":"Others"},
+		{"id":"dbc885ec45e3d9ec","x":1104,"y":1868,"width":250,"height":60,"color":"1","type":"text","text":"Spelling Correction"},
+		{"id":"dcd938f2ed7cf28d","x":1432,"y":1546,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"a4e6ed077aead144","toSide":"left"},
 		{"id":"37137d44cb3371bb","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"f70840f717ad8062","toSide":"left"},
-		{"id":"78ffaeb717767653","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"f051cd1ef9a5cbad","toSide":"left"}
+		{"id":"78ffaeb717767653","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"f051cd1ef9a5cbad","toSide":"left"},
+		{"id":"3bab774430867eb3","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"7ab9f504629f5513","toSide":"left"},
+		{"id":"cbe6a803145a59af","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"3c7724753f453b40","toSide":"left"},
+		{"id":"6132c78582aefda5","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"7b256f62eebc7c27","toSide":"left"},
+		{"id":"8828beca5c3ea44f","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"5a8ee337091ca947","toSide":"left"},
+		{"id":"b632213a1f068f52","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"dbc885ec45e3d9ec","toSide":"left"},
+		{"id":"70c67d2f98926b62","fromNode":"f051cd1ef9a5cbad","fromSide":"right","toNode":"dcd938f2ed7cf28d","toSide":"left"}
 	]
 }
