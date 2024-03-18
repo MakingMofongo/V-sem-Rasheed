@@ -24,7 +24,7 @@
 		{"id":"fba5b1a2fa4d90d4","x":952,"y":2680,"width":250,"height":60,"type":"text","text":"Approaches"},
 		{"id":"c7e7e336c5fc3c68","x":1288,"y":2621,"width":492,"height":259,"type":"text","text":"Mapping\nRule based\nDistance Based\nSpelling correction\n\nASR\nMachine Learning\nNeural Networks\n"},
 		{"id":"0e30a2051e5cffa4","x":2338,"y":1331,"width":250,"height":60,"type":"text","text":"Problems"},
-		{"id":"636e42312bd0df4c","x":2721,"y":1255,"width":250,"height":60,"type":"text","text":"Contractions, "}
+		{"id":"636e42312bd0df4c","x":2721,"y":1255,"width":250,"height":60,"type":"text","text":"Contractions, Social Media text, hyphens.\nJapanese,Chinese, no whitespaces to separate wordss, longest dict word is found and used, "}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
