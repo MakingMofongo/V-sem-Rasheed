@@ -50,7 +50,8 @@
 		{"id":"f7cc61db3bcb4cfe","x":2492,"y":214,"width":250,"height":60,"type":"text","text":"N grams"},
 		{"id":"5fbcfead0eead686","x":2300,"y":532,"width":250,"height":60,"type":"text","text":"Stochastic POS Taggers"},
 		{"id":"c65cff89b0d6fd97","x":3040,"y":-14,"width":379,"height":288,"type":"text","text":"Here, a probability dist for a ....\n\nn=4 eg\n\nuni,bi,tri gram\n\nthe cow jumps over the grass Example with various grams\n\nHow many n grams can we have in a sentence"},
-		{"id":"97f78538b9ca7cd0","x":2657,"y":460,"width":349,"height":260,"type":"text","text":"any model that includes...\n\n\nsimplest technique is...\n\n2nd technique\n\npipeline example"}
+		{"id":"97f78538b9ca7cd0","x":2657,"y":460,"width":349,"height":260,"type":"text","text":"any model that includes...\n\n\nsimplest technique is...\n\n2nd technique\n\npipeline example"},
+		{"id":"51a97d00a4a50e05","x":2360,"y":711,"width":297,"height":233,"type":"text","text":"POS tagging:\n\nWhat it is\n\nPurpose\n\nPerformed using: two things with details\n\n"}
 	],
 	"edges":[
 		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
@@ -96,6 +97,7 @@
 		{"id":"057d91cc5220fc07","fromNode":"c805c6ae79c4315a","fromSide":"right","toNode":"f7cc61db3bcb4cfe","toSide":"left"},
 		{"id":"29171ee69560a7f4","fromNode":"c805c6ae79c4315a","fromSide":"right","toNode":"5fbcfead0eead686","toSide":"left"},
 		{"id":"1a364f96497f56c7","fromNode":"f7cc61db3bcb4cfe","fromSide":"right","toNode":"c65cff89b0d6fd97","toSide":"left"},
-		{"id":"9afbf0a940de15bf","fromNode":"5fbcfead0eead686","fromSide":"right","toNode":"97f78538b9ca7cd0","toSide":"left"}
+		{"id":"9afbf0a940de15bf","fromNode":"5fbcfead0eead686","fromSide":"right","toNode":"97f78538b9ca7cd0","toSide":"left"},
+		{"id":"8dfde4221d5c11da","fromNode":"c805c6ae79c4315a","fromSide":"right","toNode":"51a97d00a4a50e05","toSide":"left"}
 	]
 }
