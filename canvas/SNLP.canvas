@@ -1,14 +1,11 @@
 {
 	"nodes":[
-		{"id":"c4dbfc6723e1af1a","x":437,"y":1551,"width":250,"height":60,"type":"text","text":""},
 		{"id":"aed1321b156cff68","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.10_79b70d28.jpg","x":280,"y":160,"width":300,"height":400},
 		{"id":"f59a57452af582cc","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.11_03b13e55.jpg","x":620,"y":240,"width":267,"height":400},
 		{"id":"9f6b1cf29bedfa12","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 17.10.09_81e11286.jpg","x":1,"y":160,"width":225,"height":400},
 		{"id":"f34afda20bf38976","type":"file","file":"canvas/SNLP Answers Internal 2.canvas","x":887,"y":701,"width":380,"height":400},
 		{"id":"40f3bd698f4b9996","type":"file","file":"Excalidraw/Drawing 2024-03-18 02.23.26.excalidraw.md","x":-75,"y":640,"width":829,"height":540},
 		{"id":"5105dc88bd2af747","type":"text","text":"## Unit 5","x":-40,"y":1400,"width":415,"height":200,"color":"5"},
-		{"id":"a4e6ed077aead144","type":"text","text":"Tasks","x":774,"y":1534,"width":250,"height":60},
-		{"id":"99507b5af0e32c36","x":519,"y":2120,"width":585,"height":252,"type":"text","text":"Applications:\n- IR - Query Expansion, Regular normalization ('U.S.A.' and 'USA')\n- Conversational AI - ASR, TTS, (\"five p m\", ASR should interpret this as \"5:00PM\". This is called inverse text normalization. Dr. could be drive or Doctor, context matters)\n- Egs of NLP tasks that benefit from normalization: Machine transaltion, opinion mining, spell checking, sentiment analysis, dependency parsing, named entity analysis"},
 		{"id":"55593b826d731043","x":1956,"y":1610,"width":364,"height":110,"type":"text","text":"trouble, troubled, troubles -> troubl (SHORTEN TO SOME ROOT WORD)"},
 		{"id":"8bd9b2b76a4d578f","x":1956,"y":1740,"width":250,"height":60,"type":"text","text":"Same sounding but different spelling -> reduce to some same token for speech processing programs"},
 		{"id":"50b46772d5957bd3","x":1956,"y":1820,"width":250,"height":60,"type":"text","text":"Useful in IR - Information retrieval systems"},
@@ -20,10 +17,14 @@
 		{"id":"5a8ee337091ca947","x":1600,"y":1950,"width":250,"height":60,"type":"text","text":"Others"},
 		{"id":"f70840f717ad8062","x":1600,"y":1470,"width":250,"height":60,"type":"text","text":"Tokenization"},
 		{"id":"f051cd1ef9a5cbad","x":1600,"y":1550,"width":250,"height":60,"type":"text","text":"Lemmitization"},
-		{"id":"dcd938f2ed7cf28d","x":1956,"y":1530,"width":250,"height":60,"type":"text","text":"sang sung sings -> sing"}
+		{"id":"dcd938f2ed7cf28d","x":1956,"y":1530,"width":250,"height":60,"type":"text","text":"sang sung sings -> sing"},
+		{"id":"a4e6ed077aead144","type":"text","text":"Tasks","x":952,"y":1643,"width":250,"height":60},
+		{"id":"c4dbfc6723e1af1a","x":519,"y":1550,"width":250,"height":60,"type":"text","text":"Normalization"},
+		{"id":"99507b5af0e32c36","x":952,"y":2200,"width":585,"height":252,"type":"text","text":"Applications:\n- IR - Query Expansion, Regular normalization ('U.S.A.' and 'USA')\n- Conversational AI - ASR, TTS, (\"five p m\", ASR should interpret this as \"5:00PM\". This is called inverse text normalization. Dr. could be drive or Doctor, context matters)\n- Egs of NLP tasks that benefit from normalization: Machine transaltion, opinion mining, spell checking, sentiment analysis, dependency parsing, named entity analysis"},
+		{"id":"fba5b1a2fa4d90d4","x":952,"y":2680,"width":250,"height":60,"type":"text","text":"Approaches"}
 	],
 	"edges":[
-		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"a4e6ed077aead144","toSide":"left"},
+		{"id":"07567e6fe3bbeb4d","fromNode":"5105dc88bd2af747","fromSide":"right","toNode":"c4dbfc6723e1af1a","toSide":"left"},
 		{"id":"37137d44cb3371bb","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"f70840f717ad8062","toSide":"left"},
 		{"id":"78ffaeb717767653","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"f051cd1ef9a5cbad","toSide":"left"},
 		{"id":"3bab774430867eb3","fromNode":"a4e6ed077aead144","fromSide":"right","toNode":"7ab9f504629f5513","toSide":"left"},
@@ -35,6 +36,9 @@
 		{"id":"9304f9c49040fe49","fromNode":"7ab9f504629f5513","fromSide":"right","toNode":"55593b826d731043","toSide":"left"},
 		{"id":"fc57fe50bc130e8b","fromNode":"7b256f62eebc7c27","fromSide":"right","toNode":"8bd9b2b76a4d578f","toSide":"left"},
 		{"id":"01f3abb6ff29f4e4","fromNode":"dbc885ec45e3d9ec","fromSide":"right","toNode":"50b46772d5957bd3","toSide":"left"},
-		{"id":"c4e2b66c009f420b","fromNode":"5a8ee337091ca947","fromSide":"right","toNode":"de9ceecf4c40156a","toSide":"left"}
+		{"id":"c4e2b66c009f420b","fromNode":"5a8ee337091ca947","fromSide":"right","toNode":"de9ceecf4c40156a","toSide":"left"},
+		{"id":"b452b743895f75e8","fromNode":"c4dbfc6723e1af1a","fromSide":"right","toNode":"a4e6ed077aead144","toSide":"left"},
+		{"id":"2279ccbf932632f4","fromNode":"c4dbfc6723e1af1a","fromSide":"right","toNode":"99507b5af0e32c36","toSide":"left"},
+		{"id":"190be71fad6be081","fromNode":"c4dbfc6723e1af1a","fromSide":"right","toNode":"fba5b1a2fa4d90d4","toSide":"left"}
 	]
 }
