@@ -125,7 +125,7 @@
 		{"id":"49169d699405f7a3","type":"text","text":"8 Puzzle Problem","x":-4168,"y":5083,"width":250,"height":60,"color":"2"},
 		{"id":"4e144147469e6831","type":"text","text":"O(b^d) \nb - Branching Factor\nd - search depth","x":-3786,"y":5176,"width":270,"height":104},
 		{"id":"caca08ffdf3be345","type":"text","text":"4 moves - UP DOWN LEFT RIGHT","x":-3798,"y":5364,"width":250,"height":60},
-		{"id":"b81efa123193389e","x":-4462,"y":740,"width":487,"height":520,"type":"text","text":"~~Definition of AI~~\nTuring test\nDefinition of agent. \nFoundation of AI and  fields supporting AI are same\nStructure of agent\nTypes of agent\nTypes of problems (real world and toy problem) \nWhat is state space of an agent? \nDifference between informed and un informed search strategies\nA*algorithm\nGreedy best first search or best first search\nIDA* algorithm \nDifference between perfect and imperfect decisions\nWhat is evaluation function? \nMin-max algorithm\nAlpha-beta pruning."}
+		{"id":"b81efa123193389e","type":"text","text":"~~Definition of AI~~\nTuring test\nDefinition of agent. \nFoundation of AI and  fields supporting AI are same\nStructure of agent\nTypes of agent\nTypes of problems (real world and toy problem) \nWhat is state space of an agent? \nDifference between informed and un informed search strategies\nA*algorithm\nGreedy best first search or best first search\nIDA* algorithm \nDifference between perfect and imperfect decisions\nWhat is evaluation function? \nMin-max algorithm\nAlpha-beta pruning.","x":-4462,"y":740,"width":487,"height":520}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
@@ -226,6 +226,7 @@
 		{"id":"9519c14c52f8cf2f","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"529877e01bfb671b","toSide":"left"},
 		{"id":"4390dc34b6980ed0","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"1df590fa74adda7c","toSide":"left"},
 		{"id":"7a685cff93d956be","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"ad39110708f19e4a","toSide":"left"},
-		{"id":"e635e11d13909301","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"a1944ddf261da6d7","toSide":"left"}
+		{"id":"e635e11d13909301","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"a1944ddf261da6d7","toSide":"left"},
+		{"id":"a819fb983e6b8ce8","fromNode":"01fc200c08b538a7","fromSide":"bottom","toNode":"cad52ed7c379dd8e","toSide":"top"}
 	]
 }
