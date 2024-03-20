@@ -84,7 +84,6 @@
 		{"id":"19cf4751f93bb4af","type":"text","text":"Property 3: Transitivity","x":-1392,"y":3245,"width":250,"height":60},
 		{"id":"7700806558f611ba","type":"text","text":"Types","x":-3880,"y":2005,"width":250,"height":60},
 		{"id":"f642c7388c3d1ac4","type":"file","file":"ETC/Pasted image 20240308171611.png","x":-2462,"y":3305,"width":634,"height":455},
-		{"id":"23489daef1bd4cd1","type":"text","text":"Explain with EG","x":-3967,"y":2623,"width":250,"height":120,"color":"2"},
 		{"id":"06c8afcaeed3960a","type":"text","text":"TASK DOMAINS","x":-4005,"y":1860,"width":250,"height":60,"color":"1"},
 		{"id":"c9e2c18036249427","type":"text","text":"History of AI","x":-4005,"y":1651,"width":250,"height":60},
 		{"id":"789696fda3efea7d","type":"text","text":"Structure of Agents","x":-4005,"y":1751,"width":250,"height":60},
@@ -122,12 +121,10 @@
 		{"id":"caca08ffdf3be345","type":"text","text":"4 moves - UP DOWN LEFT RIGHT","x":-3798,"y":5364,"width":250,"height":60},
 		{"id":"b81efa123193389e","type":"text","text":"~~Definition of AI~~\nTuring test\n~~Definition of agent. ~~\n~~Foundation of AI and  fields supporting AI are same~~\nStructure of agent\nTypes of agent\nTypes of problems (real world and toy problem) \nWhat is state space of an agent? \nDifference between informed and un informed search strategies\nA*algorithm\nGreedy best first search or best first search\nIDA* algorithm \nDifference between perfect and imperfect decisions\nWhat is evaluation function? \nMin-max algorithm\nAlpha-beta pruning.","x":-4462,"y":740,"width":487,"height":520},
 		{"id":"7cae6844918585ea","type":"text","text":"In the field of artificial intelligence (AI), an agent is any entity that perceives its environment through sensors and acts upon that environment through actuators based on its observations. In simpler terms, an agent is an autonomous entity that interacts with its surroundings to achieve its goals.\n\nTypes of Agents:\n\nSimple Reflex Agents: Simple reflex agents select actions based solely on the current percept, ignoring the rest of the percept history. These agents are reactive and do not have any memory or internal state. They operate using condition-action rules, also known as \"if-then\" rules.\n\nModel-Based Reflex Agents: Model-based reflex agents maintain an internal state that represents the current state of the world. They use this internal model along with the current percept to make decisions. Unlike simple reflex agents, they can consider the history of percepts.\n\nGoal-Based Agents: Goal-based agents have goals that they aim to achieve. They assess the current state of the world, formulate goals, and then plan actions to achieve those goals. These agents often use search algorithms to find the sequence of actions that lead to the desired state.\n\nUtility-Based Agents: Utility-based agents make decisions based on the expected utility (or value) of different actions. They consider not only whether an action will achieve the goal but also how desirable the outcome is. These agents evaluate different actions and select the one that maximizes their expected utility.\n\nLearning Agents: Learning agents improve their performance over time by learning from experience. They can adapt to changes in the environment and improve their decision-making processes based on feedback. Learning agents can employ various techniques such as supervised learning, reinforcement learning, or unsupervised learning.\n\nHybrid Agents: Hybrid agents combine elements from multiple types of agents to achieve more sophisticated behavior. For example, a hybrid agent might use a goal-based approach for long-term planning and a reflex-based approach for immediate reactions to stimuli.\n\nThese types of agents vary in their complexity, flexibility, and ability to deal with different types of environments and tasks. The choice of agent type depends on the specific requirements of the problem domain and the desired behavior of the system.","x":-4110,"y":2144,"width":460,"height":359},
-		{"id":"868f67057cfd6357","type":"text","text":"Over and under estim","x":-4235,"y":2977,"width":250,"height":60},
-		{"id":"29e4793dde165d4c","type":"text","text":"Optimality, Completeness, Complexity","x":-4235,"y":3097,"width":250,"height":101},
-		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":-4235,"y":3257,"width":250,"height":60},
-		{"id":"554e135cdc19401d","type":"text","text":"Heuristics","x":-4235,"y":2860,"width":250,"height":60},
 		{"id":"3298f56c710b54d4","x":-4860,"y":2555,"width":400,"height":128,"type":"file","file":"Pasted image 20240320171318.png"},
-		{"id":"ba8709e016bce777","x":-3639,"y":2726,"width":250,"height":214,"type":"text","text":"What it is\nHeuristic\nF\nAdmissibility\nOpen and closed lists\nAlgo"}
+		{"id":"ba8709e016bce777","x":-4047,"y":2820,"width":250,"height":214,"type":"text","text":"What it is\nHeuristic\nF\nAdmissibility\nOpen and closed lists\nAlgo\nEg"},
+		{"id":"23489daef1bd4cd1","type":"text","text":"Explain with EG","x":-4047,"y":2655,"width":250,"height":120,"color":"2"},
+		{"id":"90502f110b96ea96","x":-4216,"y":3040,"width":494,"height":265,"type":"file","file":"Pasted image 20240320175704.png"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
@@ -174,8 +171,6 @@
 		{"id":"620cc196db0cbba8","fromNode":"7700806558f611ba","fromSide":"right","toNode":"09bbf9877a8fbfa1","toSide":"left"},
 		{"id":"5526590a40f1d67f","fromNode":"7700806558f611ba","fromSide":"right","toNode":"5a306f8ab54f0c71","toSide":"left"},
 		{"id":"69932a76491231c4","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"23489daef1bd4cd1","toSide":"left"},
-		{"id":"9551ef850e60da3c","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"554e135cdc19401d","toSide":"left"},
-		{"id":"5ce98702dad5b678","fromNode":"554e135cdc19401d","fromSide":"right","toNode":"a2632b46f4f20bc2","toSide":"left"},
 		{"id":"6dbfc723bdf3260f","fromNode":"a2632b46f4f20bc2","fromSide":"right","toNode":"e558fe10b0abfbc1","toSide":"left"},
 		{"id":"d24bbe4582890f61","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"3ebaefabda412090","toSide":"left"},
 		{"id":"e7659f36c79c8317","fromNode":"09bbf9877a8fbfa1","fromSide":"right","toNode":"c4d219e6e1b45493","toSide":"left"},
@@ -210,9 +205,6 @@
 		{"id":"b2babec85d02b037","fromNode":"f642c7388c3d1ac4","fromSide":"bottom","toNode":"49b3796b8f2200bf","toSide":"top"},
 		{"id":"56f7f702689beb54","fromNode":"8c505687c0fef689","fromSide":"right","toNode":"06c8afcaeed3960a","toSide":"left"},
 		{"id":"03b6c76ecbfbac99","fromNode":"06c8afcaeed3960a","fromSide":"right","toNode":"8b327fb671a1de62","toSide":"left"},
-		{"id":"498f61257db187c5","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"868f67057cfd6357","toSide":"left"},
-		{"id":"40d6446292fbbfad","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"29e4793dde165d4c","toSide":"left"},
-		{"id":"f16f7e9991420f0e","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"6ef98c205c1c8629","toSide":"left"},
 		{"id":"cd2d4313bc205593","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"4e2793bb0fafcee8","toSide":"left"},
 		{"id":"cf2fb9d306556b35","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"49169d699405f7a3","toSide":"left"},
 		{"id":"d8c6714ee8fde67c","fromNode":"49169d699405f7a3","fromSide":"right","toNode":"f2808cfacf77a927","toSide":"left"},
@@ -232,6 +224,7 @@
 		{"id":"ae03ac6c9c92493a","fromNode":"03e63551440b0e55","fromSide":"right","toNode":"ab41733c4f92e28a","toSide":"left"},
 		{"id":"949d93ffda05911b","fromNode":"7700806558f611ba","fromSide":"right","toNode":"7cae6844918585ea","toSide":"left"},
 		{"id":"b2d197346826d045","fromNode":"23489daef1bd4cd1","fromSide":"top","toNode":"3298f56c710b54d4","toSide":"top"},
-		{"id":"06420353e8b14125","fromNode":"23489daef1bd4cd1","fromSide":"right","toNode":"ba8709e016bce777","toSide":"left"}
+		{"id":"06420353e8b14125","fromNode":"23489daef1bd4cd1","fromSide":"right","toNode":"ba8709e016bce777","toSide":"left"},
+		{"id":"9dc221f1c31b8819","fromNode":"ba8709e016bce777","fromSide":"right","toNode":"90502f110b96ea96","toSide":"left"}
 	]
 }
