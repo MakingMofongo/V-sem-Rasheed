@@ -6,7 +6,6 @@
 		{"id":"355d4917a50f474e","type":"group","x":-4409,"y":2603,"width":712,"height":770,"color":"1","label":"Untitled group"},
 		{"id":"b3ed8fa6ce735f3b","type":"group","x":-3576,"y":1939,"width":380,"height":704,"color":"1","label":"DO-STRUCTURE"},
 		{"id":"f00f9746eaeeaf7f","type":"group","x":-3890,"y":3510,"width":363,"height":627,"color":"1","label":" DO-IN-DEPTH"},
-		{"id":"85a1c5d46eacfe57","x":8353,"y":-1137,"width":250,"height":60,"type":"text","text":""},
 		{"id":"e97c4f4525985f64","type":"file","file":"ETC/WhatsApp Image 2024-03-07 at 20.27.10_d0ff790c.jpg","x":1209,"y":309,"width":563,"height":1001},
 		{"id":"d9cd638a9ae6f1e7","type":"text","text":"Previous Years","x":1240,"y":-171,"width":250,"height":60,"color":"4"},
 		{"id":"67cad1ed77673bd7","type":"text","text":"Portion","x":1244,"y":-80,"width":250,"height":60,"color":"1"},
@@ -153,7 +152,8 @@
 		{"id":"0135b773a72e6c51","x":2600,"y":4120,"width":1363,"height":327,"type":"file","file":"Pasted image 20240321013848.png"},
 		{"id":"af91df33cba9e372","x":3963,"y":4588,"width":384,"height":370,"type":"text","text":"Linear Regressionx2\nML systems in detail \nSupv,unsuper,reinf\n\n\nDecision treex2\nDecision tree with eg\nDecision tree\n\nANN feed forawrd single and multi\nNeural netowork,different layer\nNeural netowork,iterative deepening(x2)\n\n"},
 		{"id":"a3e5619724ef613e","x":2841,"y":5260,"width":306,"height":220,"color":"4","type":"text","text":"# UNIT 5"},
-		{"id":"f9028d5298f083de","x":3374,"y":5282,"width":250,"height":60,"type":"text","text":"Phases in NLP\nApplications"}
+		{"id":"f9028d5298f083de","x":3374,"y":5282,"width":250,"height":60,"type":"text","text":"Phases in NLP\nApplications"},
+		{"id":"85a1c5d46eacfe57","x":7480,"y":-1400,"width":250,"height":337,"type":"text","text":"Principal component analysis\nHierarchical clustering\n\nExplain parsing with example\nDescribe SR in terms of Language model and acoustic model"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
