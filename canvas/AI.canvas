@@ -7,7 +7,6 @@
 		{"id":"b3ed8fa6ce735f3b","type":"group","x":-3576,"y":1939,"width":380,"height":704,"color":"1","label":"DO-STRUCTURE"},
 		{"id":"f00f9746eaeeaf7f","type":"group","x":-3890,"y":3510,"width":363,"height":627,"color":"1","label":" DO-IN-DEPTH"},
 		{"id":"a6b264546b60f825","type":"file","file":"ai previous q paper 1.pdf","x":3440,"y":-1259,"width":1182,"height":810,"color":"1"},
-		{"id":"20c5554944d0ee02","type":"file","file":"Adobe Scan Mar 18, 2024.pdf","x":4720,"y":-1259,"width":1252,"height":810,"color":"1"},
 		{"id":"a30e4c5236d3546d","type":"file","file":"ETC/WhatsApp Image 2024-03-06 at 10.49.51_9c9b349d.jpg","x":2848,"y":-1259,"width":513,"height":912},
 		{"id":"ad39110708f19e4a","type":"text","text":"Rules of Proposition\n","x":2832,"y":1127,"width":250,"height":60},
 		{"id":"a1944ddf261da6d7","type":"text","text":"Resolution Refutation","x":2834,"y":1297,"width":250,"height":60},
@@ -129,7 +128,8 @@
 		{"id":"b81efa123193389e","type":"text","text":"~~Definition of AI~~\n~~Turing test~~\n~~Definition of agent. ~~\n~~Foundation of AI and  fields supporting AI are same~~\nStructure of agent\n~~Types of agent~~\nTypes of problems (real world and toy problem) \n~~What is state space of an agent? ~~\nDifference between informed and un informed search strategies\n~~A*algorithm~~\nGreedy best first search or best first search\nIDA* algorithm \nDifference between perfect and imperfect decisions\nWhat is evaluation function? \n~~Min-max algorithm~~\n~~Alpha-beta pruning.~~\n**Alpha beta pruning Example**","x":-4460,"y":740,"width":487,"height":520},
 		{"id":"235454bf5e416bde","type":"text","text":"Example","x":-3690,"y":4812,"width":250,"height":60},
 		{"id":"9c8af1f3fa2c4dcc","type":"file","file":"Pasted image 20240320180755.png","x":-3447,"y":4905,"width":753,"height":146},
-		{"id":"737747762da7a980","type":"file","file":"MINIMAX 7 MARKS.md","x":-2260,"y":4279,"width":1587,"height":686}
+		{"id":"737747762da7a980","type":"file","file":"MINIMAX 7 MARKS.md","x":-2260,"y":4279,"width":1587,"height":686},
+		{"id":"20c5554944d0ee02","type":"file","file":"Adobe Scan Mar 18, 2024.pdf","x":4720,"y":-1259,"width":1252,"height":810,"color":"1"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
