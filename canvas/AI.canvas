@@ -79,7 +79,6 @@
 		{"id":"baa23da0e5fb441f","type":"file","file":"ETC/WhatsApp Image 2024-03-05 at 10.00.00_fedd5a7b.jpg","x":1628,"y":-2355,"width":911,"height":736},
 		{"id":"66cd0fe1d5591791","type":"file","file":"ETC/WhatsApp Image 2024-03-05 at 10.00.48_71dc3029.jpg","x":5463,"y":-2355,"width":411,"height":913,"color":"1"},
 		{"id":"b60a0266f7663532","type":"file","file":"IMG-20240320-WA0006.jpg","x":6160,"y":-1988,"width":652,"height":1458,"color":"1"},
-		{"id":"c108407da64ba426","type":"file","file":"IMG-20240320-WA0004.jpg","x":6920,"y":-1988,"width":652,"height":1458,"color":"1"},
 		{"id":"d1a092608e98860a","type":"file","file":"IMG-20240320-WA0003.jpg","x":8560,"y":-1988,"width":652,"height":1458,"color":"1"},
 		{"id":"2d85e5aeb870674d","type":"text","text":"IF current node is a MAXIMIZING NODE, ALPHA = Max of (children)","x":-2688,"y":4385,"width":250,"height":131},
 		{"id":"737747762da7a980","type":"file","file":"MINIMAX 7 MARKS.md","x":-2260,"y":4279,"width":1587,"height":686},
@@ -153,7 +152,8 @@
 		{"id":"af91df33cba9e372","x":3963,"y":4588,"width":384,"height":370,"type":"text","text":"Linear Regressionx2\nML systems in detail \nSupv,unsuper,reinf\n\n\nDecision treex2\nDecision tree with eg\nDecision tree\n\nANN feed forawrd single and multi\nNeural netowork,different layer\nNeural netowork,iterative deepening(x2)\n\n"},
 		{"id":"a3e5619724ef613e","x":2841,"y":5260,"width":306,"height":220,"color":"4","type":"text","text":"# UNIT 5"},
 		{"id":"f9028d5298f083de","x":3374,"y":5282,"width":250,"height":60,"type":"text","text":"Phases in NLP\nApplications"},
-		{"id":"85a1c5d46eacfe57","x":7480,"y":-1400,"width":250,"height":337,"type":"text","text":"Principal component analysis\nHierarchical clustering\n\nExplain parsing with example\nDescribe SR in terms of Language model and acoustic model"}
+		{"id":"c108407da64ba426","type":"file","file":"IMG-20240320-WA0004.jpg","x":6933,"y":-1988,"width":652,"height":1458,"color":"1"},
+		{"id":"85a1c5d46eacfe57","x":6780,"y":-1340,"width":250,"height":337,"type":"text","text":"Principal component analysis\nHierarchical clustering\n\nExplain parsing with example\nDescribe SR in terms of Language model and acoustic model\n\nComponents of NLP in detail\nWhat is ASR\n\n\n\n"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
