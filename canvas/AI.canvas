@@ -124,7 +124,8 @@
 		{"id":"3298f56c710b54d4","x":-4860,"y":2555,"width":400,"height":128,"type":"file","file":"Pasted image 20240320171318.png"},
 		{"id":"ba8709e016bce777","x":-4047,"y":2820,"width":250,"height":214,"type":"text","text":"What it is\nHeuristic\nF\nAdmissibility\nOpen and closed lists\nAlgo\nEg"},
 		{"id":"23489daef1bd4cd1","type":"text","text":"Explain with EG","x":-4047,"y":2655,"width":250,"height":120,"color":"2"},
-		{"id":"90502f110b96ea96","x":-4216,"y":3040,"width":494,"height":265,"type":"file","file":"Pasted image 20240320175704.png"}
+		{"id":"90502f110b96ea96","x":-4216,"y":3040,"width":494,"height":265,"type":"file","file":"Pasted image 20240320175704.png"},
+		{"id":"d49cd087ec40aec0","x":-3551,"y":2891,"width":731,"height":414,"type":"text","text":"// A* Search Algorithm  \n1.  Initialize the open list  \n2.  Initialize the closed list  \n    put the starting node on the open   \n    list (you can leave its ****f**** at zero)  \n3.  while the open list is not empty  \n    a) find the node with the least ****f**** on   \n       the open list, call it \"q\"  \n    b) pop q off the open list  \n    \n    c) generate q's 8 successors and set their   \n       parents to q  \n     \n    d) for each successor  \n        i) if successor is the goal, stop search  \n\t    . \n        ii)else, compute both ****g**** and ****h**** for successor  \n          successor.****g**** = q.****g**** + distance between   \n                              successor and q  \n          successor.****h**** = distance from goal to   \n          successor (This can be done using many   \n          ways, we will discuss three heuristics-   \n          Manhattan, Diagonal and Euclidean   \n          Heuristics)  \n            \n          successor.****f**** = successor.****g**** + successor.****h****  \n        iii) if a node with the same position as   \n            successor is in the OPEN list which has a   \n           lower ****f**** than successor, skip this successor  \n        iV) if a node with the same position as   \n            successor  is in the CLOSED list which has  \n            a lower ****f**** than successor, skip this successor  \n            otherwise, add  the node to the open list  \n     end (for loop)  \n    \n    e) push q on the closed list  \n    end (while loop)"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
@@ -225,6 +226,7 @@
 		{"id":"949d93ffda05911b","fromNode":"7700806558f611ba","fromSide":"right","toNode":"7cae6844918585ea","toSide":"left"},
 		{"id":"b2d197346826d045","fromNode":"23489daef1bd4cd1","fromSide":"top","toNode":"3298f56c710b54d4","toSide":"top"},
 		{"id":"06420353e8b14125","fromNode":"23489daef1bd4cd1","fromSide":"right","toNode":"ba8709e016bce777","toSide":"left"},
-		{"id":"9dc221f1c31b8819","fromNode":"ba8709e016bce777","fromSide":"right","toNode":"90502f110b96ea96","toSide":"left"}
+		{"id":"9dc221f1c31b8819","fromNode":"ba8709e016bce777","fromSide":"right","toNode":"90502f110b96ea96","toSide":"left"},
+		{"id":"d3e5df8e40e73f80","fromNode":"ba8709e016bce777","fromSide":"right","toNode":"d49cd087ec40aec0","toSide":"left"}
 	]
 }
