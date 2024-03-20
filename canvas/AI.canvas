@@ -89,7 +89,7 @@
 		{"id":"c9e2c18036249427","type":"text","text":"History of AI","x":-4005,"y":1651,"width":250,"height":60},
 		{"id":"789696fda3efea7d","type":"text","text":"Structure of Agents","x":-4005,"y":1751,"width":250,"height":60},
 		{"id":"e18d244b735b70c4","type":"text","text":"Foundations of AI","x":-4005,"y":1551,"width":250,"height":60,"color":"3"},
-		{"id":"e558fe10b0abfbc1","type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n","x":-3008,"y":3338,"width":250,"height":250},
+		{"id":"e558fe10b0abfbc1","type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n","x":-3008,"y":3338,"width":250,"height":368},
 		{"id":"677911590cf3323a","type":"text","text":"Introduction to intelligence","x":-4005,"y":1445,"width":250,"height":60,"color":"4"},
 		{"id":"a2632b46f4f20bc2","type":"text","text":"Diff b/w Uninformed and Heuristic Search","x":-3341,"y":3426,"width":250,"height":75},
 		{"id":"5c113a3fba53b0bd","type":"text","text":"BFS","x":-3870,"y":3530,"width":250,"height":60},
