@@ -86,15 +86,11 @@
 		{"id":"f642c7388c3d1ac4","type":"file","file":"ETC/Pasted image 20240308171611.png","x":-2462,"y":3305,"width":634,"height":455},
 		{"id":"23489daef1bd4cd1","type":"text","text":"Explain with EG","x":-3967,"y":2623,"width":250,"height":120,"color":"2"},
 		{"id":"554e135cdc19401d","type":"text","text":"Heuristics","x":-3967,"y":2763,"width":250,"height":60},
-		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":-3979,"y":3293,"width":250,"height":60},
 		{"id":"06c8afcaeed3960a","type":"text","text":"TASK DOMAINS","x":-4005,"y":1860,"width":250,"height":60,"color":"1"},
-		{"id":"29e4793dde165d4c","type":"text","text":"Optimality, Completeness, Complexity","x":-4016,"y":2999,"width":250,"height":101},
-		{"id":"e99e42e1943f6df8","type":"text","text":"Example","x":-4004,"y":3184,"width":250,"height":60},
 		{"id":"c9e2c18036249427","type":"text","text":"History of AI","x":-4005,"y":1651,"width":250,"height":60},
 		{"id":"789696fda3efea7d","type":"text","text":"Structure of Agents","x":-4005,"y":1751,"width":250,"height":60},
 		{"id":"e18d244b735b70c4","type":"text","text":"Foundations of AI","x":-4005,"y":1551,"width":250,"height":60,"color":"3"},
 		{"id":"e558fe10b0abfbc1","type":"text","text":"Info\nDecision making\n\nQuality\nCompleteness\nOptimality\n\nMem usage\nComputational efficiency\nTime taken\n\nApplicability\n","x":-3008,"y":3338,"width":250,"height":250},
-		{"id":"868f67057cfd6357","type":"text","text":"Over and under estim","x":-4038,"y":2885,"width":250,"height":60},
 		{"id":"677911590cf3323a","type":"text","text":"Introduction to intelligence","x":-4005,"y":1445,"width":250,"height":60,"color":"4"},
 		{"id":"a2632b46f4f20bc2","type":"text","text":"Diff b/w Uninformed and Heuristic Search","x":-3341,"y":3426,"width":250,"height":75},
 		{"id":"5c113a3fba53b0bd","type":"text","text":"BFS","x":-3870,"y":3530,"width":250,"height":60},
@@ -127,7 +123,10 @@
 		{"id":"caca08ffdf3be345","type":"text","text":"4 moves - UP DOWN LEFT RIGHT","x":-3798,"y":5364,"width":250,"height":60},
 		{"id":"b81efa123193389e","type":"text","text":"~~Definition of AI~~\nTuring test\n~~Definition of agent. ~~\n~~Foundation of AI and  fields supporting AI are same~~\nStructure of agent\nTypes of agent\nTypes of problems (real world and toy problem) \nWhat is state space of an agent? \nDifference between informed and un informed search strategies\nA*algorithm\nGreedy best first search or best first search\nIDA* algorithm \nDifference between perfect and imperfect decisions\nWhat is evaluation function? \nMin-max algorithm\nAlpha-beta pruning.","x":-4462,"y":740,"width":487,"height":520},
 		{"id":"7cae6844918585ea","type":"text","text":"In the field of artificial intelligence (AI), an agent is any entity that perceives its environment through sensors and acts upon that environment through actuators based on its observations. In simpler terms, an agent is an autonomous entity that interacts with its surroundings to achieve its goals.\n\nTypes of Agents:\n\nSimple Reflex Agents: Simple reflex agents select actions based solely on the current percept, ignoring the rest of the percept history. These agents are reactive and do not have any memory or internal state. They operate using condition-action rules, also known as \"if-then\" rules.\n\nModel-Based Reflex Agents: Model-based reflex agents maintain an internal state that represents the current state of the world. They use this internal model along with the current percept to make decisions. Unlike simple reflex agents, they can consider the history of percepts.\n\nGoal-Based Agents: Goal-based agents have goals that they aim to achieve. They assess the current state of the world, formulate goals, and then plan actions to achieve those goals. These agents often use search algorithms to find the sequence of actions that lead to the desired state.\n\nUtility-Based Agents: Utility-based agents make decisions based on the expected utility (or value) of different actions. They consider not only whether an action will achieve the goal but also how desirable the outcome is. These agents evaluate different actions and select the one that maximizes their expected utility.\n\nLearning Agents: Learning agents improve their performance over time by learning from experience. They can adapt to changes in the environment and improve their decision-making processes based on feedback. Learning agents can employ various techniques such as supervised learning, reinforcement learning, or unsupervised learning.\n\nHybrid Agents: Hybrid agents combine elements from multiple types of agents to achieve more sophisticated behavior. For example, a hybrid agent might use a goal-based approach for long-term planning and a reflex-based approach for immediate reactions to stimuli.\n\nThese types of agents vary in their complexity, flexibility, and ability to deal with different types of environments and tasks. The choice of agent type depends on the specific requirements of the problem domain and the desired behavior of the system.","x":-4110,"y":2144,"width":460,"height":359},
-		{"id":"3298f56c710b54d4","x":-3650,"y":2683,"width":400,"height":128,"type":"file","file":"Pasted image 20240320171318.png"}
+		{"id":"3298f56c710b54d4","x":-3650,"y":2683,"width":400,"height":128,"type":"file","file":"Pasted image 20240320171318.png"},
+		{"id":"868f67057cfd6357","type":"text","text":"Over and under estim","x":-3967,"y":2880,"width":250,"height":60},
+		{"id":"29e4793dde165d4c","type":"text","text":"Optimality, Completeness, Complexity","x":-3967,"y":3000,"width":250,"height":101},
+		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":-3967,"y":3160,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
@@ -212,7 +211,6 @@
 		{"id":"03b6c76ecbfbac99","fromNode":"06c8afcaeed3960a","fromSide":"right","toNode":"8b327fb671a1de62","toSide":"left"},
 		{"id":"498f61257db187c5","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"868f67057cfd6357","toSide":"left"},
 		{"id":"40d6446292fbbfad","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"29e4793dde165d4c","toSide":"left"},
-		{"id":"e24b67cd45a4233b","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"e99e42e1943f6df8","toSide":"left"},
 		{"id":"f16f7e9991420f0e","fromNode":"3ebaefabda412090","fromSide":"right","toNode":"6ef98c205c1c8629","toSide":"left"},
 		{"id":"cd2d4313bc205593","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"4e2793bb0fafcee8","toSide":"left"},
 		{"id":"cf2fb9d306556b35","fromNode":"5d32ea3a57d81340","fromSide":"right","toNode":"49169d699405f7a3","toSide":"left"},
@@ -231,6 +229,7 @@
 		{"id":"e635e11d13909301","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"a1944ddf261da6d7","toSide":"left"},
 		{"id":"a819fb983e6b8ce8","fromNode":"01fc200c08b538a7","fromSide":"bottom","toNode":"cad52ed7c379dd8e","toSide":"top"},
 		{"id":"ae03ac6c9c92493a","fromNode":"03e63551440b0e55","fromSide":"right","toNode":"ab41733c4f92e28a","toSide":"left"},
-		{"id":"949d93ffda05911b","fromNode":"7700806558f611ba","fromSide":"right","toNode":"7cae6844918585ea","toSide":"left"}
+		{"id":"949d93ffda05911b","fromNode":"7700806558f611ba","fromSide":"right","toNode":"7cae6844918585ea","toSide":"left"},
+		{"id":"b2d197346826d045","fromNode":"23489daef1bd4cd1","fromSide":"top","toNode":"3298f56c710b54d4","toSide":"top"}
 	]
 }
