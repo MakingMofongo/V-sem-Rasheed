@@ -146,7 +146,8 @@
 		{"id":"6c04083f69cecf9b","type":"text","text":"Uses ... whereas FOL uses ...\n\nCant rep indi entities\n\ncannot express genrealization,spec,pattern\n\n\n","x":4993,"y":2542,"width":440,"height":135},
 		{"id":"364dbc10deb88fa6","type":"text","text":"diff b/w prop and pred (FOL)","x":3627,"y":2677,"width":250,"height":60},
 		{"id":"e873d716c3eb5fd1","type":"text","text":"Types of Knowledge Rep","x":3678,"y":3021,"width":250,"height":60},
-		{"id":"ed3c2b9d4a5c8f1b","type":"text","text":"~~What is knowledge base? ~~\n~~Difference between propositional logic and predicate logic? ~~\n\n~~What is inference?~~ \nWhat is inference engine? \nWhat is resolution? \n\n~~What are the types of knowledge representation? \nWhat are frames? \nWhat are semantics networks? ~~\nProblem on semantic network is important\n\nHow planning is different from problem solving? \nWhat is planning agent? \nDifference between partial order planning and hierarchical planning?","x":2827,"y":2824,"width":587,"height":433}
+		{"id":"ed3c2b9d4a5c8f1b","type":"text","text":"~~What is knowledge base? ~~\n~~Difference between propositional logic and predicate logic? ~~\n\n~~What is inference?~~ \nWhat is inference engine? \nWhat is resolution? \n\n~~What are the types of knowledge representation? \nWhat are frames? \nWhat are semantics networks? ~~\nProblem on semantic network is important\n\nHow planning is different from problem solving? \nWhat is planning agent? \nDifference between partial order planning and hierarchical planning?","x":2827,"y":2824,"width":587,"height":433},
+		{"id":"3cef43ef25c56819","x":3360,"y":4460,"width":253,"height":165,"type":"text","text":"### UNIT 5"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
