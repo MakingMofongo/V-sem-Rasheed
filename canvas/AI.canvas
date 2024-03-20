@@ -121,10 +121,10 @@
 		{"id":"b210d14ce54d031a","type":"text","text":"Economics","x":-485,"y":2681,"width":250,"height":60,"color":"4"},
 		{"id":"d1b0d410d7250b75","type":"text","text":"Decision making","x":-86,"y":2686,"width":250,"height":60},
 		{"id":"4a76973bdf90b990","type":"text","text":"Resources","x":-161,"y":2777,"width":250,"height":60},
-		{"id":"b60a0266f7663532","x":7091,"y":-1276,"width":179,"height":400,"type":"file","file":"IMG-20240320-WA0006.jpg"},
-		{"id":"d1a092608e98860a","x":7536,"y":-1276,"width":179,"height":400,"type":"file","file":"IMG-20240320-WA0003.jpg"},
-		{"id":"c108407da64ba426","x":7981,"y":-1276,"width":179,"height":400,"type":"file","file":"IMG-20240320-WA0004.jpg"},
-		{"id":"8cde49b7144c2f08","x":8426,"y":-1276,"width":179,"height":400,"type":"file","file":"IMG-20240320-WA0005.jpg"}
+		{"id":"b60a0266f7663532","x":6160,"y":-1988,"width":653,"height":1458,"type":"file","file":"IMG-20240320-WA0006.jpg"},
+		{"id":"c108407da64ba426","x":6920,"y":-1988,"width":653,"height":1458,"type":"file","file":"IMG-20240320-WA0004.jpg"},
+		{"id":"8cde49b7144c2f08","x":7760,"y":-1988,"width":653,"height":1458,"type":"file","file":"IMG-20240320-WA0005.jpg"},
+		{"id":"d1a092608e98860a","x":8560,"y":-1988,"width":653,"height":1458,"type":"file","file":"IMG-20240320-WA0003.jpg"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
