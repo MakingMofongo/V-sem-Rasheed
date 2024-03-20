@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"e1664bb991f919d1","type":"group","x":-4797,"y":1280,"width":5236,"height":4164,"label":"UNIT1"},
+		{"id":"e1664bb991f919d1","type":"group","x":-4900,"y":1280,"width":5339,"height":4164,"label":"UNIT1"},
 		{"id":"90c26958bc670c60","type":"group","x":439,"y":-2400,"width":9041,"height":2120,"color":"4","label":"PreviousYearQsnPapers-FromSabihaMam"},
 		{"id":"355d4917a50f474e","type":"group","x":-4409,"y":2603,"width":712,"height":770,"color":"1","label":"Untitled group"},
 		{"id":"b3ed8fa6ce735f3b","type":"group","x":-3576,"y":1939,"width":380,"height":704,"color":"1","label":"DO-STRUCTURE"},
@@ -122,11 +122,12 @@
 		{"id":"caca08ffdf3be345","type":"text","text":"4 moves - UP DOWN LEFT RIGHT","x":-3798,"y":5364,"width":250,"height":60},
 		{"id":"b81efa123193389e","type":"text","text":"~~Definition of AI~~\nTuring test\n~~Definition of agent. ~~\n~~Foundation of AI and  fields supporting AI are same~~\nStructure of agent\nTypes of agent\nTypes of problems (real world and toy problem) \nWhat is state space of an agent? \nDifference between informed and un informed search strategies\nA*algorithm\nGreedy best first search or best first search\nIDA* algorithm \nDifference between perfect and imperfect decisions\nWhat is evaluation function? \nMin-max algorithm\nAlpha-beta pruning.","x":-4462,"y":740,"width":487,"height":520},
 		{"id":"7cae6844918585ea","type":"text","text":"In the field of artificial intelligence (AI), an agent is any entity that perceives its environment through sensors and acts upon that environment through actuators based on its observations. In simpler terms, an agent is an autonomous entity that interacts with its surroundings to achieve its goals.\n\nTypes of Agents:\n\nSimple Reflex Agents: Simple reflex agents select actions based solely on the current percept, ignoring the rest of the percept history. These agents are reactive and do not have any memory or internal state. They operate using condition-action rules, also known as \"if-then\" rules.\n\nModel-Based Reflex Agents: Model-based reflex agents maintain an internal state that represents the current state of the world. They use this internal model along with the current percept to make decisions. Unlike simple reflex agents, they can consider the history of percepts.\n\nGoal-Based Agents: Goal-based agents have goals that they aim to achieve. They assess the current state of the world, formulate goals, and then plan actions to achieve those goals. These agents often use search algorithms to find the sequence of actions that lead to the desired state.\n\nUtility-Based Agents: Utility-based agents make decisions based on the expected utility (or value) of different actions. They consider not only whether an action will achieve the goal but also how desirable the outcome is. These agents evaluate different actions and select the one that maximizes their expected utility.\n\nLearning Agents: Learning agents improve their performance over time by learning from experience. They can adapt to changes in the environment and improve their decision-making processes based on feedback. Learning agents can employ various techniques such as supervised learning, reinforcement learning, or unsupervised learning.\n\nHybrid Agents: Hybrid agents combine elements from multiple types of agents to achieve more sophisticated behavior. For example, a hybrid agent might use a goal-based approach for long-term planning and a reflex-based approach for immediate reactions to stimuli.\n\nThese types of agents vary in their complexity, flexibility, and ability to deal with different types of environments and tasks. The choice of agent type depends on the specific requirements of the problem domain and the desired behavior of the system.","x":-4110,"y":2144,"width":460,"height":359},
-		{"id":"3298f56c710b54d4","x":-3650,"y":2683,"width":400,"height":128,"type":"file","file":"Pasted image 20240320171318.png"},
 		{"id":"868f67057cfd6357","type":"text","text":"Over and under estim","x":-4235,"y":2977,"width":250,"height":60},
 		{"id":"29e4793dde165d4c","type":"text","text":"Optimality, Completeness, Complexity","x":-4235,"y":3097,"width":250,"height":101},
 		{"id":"6ef98c205c1c8629","type":"text","text":"Admissibility","x":-4235,"y":3257,"width":250,"height":60},
-		{"id":"554e135cdc19401d","type":"text","text":"Heuristics","x":-4235,"y":2860,"width":250,"height":60}
+		{"id":"554e135cdc19401d","type":"text","text":"Heuristics","x":-4235,"y":2860,"width":250,"height":60},
+		{"id":"3298f56c710b54d4","x":-4860,"y":2555,"width":400,"height":128,"type":"file","file":"Pasted image 20240320171318.png"},
+		{"id":"ba8709e016bce777","x":-3639,"y":2726,"width":250,"height":214,"type":"text","text":"What it is\nHeuristic\nF\nAdmissibility\nOpen and closed lists\nAlgo"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
@@ -230,6 +231,7 @@
 		{"id":"a819fb983e6b8ce8","fromNode":"01fc200c08b538a7","fromSide":"bottom","toNode":"cad52ed7c379dd8e","toSide":"top"},
 		{"id":"ae03ac6c9c92493a","fromNode":"03e63551440b0e55","fromSide":"right","toNode":"ab41733c4f92e28a","toSide":"left"},
 		{"id":"949d93ffda05911b","fromNode":"7700806558f611ba","fromSide":"right","toNode":"7cae6844918585ea","toSide":"left"},
-		{"id":"b2d197346826d045","fromNode":"23489daef1bd4cd1","fromSide":"top","toNode":"3298f56c710b54d4","toSide":"top"}
+		{"id":"b2d197346826d045","fromNode":"23489daef1bd4cd1","fromSide":"top","toNode":"3298f56c710b54d4","toSide":"top"},
+		{"id":"06420353e8b14125","fromNode":"23489daef1bd4cd1","fromSide":"right","toNode":"ba8709e016bce777","toSide":"left"}
 	]
 }
