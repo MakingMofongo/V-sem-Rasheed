@@ -48,7 +48,7 @@
 		{"id":"03e63551440b0e55","type":"text","text":"Mathematics and Statistics","x":-485,"y":2601,"width":250,"height":60,"color":"4"},
 		{"id":"b210d14ce54d031a","type":"text","text":"Economics","x":-485,"y":2681,"width":250,"height":60,"color":"4"},
 		{"id":"d1b0d410d7250b75","type":"text","text":"Decision making","x":-86,"y":2686,"width":250,"height":60},
-		{"id":"4a76973bdf90b990","type":"text","text":"Resources","x":-161,"y":2777,"width":250,"height":60},
+		{"id":"4a76973bdf90b990","type":"text","text":"Resource optimization","x":-161,"y":2777,"width":250,"height":60},
 		{"id":"b60a0266f7663532","type":"file","file":"IMG-20240320-WA0006.jpg","x":6160,"y":-1988,"width":653,"height":1458,"color":"1"},
 		{"id":"c108407da64ba426","type":"file","file":"IMG-20240320-WA0004.jpg","x":6920,"y":-1988,"width":653,"height":1458,"color":"1"},
 		{"id":"8cde49b7144c2f08","type":"file","file":"IMG-20240320-WA0005.jpg","x":7760,"y":-1988,"width":653,"height":1458,"color":"1"},
@@ -227,6 +227,7 @@
 		{"id":"4390dc34b6980ed0","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"1df590fa74adda7c","toSide":"left"},
 		{"id":"7a685cff93d956be","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"ad39110708f19e4a","toSide":"left"},
 		{"id":"e635e11d13909301","fromNode":"b1046f2a096a1ecb","fromSide":"right","toNode":"a1944ddf261da6d7","toSide":"left"},
-		{"id":"a819fb983e6b8ce8","fromNode":"01fc200c08b538a7","fromSide":"bottom","toNode":"cad52ed7c379dd8e","toSide":"top"}
+		{"id":"a819fb983e6b8ce8","fromNode":"01fc200c08b538a7","fromSide":"bottom","toNode":"cad52ed7c379dd8e","toSide":"top"},
+		{"id":"ae03ac6c9c92493a","fromNode":"03e63551440b0e55","fromSide":"right","toNode":"ab41733c4f92e28a","toSide":"left"}
 	]
 }
