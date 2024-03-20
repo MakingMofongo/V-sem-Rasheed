@@ -75,7 +75,6 @@
 		{"id":"d5e213dec738591c","type":"file","file":"ETC/WhatsApp Image 2024-03-05 at 10.00.36_4c1a52b3.jpg","x":4185,"y":-2355,"width":808,"height":913},
 		{"id":"2007bedf3ab34d76","type":"file","file":"ETC/WhatsApp Image 2024-03-05 at 09.59.39_6c90fc5e.jpg","x":484,"y":-2355,"width":897,"height":913},
 		{"id":"baa23da0e5fb441f","type":"file","file":"ETC/WhatsApp Image 2024-03-05 at 10.00.00_fedd5a7b.jpg","x":1628,"y":-2355,"width":911,"height":736},
-		{"id":"66cd0fe1d5591791","type":"file","file":"ETC/WhatsApp Image 2024-03-05 at 10.00.48_71dc3029.jpg","x":5463,"y":-2355,"width":411,"height":913,"color":"1"},
 		{"id":"b60a0266f7663532","type":"file","file":"IMG-20240320-WA0006.jpg","x":6160,"y":-1988,"width":652,"height":1458,"color":"1"},
 		{"id":"d1a092608e98860a","type":"file","file":"IMG-20240320-WA0003.jpg","x":8560,"y":-1988,"width":652,"height":1458,"color":"1"},
 		{"id":"2d85e5aeb870674d","type":"text","text":"IF current node is a MAXIMIZING NODE, ALPHA = Max of (children)","x":-2688,"y":4385,"width":250,"height":131},
@@ -151,7 +150,8 @@
 		{"id":"a3e5619724ef613e","type":"text","text":"# UNIT 5","x":2841,"y":5260,"width":306,"height":220,"color":"4"},
 		{"id":"f9028d5298f083de","type":"text","text":"Phases in NLP\nApplications","x":3374,"y":5282,"width":250,"height":60},
 		{"id":"c108407da64ba426","type":"file","file":"IMG-20240320-WA0004.jpg","x":6933,"y":-1988,"width":652,"height":1458,"color":"1"},
-		{"id":"85a1c5d46eacfe57","type":"text","text":"Explain parsing with example\nDescribe SR in terms of Language model and acoustic model\n\nComponents of NLP in detail\nWhat is ASR\n\nImportance of NLP, phases of NLP\n\nlinguistics hedges in fuzzy logic\n\nSemantic analysis, semantic nets\n\n\n\n\n\n\n","x":4500,"y":-1420,"width":451,"height":491}
+		{"id":"66cd0fe1d5591791","type":"file","file":"ETC/WhatsApp Image 2024-03-05 at 10.00.48_71dc3029.jpg","x":5348,"y":-2355,"width":589,"height":1309,"color":"1"},
+		{"id":"85a1c5d46eacfe57","type":"text","text":"Explain parsing with example\nDescribe SR in terms of Language model and acoustic model\n\nComponents of NLP in detail\nWhat is ASR\n\nImportance of NLP, phases of NLP\n\nlinguistics hedges in fuzzy logic\n\nSemantic analysis, semantic nets\n\n\n\n\n\n\n","x":3660,"y":5235,"width":451,"height":491}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
@@ -273,6 +273,7 @@
 		{"id":"32d132d758a4280e","fromNode":"17bb082cc0d561bd","fromSide":"right","toNode":"e099be6a5b539b41","toSide":"left"},
 		{"id":"215d480b965d2543","fromNode":"e099be6a5b539b41","fromSide":"right","toNode":"8edd0f9ca3251a0c","toSide":"left"},
 		{"id":"b202cfc53c299664","fromNode":"3cef43ef25c56819","fromSide":"right","toNode":"b21ac2b664a9558f","toSide":"left"},
-		{"id":"cda8cbc511716636","fromNode":"a3e5619724ef613e","fromSide":"right","toNode":"f9028d5298f083de","toSide":"left"}
+		{"id":"cda8cbc511716636","fromNode":"a3e5619724ef613e","fromSide":"right","toNode":"f9028d5298f083de","toSide":"left"},
+		{"id":"7c1ce088970bc683","fromNode":"f9028d5298f083de","fromSide":"right","toNode":"85a1c5d46eacfe57","toSide":"left"}
 	]
 }
