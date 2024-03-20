@@ -153,7 +153,7 @@
 		{"id":"a3e5619724ef613e","x":2841,"y":5260,"width":306,"height":220,"color":"4","type":"text","text":"# UNIT 5"},
 		{"id":"f9028d5298f083de","x":3374,"y":5282,"width":250,"height":60,"type":"text","text":"Phases in NLP\nApplications"},
 		{"id":"c108407da64ba426","type":"file","file":"IMG-20240320-WA0004.jpg","x":6933,"y":-1988,"width":652,"height":1458,"color":"1"},
-		{"id":"85a1c5d46eacfe57","x":6035,"y":-1371,"width":250,"height":337,"type":"text","text":"Principal component analysis\nHierarchical clustering\n\nExplain parsing with example\nDescribe SR in terms of Language model and acoustic model\n\nComponents of NLP in detail\nWhat is ASR\n\nImportance of NLP, phases of NLP\n\nlinguistics hedges in fuzzy logic\n\n\n\n\n"}
+		{"id":"85a1c5d46eacfe57","x":6035,"y":-1371,"width":250,"height":337,"type":"text","text":"Explain parsing with example\nDescribe SR in terms of Language model and acoustic model\n\nComponents of NLP in detail\nWhat is ASR\n\nImportance of NLP, phases of NLP\n\nlinguistics hedges in fuzzy logic\n\n\n\n\n"}
 	],
 	"edges":[
 		{"id":"8f18b7f4aa5be4f9","fromNode":"9c6ecf509098faf6","fromSide":"right","toNode":"2ad0287df0f5ad72","toSide":"left"},
