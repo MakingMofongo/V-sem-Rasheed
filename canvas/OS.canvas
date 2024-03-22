@@ -75,8 +75,10 @@
 		{"id":"f4b65f11b0d6bfe3","type":"file","file":"Pasted image 20240322192433.png","x":5565,"y":320,"width":500,"height":235},
 		{"id":"1c8c391f6a3f1523","x":5117,"y":618,"width":250,"height":60,"type":"text","text":"Time Sharing OS"},
 		{"id":"de2e6ec7a8cb8706","x":5117,"y":1060,"width":250,"height":60,"type":"text","text":"Distrubuted"},
-		{"id":"767146d5af10a216","x":5464,"y":1068,"width":436,"height":232,"type":"text","text":" a model that uses multiple computers to run applications, while each computer has its own processor and memory\n\nloosely coupled\ndia\n\nadv\ndisadb"},
-		{"id":"e3ef2f99e7eaca1e","x":5490,"y":600,"width":650,"height":428,"type":"text","text":"what\ndia: ![[Pasted image 20240322194131.png]]\nsuppose 3 process..\nquantum\n\nonly one process runs at a time but.."}
+		{"id":"767146d5af10a216","x":5464,"y":1068,"width":496,"height":592,"type":"text","text":" a model that uses multiple computers to run applications, while each computer has its own processor and memory\n\nloosely coupled\ndia\n![[Pasted image 20240322194630.png]]\n\nadv\ndisadv"},
+		{"id":"e3ef2f99e7eaca1e","x":5490,"y":600,"width":650,"height":428,"type":"text","text":"what\ndia: ![[Pasted image 20240322194131.png]]\nsuppose 3 process..\nquantum\n\nonly one process runs at a time but.."},
+		{"id":"984a35d04144b650","x":5174,"y":1753,"width":250,"height":60,"type":"text","text":"Network OS"},
+		{"id":"00d482cfe02bd671","x":5514,"y":1777,"width":250,"height":283,"type":"text","text":"Server that connect...\nFile sharing...\nDia\n![[Pasted image 20240322194724.png]]"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -124,6 +126,8 @@
 		{"id":"0f9e923955506802","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"1c8c391f6a3f1523","toSide":"left"},
 		{"id":"c3415c5850d8476a","fromNode":"1c8c391f6a3f1523","fromSide":"right","toNode":"e3ef2f99e7eaca1e","toSide":"left"},
 		{"id":"a03238424b32565a","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"de2e6ec7a8cb8706","toSide":"left"},
-		{"id":"187d9afcde943e6f","fromNode":"de2e6ec7a8cb8706","fromSide":"right","toNode":"767146d5af10a216","toSide":"left"}
+		{"id":"187d9afcde943e6f","fromNode":"de2e6ec7a8cb8706","fromSide":"right","toNode":"767146d5af10a216","toSide":"left"},
+		{"id":"8f5dc2c271d22557","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"984a35d04144b650","toSide":"left"},
+		{"id":"5c252d933551f263","fromNode":"984a35d04144b650","fromSide":"right","toNode":"00d482cfe02bd671","toSide":"left"}
 	]
 }
