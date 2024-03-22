@@ -126,7 +126,7 @@
 		{"id":"bfd141236889ff6b","type":"text","text":"Diff b/w process and thread","x":10338,"y":2927,"width":250,"height":138},
 		{"id":"3ae06c8068f01834","type":"file","file":"Pasted image 20240322232857.png","x":11123,"y":2840,"width":967,"height":665},
 		{"id":"5bcca0bf353ccc83","type":"text","text":"Def\nTime for creation\nTime for termination\nContext Switching\nIPC\nIndependence\nHave different address space, Have same address space ","x":10678,"y":2892,"width":360,"height":248},
-		{"id":"409e1db2af4dd131","type":"text","text":"Types of Threads","x":10728,"y":3757,"width":250,"height":60}
+		{"id":"409e1db2af4dd131","type":"text","text":"Types of Threads","x":10338,"y":3760,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
