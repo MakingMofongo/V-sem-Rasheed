@@ -78,7 +78,9 @@
 		{"id":"767146d5af10a216","x":5464,"y":1068,"width":496,"height":592,"type":"text","text":" a model that uses multiple computers to run applications, while each computer has its own processor and memory\n\nloosely coupled\ndia\n![[Pasted image 20240322194630.png]]\n\nadv\ndisadv"},
 		{"id":"e3ef2f99e7eaca1e","x":5490,"y":600,"width":650,"height":428,"type":"text","text":"what\ndia: ![[Pasted image 20240322194131.png]]\nsuppose 3 process..\nquantum\n\nonly one process runs at a time but.."},
 		{"id":"984a35d04144b650","x":5174,"y":1753,"width":250,"height":60,"type":"text","text":"Network OS"},
-		{"id":"00d482cfe02bd671","x":5514,"y":1777,"width":250,"height":283,"type":"text","text":"Server that connect...\nFile sharing...\nDia\n![[Pasted image 20240322194724.png]]"}
+		{"id":"00d482cfe02bd671","x":5514,"y":1777,"width":406,"height":423,"type":"text","text":"Server that connect...\nFile sharing...\nDia\n![[Pasted image 20240322194724.png]]\nadv\ndisadv"},
+		{"id":"fe87ee4b804b9415","x":5235,"y":2314,"width":250,"height":60,"type":"text","text":"Realtime OS"},
+		{"id":"82bfb3bcb649907e","x":5560,"y":2300,"width":231,"height":335,"type":"text","text":"Response time\nused in\ndisadv\n\n![[Pasted image 20240322194809.png]]"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -128,6 +130,8 @@
 		{"id":"a03238424b32565a","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"de2e6ec7a8cb8706","toSide":"left"},
 		{"id":"187d9afcde943e6f","fromNode":"de2e6ec7a8cb8706","fromSide":"right","toNode":"767146d5af10a216","toSide":"left"},
 		{"id":"8f5dc2c271d22557","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"984a35d04144b650","toSide":"left"},
-		{"id":"5c252d933551f263","fromNode":"984a35d04144b650","fromSide":"right","toNode":"00d482cfe02bd671","toSide":"left"}
+		{"id":"5c252d933551f263","fromNode":"984a35d04144b650","fromSide":"right","toNode":"00d482cfe02bd671","toSide":"left"},
+		{"id":"845de5d068574723","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"fe87ee4b804b9415","toSide":"left"},
+		{"id":"c159674dc0bd0ab0","fromNode":"fe87ee4b804b9415","fromSide":"right","toNode":"82bfb3bcb649907e","toSide":"left"}
 	]
 }
