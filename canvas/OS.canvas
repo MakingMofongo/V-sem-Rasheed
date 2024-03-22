@@ -58,7 +58,7 @@
 		{"id":"861b4e4c886b366c","type":"file","file":"pl n os question papers_page-0005 1.jpg","x":4477,"y":-3400,"width":367,"height":519},
 		{"id":"5f58c3f91b3940eb","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**, various states in which a process can exist with diagram\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]","x":1124,"y":-2062,"width":650,"height":616},
 		{"id":"faaea46be1f80bca","type":"file","file":"OS unit 1.pdf","x":3698,"y":-360,"width":862,"height":520},
-		{"id":"0118ad83fa679b10","type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md","x":2534,"y":-420,"width":870,"height":580},
+		{"id":"0118ad83fa679b10","type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md","x":2534,"y":-420,"width":870,"height":780},
 		{"id":"0e1a135bd53168b9","type":"text","text":"Concept of OS","x":4793,"y":-336,"width":250,"height":60},
 		{"id":"dec76348e963cd8d","type":"text","text":"What it is, diagram\nWhat it does - functions","x":5230,"y":-485,"width":250,"height":60},
 		{"id":"a90177d18354fe35","type":"text","text":"Generations of OS","x":4809,"y":-200,"width":250,"height":60},
@@ -80,7 +80,8 @@
 		{"id":"984a35d04144b650","x":5174,"y":1753,"width":250,"height":60,"type":"text","text":"Network OS"},
 		{"id":"00d482cfe02bd671","x":5514,"y":1777,"width":406,"height":423,"type":"text","text":"Server that connect...\nFile sharing...\nDia\n![[Pasted image 20240322194724.png]]\nadv\ndisadv"},
 		{"id":"fe87ee4b804b9415","x":5235,"y":2314,"width":250,"height":60,"type":"text","text":"Realtime OS"},
-		{"id":"82bfb3bcb649907e","x":5560,"y":2300,"width":231,"height":335,"type":"text","text":"Response time\nused in\ndisadv\n\n![[Pasted image 20240322194809.png]]"}
+		{"id":"82bfb3bcb649907e","x":5560,"y":2300,"width":231,"height":335,"type":"text","text":"Response time\nused in\ndisadv\n\n![[Pasted image 20240322194809.png]]"},
+		{"id":"50464c47fdb2ac8a","x":6185,"y":-290,"width":250,"height":60,"type":"text","text":"OS services"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -132,6 +133,7 @@
 		{"id":"8f5dc2c271d22557","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"984a35d04144b650","toSide":"left"},
 		{"id":"5c252d933551f263","fromNode":"984a35d04144b650","fromSide":"right","toNode":"00d482cfe02bd671","toSide":"left"},
 		{"id":"845de5d068574723","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"fe87ee4b804b9415","toSide":"left"},
-		{"id":"c159674dc0bd0ab0","fromNode":"fe87ee4b804b9415","fromSide":"right","toNode":"82bfb3bcb649907e","toSide":"left"}
+		{"id":"c159674dc0bd0ab0","fromNode":"fe87ee4b804b9415","fromSide":"right","toNode":"82bfb3bcb649907e","toSide":"left"},
+		{"id":"5eb8a12b9b09cc87","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"50464c47fdb2ac8a","toSide":"left"}
 	]
 }
