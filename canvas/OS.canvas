@@ -72,7 +72,9 @@
 		{"id":"fd5a621cf2fd4de6","type":"text","text":"Batch System\nIO Operation by CPU (Processor had lots of IDLE time)\nlaid foundation for Multi tasking\n","x":5600,"y":-245,"width":250,"height":190},
 		{"id":"7570e22f9af82a40","type":"text","text":"Types of OS","x":4765,"y":401,"width":250,"height":60},
 		{"id":"70fa4c6f4699f80a","type":"text","text":"Batch OS","x":5135,"y":412,"width":250,"height":60},
-		{"id":"f4b65f11b0d6bfe3","type":"file","file":"Pasted image 20240322192433.png","x":5565,"y":320,"width":500,"height":235}
+		{"id":"f4b65f11b0d6bfe3","type":"file","file":"Pasted image 20240322192433.png","x":5565,"y":320,"width":500,"height":235},
+		{"id":"1c8c391f6a3f1523","x":5117,"y":618,"width":250,"height":60,"type":"text","text":"Time Sharing OS"},
+		{"id":"e3ef2f99e7eaca1e","x":5470,"y":692,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -116,6 +118,8 @@
 		{"id":"e80daef07e38a963","fromNode":"96dba9a82fdafe03","fromSide":"right","toNode":"ea68f54cee7b6b38","toSide":"left"},
 		{"id":"ed4a8717d782f7b2","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"7570e22f9af82a40","toSide":"left"},
 		{"id":"a49a06c653a238c3","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"70fa4c6f4699f80a","toSide":"left"},
-		{"id":"55902e69887212c9","fromNode":"70fa4c6f4699f80a","fromSide":"right","toNode":"f4b65f11b0d6bfe3","toSide":"left"}
+		{"id":"55902e69887212c9","fromNode":"70fa4c6f4699f80a","fromSide":"right","toNode":"f4b65f11b0d6bfe3","toSide":"left"},
+		{"id":"0f9e923955506802","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"1c8c391f6a3f1523","toSide":"left"},
+		{"id":"c3415c5850d8476a","fromNode":"1c8c391f6a3f1523","fromSide":"right","toNode":"e3ef2f99e7eaca1e","toSide":"left"}
 	]
 }
