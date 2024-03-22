@@ -63,11 +63,12 @@
 		{"id":"dec76348e963cd8d","x":5230,"y":-485,"width":250,"height":60,"type":"text","text":"What it is, diagram\nWhat it does - functions"},
 		{"id":"a90177d18354fe35","x":4809,"y":-200,"width":250,"height":60,"type":"text","text":"Generations of OS"},
 		{"id":"11ece5153ffeb7fd","x":5216,"y":-292,"width":250,"height":60,"type":"text","text":"First Generation"},
-		{"id":"66580a8e4455369b","type":"text","text":"First Generation","x":5216,"y":-200,"width":250,"height":60},
-		{"id":"1fe6a3fc31813581","type":"text","text":"First Generation","x":5216,"y":-80,"width":250,"height":60},
+		{"id":"66580a8e4455369b","type":"text","text":"Second Generation","x":5216,"y":-200,"width":250,"height":60},
+		{"id":"1fe6a3fc31813581","type":"text","text":"Third Generation","x":5216,"y":-80,"width":250,"height":60},
 		{"id":"96dba9a82fdafe03","type":"text","text":"First Generation","x":5216,"y":40,"width":250,"height":60},
 		{"id":"88bcb3a60e50a3cc","x":5590,"y":-360,"width":330,"height":160,"type":"text","text":"\nSerial Processing\nNo os\nVaccum Tubes\nelectricity and heat more\nMachine language\neg ENIAC\n\n"},
-		{"id":"fd5a621cf2fd4de6","x":5668,"y":-173,"width":250,"height":173,"type":"text","text":"Batch System\nIO oper"}
+		{"id":"fd5a621cf2fd4de6","x":5668,"y":-173,"width":250,"height":173,"type":"text","text":"Batch System\nIO Operation by CPU (Processor had lots of IDLE time)\nlaid foundation for Multi tasking\n"},
+		{"id":"d32653e210f273fd","x":5719,"y":63,"width":250,"height":60,"type":"text","text":"Multi tasking\nOnline storage\nIC\nNo Stara"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -106,6 +107,7 @@
 		{"id":"bd7ef5808d6bb04d","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"a90177d18354fe35","toSide":"left"},
 		{"id":"519060b35c80e337","fromNode":"a90177d18354fe35","fromSide":"right","toNode":"11ece5153ffeb7fd","toSide":"left"},
 		{"id":"a9f93ffd25948591","fromNode":"11ece5153ffeb7fd","fromSide":"right","toNode":"88bcb3a60e50a3cc","toSide":"left"},
-		{"id":"f14b35e6e277876e","fromNode":"66580a8e4455369b","fromSide":"right","toNode":"fd5a621cf2fd4de6","toSide":"left"}
+		{"id":"f14b35e6e277876e","fromNode":"66580a8e4455369b","fromSide":"right","toNode":"fd5a621cf2fd4de6","toSide":"left"},
+		{"id":"02c7758e18d708e3","fromNode":"1fe6a3fc31813581","fromSide":"right","toNode":"d32653e210f273fd","toSide":"left"}
 	]
 }
