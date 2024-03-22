@@ -60,7 +60,8 @@
 		{"id":"faaea46be1f80bca","type":"file","file":"OS unit 1.pdf","x":3698,"y":-360,"width":862,"height":520},
 		{"id":"0118ad83fa679b10","x":2534,"y":-420,"width":870,"height":580,"type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md"},
 		{"id":"0e1a135bd53168b9","x":4793,"y":-336,"width":250,"height":60,"type":"text","text":"Concept of OS"},
-		{"id":"dec76348e963cd8d","x":5230,"y":-485,"width":250,"height":60,"type":"text","text":"What it is, diagram\nWhat it does - functions"}
+		{"id":"dec76348e963cd8d","x":5230,"y":-485,"width":250,"height":60,"type":"text","text":"What it is, diagram\nWhat it does - functions"},
+		{"id":"a90177d18354fe35","x":4809,"y":-200,"width":250,"height":60,"type":"text","text":"Generations of OS"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -95,6 +96,7 @@
 		{"id":"9cc7ce6e053ffd45","fromNode":"4c8238c4bdb8e47f","fromSide":"right","toNode":"bbda6d64c9adfa74","toSide":"left"},
 		{"id":"5b8635767bcf5f76","fromNode":"0118ad83fa679b10","fromSide":"right","toNode":"faaea46be1f80bca","toSide":"left"},
 		{"id":"712934a6cec18443","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"0e1a135bd53168b9","toSide":"left"},
-		{"id":"495940319676ca9e","fromNode":"0e1a135bd53168b9","fromSide":"right","toNode":"dec76348e963cd8d","toSide":"left"}
+		{"id":"495940319676ca9e","fromNode":"0e1a135bd53168b9","fromSide":"right","toNode":"dec76348e963cd8d","toSide":"left"},
+		{"id":"bd7ef5808d6bb04d","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"a90177d18354fe35","toSide":"left"}
 	]
 }
