@@ -90,7 +90,8 @@
 		{"id":"ecb3d7e35d88eb4a","type":"text","text":"diff b/w user mode and kernel mode","x":5936,"y":497,"width":250,"height":60},
 		{"id":"bbda407919f6bedc","type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. mode\nSeparate VAS, Single VAS","x":6288,"y":485,"width":436,"height":170},
 		{"id":"705e7c70d4c4b833","x":6013,"y":853,"width":250,"height":60,"type":"text","text":"Types"},
-		{"id":"ffab760a9d2a3c7e","x":6303,"y":729,"width":769,"height":432,"type":"file","file":"Pasted image 20240322211235.png"}
+		{"id":"ffab760a9d2a3c7e","x":6303,"y":729,"width":769,"height":432,"type":"file","file":"Pasted image 20240322211235.png"},
+		{"id":"00c2ff68de22894e","x":7200,"y":511,"width":880,"height":686,"type":"file","file":"Pasted image 20240322211347.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -152,6 +153,7 @@
 		{"id":"400ff4f1fa81704e","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"2e762c1e0952bf5e","toSide":"left"},
 		{"id":"883278c1aa936083","fromNode":"2e762c1e0952bf5e","fromSide":"right","toNode":"faa8fbc57ff70a40","toSide":"left"},
 		{"id":"21b5b10b4ec0f454","fromNode":"6e0392043124df84","fromSide":"right","toNode":"705e7c70d4c4b833","toSide":"left"},
-		{"id":"e5858826d9754d36","fromNode":"705e7c70d4c4b833","fromSide":"right","toNode":"ffab760a9d2a3c7e","toSide":"left"}
+		{"id":"e5858826d9754d36","fromNode":"705e7c70d4c4b833","fromSide":"right","toNode":"ffab760a9d2a3c7e","toSide":"left"},
+		{"id":"cead03904bd3d25e","fromNode":"ffab760a9d2a3c7e","fromSide":"right","toNode":"00c2ff68de22894e","toSide":"left"}
 	]
 }
