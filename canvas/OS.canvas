@@ -144,7 +144,8 @@
 		{"id":"5dd06c03ea10673b","type":"text","text":"### Scheduling","x":9488,"y":5552,"width":250,"height":197,"color":"3"},
 		{"id":"cf4d07a94c6f791f","x":10627,"y":5632,"width":250,"height":60,"type":"text","text":"Def\nGoal"},
 		{"id":"897fa5306f792674","x":11053,"y":5649,"width":387,"height":113,"type":"text","text":"Mechanism by which the OS...\nGoal is to Optimize.. by ... ... ..."},
-		{"id":"a794027bad2bf380","x":11653,"y":5466,"width":587,"height":272,"type":"text","text":"**Definition**:\n\n- Process scheduling is the mechanism by which the operating system determines the order in which processes are executed on the CPU.\n- The goal of process scheduling is to optimize system performance by maximizing CPU utilization, minimizing response time, and ensuring fairness and efficiency in resource allocation."}
+		{"id":"a794027bad2bf380","x":11653,"y":5466,"width":587,"height":272,"type":"text","text":"**Definition**:\n\n- Process scheduling is the mechanism by which the operating system determines the order in which processes are executed on the CPU.\n- The goal of process scheduling is to optimize system performance by maximizing CPU utilization, minimizing response time, and ensuring fairness and efficiency in resource allocation."},
+		{"id":"ae2eae7283c75128","x":10591,"y":5779,"width":250,"height":60,"type":"text","text":"Preemptive\nNon preemptive"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -259,6 +260,7 @@
 		{"id":"27f6ccaf1db56df1","fromNode":"5dd06c03ea10673b","fromSide":"right","toNode":"e143e49c6fe76a30","toSide":"left"},
 		{"id":"c58caf40779b013b","fromNode":"a3b755ca4f7eb2ee","fromSide":"right","toNode":"cf4d07a94c6f791f","toSide":"left"},
 		{"id":"228e84bdec5af153","fromNode":"cf4d07a94c6f791f","fromSide":"right","toNode":"897fa5306f792674","toSide":"left"},
-		{"id":"67e3f253114fe7a3","fromNode":"897fa5306f792674","fromSide":"right","toNode":"a794027bad2bf380","toSide":"left"}
+		{"id":"67e3f253114fe7a3","fromNode":"897fa5306f792674","fromSide":"right","toNode":"a794027bad2bf380","toSide":"left"},
+		{"id":"36cc2c19de48a6c7","fromNode":"b12035533af5f0dd","fromSide":"right","toNode":"ae2eae7283c75128","toSide":"left"}
 	]
 }
