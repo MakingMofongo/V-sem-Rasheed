@@ -61,7 +61,12 @@
 		{"id":"0118ad83fa679b10","x":2534,"y":-420,"width":870,"height":580,"type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md"},
 		{"id":"0e1a135bd53168b9","x":4793,"y":-336,"width":250,"height":60,"type":"text","text":"Concept of OS"},
 		{"id":"dec76348e963cd8d","x":5230,"y":-485,"width":250,"height":60,"type":"text","text":"What it is, diagram\nWhat it does - functions"},
-		{"id":"a90177d18354fe35","x":4809,"y":-200,"width":250,"height":60,"type":"text","text":"Generations of OS"}
+		{"id":"a90177d18354fe35","x":4809,"y":-200,"width":250,"height":60,"type":"text","text":"Generations of OS"},
+		{"id":"11ece5153ffeb7fd","x":5216,"y":-292,"width":250,"height":60,"type":"text","text":"First Generation"},
+		{"id":"66580a8e4455369b","type":"text","text":"First Generation","x":5216,"y":-200,"width":250,"height":60},
+		{"id":"1fe6a3fc31813581","type":"text","text":"First Generation","x":5216,"y":-80,"width":250,"height":60},
+		{"id":"96dba9a82fdafe03","type":"text","text":"First Generation","x":5216,"y":40,"width":250,"height":60},
+		{"id":"88bcb3a60e50a3cc","x":5590,"y":-360,"width":250,"height":60,"type":"text","text":"Serial Processing\nVaccum Tubes\n"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -97,6 +102,8 @@
 		{"id":"5b8635767bcf5f76","fromNode":"0118ad83fa679b10","fromSide":"right","toNode":"faaea46be1f80bca","toSide":"left"},
 		{"id":"712934a6cec18443","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"0e1a135bd53168b9","toSide":"left"},
 		{"id":"495940319676ca9e","fromNode":"0e1a135bd53168b9","fromSide":"right","toNode":"dec76348e963cd8d","toSide":"left"},
-		{"id":"bd7ef5808d6bb04d","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"a90177d18354fe35","toSide":"left"}
+		{"id":"bd7ef5808d6bb04d","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"a90177d18354fe35","toSide":"left"},
+		{"id":"519060b35c80e337","fromNode":"a90177d18354fe35","fromSide":"right","toNode":"11ece5153ffeb7fd","toSide":"left"},
+		{"id":"a9f93ffd25948591","fromNode":"11ece5153ffeb7fd","fromSide":"right","toNode":"88bcb3a60e50a3cc","toSide":"left"}
 	]
 }
