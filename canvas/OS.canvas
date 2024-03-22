@@ -86,7 +86,7 @@
 		{"id":"bfa959739ff60967","type":"file","file":"pl n os question papers_page-0019 1.jpg","x":1832,"y":-3406,"width":367,"height":519},
 		{"id":"9e21c2c5ad26b7fc","type":"file","file":"pl n os question papers_page-0026 1.jpg","x":1832,"y":-4600,"width":367,"height":519},
 		{"id":"ecb3d7e35d88eb4a","x":7012,"y":-38,"width":250,"height":60,"type":"text","text":"diff b/w user mode and kernel mode"},
-		{"id":"bbda407919f6bedc","x":7364,"y":-50,"width":250,"height":60,"type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. moe\n"}
+		{"id":"bbda407919f6bedc","x":7364,"y":-50,"width":436,"height":170,"type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. mode\nSeparate VAS, Single VAS"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
