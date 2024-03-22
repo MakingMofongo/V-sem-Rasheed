@@ -96,7 +96,8 @@
 		{"id":"6be1eb69407579e0","x":5078,"y":2240,"width":342,"height":220,"type":"text","text":"Monolithic\nall OS services are..\ntightly integrated\neffiecient\ncomplex\nlimited modularity\neg early unix"},
 		{"id":"e357ad2c8aef6000","x":5540,"y":2200,"width":652,"height":380,"type":"file","file":"Pasted image 20240322213056.png"},
 		{"id":"27169175186853e8","x":5069,"y":1720,"width":702,"height":457,"type":"text","text":"Layered\nOS is broken down into... bot top, organized hirarchically...adv,disadv\n![[Pasted image 20240322212609.png]]\n"},
-		{"id":"d3299e451b0aef4a","x":5153,"y":2641,"width":250,"height":60,"type":"text","text":"Micro kernel-\nminimalistic kernel\nmodularity\nreliability\n\tflexibility and extensibility"}
+		{"id":"fa0e615fd4785405","x":5540,"y":2641,"width":780,"height":491,"type":"file","file":"Pasted image 20240322213435.png"},
+		{"id":"d3299e451b0aef4a","x":5069,"y":2641,"width":387,"height":199,"type":"text","text":"Micro kernel-\nminimalistic kernel\nmodularity\nreliability\nflexibility and extensibility\nperformance tradeoff due to increased..\neg early OSX"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -164,6 +165,7 @@
 		{"id":"004f84477503e4e5","fromNode":"e58268b6c6ccca40","fromSide":"right","toNode":"27169175186853e8","toSide":"left"},
 		{"id":"097c691707142e53","fromNode":"e58268b6c6ccca40","fromSide":"right","toNode":"6be1eb69407579e0","toSide":"left"},
 		{"id":"0cb4e39d73371ac1","fromNode":"6be1eb69407579e0","fromSide":"right","toNode":"e357ad2c8aef6000","toSide":"left"},
-		{"id":"8343cafa3569a39c","fromNode":"e58268b6c6ccca40","fromSide":"right","toNode":"d3299e451b0aef4a","toSide":"left"}
+		{"id":"8343cafa3569a39c","fromNode":"e58268b6c6ccca40","fromSide":"right","toNode":"d3299e451b0aef4a","toSide":"left"},
+		{"id":"569bfd284a3891a0","fromNode":"d3299e451b0aef4a","fromSide":"right","toNode":"fa0e615fd4785405","toSide":"left"}
 	]
 }
