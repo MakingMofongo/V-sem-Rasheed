@@ -93,7 +93,7 @@
 		{"id":"ffab760a9d2a3c7e","x":6303,"y":729,"width":769,"height":432,"type":"file","file":"Pasted image 20240322211235.png"},
 		{"id":"00c2ff68de22894e","x":7200,"y":511,"width":880,"height":686,"type":"file","file":"Pasted image 20240322211347.png"},
 		{"id":"e58268b6c6ccca40","x":4737,"y":1803,"width":250,"height":60,"type":"text","text":"Types of OS"},
-		{"id":"27169175186853e8","x":5078,"y":1783,"width":342,"height":237,"type":"text","text":"Layered\nOS is broken down into.\n![[Pasted image 20240322212609.png]]"}
+		{"id":"27169175186853e8","x":5078,"y":1783,"width":342,"height":237,"type":"text","text":"Layered\nOS is broken down into... bot top, organized hirarchically...adv,disadv\n![[Pasted image 20240322212609.png]]\n"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
