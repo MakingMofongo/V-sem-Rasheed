@@ -103,7 +103,10 @@
 		{"id":"6d7d95d77684ac6b","type":"text","text":"Virtualization","x":4724,"y":3194,"width":261,"height":100},
 		{"id":"10fc6d82e8b449d7","x":5683,"y":3294,"width":517,"height":552,"type":"file","file":"Pasted image 20240322215326.png"},
 		{"id":"1b141c4b12e68bb7","x":8840,"y":-840,"width":480,"height":450,"color":"4","type":"text","text":"## UNIT 2"},
-		{"id":"bd1ba4cb2040dcf4","type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md","x":7320,"y":-1080,"width":1390,"height":1405}
+		{"id":"bd1ba4cb2040dcf4","type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md","x":7320,"y":-1080,"width":1390,"height":1405},
+		{"id":"1486ad25c1b68a42","x":9567,"y":-681,"width":250,"height":60,"type":"text","text":"Process states"},
+		{"id":"af9220ce68606202","x":9900,"y":-1014,"width":753,"height":667,"type":"file","file":"Pasted image 20240322220437.png"},
+		{"id":"0028662b749edea0","x":9409,"y":-937,"width":250,"height":60,"type":"text","text":"Processs def"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -177,6 +180,9 @@
 		{"id":"288a8bef24ec47c4","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"6d7d95d77684ac6b","toSide":"left"},
 		{"id":"d5130a9dcc031534","fromNode":"6d7d95d77684ac6b","fromSide":"right","toNode":"06a64b55709edd17","toSide":"left"},
 		{"id":"17b804d95aa510f3","fromNode":"06a64b55709edd17","fromSide":"right","toNode":"10fc6d82e8b449d7","toSide":"left"},
-		{"id":"7f9e297be44d2ae8","fromNode":"bd1ba4cb2040dcf4","fromSide":"right","toNode":"1b141c4b12e68bb7","toSide":"left"}
+		{"id":"7f9e297be44d2ae8","fromNode":"bd1ba4cb2040dcf4","fromSide":"right","toNode":"1b141c4b12e68bb7","toSide":"left"},
+		{"id":"b85519b89507fb2c","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"1486ad25c1b68a42","toSide":"left"},
+		{"id":"e4216db71ca17e1f","fromNode":"1486ad25c1b68a42","fromSide":"right","toNode":"af9220ce68606202","toSide":"left"},
+		{"id":"7743dca312b35b46","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"0028662b749edea0","toSide":"left"}
 	]
 }
