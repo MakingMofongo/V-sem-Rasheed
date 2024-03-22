@@ -119,7 +119,7 @@
 		{"id":"aa4d09cbed6a510d","x":9870,"y":2014,"width":250,"height":60,"type":"text","text":"Multithreaded server architecture"},
 		{"id":"438c95b7e34285b5","x":9841,"y":1155,"width":279,"height":185,"type":"text","text":"Allows concurrency\nShared resources\nThread States"},
 		{"id":"f46f783e880b1056","x":10204,"y":1070,"width":553,"height":238,"type":"file","file":"Pasted image 20240322231507.png"},
-		{"id":"8135ae8c75675905","x":10862,"y":1128,"width":250,"height":60,"type":"text","text":"Waiting for other event to trigger/finish\nDelayed l"}
+		{"id":"8135ae8c75675905","x":10862,"y":1128,"width":278,"height":132,"type":"text","text":"Waiting for other event to trigger/finish\nDelayed like snooze\nBlocked for I/O task"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
