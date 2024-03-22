@@ -142,10 +142,10 @@
 		{"id":"c5eeaca878434b58","type":"text","text":"Scheduling Algorithms","x":10084,"y":5762,"width":250,"height":60},
 		{"id":"e143e49c6fe76a30","type":"text","text":"Multiprocessor Scheduling","x":10084,"y":5842,"width":250,"height":60},
 		{"id":"5dd06c03ea10673b","type":"text","text":"### Scheduling","x":9488,"y":5552,"width":250,"height":197,"color":"3"},
-		{"id":"cf4d07a94c6f791f","x":10627,"y":5632,"width":250,"height":60,"type":"text","text":"Def\nGoal"},
-		{"id":"897fa5306f792674","x":11053,"y":5649,"width":387,"height":113,"type":"text","text":"Mechanism by which the OS...\nGoal is to Optimize.. by ... ... ..."},
-		{"id":"a794027bad2bf380","x":11653,"y":5466,"width":587,"height":272,"type":"text","text":"**Definition**:\n\n- Process scheduling is the mechanism by which the operating system determines the order in which processes are executed on the CPU.\n- The goal of process scheduling is to optimize system performance by maximizing CPU utilization, minimizing response time, and ensuring fairness and efficiency in resource allocation."},
-		{"id":"ae2eae7283c75128","x":10591,"y":5779,"width":250,"height":60,"type":"text","text":"Preemptive\nNon preemptive"}
+		{"id":"cf4d07a94c6f791f","type":"text","text":"Def\nGoal","x":10627,"y":5632,"width":250,"height":60},
+		{"id":"897fa5306f792674","type":"text","text":"Mechanism by which the OS...\nGoal is to Optimize.. by ... ... ...","x":11053,"y":5649,"width":387,"height":113},
+		{"id":"a794027bad2bf380","type":"text","text":"**Definition**:\n\n- Process scheduling is the mechanism by which the operating system determines the order in which processes are executed on the CPU.\n- The goal of process scheduling is to optimize system performance by maximizing CPU utilization, minimizing response time, and ensuring fairness and efficiency in resource allocation.","x":11653,"y":5466,"width":587,"height":272},
+		{"id":"ae2eae7283c75128","type":"text","text":"Preemptive\nNon preemptive","x":10591,"y":5779,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
