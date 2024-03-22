@@ -55,10 +55,6 @@
 		{"id":"00d482cfe02bd671","x":5514,"y":1777,"width":406,"height":423,"type":"text","text":"Server that connect...\nFile sharing...\nDia\n![[Pasted image 20240322194724.png]]\nadv\ndisadv"},
 		{"id":"fe87ee4b804b9415","x":5235,"y":2314,"width":250,"height":60,"type":"text","text":"Realtime OS"},
 		{"id":"82bfb3bcb649907e","x":5560,"y":2300,"width":231,"height":335,"type":"text","text":"Response time\nused in\ndisadv\n\n![[Pasted image 20240322194809.png]]"},
-		{"id":"50464c47fdb2ac8a","x":6185,"y":-290,"width":250,"height":60,"type":"text","text":"OS services"},
-		{"id":"ba9b89eed4e68966","x":6559,"y":-341,"width":341,"height":191,"type":"text","text":"process execution\nfile system management\nIO operations \nError handling\ncommunication\nprotection"},
-		{"id":"daa58699613129f6","x":6208,"y":-107,"width":250,"height":60,"type":"text","text":"System calls"},
-		{"id":"6e0392043124df84","x":6507,"y":-83,"width":353,"height":163,"type":"text","text":"Interface b/w User Space and Kernel\nProvides controlled access to sys resources\neg: malloc,free(),open,read,write\nTransition to kernel mode\n"},
 		{"id":"da55c7fa36aeb553","type":"file","file":"pl n os question papers_page-0025 1.jpg","x":4142,"y":-3406,"width":367,"height":519},
 		{"id":"5ca2a92409a10b6b","type":"file","file":"pl n os question papers_page-0020 1.jpg","x":4719,"y":-3406,"width":367,"height":519},
 		{"id":"bfb1c4a1f1dbde57","type":"file","file":"pl n os question papers_page-0022 1.jpg","x":5297,"y":-3406,"width":367,"height":519},
@@ -85,8 +81,13 @@
 		{"id":"861b4e4c886b366c","type":"file","file":"pl n os question papers_page-0005 1.jpg","x":4719,"y":-5360,"width":367,"height":519},
 		{"id":"bfa959739ff60967","type":"file","file":"pl n os question papers_page-0019 1.jpg","x":1832,"y":-3406,"width":367,"height":519},
 		{"id":"9e21c2c5ad26b7fc","type":"file","file":"pl n os question papers_page-0026 1.jpg","x":1832,"y":-4600,"width":367,"height":519},
-		{"id":"ecb3d7e35d88eb4a","x":7012,"y":-38,"width":250,"height":60,"type":"text","text":"diff b/w user mode and kernel mode"},
-		{"id":"bbda407919f6bedc","x":7364,"y":-50,"width":436,"height":170,"type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. mode\nSeparate VAS, Single VAS"}
+		{"id":"6e0392043124df84","x":5171,"y":3098,"width":353,"height":163,"type":"text","text":"Interface b/w User Space and Kernel\nProvides controlled access to sys resources\neg: malloc,free(),open,read,write\nTransition to kernel mode\n"},
+		{"id":"ba9b89eed4e68966","x":5223,"y":2840,"width":341,"height":191,"type":"text","text":"process execution\nfile system management\nIO operations \nError handling\ncommunication\nprotection"},
+		{"id":"ecb3d7e35d88eb4a","x":5676,"y":3143,"width":250,"height":60,"type":"text","text":"diff b/w user mode and kernel mode"},
+		{"id":"bbda407919f6bedc","x":6028,"y":3131,"width":436,"height":170,"type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. mode\nSeparate VAS, Single VAS"},
+		{"id":"2e762c1e0952bf5e","x":5160,"y":3402,"width":250,"height":60,"type":"text","text":"Context switching"},
+		{"id":"50464c47fdb2ac8a","x":4849,"y":2891,"width":250,"height":60,"type":"text","text":"OS services"},
+		{"id":"daa58699613129f6","x":4872,"y":3074,"width":250,"height":60,"type":"text","text":"System calls"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -144,6 +145,7 @@
 		{"id":"d790ab2acac9e8f5","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"daa58699613129f6","toSide":"left"},
 		{"id":"be3a64740531b319","fromNode":"daa58699613129f6","fromSide":"right","toNode":"6e0392043124df84","toSide":"left"},
 		{"id":"fa36298a9f134683","fromNode":"6e0392043124df84","fromSide":"right","toNode":"ecb3d7e35d88eb4a","toSide":"left"},
-		{"id":"248eb23725bc4994","fromNode":"ecb3d7e35d88eb4a","fromSide":"right","toNode":"bbda407919f6bedc","toSide":"left"}
+		{"id":"248eb23725bc4994","fromNode":"ecb3d7e35d88eb4a","fromSide":"right","toNode":"bbda407919f6bedc","toSide":"left"},
+		{"id":"400ff4f1fa81704e","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"2e762c1e0952bf5e","toSide":"left"}
 	]
 }
