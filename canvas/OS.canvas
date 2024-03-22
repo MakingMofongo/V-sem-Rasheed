@@ -58,8 +58,8 @@
 		{"id":"98c4a2c517ccbecc","type":"file","file":"pl n os question papers_page-0014 1.jpg","x":3900,"y":-2062,"width":367,"height":519},
 		{"id":"da55c7fa36aeb553","type":"file","file":"pl n os question papers_page-0025 1.jpg","x":3900,"y":-1446,"width":367,"height":519},
 		{"id":"861b4e4c886b366c","type":"file","file":"pl n os question papers_page-0005 1.jpg","x":4477,"y":-3400,"width":367,"height":519},
-		{"id":"5f58c3f91b3940eb","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]\n7. ","x":5920,"y":-2680,"width":393,"height":400},
-		{"id":"0118ad83fa679b10","x":360,"y":-620,"width":960,"height":620,"type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md"}
+		{"id":"0118ad83fa679b10","x":360,"y":-620,"width":960,"height":620,"type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md"},
+		{"id":"5f58c3f91b3940eb","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]\n7. Diff b/w process and thread, when you nee **preemtion**, pros and cons","x":1124,"y":-2062,"width":393,"height":400}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
