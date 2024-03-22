@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"faaea46be1f80bca","x":3291,"y":1239,"width":400,"height":400,"type":"file","file":"OS unit 1.pdf"},
 		{"id":"176871335e37c004","type":"file","file":"OS imp.docx","x":-180,"y":-280,"width":400,"height":400},
 		{"id":"8a7003345dc66592","type":"text","text":"4.\tPractice all the problems of CPU scheduling algorithms discussed in class (10m)(V V V IMP)","x":1035,"y":709,"width":405,"height":111},
 		{"id":"3192e9f1dc474401","type":"text","text":"FCFS","x":1563,"y":648,"width":250,"height":60},
@@ -31,7 +32,6 @@
 		{"id":"a2d3195703843781","type":"file","file":"Pasted image 20240310184148.png","x":2100,"y":2620,"width":399,"height":230},
 		{"id":"9a1805acaf75faf8","type":"file","file":"Pasted image 20240311012524.png","x":2056,"y":2940,"width":400,"height":219},
 		{"id":"bbda6d64c9adfa74","type":"file","file":"Pasted image 20240311012550.png","x":1960,"y":3240,"width":627,"height":180},
-		{"id":"527b931ec8e3b25b","type":"file","file":"pl n os question papers.pdf","x":1800,"y":360,"width":907,"height":811},
 		{"id":"9b87aaa7f8c66272","type":"file","file":"Pasted image 20240322172458.png","x":1125,"y":-200,"width":286,"height":400},
 		{"id":"2c5e0c086822a6f2","type":"file","file":"Pasted image 20240322172505.png","x":1475,"y":-180,"width":285,"height":400},
 		{"id":"1967d947328290a5","type":"file","file":"Pasted image 20240322172514.png","x":1867,"y":-180,"width":288,"height":400},
@@ -45,7 +45,8 @@
 		{"id":"0e6b734d1e29e171","x":4880,"y":-180,"width":303,"height":400,"type":"file","file":"Pasted image 20240322172701.png"},
 		{"id":"1ee46b8a3f410dfd","x":5300,"y":-180,"width":282,"height":400,"type":"file","file":"Pasted image 20240322172709.png"},
 		{"id":"0928b48f2bb85dd5","x":5680,"y":-180,"width":284,"height":400,"type":"file","file":"Pasted image 20240322172717.png"},
-		{"id":"b53e676809419d56","x":6020,"y":-180,"width":291,"height":400,"type":"file","file":"Pasted image 20240322172726.png"}
+		{"id":"b53e676809419d56","x":6020,"y":-180,"width":291,"height":400,"type":"file","file":"Pasted image 20240322172726.png"},
+		{"id":"527b931ec8e3b25b","type":"file","file":"pl n os question papers.pdf","x":1318,"y":-1160,"width":907,"height":811}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
