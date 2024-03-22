@@ -136,11 +136,12 @@
 		{"id":"98c4a2c517ccbecc","type":"file","file":"pl n os question papers_page-0014 1.jpg","x":4117,"y":-8502,"width":367,"height":519},
 		{"id":"f9c46eebc8e4e2b1","type":"file","file":"pl n os question papers_page-0015 1.jpg","x":4694,"y":-8502,"width":367,"height":519},
 		{"id":"5f58c3f91b3940eb","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**, various states in which a process can exist with diagram\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]","x":1341,"y":-8502,"width":650,"height":616},
-		{"id":"a3b755ca4f7eb2ee","x":8828,"y":-167,"width":250,"height":60,"type":"text","text":"Foundation and Scheduling Objectives"},
-		{"id":"b12035533af5f0dd","x":8810,"y":-75,"width":250,"height":60,"type":"text","text":"Types of Schedulers"},
-		{"id":"fdd33505fe6b677d","x":8810,"y":20,"width":250,"height":60,"type":"text","text":"Scheduling citeria"},
-		{"id":"c5eeaca878434b58","x":8793,"y":115,"width":250,"height":60,"type":"text","text":"Scheduling Algorithms"},
-		{"id":"e143e49c6fe76a30","x":8771,"y":210,"width":250,"height":60,"type":"text","text":"Multiprocessor Scheduling"}
+		{"id":"b12035533af5f0dd","type":"text","text":"Types of Schedulers","x":10084,"y":5602,"width":250,"height":60},
+		{"id":"a3b755ca4f7eb2ee","type":"text","text":"Foundation and Scheduling Objectives","x":10084,"y":5522,"width":250,"height":60},
+		{"id":"fdd33505fe6b677d","type":"text","text":"Scheduling citeria","x":10084,"y":5682,"width":250,"height":60},
+		{"id":"c5eeaca878434b58","type":"text","text":"Scheduling Algorithms","x":10084,"y":5762,"width":250,"height":60},
+		{"id":"e143e49c6fe76a30","type":"text","text":"Multiprocessor Scheduling","x":10084,"y":5842,"width":250,"height":60},
+		{"id":"5dd06c03ea10673b","type":"text","text":"### Scheduling","x":9488,"y":5552,"width":250,"height":197,"color":"3"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -246,6 +247,12 @@
 		{"id":"ef18f22035ef5fd9","fromNode":"e078d5137f2ee806","fromSide":"right","toNode":"26c73dfedfb13495","toSide":"left"},
 		{"id":"ce620143da5c04ee","fromNode":"26c73dfedfb13495","fromSide":"right","toNode":"dc6f90c3c8c99fdd","toSide":"left"},
 		{"id":"35dc4278de6ec232","fromNode":"26c73dfedfb13495","fromSide":"right","toNode":"adaf181b7118c19d","toSide":"left"},
-		{"id":"3b85ba7425e0b23c","fromNode":"26c73dfedfb13495","fromSide":"right","toNode":"43ff9bdc12fba660","toSide":"left"}
+		{"id":"3b85ba7425e0b23c","fromNode":"26c73dfedfb13495","fromSide":"right","toNode":"43ff9bdc12fba660","toSide":"left"},
+		{"id":"01746bd888732993","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"5dd06c03ea10673b","toSide":"left"},
+		{"id":"65a00d5f1863a1f8","fromNode":"5dd06c03ea10673b","fromSide":"right","toNode":"a3b755ca4f7eb2ee","toSide":"left"},
+		{"id":"299e731f3c8cf75e","fromNode":"5dd06c03ea10673b","fromSide":"right","toNode":"b12035533af5f0dd","toSide":"left"},
+		{"id":"6a3f98f808f421d8","fromNode":"5dd06c03ea10673b","fromSide":"right","toNode":"fdd33505fe6b677d","toSide":"left"},
+		{"id":"a2bd08a90cfeee22","fromNode":"5dd06c03ea10673b","fromSide":"right","toNode":"c5eeaca878434b58","toSide":"left"},
+		{"id":"27f6ccaf1db56df1","fromNode":"5dd06c03ea10673b","fromSide":"right","toNode":"e143e49c6fe76a30","toSide":"left"}
 	]
 }
