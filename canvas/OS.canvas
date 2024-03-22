@@ -156,7 +156,8 @@
 		{"id":"08f5b289e767d205","type":"text","text":"Intro\nChallenges\nTypes- asymmetric, symmetric\nMethods\n","x":10397,"y":7462,"width":377,"height":140},
 		{"id":"dfa86f1a3f2dc40f","type":"text","text":"## UNIT 3","x":7640,"y":-1573,"width":250,"height":360,"color":"2"},
 		{"id":"71685463a3aa2f27","x":8177,"y":-1756,"width":663,"height":367,"type":"text","text":""},
-		{"id":"27169175186853e8","type":"text","text":"Layered\nOS is broken down into... bot top, organized hirarchically...adv,disadv\n![[Pasted image 20240322212609.png]]\n","x":5140,"y":1720,"width":702,"height":457}
+		{"id":"27169175186853e8","type":"text","text":"Layered\nOS is broken down into... bot top, organized hirarchically...adv,disadv\n![[Pasted image 20240322212609.png]]\n","x":5140,"y":1720,"width":702,"height":457},
+		{"id":"f97e153aad6427d6","x":10084,"y":8720,"width":250,"height":60,"type":"text","text":"Virtual memory"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -282,6 +283,7 @@
 		{"id":"d00c9f53ff05e670","fromNode":"0720cc0cd735b634","fromSide":"right","toNode":"c0d1e8dcda0ff98e","toSide":"left"},
 		{"id":"c66ee5e2446a6e42","fromNode":"08f5b289e767d205","fromSide":"right","toNode":"ed25c85cf23bdbb2","toSide":"left"},
 		{"id":"2e772fbbb5cb085b","fromNode":"e143e49c6fe76a30","fromSide":"right","toNode":"08f5b289e767d205","toSide":"left"},
-		{"id":"6cc617a4000dd500","fromNode":"dfa86f1a3f2dc40f","fromSide":"right","toNode":"71685463a3aa2f27","toSide":"left"}
+		{"id":"6cc617a4000dd500","fromNode":"dfa86f1a3f2dc40f","fromSide":"right","toNode":"71685463a3aa2f27","toSide":"left"},
+		{"id":"3b548b58ed66a19c","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"f97e153aad6427d6","toSide":"left"}
 	]
 }
