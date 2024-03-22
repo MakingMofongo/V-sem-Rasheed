@@ -78,17 +78,17 @@
 		{"id":"50464c47fdb2ac8a","x":4793,"y":282,"width":250,"height":60,"type":"text","text":"OS services"},
 		{"id":"daa58699613129f6","x":4793,"y":382,"width":250,"height":60,"type":"text","text":"System calls"},
 		{"id":"ba9b89eed4e68966","x":5192,"y":312,"width":341,"height":191,"type":"text","text":"process execution\nfile system management\nIO operations \nError handling\ncommunication\nprotection"},
-		{"id":"6e0392043124df84","x":5140,"y":570,"width":360,"height":394,"type":"text","text":"Interface b/w User Space and Kernel\nProvides controlled access to sys resources\neg: malloc,free(),open,read,write\nTransition to kernel mode\n\n![[Pasted image 20240322205302.png]]\n"},
+		{"id":"6e0392043124df84","x":5140,"y":570,"width":630,"height":750,"type":"text","text":"Interface b/w User Space and Kernel\nProvides controlled access to sys resources\neg: malloc,free(),open,read,write\nTransition to kernel mode\n\n![[Pasted image 20240322205302.png]]\n![[Pasted image 20240322205332.png]]\n"},
 		{"id":"bbda407919f6bedc","x":5997,"y":603,"width":436,"height":170,"type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. mode\nSeparate VAS, Single VAS"},
 		{"id":"ecb3d7e35d88eb4a","x":5645,"y":615,"width":250,"height":60,"type":"text","text":"diff b/w user mode and kernel mode"},
-		{"id":"2e762c1e0952bf5e","x":4793,"y":880,"width":250,"height":60,"type":"text","text":"Context switching"},
 		{"id":"dec76348e963cd8d","type":"text","text":"What it is, diagram\nWhat it does - functions","x":5238,"y":-336,"width":250,"height":60},
 		{"id":"00d482cfe02bd671","x":6100,"y":-507,"width":406,"height":423,"type":"text","text":"Server that connect...\nFile sharing...\nDia\n![[Pasted image 20240322194724.png]]\nadv\ndisadv"},
 		{"id":"82bfb3bcb649907e","x":6100,"y":-44,"width":231,"height":335,"type":"text","text":"Response time\nused in\ndisadv\n\n![[Pasted image 20240322194809.png]]"},
 		{"id":"e3ef2f99e7eaca1e","x":6100,"y":-1607,"width":650,"height":428,"type":"text","text":"what\ndia: ![[Pasted image 20240322194131.png]]\nsuppose 3 process..\nquantum\n\nonly one process runs at a time but.."},
 		{"id":"767146d5af10a216","x":6100,"y":-1139,"width":496,"height":592,"type":"text","text":" a model that uses multiple computers to run applications, while each computer has its own processor and memory\n\nloosely coupled\ndia\n![[Pasted image 20240322194630.png]]\n\nadv\ndisadv"},
 		{"id":"f4b65f11b0d6bfe3","type":"file","file":"Pasted image 20240322192433.png","x":6100,"y":-1882,"width":500,"height":235},
-		{"id":"faa8fbc57ff70a40","x":5160,"y":1080,"width":250,"height":192,"type":"text","text":"saving the state...\ntrigerred by...."}
+		{"id":"faa8fbc57ff70a40","x":5080,"y":1420,"width":250,"height":192,"type":"text","text":"saving the state...\ntrigerred by...."},
+		{"id":"2e762c1e0952bf5e","x":4760,"y":1390,"width":250,"height":60,"type":"text","text":"Context switching"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
