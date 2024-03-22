@@ -88,7 +88,7 @@
 		{"id":"e3ef2f99e7eaca1e","x":6100,"y":-1607,"width":650,"height":428,"type":"text","text":"what\ndia: ![[Pasted image 20240322194131.png]]\nsuppose 3 process..\nquantum\n\nonly one process runs at a time but.."},
 		{"id":"767146d5af10a216","x":6100,"y":-1139,"width":496,"height":592,"type":"text","text":" a model that uses multiple computers to run applications, while each computer has its own processor and memory\n\nloosely coupled\ndia\n![[Pasted image 20240322194630.png]]\n\nadv\ndisadv"},
 		{"id":"f4b65f11b0d6bfe3","type":"file","file":"Pasted image 20240322192433.png","x":6100,"y":-1882,"width":500,"height":235},
-		{"id":"faa8fbc57ff70a40","x":5235,"y":868,"width":250,"height":60,"type":"text","text":"saving the state...\n"}
+		{"id":"faa8fbc57ff70a40","x":5235,"y":868,"width":250,"height":60,"type":"text","text":"saving the state...\ntrigerred by...."}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
