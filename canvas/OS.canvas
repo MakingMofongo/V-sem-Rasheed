@@ -31,8 +31,13 @@
 		{"id":"a2d3195703843781","type":"file","file":"Pasted image 20240310184148.png","x":2100,"y":2620,"width":399,"height":230},
 		{"id":"9a1805acaf75faf8","type":"file","file":"Pasted image 20240311012524.png","x":2056,"y":2940,"width":400,"height":219},
 		{"id":"bbda6d64c9adfa74","type":"file","file":"Pasted image 20240311012550.png","x":1960,"y":3240,"width":627,"height":180},
-		{"id":"527b931ec8e3b25b","x":1800,"y":360,"width":907,"height":811,"type":"file","file":"pl n os question papers.pdf"},
-		{"id":"9b87aaa7f8c66272","x":1125,"y":-200,"width":286,"height":400,"type":"file","file":"Pasted image 20240322172458.png"}
+		{"id":"527b931ec8e3b25b","type":"file","file":"pl n os question papers.pdf","x":1800,"y":360,"width":907,"height":811},
+		{"id":"9b87aaa7f8c66272","type":"file","file":"Pasted image 20240322172458.png","x":1125,"y":-200,"width":286,"height":400},
+		{"id":"2c5e0c086822a6f2","type":"file","file":"Pasted image 20240322172505.png","x":1475,"y":-180,"width":285,"height":400},
+		{"id":"1967d947328290a5","type":"file","file":"Pasted image 20240322172514.png","x":1867,"y":-180,"width":288,"height":400},
+		{"id":"e43940c14865a778","x":2280,"y":-180,"width":230,"height":400,"type":"file","file":"Pasted image 20240322172540.png"},
+		{"id":"c206fc0dcb9d9f70","x":2620,"y":-180,"width":283,"height":400,"type":"file","file":"Pasted image 20240322172547.png"},
+		{"id":"b81a00c62bcc20b8","x":2980,"y":-180,"width":287,"height":400,"type":"file","file":"Pasted image 20240322172554.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
