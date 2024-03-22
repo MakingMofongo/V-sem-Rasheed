@@ -148,7 +148,8 @@
 		{"id":"a3172d0c7e5126a9","x":10595,"y":5960,"width":314,"height":250,"type":"text","text":"Long term - Selection from pool of process\nShort term - Selection from ready state\nMedium term - Swapping of processes b/w ram and secondary storage"},
 		{"id":"fdd33505fe6b677d","type":"text","text":"Scheduling citeria","x":10084,"y":6320,"width":250,"height":60},
 		{"id":"c5eeaca878434b58","type":"text","text":"Scheduling Algorithms","x":10084,"y":6400,"width":250,"height":60},
-		{"id":"e143e49c6fe76a30","type":"text","text":"Multiprocessor Scheduling","x":10084,"y":6480,"width":250,"height":60}
+		{"id":"e143e49c6fe76a30","type":"text","text":"Multiprocessor Scheduling","x":10084,"y":6480,"width":250,"height":60},
+		{"id":"ca7f3995a674ec9f","x":10589,"y":6324,"width":250,"height":216,"type":"text","text":"CPU utilization\nThroughput\nTurnaround Time (Submission to termination)\nWaiting Time\nResponse Time (Submiss)"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -267,6 +268,7 @@
 		{"id":"36cc2c19de48a6c7","fromNode":"b12035533af5f0dd","fromSide":"right","toNode":"ae2eae7283c75128","toSide":"left"},
 		{"id":"4fa0b719f7db27c5","fromNode":"ae2eae7283c75128","fromSide":"right","toNode":"c4c6a2dacb346cd6","toSide":"left"},
 		{"id":"bda801ccdc218aaf","fromNode":"c4c6a2dacb346cd6","fromSide":"right","toNode":"152934f6903a739c","toSide":"left"},
-		{"id":"e1cf656b2e90cfe7","fromNode":"b12035533af5f0dd","fromSide":"right","toNode":"a3172d0c7e5126a9","toSide":"left"}
+		{"id":"e1cf656b2e90cfe7","fromNode":"b12035533af5f0dd","fromSide":"right","toNode":"a3172d0c7e5126a9","toSide":"left"},
+		{"id":"bcddae7d9bb09d03","fromNode":"fdd33505fe6b677d","fromSide":"right","toNode":"ca7f3995a674ec9f","toSide":"left"}
 	]
 }
