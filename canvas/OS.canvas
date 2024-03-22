@@ -57,8 +57,8 @@
 		{"id":"da55c7fa36aeb553","type":"file","file":"pl n os question papers_page-0025 1.jpg","x":3900,"y":-1446,"width":367,"height":519},
 		{"id":"861b4e4c886b366c","type":"file","file":"pl n os question papers_page-0005 1.jpg","x":4477,"y":-3400,"width":367,"height":519},
 		{"id":"5f58c3f91b3940eb","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**, various states in which a process can exist with diagram\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]","x":1124,"y":-2062,"width":650,"height":616},
-		{"id":"faaea46be1f80bca","type":"file","file":"OS unit 1.pdf","x":3698,"y":-360,"width":771,"height":872},
-		{"id":"0118ad83fa679b10","x":1813,"y":-620,"width":1537,"height":1056,"type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md"}
+		{"id":"faaea46be1f80bca","type":"file","file":"OS unit 1.pdf","x":3698,"y":-360,"width":862,"height":520},
+		{"id":"0118ad83fa679b10","x":2534,"y":-420,"width":870,"height":580,"type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -90,6 +90,7 @@
 		{"id":"6706cedf4253b2fb","fromNode":"b34efdba064e4a45","fromSide":"right","toNode":"4c8238c4bdb8e47f","toSide":"left"},
 		{"id":"4c407cdf3fb99d49","fromNode":"4c8238c4bdb8e47f","fromSide":"right","toNode":"a2d3195703843781","toSide":"left"},
 		{"id":"c68361d97acccc81","fromNode":"4c8238c4bdb8e47f","fromSide":"right","toNode":"9a1805acaf75faf8","toSide":"left"},
-		{"id":"9cc7ce6e053ffd45","fromNode":"4c8238c4bdb8e47f","fromSide":"right","toNode":"bbda6d64c9adfa74","toSide":"left"}
+		{"id":"9cc7ce6e053ffd45","fromNode":"4c8238c4bdb8e47f","fromSide":"right","toNode":"bbda6d64c9adfa74","toSide":"left"},
+		{"id":"5b8635767bcf5f76","fromNode":"0118ad83fa679b10","fromSide":"right","toNode":"faaea46be1f80bca","toSide":"left"}
 	]
 }
