@@ -106,7 +106,8 @@
 		{"id":"bd1ba4cb2040dcf4","type":"file","file":"Excalidraw/Drawing 2024-03-22 17.42.07.excalidraw.md","x":7320,"y":-1080,"width":1390,"height":1405},
 		{"id":"1486ad25c1b68a42","x":9567,"y":-681,"width":250,"height":60,"type":"text","text":"Process states"},
 		{"id":"af9220ce68606202","x":9900,"y":-1014,"width":753,"height":667,"type":"file","file":"Pasted image 20240322220437.png"},
-		{"id":"0028662b749edea0","x":9409,"y":-937,"width":250,"height":60,"type":"text","text":"Processs def"}
+		{"id":"0028662b749edea0","x":9409,"y":-937,"width":250,"height":60,"type":"text","text":"Processs def"},
+		{"id":"4115932b3059a58e","x":10897,"y":-773,"width":250,"height":60,"type":"text","text":"Suspend wait and Suspend ready ??"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -183,6 +184,7 @@
 		{"id":"7f9e297be44d2ae8","fromNode":"bd1ba4cb2040dcf4","fromSide":"right","toNode":"1b141c4b12e68bb7","toSide":"left"},
 		{"id":"b85519b89507fb2c","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"1486ad25c1b68a42","toSide":"left"},
 		{"id":"e4216db71ca17e1f","fromNode":"1486ad25c1b68a42","fromSide":"right","toNode":"af9220ce68606202","toSide":"left"},
-		{"id":"7743dca312b35b46","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"0028662b749edea0","toSide":"left"}
+		{"id":"7743dca312b35b46","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"0028662b749edea0","toSide":"left"},
+		{"id":"8f0a0d386dd48063","fromNode":"af9220ce68606202","fromSide":"right","toNode":"4115932b3059a58e","toSide":"left"}
 	]
 }
