@@ -117,7 +117,8 @@
 		{"id":"2842b36852710fa9","x":10561,"y":696,"width":250,"height":164,"type":"text","text":"def\nstate preservation\nswitching mecha\ntriggers\npreemption"},
 		{"id":"77df4e11dac3dc7b","x":10190,"y":1840,"width":400,"height":204,"type":"file","file":"Pasted image 20240322231254.png"},
 		{"id":"aa4d09cbed6a510d","x":9870,"y":2014,"width":250,"height":60,"type":"text","text":"Multithreaded server architecture"},
-		{"id":"438c95b7e34285b5","x":9841,"y":1155,"width":250,"height":60,"type":"text","text":"Allows concurren"}
+		{"id":"438c95b7e34285b5","x":9841,"y":1155,"width":279,"height":185,"type":"text","text":"Allows concurrency\nShared resources\nThread States"},
+		{"id":"f46f783e880b1056","x":10204,"y":1070,"width":553,"height":238,"type":"file","file":"Pasted image 20240322231507.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -205,6 +206,7 @@
 		{"id":"3e23446765cb0190","fromNode":"78aaf45ae2824995","fromSide":"right","toNode":"aa4d09cbed6a510d","toSide":"left"},
 		{"id":"2fbb58fe3cd23c09","fromNode":"aa4d09cbed6a510d","fromSide":"right","toNode":"77df4e11dac3dc7b","toSide":"left"},
 		{"id":"ad6b3e482e0d67da","fromNode":"d8224663377b48fc","fromSide":"right","toNode":"2842b36852710fa9","toSide":"left"},
-		{"id":"43e839220ccd2554","fromNode":"78aaf45ae2824995","fromSide":"right","toNode":"438c95b7e34285b5","toSide":"left"}
+		{"id":"43e839220ccd2554","fromNode":"78aaf45ae2824995","fromSide":"right","toNode":"438c95b7e34285b5","toSide":"left"},
+		{"id":"2c56de85edfc5d91","fromNode":"438c95b7e34285b5","fromSide":"right","toNode":"f46f783e880b1056","toSide":"left"}
 	]
 }
