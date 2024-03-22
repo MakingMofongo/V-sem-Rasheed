@@ -82,7 +82,9 @@
 		{"id":"fe87ee4b804b9415","x":5235,"y":2314,"width":250,"height":60,"type":"text","text":"Realtime OS"},
 		{"id":"82bfb3bcb649907e","x":5560,"y":2300,"width":231,"height":335,"type":"text","text":"Response time\nused in\ndisadv\n\n![[Pasted image 20240322194809.png]]"},
 		{"id":"50464c47fdb2ac8a","x":6185,"y":-290,"width":250,"height":60,"type":"text","text":"OS services"},
-		{"id":"ba9b89eed4e68966","x":6559,"y":-341,"width":341,"height":191,"type":"text","text":"process execution\nfile system management\nIO operations \nError handling\ncommunication\nprotection"}
+		{"id":"ba9b89eed4e68966","x":6559,"y":-341,"width":341,"height":191,"type":"text","text":"process execution\nfile system management\nIO operations \nError handling\ncommunication\nprotection"},
+		{"id":"daa58699613129f6","x":6208,"y":-107,"width":250,"height":60,"type":"text","text":"System calls"},
+		{"id":"6e0392043124df84","x":6507,"y":-83,"width":250,"height":60,"type":"text","text":"Interface b/w User  and Kernel"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -136,6 +138,8 @@
 		{"id":"845de5d068574723","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"fe87ee4b804b9415","toSide":"left"},
 		{"id":"c159674dc0bd0ab0","fromNode":"fe87ee4b804b9415","fromSide":"right","toNode":"82bfb3bcb649907e","toSide":"left"},
 		{"id":"5eb8a12b9b09cc87","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"50464c47fdb2ac8a","toSide":"left"},
-		{"id":"c710ac0af381d925","fromNode":"50464c47fdb2ac8a","fromSide":"right","toNode":"ba9b89eed4e68966","toSide":"left"}
+		{"id":"c710ac0af381d925","fromNode":"50464c47fdb2ac8a","fromSide":"right","toNode":"ba9b89eed4e68966","toSide":"left"},
+		{"id":"d790ab2acac9e8f5","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"daa58699613129f6","toSide":"left"},
+		{"id":"be3a64740531b319","fromNode":"daa58699613129f6","fromSide":"right","toNode":"6e0392043124df84","toSide":"left"}
 	]
 }
