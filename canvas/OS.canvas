@@ -125,7 +125,8 @@
 		{"id":"438c95b7e34285b5","type":"text","text":"Allows concurrency\nShared resources\nThread States\nSync\nUser level vs kernel level\nAdvantages","x":10309,"y":1105,"width":279,"height":185},
 		{"id":"bfd141236889ff6b","type":"text","text":"Diff b/w process and thread","x":9600,"y":2747,"width":250,"height":138},
 		{"id":"5bcca0bf353ccc83","x":9940,"y":2712,"width":360,"height":248,"type":"text","text":"Def\nTime for creation\nTime for termination\nContext Switching\nIPC\nIndependence\nHave different address space, Have same address space "},
-		{"id":"3ae06c8068f01834","type":"file","file":"Pasted image 20240322232857.png","x":10385,"y":2660,"width":967,"height":665}
+		{"id":"3ae06c8068f01834","type":"file","file":"Pasted image 20240322232857.png","x":10385,"y":2660,"width":967,"height":665},
+		{"id":"409e1db2af4dd131","x":9990,"y":3577,"width":250,"height":60,"type":"text","text":"Types of Threads"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -221,6 +222,7 @@
 		{"id":"a4a0a6a9c52640cd","fromNode":"508499a9ef319c3c","fromSide":"right","toNode":"5eb10130c132eb2a","toSide":"left"},
 		{"id":"f691cbbba894e0f8","fromNode":"78aaf45ae2824995","fromSide":"right","toNode":"bfd141236889ff6b","toSide":"left"},
 		{"id":"a7030ffbf25a1973","fromNode":"bfd141236889ff6b","fromSide":"right","toNode":"5bcca0bf353ccc83","toSide":"left"},
-		{"id":"0ed5453cf6cf3736","fromNode":"5bcca0bf353ccc83","fromSide":"right","toNode":"3ae06c8068f01834","toSide":"left"}
+		{"id":"0ed5453cf6cf3736","fromNode":"5bcca0bf353ccc83","fromSide":"right","toNode":"3ae06c8068f01834","toSide":"left"},
+		{"id":"8b43ec0d0ba03b70","fromNode":"78aaf45ae2824995","fromSide":"right","toNode":"409e1db2af4dd131","toSide":"left"}
 	]
 }
