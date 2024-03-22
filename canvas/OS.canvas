@@ -70,7 +70,9 @@
 		{"id":"ea68f54cee7b6b38","x":5600,"y":102,"width":280,"height":160,"type":"text","text":"GUI\nComputer networking\nMax CPU util\nPriority wise exec"},
 		{"id":"d32653e210f273fd","x":5600,"y":-35,"width":261,"height":117,"type":"text","text":"Multi tasking\nOnline storage\nIC\nNo Starvation"},
 		{"id":"fd5a621cf2fd4de6","x":5600,"y":-245,"width":250,"height":190,"type":"text","text":"Batch System\nIO Operation by CPU (Processor had lots of IDLE time)\nlaid foundation for Multi tasking\n"},
-		{"id":"7570e22f9af82a40","x":4765,"y":401,"width":250,"height":60,"type":"text","text":"Types of OS"}
+		{"id":"7570e22f9af82a40","x":4765,"y":401,"width":250,"height":60,"type":"text","text":"Types of OS"},
+		{"id":"70fa4c6f4699f80a","x":5135,"y":412,"width":250,"height":60,"type":"text","text":"Batch OS"},
+		{"id":"f4b65f11b0d6bfe3","x":5565,"y":367,"width":400,"height":188,"type":"file","file":"Pasted image 20240322192433.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -112,6 +114,8 @@
 		{"id":"f14b35e6e277876e","fromNode":"66580a8e4455369b","fromSide":"right","toNode":"fd5a621cf2fd4de6","toSide":"left"},
 		{"id":"02c7758e18d708e3","fromNode":"1fe6a3fc31813581","fromSide":"right","toNode":"d32653e210f273fd","toSide":"left"},
 		{"id":"e80daef07e38a963","fromNode":"96dba9a82fdafe03","fromSide":"right","toNode":"ea68f54cee7b6b38","toSide":"left"},
-		{"id":"ed4a8717d782f7b2","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"7570e22f9af82a40","toSide":"left"}
+		{"id":"ed4a8717d782f7b2","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"7570e22f9af82a40","toSide":"left"},
+		{"id":"a49a06c653a238c3","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"70fa4c6f4699f80a","toSide":"left"},
+		{"id":"55902e69887212c9","fromNode":"70fa4c6f4699f80a","fromSide":"right","toNode":"f4b65f11b0d6bfe3","toSide":"left"}
 	]
 }
