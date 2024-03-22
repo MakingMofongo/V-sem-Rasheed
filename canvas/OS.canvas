@@ -135,7 +135,12 @@
 		{"id":"861b4e4c886b366c","type":"file","file":"pl n os question papers_page-0005 1.jpg","x":4694,"y":-9840,"width":367,"height":519},
 		{"id":"98c4a2c517ccbecc","type":"file","file":"pl n os question papers_page-0014 1.jpg","x":4117,"y":-8502,"width":367,"height":519},
 		{"id":"f9c46eebc8e4e2b1","type":"file","file":"pl n os question papers_page-0015 1.jpg","x":4694,"y":-8502,"width":367,"height":519},
-		{"id":"5f58c3f91b3940eb","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**, various states in which a process can exist with diagram\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]","x":1341,"y":-8502,"width":650,"height":616}
+		{"id":"5f58c3f91b3940eb","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**, various states in which a process can exist with diagram\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]","x":1341,"y":-8502,"width":650,"height":616},
+		{"id":"a3b755ca4f7eb2ee","x":8828,"y":-167,"width":250,"height":60,"type":"text","text":"Foundation and Scheduling Objectives"},
+		{"id":"b12035533af5f0dd","x":8810,"y":-75,"width":250,"height":60,"type":"text","text":"Types of Schedulers"},
+		{"id":"fdd33505fe6b677d","x":8810,"y":20,"width":250,"height":60,"type":"text","text":"Scheduling citeria"},
+		{"id":"c5eeaca878434b58","x":8793,"y":115,"width":250,"height":60,"type":"text","text":"Scheduling Algorithms"},
+		{"id":"e143e49c6fe76a30","x":8771,"y":210,"width":250,"height":60,"type":"text","text":"Multiprocessor Scheduling"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
