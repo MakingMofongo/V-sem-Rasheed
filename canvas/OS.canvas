@@ -81,7 +81,8 @@
 		{"id":"00d482cfe02bd671","x":5514,"y":1777,"width":406,"height":423,"type":"text","text":"Server that connect...\nFile sharing...\nDia\n![[Pasted image 20240322194724.png]]\nadv\ndisadv"},
 		{"id":"fe87ee4b804b9415","x":5235,"y":2314,"width":250,"height":60,"type":"text","text":"Realtime OS"},
 		{"id":"82bfb3bcb649907e","x":5560,"y":2300,"width":231,"height":335,"type":"text","text":"Response time\nused in\ndisadv\n\n![[Pasted image 20240322194809.png]]"},
-		{"id":"50464c47fdb2ac8a","x":6185,"y":-290,"width":250,"height":60,"type":"text","text":"OS services"}
+		{"id":"50464c47fdb2ac8a","x":6185,"y":-290,"width":250,"height":60,"type":"text","text":"OS services"},
+		{"id":"ba9b89eed4e68966","x":6559,"y":-341,"width":341,"height":161,"type":"text","text":"process execution\nfile system management\nIO operations \nError handling\nprotef"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -134,6 +135,7 @@
 		{"id":"5c252d933551f263","fromNode":"984a35d04144b650","fromSide":"right","toNode":"00d482cfe02bd671","toSide":"left"},
 		{"id":"845de5d068574723","fromNode":"7570e22f9af82a40","fromSide":"right","toNode":"fe87ee4b804b9415","toSide":"left"},
 		{"id":"c159674dc0bd0ab0","fromNode":"fe87ee4b804b9415","fromSide":"right","toNode":"82bfb3bcb649907e","toSide":"left"},
-		{"id":"5eb8a12b9b09cc87","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"50464c47fdb2ac8a","toSide":"left"}
+		{"id":"5eb8a12b9b09cc87","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"50464c47fdb2ac8a","toSide":"left"},
+		{"id":"c710ac0af381d925","fromNode":"50464c47fdb2ac8a","fromSide":"right","toNode":"ba9b89eed4e68966","toSide":"left"}
 	]
 }
