@@ -110,7 +110,8 @@
 		{"id":"4115932b3059a58e","type":"text","text":"Suspend wait and Suspend ready ??","x":10897,"y":-773,"width":250,"height":60},
 		{"id":"f3a3a9d1b071a3f7","type":"text","text":"PCB - Process Control Block","x":9413,"y":-240,"width":250,"height":60},
 		{"id":"a7d7dbac008a4cb8","type":"file","file":"Pasted image 20240322221429.png","x":9707,"y":-280,"width":386,"height":628},
-		{"id":"81c5a43e2dc54595","type":"text","text":"  \nPointer: A stack pointer that preserves the process's position during state transitions.  \nProcess state: Stores the current state of a process.  \nProcess number: Unique identifier assigned to each process, known as Process ID (PID).  \nProgram counter: Holds the address of the next instruction to execute for the process.  \nRegister: Registers in the Process Control Block (PCB) store process-specific data, facilitating context switches by preserving register values during process suspension and resumption.  \nMemory Management Information – page table, memory limits, segment table\nOpen files list: Maintains a record of files accessed by a process during its execution.","x":10140,"y":-280,"width":1377,"height":213}
+		{"id":"81c5a43e2dc54595","type":"text","text":"  \nPointer: A stack pointer that preserves the process's position during state transitions.  \nProcess state: Stores the current state of a process.  \nProcess number: Unique identifier assigned to each process, known as Process ID (PID).  \nProgram counter: Holds the address of the next instruction to execute for the process.  \nRegister: Registers in the Process Control Block (PCB) store process-specific data, facilitating context switches by preserving register values during process suspension and resumption.  \nMemory Management Information – page table, memory limits, segment table\nOpen files list: Maintains a record of files accessed by a process during its execution.","x":10140,"y":-280,"width":1377,"height":213},
+		{"id":"ea8c0c08bb92a093","x":9457,"y":500,"width":250,"height":60,"type":"text","text":"Context Switching"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -191,6 +192,7 @@
 		{"id":"8f0a0d386dd48063","fromNode":"af9220ce68606202","fromSide":"right","toNode":"4115932b3059a58e","toSide":"left"},
 		{"id":"fc8a1ac48ebbb6af","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"f3a3a9d1b071a3f7","toSide":"left"},
 		{"id":"163a5a9696b01ac4","fromNode":"f3a3a9d1b071a3f7","fromSide":"right","toNode":"a7d7dbac008a4cb8","toSide":"left"},
-		{"id":"8dc332a054df9538","fromNode":"a7d7dbac008a4cb8","fromSide":"right","toNode":"81c5a43e2dc54595","toSide":"left"}
+		{"id":"8dc332a054df9538","fromNode":"a7d7dbac008a4cb8","fromSide":"right","toNode":"81c5a43e2dc54595","toSide":"left"},
+		{"id":"020329512cbae3f3","fromNode":"1b141c4b12e68bb7","fromSide":"right","toNode":"ea8c0c08bb92a093","toSide":"left"}
 	]
 }
