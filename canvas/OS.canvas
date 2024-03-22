@@ -76,7 +76,7 @@
 		{"id":"1c8c391f6a3f1523","x":5117,"y":618,"width":250,"height":60,"type":"text","text":"Time Sharing OS"},
 		{"id":"e3ef2f99e7eaca1e","x":5470,"y":692,"width":470,"height":268,"type":"text","text":"what\ndia: ![[Pasted image 20240322194131.png]]\nsuppose 3 process..\nquantum\n\nonly one process runs at a time but.."},
 		{"id":"de2e6ec7a8cb8706","x":5117,"y":1060,"width":250,"height":60,"type":"text","text":"Distrubuted"},
-		{"id":"767146d5af10a216","x":5464,"y":1068,"width":351,"height":172,"type":"text","text":" ==a model that uses multiple computers to run applications, while each computer has its own processor and memory==.\n\n"}
+		{"id":"767146d5af10a216","x":5464,"y":1068,"width":351,"height":172,"type":"text","text":" ==a model that uses multiple computers to run applications, while each computer has its own processor and memory==.\n>! \n"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
