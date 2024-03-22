@@ -84,7 +84,9 @@
 		{"id":"13c5ed39d2f995ab","type":"file","file":"pl n os question papers_page-0003 1.jpg","x":3564,"y":-4600,"width":367,"height":519},
 		{"id":"861b4e4c886b366c","type":"file","file":"pl n os question papers_page-0005 1.jpg","x":4719,"y":-5360,"width":367,"height":519},
 		{"id":"bfa959739ff60967","type":"file","file":"pl n os question papers_page-0019 1.jpg","x":1832,"y":-3406,"width":367,"height":519},
-		{"id":"9e21c2c5ad26b7fc","type":"file","file":"pl n os question papers_page-0026 1.jpg","x":1832,"y":-4600,"width":367,"height":519}
+		{"id":"9e21c2c5ad26b7fc","type":"file","file":"pl n os question papers_page-0026 1.jpg","x":1832,"y":-4600,"width":367,"height":519},
+		{"id":"ecb3d7e35d88eb4a","x":7012,"y":-38,"width":250,"height":60,"type":"text","text":"diff b/w user mode and kernel mode"},
+		{"id":"bbda407919f6bedc","x":7364,"y":-50,"width":250,"height":60,"type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. moe\n"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -140,6 +142,8 @@
 		{"id":"5eb8a12b9b09cc87","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"50464c47fdb2ac8a","toSide":"left"},
 		{"id":"c710ac0af381d925","fromNode":"50464c47fdb2ac8a","fromSide":"right","toNode":"ba9b89eed4e68966","toSide":"left"},
 		{"id":"d790ab2acac9e8f5","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"daa58699613129f6","toSide":"left"},
-		{"id":"be3a64740531b319","fromNode":"daa58699613129f6","fromSide":"right","toNode":"6e0392043124df84","toSide":"left"}
+		{"id":"be3a64740531b319","fromNode":"daa58699613129f6","fromSide":"right","toNode":"6e0392043124df84","toSide":"left"},
+		{"id":"fa36298a9f134683","fromNode":"6e0392043124df84","fromSide":"right","toNode":"ecb3d7e35d88eb4a","toSide":"left"},
+		{"id":"248eb23725bc4994","fromNode":"ecb3d7e35d88eb4a","fromSide":"right","toNode":"bbda407919f6bedc","toSide":"left"}
 	]
 }
