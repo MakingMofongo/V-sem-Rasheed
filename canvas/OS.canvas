@@ -72,7 +72,7 @@
 		{"id":"fd5a621cf2fd4de6","x":5600,"y":-245,"width":250,"height":190,"type":"text","text":"Batch System\nIO Operation by CPU (Processor had lots of IDLE time)\nlaid foundation for Multi tasking\n"},
 		{"id":"7570e22f9af82a40","x":4765,"y":401,"width":250,"height":60,"type":"text","text":"Types of OS"},
 		{"id":"70fa4c6f4699f80a","x":5135,"y":412,"width":250,"height":60,"type":"text","text":"Batch OS"},
-		{"id":"f4b65f11b0d6bfe3","x":5565,"y":367,"width":400,"height":188,"type":"file","file":"Pasted image 20240322192433.png"}
+		{"id":"f4b65f11b0d6bfe3","x":5565,"y":320,"width":500,"height":235,"type":"file","file":"Pasted image 20240322192433.png"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
