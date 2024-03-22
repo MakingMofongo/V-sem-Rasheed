@@ -91,7 +91,9 @@
 		{"id":"bbda407919f6bedc","type":"text","text":"access to sys res\ninterrupt will cause...\nUnpreviliged aka restricted mode vs .. .. mode\nSeparate VAS, Single VAS","x":6288,"y":485,"width":436,"height":170},
 		{"id":"705e7c70d4c4b833","x":6013,"y":853,"width":250,"height":60,"type":"text","text":"Types"},
 		{"id":"ffab760a9d2a3c7e","x":6303,"y":729,"width":769,"height":432,"type":"file","file":"Pasted image 20240322211235.png"},
-		{"id":"00c2ff68de22894e","x":7200,"y":511,"width":880,"height":686,"type":"file","file":"Pasted image 20240322211347.png"}
+		{"id":"00c2ff68de22894e","x":7200,"y":511,"width":880,"height":686,"type":"file","file":"Pasted image 20240322211347.png"},
+		{"id":"e58268b6c6ccca40","x":4737,"y":1803,"width":250,"height":60,"type":"text","text":"Types of OS"},
+		{"id":"27169175186853e8","x":5078,"y":1783,"width":342,"height":237,"type":"text","text":"Layered\nOS is broken down into.\n![[Pasted image 20240322212609.png]]"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
@@ -154,6 +156,8 @@
 		{"id":"883278c1aa936083","fromNode":"2e762c1e0952bf5e","fromSide":"right","toNode":"faa8fbc57ff70a40","toSide":"left"},
 		{"id":"21b5b10b4ec0f454","fromNode":"6e0392043124df84","fromSide":"right","toNode":"705e7c70d4c4b833","toSide":"left"},
 		{"id":"e5858826d9754d36","fromNode":"705e7c70d4c4b833","fromSide":"right","toNode":"ffab760a9d2a3c7e","toSide":"left"},
-		{"id":"cead03904bd3d25e","fromNode":"ffab760a9d2a3c7e","fromSide":"right","toNode":"00c2ff68de22894e","toSide":"left"}
+		{"id":"cead03904bd3d25e","fromNode":"ffab760a9d2a3c7e","fromSide":"right","toNode":"00c2ff68de22894e","toSide":"left"},
+		{"id":"c7bb0925398dcec2","fromNode":"faaea46be1f80bca","fromSide":"right","toNode":"e58268b6c6ccca40","toSide":"left"},
+		{"id":"004f84477503e4e5","fromNode":"e58268b6c6ccca40","fromSide":"right","toNode":"27169175186853e8","toSide":"left"}
 	]
 }
