@@ -84,7 +84,7 @@
 		{"id":"50464c47fdb2ac8a","x":6185,"y":-290,"width":250,"height":60,"type":"text","text":"OS services"},
 		{"id":"ba9b89eed4e68966","x":6559,"y":-341,"width":341,"height":191,"type":"text","text":"process execution\nfile system management\nIO operations \nError handling\ncommunication\nprotection"},
 		{"id":"daa58699613129f6","x":6208,"y":-107,"width":250,"height":60,"type":"text","text":"System calls"},
-		{"id":"6e0392043124df84","x":6507,"y":-83,"width":250,"height":60,"type":"text","text":"Interface b/w User  and Kernel"}
+		{"id":"6e0392043124df84","x":6507,"y":-83,"width":353,"height":163,"type":"text","text":"Interface b/w User Space and Kernel\nProvides controlled access to sys resources\neg: malloc,free(),open,read,write\nTransition to kernel mode\n"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
