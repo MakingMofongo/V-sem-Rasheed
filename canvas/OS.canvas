@@ -66,7 +66,7 @@
 		{"id":"66580a8e4455369b","type":"text","text":"First Generation","x":5216,"y":-200,"width":250,"height":60},
 		{"id":"1fe6a3fc31813581","type":"text","text":"First Generation","x":5216,"y":-80,"width":250,"height":60},
 		{"id":"96dba9a82fdafe03","type":"text","text":"First Generation","x":5216,"y":40,"width":250,"height":60},
-		{"id":"88bcb3a60e50a3cc","x":5590,"y":-360,"width":250,"height":60,"type":"text","text":"Serial Processing\nVaccum Tubes\n"}
+		{"id":"88bcb3a60e50a3cc","x":5590,"y":-360,"width":330,"height":160,"type":"text","text":"\nSerial Processing\nNo os\nVaccum Tubes\nelectricity\n"}
 	],
 	"edges":[
 		{"id":"db7b68a02938f3ac","fromNode":"176871335e37c004","fromSide":"bottom","toNode":"3eef5f2d9fab36bd","toSide":"top"},
