@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"cd311bb6ad5bb8bc","type":"file","file":"pl n os question papers_page-0016 1.jpg","x":1205,"y":222,"width":367,"height":519},
+		{"id":"17add9ee0e84bef9","type":"file","file":"pl n os question papers_page-0006 1.jpg","x":1205,"y":-356,"width":367,"height":519},
+		{"id":"f4abed0b5c2461c0","type":"file","file":"pl n os question papers_page-0022 1.jpg","x":1205,"y":838,"width":367,"height":519},
+		{"id":"94c7d1183512c640","type":"file","file":"pl n os question papers_page-0017 1.jpg","x":1782,"y":222,"width":367,"height":519},
+		{"id":"fc2267d6052498f0","type":"file","file":"pl n os question papers_page-0018 1.jpg","x":2360,"y":222,"width":367,"height":519},
+		{"id":"d8307b297f98c8fb","type":"file","file":"pl n os question papers_page-0007 1.jpg","x":1782,"y":-356,"width":367,"height":519},
+		{"id":"3d8a473a26e6e43e","type":"file","file":"pl n os question papers_page-0009 1.jpg","x":2360,"y":-356,"width":367,"height":519},
+		{"id":"8ba26b2ff14deae1","type":"file","file":"pl n os question papers.pdf","x":-1542,"y":-1356,"width":907,"height":811},
+		{"id":"7e0fa1bca335eb5f","type":"file","file":"pl n os question papers_page-0001 1.jpg","x":-1683,"y":-356,"width":367,"height":519},
+		{"id":"2d0779176c6d0770","type":"file","file":"pl n os question papers_page-0012 1.jpg","x":-1105,"y":222,"width":367,"height":519},
+		{"id":"efedcf77f3aeb86e","type":"file","file":"pl n os question papers_page-0002 1.jpg","x":-1105,"y":-356,"width":367,"height":519},
+		{"id":"7f5815608cfea062","type":"file","file":"pl n os question papers_page-0011 1.jpg","x":-1683,"y":222,"width":367,"height":519},
+		{"id":"368623a3d162ed2a","type":"file","file":"pl n os question papers_page-0013 1.jpg","x":-528,"y":222,"width":367,"height":519},
+		{"id":"bec601d579c09524","type":"file","file":"pl n os question papers_page-0003 1.jpg","x":-528,"y":-356,"width":367,"height":519},
+		{"id":"34cfa91ee153d415","type":"file","file":"pl n os question papers_page-0026 1.jpg","x":-2260,"y":-356,"width":367,"height":519},
+		{"id":"c60d06b9462ba4b2","type":"file","file":"pl n os question papers_page-0020 1.jpg","x":627,"y":838,"width":367,"height":519},
+		{"id":"517b08e8099ab80c","type":"file","file":"pl n os question papers_page-0025 1.jpg","x":50,"y":838,"width":367,"height":519},
+		{"id":"704651a99487c1bc","type":"file","file":"pl n os question papers_page-0021 1.jpg","x":-1683,"y":838,"width":367,"height":519},
+		{"id":"750def644bd23c34","type":"file","file":"pl n os question papers_page-0023 1.jpg","x":-1105,"y":838,"width":367,"height":519},
+		{"id":"3fb8ab36ad319b0d","type":"file","file":"pl n os question papers_page-0019 1.jpg","x":-2260,"y":838,"width":367,"height":519},
+		{"id":"131b4afc98dcc3e7","type":"file","file":"pl n os question papers_page-0024 1.jpg","x":-528,"y":838,"width":367,"height":519},
+		{"id":"e202ff7a010a5397","type":"file","file":"pl n os question papers_page-0004 1.jpg","x":50,"y":-356,"width":367,"height":519},
+		{"id":"155705121969f099","type":"file","file":"pl n os question papers_page-0005 1.jpg","x":627,"y":-1116,"width":367,"height":519},
+		{"id":"456cb2771b157161","type":"file","file":"pl n os question papers_page-0014 1.jpg","x":50,"y":222,"width":367,"height":519},
+		{"id":"65161819ba0ccb9e","type":"file","file":"pl n os question papers_page-0015 1.jpg","x":627,"y":222,"width":367,"height":519},
+		{"id":"35eeffc329765bba","type":"text","text":"1. resource allocator, structures of OS with dia\n2. PCB, explain purpose of **PCB**, **threading models**, **multi level feedback queue scheduling algo**\n3. Various activities performed by OS in connection with **Process management**, various states in which a process can exist with diagram\n4. **Differences b/w process and thread**, when do you need **preemption** of process, pros and cons of preemption\n5. OS Structure, Various computing environments\n6. Consider the set of processes with Burst time, ... ?? :![[Pasted image 20240322174028.png]]","x":-2726,"y":222,"width":650,"height":616}
+	],
+	"edges":[]
+}
