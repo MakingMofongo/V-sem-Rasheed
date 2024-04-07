@@ -38,7 +38,8 @@
 		{"id":"f238cef2d55e7b34","type":"file","file":"Pasted image 20240407230348.png","x":4000,"y":1010,"width":400,"height":106},
 		{"id":"48f4b87bfde38181","type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, complete binary tree (basically same, just that highlight that EXCEPT last layer all have two nodes), \n\nRepresentation - linear bad, linked representation good:![[Pasted image 20240407231610.png]]","x":3580,"y":1240,"width":520,"height":420},
 		{"id":"164e9e57181f48b0","type":"text","text":"BSTs - 4 properties,eg","x":3588,"y":1823,"width":250,"height":60},
-		{"id":"8caeffc7f010a688","type":"file","file":"Pasted image 20240407231709.png","x":4160,"y":1322,"width":825,"height":1003}
+		{"id":"8caeffc7f010a688","type":"file","file":"Pasted image 20240407231709.png","x":4160,"y":1268,"width":646,"height":785},
+		{"id":"5f0bfcac3de43a57","x":3958,"y":2182,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -65,6 +66,7 @@
 		{"id":"13d27cb72c0ff4a9","fromNode":"5d3bfa6a98ad75d0","fromSide":"right","toNode":"1c60e8ce3bbc25d2","toSide":"left"},
 		{"id":"fadbe26aab7151b6","fromNode":"3431689213d13936","fromSide":"right","toNode":"1e129a82ee5835f0","toSide":"left"},
 		{"id":"0142e8cdb6c03ef7","fromNode":"31ad25065cd8f7f1","fromSide":"right","toNode":"164e9e57181f48b0","toSide":"left"},
-		{"id":"0bd8b66e4929a500","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"8caeffc7f010a688","toSide":"left"}
+		{"id":"0bd8b66e4929a500","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"8caeffc7f010a688","toSide":"left"},
+		{"id":"eac25f571fadb747","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"5f0bfcac3de43a57","toSide":"left"}
 	]
 }
