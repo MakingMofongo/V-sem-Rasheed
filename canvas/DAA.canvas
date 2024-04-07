@@ -41,7 +41,7 @@
 		{"id":"1c60e8ce3bbc25d2","type":"file","file":"Pasted image 20240407230335.png","x":4029,"y":1360,"width":320,"height":184},
 		{"id":"f238cef2d55e7b34","type":"file","file":"Pasted image 20240407230348.png","x":4029,"y":1568,"width":400,"height":106},
 		{"id":"cd4047c81b2d1643","x":3263,"y":1280,"width":250,"height":60,"type":"text","text":"Union and Find"},
-		{"id":"fa6e3802105b3f37","x":3638,"y":787,"width":250,"height":60,"type":"text","text":"def\n5 points:\nrestrictons\nincident\nsubgraph\ncycle\n'connected' vertices\nstrongly connected\ndegree\n"}
+		{"id":"fa6e3802105b3f37","x":3638,"y":787,"width":342,"height":273,"type":"text","text":"def\n5 points:\nrestrictons\nincident\nsubgraph\ncycle\n'connected' vertices\nstrongly connected\ndegree\n"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
