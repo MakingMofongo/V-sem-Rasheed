@@ -13,7 +13,7 @@
 		{"id":"98e539339ccf70fb","type":"text","text":"Unit1:\nI (II Asymptotic Notation) with egs and Time and Space Complexity estimation\nI Binary Search Algorithm and its time complexity\nI Eg of algo whose complexity is O n(logn) : ![[Pasted image 20240407134244.png]]\nNIP I Explain step by step heap sort with eg and write its algo\nNIP I Heapsort Working Procedure\nI Priori and posteriori analysis, Big OH and THETA notation\nNIP Merge Sort\n\n","x":1925,"y":-399,"width":560,"height":600},
 		{"id":"98186ede1bc8a3f8","type":"text","text":"# UNIT 1","x":2862,"y":-508,"width":250,"height":188,"color":"1"},
 		{"id":"9fdcfae6530d90ba","type":"text","text":"Algorithms def and spec","x":3222,"y":-475,"width":250,"height":60},
-		{"id":"15c7f63003049573","type":"text","text":"Space and Time compllexity","x":3322,"y":-392,"width":250,"height":60},
+		{"id":"15c7f63003049573","type":"text","text":"Performance measurements - Space and Time compllexity","x":3322,"y":-392,"width":250,"height":60},
 		{"id":"e79d2c614c622924","type":"text","text":"Space - def,formula,eg","x":3660,"y":-452,"width":250,"height":60},
 		{"id":"574887629c9aca73","type":"text","text":"Time- def,program step,method with eg\n\n**Second method**","x":3660,"y":-337,"width":310,"height":121},
 		{"id":"95e822901b285c91","type":"text","text":"Asymptotic Notations","x":3300,"y":-140,"width":250,"height":60},
