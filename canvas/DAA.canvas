@@ -21,7 +21,7 @@
 		{"id":"f5cc5f90327a5058","x":3615,"y":-134,"width":250,"height":60,"type":"text","text":"Big oh"},
 		{"id":"d89e708015f734b0","x":3655,"y":-50,"width":250,"height":60,"type":"text","text":"Omega"},
 		{"id":"7dc4e25b45cc3837","x":3662,"y":46,"width":250,"height":60,"type":"text","text":"Theta"},
-		{"id":"d39554da28d3dd38","x":3933,"y":-148,"width":287,"height":108,"type":"text","text":"Upper bound\n\nO(g())"}
+		{"id":"d39554da28d3dd38","x":3933,"y":-148,"width":287,"height":108,"type":"text","text":"Upper bound\n\nO(g(n)) such that f(n)<="}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
