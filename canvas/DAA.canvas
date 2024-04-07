@@ -27,7 +27,11 @@
 		{"id":"a5dab8029ce0a61d","type":"file","file":"Pasted image 20240407223057.png","x":4560,"y":-452,"width":399,"height":138},
 		{"id":"844acc5d034f575b","type":"file","file":"Pasted image 20240407223106.png","x":4560,"y":-167,"width":400,"height":119},
 		{"id":"cdadf082bb490490","type":"file","file":"Excalidraw/Drawing 2024-04-07 03.32.02.excalidraw.md","x":3347,"y":-1437,"width":671,"height":962},
-		{"id":"43017826e88d803c","x":4178,"y":-1375,"width":3165,"height":419,"type":"file","file":"Pasted image 20240407224713.png"}
+		{"id":"43017826e88d803c","type":"file","file":"Pasted image 20240407224713.png","x":4178,"y":-1375,"width":3165,"height":419},
+		{"id":"24b3b0c27456be93","x":3234,"y":584,"width":250,"height":60,"type":"text","text":"Dictionary"},
+		{"id":"7cb3764acb903b67","x":3207,"y":761,"width":250,"height":60,"type":"text","text":"Graphs"},
+		{"id":"31ad25065cd8f7f1","x":3233,"y":933,"width":250,"height":60,"type":"text","text":"Trees"},
+		{"id":"3431689213d13936","x":3602,"y":590,"width":250,"height":60,"type":"text","text":"Def "}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -43,6 +47,10 @@
 		{"id":"04cedc0dfe88953e","fromNode":"7dc4e25b45cc3837","fromSide":"right","toNode":"21ea83a51d84fb17","toSide":"left"},
 		{"id":"6bbe999350db70ba","fromNode":"95e822901b285c91","fromSide":"right","toNode":"a1d598750fa344e5","toSide":"left"},
 		{"id":"99d3e12b535d189d","fromNode":"bbb686950f973c1a","fromSide":"right","toNode":"a5dab8029ce0a61d","toSide":"left"},
-		{"id":"4ac08ddd4ac39d8e","fromNode":"4413f869a05eaa9e","fromSide":"right","toNode":"844acc5d034f575b","toSide":"left"}
+		{"id":"4ac08ddd4ac39d8e","fromNode":"4413f869a05eaa9e","fromSide":"right","toNode":"844acc5d034f575b","toSide":"left"},
+		{"id":"9161def10dba6184","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"24b3b0c27456be93","toSide":"left"},
+		{"id":"ea01581e0523de33","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"7cb3764acb903b67","toSide":"left"},
+		{"id":"280958c8bdb389a5","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"31ad25065cd8f7f1","toSide":"left"},
+		{"id":"ea7b958f64735028","fromNode":"24b3b0c27456be93","fromSide":"right","toNode":"3431689213d13936","toSide":"left"}
 	]
 }
