@@ -32,11 +32,11 @@
 		{"id":"3431689213d13936","x":3602,"y":590,"width":250,"height":60,"type":"text","text":"Def \nHashing"},
 		{"id":"7cb3764acb903b67","x":3234,"y":760,"width":250,"height":60,"type":"text","text":"Graphs"},
 		{"id":"31ad25065cd8f7f1","x":3234,"y":920,"width":250,"height":60,"type":"text","text":"Trees"},
-		{"id":"48f4b87bfde38181","x":3613,"y":1122,"width":250,"height":60,"type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, "},
 		{"id":"5d3bfa6a98ad75d0","x":3580,"y":950,"width":250,"height":120,"type":"text","text":"Tree def - Disjoint set in tree, tree rep using linked list"},
-		{"id":"1c60e8ce3bbc25d2","x":4060,"y":950,"width":320,"height":184,"type":"file","file":"Pasted image 20240407230335.png"},
-		{"id":"f238cef2d55e7b34","x":4060,"y":1158,"width":400,"height":106,"type":"file","file":"Pasted image 20240407230348.png"},
-		{"id":"1e129a82ee5835f0","x":3939,"y":572,"width":321,"height":108,"type":"text","text":"Hashing -def, Hash table, hash function, collision, resolution "}
+		{"id":"1e129a82ee5835f0","x":3939,"y":572,"width":321,"height":108,"type":"text","text":"Hashing -def, Hash table, hash function, collision, resolution "},
+		{"id":"48f4b87bfde38181","x":3580,"y":1240,"width":267,"height":142,"type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, "},
+		{"id":"1c60e8ce3bbc25d2","x":4000,"y":802,"width":320,"height":184,"type":"file","file":"Pasted image 20240407230335.png"},
+		{"id":"f238cef2d55e7b34","x":4000,"y":1010,"width":400,"height":106,"type":"file","file":"Pasted image 20240407230348.png"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
