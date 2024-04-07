@@ -59,7 +59,9 @@
 		{"id":"397b011b6c2855db","x":5972,"y":930,"width":348,"height":263,"type":"text","text":"Definition - takes set of inputs, locally optimal decisions, each input is added to partially constructed solution then checked, results in suboptimal solutions\n\nAlgo\nAlgo 4 points text"},
 		{"id":"f56d687ceed98c77","x":5582,"y":1300,"width":250,"height":60,"type":"text","text":"Merge Sort"},
 		{"id":"e97f55d66b69f150","x":5972,"y":1780,"width":632,"height":416,"type":"file","file":"Pasted image 20240408020401.png"},
-		{"id":"7201817d89949855","x":6060,"y":1260,"width":352,"height":475,"type":"file","file":"Pasted image 20240408020338.png"}
+		{"id":"7201817d89949855","x":6060,"y":1260,"width":352,"height":475,"type":"file","file":"Pasted image 20240408020338.png"},
+		{"id":"17da2f9f3ca879ee","x":5651,"y":2417,"width":269,"height":60,"type":"text","text":"Job Scheduling"},
+		{"id":"13a76e666683e31e","x":6060,"y":2360,"width":537,"height":454,"type":"file","file":"Pasted image 20240408020933.png"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -106,6 +108,8 @@
 		{"id":"9afaeffefaa2090c","fromNode":"c2f1128054794893","fromSide":"right","toNode":"397b011b6c2855db","toSide":"left"},
 		{"id":"3ab27cc2299800ae","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"f56d687ceed98c77","toSide":"left"},
 		{"id":"5c75307389a14c5b","fromNode":"f56d687ceed98c77","fromSide":"right","toNode":"7201817d89949855","toSide":"left","label":"Algo"},
-		{"id":"56fdc2765a4dd683","fromNode":"f56d687ceed98c77","fromSide":"right","toNode":"e97f55d66b69f150","toSide":"left","label":"Complexity"}
+		{"id":"56fdc2765a4dd683","fromNode":"f56d687ceed98c77","fromSide":"right","toNode":"e97f55d66b69f150","toSide":"left","label":"Complexity"},
+		{"id":"8bc290ef70d1788c","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"17da2f9f3ca879ee","toSide":"left"},
+		{"id":"e621f2e2de29d26c","fromNode":"17da2f9f3ca879ee","fromSide":"right","toNode":"13a76e666683e31e","toSide":"left"}
 	]
 }
