@@ -15,8 +15,8 @@
 		{"id":"98186ede1bc8a3f8","x":2862,"y":-508,"width":250,"height":188,"color":"1","type":"text","text":"# UNIT 1"},
 		{"id":"9fdcfae6530d90ba","x":3222,"y":-475,"width":250,"height":60,"type":"text","text":"Algorithms def and spec"},
 		{"id":"15c7f63003049573","x":3322,"y":-392,"width":250,"height":60,"type":"text","text":"Space and Time compllexity"},
-		{"id":"e79d2c614c622924","x":3637,"y":-436,"width":250,"height":60,"type":"text","text":"Space"},
-		{"id":"574887629c9aca73","x":3630,"y":-321,"width":250,"height":60,"type":"text","text":"Time"}
+		{"id":"e79d2c614c622924","x":3637,"y":-436,"width":250,"height":60,"type":"text","text":"Space - def,formula,eg"},
+		{"id":"574887629c9aca73","x":3630,"y":-321,"width":250,"height":60,"type":"text","text":"Time- def,program step,method with eg"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
