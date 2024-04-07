@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"e66cfaff194a07db","x":660,"y":-560,"width":1108,"height":1193,"type":"file","file":"Imp questions DAA.md"},
-		{"id":"cdadf082bb490490","type":"file","file":"Excalidraw/Drawing 2024-04-07 03.32.02.excalidraw.md","x":-200,"y":-580,"width":671,"height":962}
+		{"id":"cdadf082bb490490","type":"file","file":"Excalidraw/Drawing 2024-04-07 03.32.02.excalidraw.md","x":-200,"y":-580,"width":671,"height":962},
+		{"id":"be71260fcb361698","x":180,"y":-1560,"width":577,"height":658,"type":"file","file":"221bc542-a6f8-4f8d-a5c2-2dbc726f0e0f.pdf"}
 	],
 	"edges":[]
 }
