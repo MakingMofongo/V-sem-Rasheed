@@ -65,7 +65,8 @@
 		{"id":"b8833ef28df47e20","x":7507,"y":-642,"width":250,"height":60,"type":"text","text":"UNIT 5"},
 		{"id":"988825a9c96f687f","x":7902,"y":-718,"width":278,"height":106,"type":"text","text":"Vertex cover NP complete proof using CLIQUE"},
 		{"id":"881ab26597bd2d93","x":8319,"y":-701,"width":741,"height":581,"type":"text","text":"Proof de'la BELONGS TO NP:![[Pasted image 20240408041834.png]]\nConverting CliqueDP to Vertex cover: \n![[Pasted image 20240408041923.png]]"},
-		{"id":"6c0fd9c62c911aff","x":7651,"y":-388,"width":629,"height":528,"type":"text","text":"SAT to Clique: ![[Pasted image 20240408042023.png]]"}
+		{"id":"66a6772851995b37","x":7700,"y":-530,"width":250,"height":60,"type":"text","text":"CNF SAT and CLIQUE"},
+		{"id":"6c0fd9c62c911aff","x":7700,"y":-410,"width":589,"height":1148,"type":"text","text":"CNF SAT:\n![[Pasted image 20240408042233.png]]\n\n\nSAT to Clique: ![[Pasted image 20240408042023.png]]"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -117,6 +118,7 @@
 		{"id":"e621f2e2de29d26c","fromNode":"17da2f9f3ca879ee","fromSide":"right","toNode":"13a76e666683e31e","toSide":"left"},
 		{"id":"ce1bad2357e5df6d","fromNode":"b8833ef28df47e20","fromSide":"right","toNode":"988825a9c96f687f","toSide":"left"},
 		{"id":"2819a7e87d5b82f1","fromNode":"988825a9c96f687f","fromSide":"right","toNode":"881ab26597bd2d93","toSide":"left"},
-		{"id":"36c453771dd330b4","fromNode":"b8833ef28df47e20","fromSide":"right","toNode":"6c0fd9c62c911aff","toSide":"left"}
+		{"id":"5144076dcee0886e","fromNode":"b8833ef28df47e20","fromSide":"right","toNode":"66a6772851995b37","toSide":"left"},
+		{"id":"4ea5b7df6e5bfab4","fromNode":"66a6772851995b37","fromSide":"right","toNode":"6c0fd9c62c911aff","toSide":"left"}
 	]
 }
