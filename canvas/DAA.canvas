@@ -32,8 +32,11 @@
 		{"id":"3431689213d13936","x":3602,"y":590,"width":250,"height":60,"type":"text","text":"Def \nHashing"},
 		{"id":"7cb3764acb903b67","x":3234,"y":760,"width":250,"height":60,"type":"text","text":"Graphs"},
 		{"id":"31ad25065cd8f7f1","x":3234,"y":920,"width":250,"height":60,"type":"text","text":"Trees"},
-		{"id":"5d3bfa6a98ad75d0","x":3580,"y":840,"width":250,"height":60,"type":"text","text":"Tree def - Disjoint set in tree, tree rep using linked list"},
-		{"id":"48f4b87bfde38181","x":3613,"y":952,"width":250,"height":60,"type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, "}
+		{"id":"48f4b87bfde38181","x":3613,"y":1122,"width":250,"height":60,"type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, "},
+		{"id":"5d3bfa6a98ad75d0","x":3580,"y":950,"width":250,"height":120,"type":"text","text":"Tree def - Disjoint set in tree, tree rep using linked list"},
+		{"id":"1c60e8ce3bbc25d2","x":4060,"y":950,"width":320,"height":184,"type":"file","file":"Pasted image 20240407230335.png"},
+		{"id":"f238cef2d55e7b34","x":4060,"y":1158,"width":400,"height":106,"type":"file","file":"Pasted image 20240407230348.png"},
+		{"id":"1e129a82ee5835f0","x":3939,"y":572,"width":250,"height":60,"type":"text","text":"Hashing - "}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -55,6 +58,9 @@
 		{"id":"280958c8bdb389a5","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"31ad25065cd8f7f1","toSide":"left"},
 		{"id":"ea7b958f64735028","fromNode":"24b3b0c27456be93","fromSide":"right","toNode":"3431689213d13936","toSide":"left"},
 		{"id":"866d7e50fab63efa","fromNode":"31ad25065cd8f7f1","fromSide":"right","toNode":"5d3bfa6a98ad75d0","toSide":"left"},
-		{"id":"429c2fd47e920ffb","fromNode":"31ad25065cd8f7f1","fromSide":"right","toNode":"48f4b87bfde38181","toSide":"left"}
+		{"id":"429c2fd47e920ffb","fromNode":"31ad25065cd8f7f1","fromSide":"right","toNode":"48f4b87bfde38181","toSide":"left"},
+		{"id":"87d208a948057ba2","fromNode":"5d3bfa6a98ad75d0","fromSide":"right","toNode":"f238cef2d55e7b34","toSide":"left"},
+		{"id":"13d27cb72c0ff4a9","fromNode":"5d3bfa6a98ad75d0","fromSide":"right","toNode":"1c60e8ce3bbc25d2","toSide":"left"},
+		{"id":"fadbe26aab7151b6","fromNode":"3431689213d13936","fromSide":"right","toNode":"1e129a82ee5835f0","toSide":"left"}
 	]
 }
