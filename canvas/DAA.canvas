@@ -11,7 +11,7 @@
 		{"id":"5885faf9f9b3d249","x":6248,"y":-2488,"width":822,"height":937,"type":"file","file":"Pasted image 20240407133902.png"},
 		{"id":"b9fe57f551eca506","x":2720,"y":-2560,"width":722,"height":1080,"type":"file","file":"Pasted image 20240407133801.png"},
 		{"id":"516d4bcb9cef4c3d","x":1080,"y":-1829,"width":627,"height":771,"type":"file","file":"Pasted image 20240407133649.png"},
-		{"id":"98e539339ccf70fb","x":2300,"y":-2260,"width":420,"height":420,"type":"text","text":"Unit1:\nI (II Asymptotic Notation) with egs and Time and Space Complexity estimation\nI Binary Search Algorithm and its time complexity\nI Eg of algo whose complexity is O n(logn) : ![[Pasted image 20240407134244.png]]\nNIP I Explain step by step heap sort with eg and write its algo\nNIP I Heapsort Working Procedure\nI Priori and posteriori analysis, Big OH and THETA notation\n\n\n"}
+		{"id":"98e539339ccf70fb","x":3200,"y":-2200,"width":420,"height":420,"type":"text","text":"Unit1:\nI (II Asymptotic Notation) with egs and Time and Space Complexity estimation\nI Binary Search Algorithm and its time complexity\nI Eg of algo whose complexity is O n(logn) : ![[Pasted image 20240407134244.png]]\nNIP I Explain step by step heap sort with eg and write its algo\nNIP I Heapsort Working Procedure\nI Priori and posteriori analysis, Big OH and THETA notation\nNIP Merge Sort\n\n"}
 	],
 	"edges":[]
 }
