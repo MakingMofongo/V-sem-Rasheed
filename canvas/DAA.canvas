@@ -36,7 +36,7 @@
 		{"id":"5d3bfa6a98ad75d0","x":3580,"y":950,"width":250,"height":120,"type":"text","text":"Tree def - Disjoint set in tree, tree rep using linked list"},
 		{"id":"1c60e8ce3bbc25d2","x":4060,"y":950,"width":320,"height":184,"type":"file","file":"Pasted image 20240407230335.png"},
 		{"id":"f238cef2d55e7b34","x":4060,"y":1158,"width":400,"height":106,"type":"file","file":"Pasted image 20240407230348.png"},
-		{"id":"1e129a82ee5835f0","x":3939,"y":572,"width":250,"height":60,"type":"text","text":"Hashing - "}
+		{"id":"1e129a82ee5835f0","x":3939,"y":572,"width":321,"height":108,"type":"text","text":"Hashing -def, Hash table, hash function, collision, resolution "}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
