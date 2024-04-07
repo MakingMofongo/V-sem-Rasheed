@@ -44,18 +44,19 @@
 		{"id":"fa6e3802105b3f37","type":"text","text":"def\n5 points:\nrestrictons\nincident\nsubgraph\ncycle\n'connected' vertices\nstrongly connected\ndegree\n","x":3638,"y":787,"width":342,"height":273},
 		{"id":"4d204b7a1d1caaf0","type":"text","text":"Graph representation","x":4099,"y":1000,"width":250,"height":60},
 		{"id":"4ba59d1561cebeec","type":"text","text":"adjacency matrix\nadjacency lists\nadjacency multilists","x":4485,"y":958,"width":275,"height":102,"color":"5"},
-		{"id":"a4189f3cccc8537e","x":3594,"y":1278,"width":250,"height":60,"color":"5","type":"text","text":"weighting and collapsing rule"},
-		{"id":"4233a0e629c56307","x":3138,"y":1631,"width":250,"height":86,"type":"text","text":"Heap"},
-		{"id":"886e2be2031e5fb4","x":3060,"y":1768,"width":250,"height":60,"color":"5","type":"text","text":"Sorting and ops"},
-		{"id":"0142165cc5f382e8","x":5238,"y":277,"width":250,"height":183,"type":"text","text":"# Unit 2"},
-		{"id":"f79d5e5507626dbf","x":5582,"y":160,"width":250,"height":60,"type":"text","text":"Knapsack"},
-		{"id":"92e9591d83e43277","x":5761,"y":-430,"width":600,"height":382,"type":"file","file":"Pasted image 20240408011235.png"},
-		{"id":"a0f8da9efbb3499c","x":5972,"y":24,"width":413,"height":776,"type":"file","file":"Pasted image 20240408011204.png"},
-		{"id":"7bd5eccc1b0e8179","x":6480,"y":160,"width":250,"height":60,"type":"text","text":"Best case\nWorst case"},
-		{"id":"994ab2a8b22008dd","x":6840,"y":-340,"width":553,"height":500,"type":"file","file":"Pasted image 20240408012854.png"},
-		{"id":"b5465d3f54fe7e77","x":6860,"y":240,"width":514,"height":451,"type":"file","file":"Pasted image 20240408012958.png"},
-		{"id":"4dd0e6bf34611535","x":5582,"y":309,"width":250,"height":60,"type":"text","text":"Quick sort"},
-		{"id":"c2f1128054794893","x":5582,"y":900,"width":250,"height":60,"type":"text","text":"Greedy method"}
+		{"id":"a4189f3cccc8537e","type":"text","text":"weighting and collapsing rule","x":3594,"y":1278,"width":250,"height":60,"color":"5"},
+		{"id":"4233a0e629c56307","type":"text","text":"Heap","x":3138,"y":1631,"width":250,"height":86},
+		{"id":"886e2be2031e5fb4","type":"text","text":"Sorting and ops","x":3060,"y":1768,"width":250,"height":60,"color":"5"},
+		{"id":"0142165cc5f382e8","type":"text","text":"# Unit 2","x":5238,"y":277,"width":250,"height":183},
+		{"id":"f79d5e5507626dbf","type":"text","text":"Knapsack","x":5582,"y":160,"width":250,"height":60},
+		{"id":"92e9591d83e43277","type":"file","file":"Pasted image 20240408011235.png","x":5761,"y":-430,"width":600,"height":382},
+		{"id":"a0f8da9efbb3499c","type":"file","file":"Pasted image 20240408011204.png","x":5972,"y":24,"width":413,"height":776},
+		{"id":"7bd5eccc1b0e8179","type":"text","text":"Best case\nWorst case","x":6480,"y":160,"width":250,"height":60},
+		{"id":"994ab2a8b22008dd","type":"file","file":"Pasted image 20240408012854.png","x":6840,"y":-340,"width":553,"height":500},
+		{"id":"b5465d3f54fe7e77","type":"file","file":"Pasted image 20240408012958.png","x":6860,"y":240,"width":514,"height":451},
+		{"id":"4dd0e6bf34611535","type":"text","text":"Quick sort","x":5582,"y":309,"width":250,"height":60},
+		{"id":"c2f1128054794893","type":"text","text":"Greedy method","x":5582,"y":900,"width":250,"height":60},
+		{"id":"397b011b6c2855db","x":5952,"y":917,"width":250,"height":60,"type":"text","text":"Definition - takes set of u"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -98,6 +99,7 @@
 		{"id":"f48e9820e315fc1b","fromNode":"4dd0e6bf34611535","fromSide":"right","toNode":"7bd5eccc1b0e8179","toSide":"left"},
 		{"id":"8c61152e94ec6944","fromNode":"7bd5eccc1b0e8179","fromSide":"right","toNode":"994ab2a8b22008dd","toSide":"left"},
 		{"id":"47d72afd73b4f753","fromNode":"7bd5eccc1b0e8179","fromSide":"right","toNode":"b5465d3f54fe7e77","toSide":"left"},
-		{"id":"182d695ba02bc869","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"c2f1128054794893","toSide":"left"}
+		{"id":"182d695ba02bc869","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"c2f1128054794893","toSide":"left"},
+		{"id":"9afaeffefaa2090c","fromNode":"c2f1128054794893","fromSide":"right","toNode":"397b011b6c2855db","toSide":"left"}
 	]
 }
