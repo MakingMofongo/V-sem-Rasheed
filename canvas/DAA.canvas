@@ -56,7 +56,9 @@
 		{"id":"b5465d3f54fe7e77","type":"file","file":"Pasted image 20240408012958.png","x":6860,"y":240,"width":514,"height":451},
 		{"id":"4dd0e6bf34611535","type":"text","text":"Quick sort","x":5582,"y":309,"width":250,"height":60},
 		{"id":"c2f1128054794893","type":"text","text":"Greedy method","x":5582,"y":900,"width":250,"height":60},
-		{"id":"397b011b6c2855db","x":5972,"y":930,"width":348,"height":263,"type":"text","text":"Definition - takes set of inputs, locally optimal decisions, each input is added to partially constructed solution then checked, results in suboptimal solutions\n\nAlgo\nAlgo 4 points text"}
+		{"id":"397b011b6c2855db","x":5972,"y":930,"width":348,"height":263,"type":"text","text":"Definition - takes set of inputs, locally optimal decisions, each input is added to partially constructed solution then checked, results in suboptimal solutions\n\nAlgo\nAlgo 4 points text"},
+		{"id":"f56d687ceed98c77","x":5582,"y":1300,"width":250,"height":60,"type":"text","text":"Merge Sort"},
+		{"id":"7201817d89949855","x":5972,"y":1260,"width":352,"height":475,"type":"file","file":"Pasted image 20240408020338.png"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -100,6 +102,8 @@
 		{"id":"8c61152e94ec6944","fromNode":"7bd5eccc1b0e8179","fromSide":"right","toNode":"994ab2a8b22008dd","toSide":"left"},
 		{"id":"47d72afd73b4f753","fromNode":"7bd5eccc1b0e8179","fromSide":"right","toNode":"b5465d3f54fe7e77","toSide":"left"},
 		{"id":"182d695ba02bc869","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"c2f1128054794893","toSide":"left"},
-		{"id":"9afaeffefaa2090c","fromNode":"c2f1128054794893","fromSide":"right","toNode":"397b011b6c2855db","toSide":"left"}
+		{"id":"9afaeffefaa2090c","fromNode":"c2f1128054794893","fromSide":"right","toNode":"397b011b6c2855db","toSide":"left"},
+		{"id":"3ab27cc2299800ae","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"f56d687ceed98c77","toSide":"left"},
+		{"id":"5c75307389a14c5b","fromNode":"f56d687ceed98c77","fromSide":"right","toNode":"7201817d89949855","toSide":"left"}
 	]
 }
