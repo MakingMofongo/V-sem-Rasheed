@@ -11,7 +11,17 @@
 		{"id":"5885faf9f9b3d249","type":"file","file":"Pasted image 20240407133902.png","x":6248,"y":-2488,"width":822,"height":937},
 		{"id":"b9fe57f551eca506","type":"file","file":"Pasted image 20240407133801.png","x":2720,"y":-2560,"width":722,"height":1080},
 		{"id":"516d4bcb9cef4c3d","type":"file","file":"Pasted image 20240407133649.png","x":1080,"y":-1829,"width":627,"height":771},
-		{"id":"98e539339ccf70fb","type":"text","text":"Unit1:\nI (II Asymptotic Notation) with egs and Time and Space Complexity estimation\nI Binary Search Algorithm and its time complexity\nI Eg of algo whose complexity is O n(logn) : ![[Pasted image 20240407134244.png]]\nNIP I Explain step by step heap sort with eg and write its algo\nNIP I Heapsort Working Procedure\nI Priori and posteriori analysis, Big OH and THETA notation\nNIP Merge Sort\n\n","x":1925,"y":-399,"width":560,"height":600}
+		{"id":"98e539339ccf70fb","type":"text","text":"Unit1:\nI (II Asymptotic Notation) with egs and Time and Space Complexity estimation\nI Binary Search Algorithm and its time complexity\nI Eg of algo whose complexity is O n(logn) : ![[Pasted image 20240407134244.png]]\nNIP I Explain step by step heap sort with eg and write its algo\nNIP I Heapsort Working Procedure\nI Priori and posteriori analysis, Big OH and THETA notation\nNIP Merge Sort\n\n","x":1925,"y":-399,"width":560,"height":600},
+		{"id":"98186ede1bc8a3f8","x":2862,"y":-508,"width":250,"height":188,"color":"1","type":"text","text":"# UNIT 1"},
+		{"id":"9fdcfae6530d90ba","x":3222,"y":-475,"width":250,"height":60,"type":"text","text":"Algorithms def and spec"},
+		{"id":"15c7f63003049573","x":3322,"y":-392,"width":250,"height":60,"type":"text","text":"Space and Time compllexity"},
+		{"id":"e79d2c614c622924","x":3637,"y":-436,"width":250,"height":60,"type":"text","text":"Space"},
+		{"id":"574887629c9aca73","x":3630,"y":-321,"width":250,"height":60,"type":"text","text":"Time"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
+		{"id":"72ef3adaba145a45","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"15c7f63003049573","toSide":"left"},
+		{"id":"c203204ca9bb14f6","fromNode":"15c7f63003049573","fromSide":"right","toNode":"e79d2c614c622924","toSide":"left"},
+		{"id":"18c994bcbeeea860","fromNode":"15c7f63003049573","fromSide":"right","toNode":"574887629c9aca73","toSide":"left"}
+	]
 }
