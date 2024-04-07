@@ -31,15 +31,17 @@
 		{"id":"24b3b0c27456be93","type":"text","text":"Dictionary","x":3234,"y":584,"width":250,"height":60},
 		{"id":"3431689213d13936","type":"text","text":"Def \nHashing","x":3602,"y":590,"width":250,"height":60},
 		{"id":"7cb3764acb903b67","type":"text","text":"Graphs","x":3234,"y":760,"width":250,"height":60},
-		{"id":"31ad25065cd8f7f1","type":"text","text":"Trees","x":3234,"y":920,"width":250,"height":60},
-		{"id":"5d3bfa6a98ad75d0","type":"text","text":"Tree def - Disjoint set in tree, tree rep using linked list","x":3580,"y":950,"width":250,"height":120},
 		{"id":"1e129a82ee5835f0","type":"text","text":"Hashing -def, Hash table, hash function, collision, resolution ","x":3939,"y":572,"width":321,"height":108},
-		{"id":"1c60e8ce3bbc25d2","type":"file","file":"Pasted image 20240407230335.png","x":4000,"y":802,"width":320,"height":184},
-		{"id":"f238cef2d55e7b34","type":"file","file":"Pasted image 20240407230348.png","x":4000,"y":1010,"width":400,"height":106},
-		{"id":"48f4b87bfde38181","type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, complete binary tree (basically same, just that highlight that EXCEPT last layer all have two nodes), \n\nRepresentation - linear bad, linked representation good:![[Pasted image 20240407231610.png]]","x":3580,"y":1240,"width":520,"height":420},
-		{"id":"164e9e57181f48b0","type":"text","text":"BSTs - 4 properties,eg","x":3588,"y":1823,"width":250,"height":60},
-		{"id":"8caeffc7f010a688","type":"file","file":"Pasted image 20240407231709.png","x":4160,"y":1268,"width":646,"height":785},
-		{"id":"5f0bfcac3de43a57","x":3958,"y":2182,"width":250,"height":60,"type":"text","text":"How Searching is done in BST"}
+		{"id":"31ad25065cd8f7f1","type":"text","text":"Trees","x":3263,"y":1478,"width":250,"height":60},
+		{"id":"5d3bfa6a98ad75d0","type":"text","text":"Tree def - Disjoint set in tree, tree rep using linked list","x":3609,"y":1508,"width":250,"height":120},
+		{"id":"48f4b87bfde38181","type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, complete binary tree (basically same, just that highlight that EXCEPT last layer all have two nodes), \n\nRepresentation - linear bad, linked representation good:![[Pasted image 20240407231610.png]]","x":3609,"y":1798,"width":520,"height":420},
+		{"id":"164e9e57181f48b0","type":"text","text":"BSTs - 4 properties,eg","x":3617,"y":2381,"width":250,"height":60},
+		{"id":"8caeffc7f010a688","type":"file","file":"Pasted image 20240407231709.png","x":4189,"y":1826,"width":646,"height":785},
+		{"id":"5f0bfcac3de43a57","x":3987,"y":2740,"width":250,"height":60,"type":"text","text":"How Searching is done in BST"},
+		{"id":"1c60e8ce3bbc25d2","type":"file","file":"Pasted image 20240407230335.png","x":4029,"y":1360,"width":320,"height":184},
+		{"id":"f238cef2d55e7b34","type":"file","file":"Pasted image 20240407230348.png","x":4029,"y":1568,"width":400,"height":106},
+		{"id":"cd4047c81b2d1643","x":3263,"y":1280,"width":250,"height":60,"type":"text","text":"Union and Find"},
+		{"id":"fa6e3802105b3f37","x":3638,"y":787,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -67,6 +69,8 @@
 		{"id":"fadbe26aab7151b6","fromNode":"3431689213d13936","fromSide":"right","toNode":"1e129a82ee5835f0","toSide":"left"},
 		{"id":"0142e8cdb6c03ef7","fromNode":"31ad25065cd8f7f1","fromSide":"right","toNode":"164e9e57181f48b0","toSide":"left"},
 		{"id":"0bd8b66e4929a500","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"8caeffc7f010a688","toSide":"left"},
-		{"id":"eac25f571fadb747","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"5f0bfcac3de43a57","toSide":"left"}
+		{"id":"eac25f571fadb747","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"5f0bfcac3de43a57","toSide":"left"},
+		{"id":"fc240837d08438ba","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"cd4047c81b2d1643","toSide":"left"},
+		{"id":"83e151cfe1229047","fromNode":"7cb3764acb903b67","fromSide":"right","toNode":"fa6e3802105b3f37","toSide":"left"}
 	]
 }
