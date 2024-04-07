@@ -47,14 +47,15 @@
 		{"id":"a4189f3cccc8537e","x":3594,"y":1278,"width":250,"height":60,"color":"5","type":"text","text":"weighting and collapsing rule"},
 		{"id":"4233a0e629c56307","x":3138,"y":1631,"width":250,"height":86,"type":"text","text":"Heap"},
 		{"id":"886e2be2031e5fb4","x":3060,"y":1768,"width":250,"height":60,"color":"5","type":"text","text":"Sorting and ops"},
-		{"id":"0142165cc5f382e8","x":5160,"y":-470,"width":250,"height":183,"type":"text","text":"# Unit 2"},
-		{"id":"4dd0e6bf34611535","x":5558,"y":-492,"width":250,"height":60,"type":"text","text":"Quick sort"},
-		{"id":"f79d5e5507626dbf","x":5504,"y":-587,"width":250,"height":60,"type":"text","text":"Knapsack"},
-		{"id":"92e9591d83e43277","x":6020,"y":-939,"width":600,"height":382,"type":"file","file":"Pasted image 20240408011235.png"},
-		{"id":"a0f8da9efbb3499c","x":6020,"y":-527,"width":413,"height":776,"type":"file","file":"Pasted image 20240408011204.png"},
-		{"id":"7bd5eccc1b0e8179","x":5984,"y":347,"width":250,"height":60,"type":"text","text":"Best case\nWorst case"},
-		{"id":"994ab2a8b22008dd","x":6492,"y":60,"width":553,"height":500,"type":"file","file":"Pasted image 20240408012854.png"},
-		{"id":"b5465d3f54fe7e77","x":6512,"y":640,"width":514,"height":451,"type":"file","file":"Pasted image 20240408012958.png"}
+		{"id":"0142165cc5f382e8","x":5238,"y":277,"width":250,"height":183,"type":"text","text":"# Unit 2"},
+		{"id":"f79d5e5507626dbf","x":5582,"y":160,"width":250,"height":60,"type":"text","text":"Knapsack"},
+		{"id":"92e9591d83e43277","x":5761,"y":-430,"width":600,"height":382,"type":"file","file":"Pasted image 20240408011235.png"},
+		{"id":"a0f8da9efbb3499c","x":5972,"y":24,"width":413,"height":776,"type":"file","file":"Pasted image 20240408011204.png"},
+		{"id":"7bd5eccc1b0e8179","x":6480,"y":160,"width":250,"height":60,"type":"text","text":"Best case\nWorst case"},
+		{"id":"994ab2a8b22008dd","x":6840,"y":-340,"width":553,"height":500,"type":"file","file":"Pasted image 20240408012854.png"},
+		{"id":"b5465d3f54fe7e77","x":6860,"y":240,"width":514,"height":451,"type":"file","file":"Pasted image 20240408012958.png"},
+		{"id":"4dd0e6bf34611535","x":5582,"y":309,"width":250,"height":60,"type":"text","text":"Quick sort"},
+		{"id":"c2f1128054794893","x":5582,"y":900,"width":250,"height":60,"type":"text","text":"Greedy method"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -96,6 +97,7 @@
 		{"id":"8876a2adada7c00d","fromNode":"f79d5e5507626dbf","fromSide":"right","toNode":"92e9591d83e43277","toSide":"left"},
 		{"id":"f48e9820e315fc1b","fromNode":"4dd0e6bf34611535","fromSide":"right","toNode":"7bd5eccc1b0e8179","toSide":"left"},
 		{"id":"8c61152e94ec6944","fromNode":"7bd5eccc1b0e8179","fromSide":"right","toNode":"994ab2a8b22008dd","toSide":"left"},
-		{"id":"47d72afd73b4f753","fromNode":"7bd5eccc1b0e8179","fromSide":"right","toNode":"b5465d3f54fe7e77","toSide":"left"}
+		{"id":"47d72afd73b4f753","fromNode":"7bd5eccc1b0e8179","fromSide":"right","toNode":"b5465d3f54fe7e77","toSide":"left"},
+		{"id":"182d695ba02bc869","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"c2f1128054794893","toSide":"left"}
 	]
 }
