@@ -64,7 +64,7 @@
 		{"id":"13a76e666683e31e","type":"file","file":"Pasted image 20240408020933.png","x":6060,"y":2360,"width":537,"height":454},
 		{"id":"b8833ef28df47e20","x":7507,"y":-642,"width":250,"height":60,"type":"text","text":"UNIT 5"},
 		{"id":"988825a9c96f687f","x":7902,"y":-718,"width":278,"height":106,"type":"text","text":"Vertex cover NP complete proof using CLIQUE"},
-		{"id":"881ab26597bd2d93","x":8319,"y":-701,"width":721,"height":241,"type":"text","text":"Proof de'la BELONGS TO NP:![[Pasted image 20240408041834.png]]\nConverting C"}
+		{"id":"881ab26597bd2d93","x":8319,"y":-701,"width":741,"height":581,"type":"text","text":"Proof de'la BELONGS TO NP:![[Pasted image 20240408041834.png]]\nConverting CliqueDP to Vertex cover: \n![[Pasted image 20240408041923.png]]"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
