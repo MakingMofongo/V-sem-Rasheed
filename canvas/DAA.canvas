@@ -33,7 +33,7 @@
 		{"id":"7cb3764acb903b67","x":3234,"y":760,"width":250,"height":60,"type":"text","text":"Graphs"},
 		{"id":"31ad25065cd8f7f1","x":3234,"y":920,"width":250,"height":60,"type":"text","text":"Trees"},
 		{"id":"5d3bfa6a98ad75d0","x":3580,"y":840,"width":250,"height":60,"type":"text","text":"Tree def - Disjoint set in tree"},
-		{"id":"48f4b87bfde38181","x":3613,"y":952,"width":250,"height":60,"type":"text","text":""}
+		{"id":"48f4b87bfde38181","x":3613,"y":952,"width":250,"height":60,"type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, "}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
