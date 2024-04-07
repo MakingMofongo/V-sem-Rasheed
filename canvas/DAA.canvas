@@ -29,9 +29,9 @@
 		{"id":"cdadf082bb490490","type":"file","file":"Excalidraw/Drawing 2024-04-07 03.32.02.excalidraw.md","x":3347,"y":-1437,"width":671,"height":962},
 		{"id":"43017826e88d803c","type":"file","file":"Pasted image 20240407224713.png","x":4178,"y":-1375,"width":3165,"height":419},
 		{"id":"24b3b0c27456be93","x":3234,"y":584,"width":250,"height":60,"type":"text","text":"Dictionary"},
-		{"id":"7cb3764acb903b67","x":3207,"y":761,"width":250,"height":60,"type":"text","text":"Graphs"},
-		{"id":"31ad25065cd8f7f1","x":3233,"y":933,"width":250,"height":60,"type":"text","text":"Trees"},
-		{"id":"3431689213d13936","x":3602,"y":590,"width":250,"height":60,"type":"text","text":"Def "}
+		{"id":"3431689213d13936","x":3602,"y":590,"width":250,"height":60,"type":"text","text":"Def \nHashing"},
+		{"id":"7cb3764acb903b67","x":3234,"y":760,"width":250,"height":60,"type":"text","text":"Graphs"},
+		{"id":"31ad25065cd8f7f1","x":3234,"y":920,"width":250,"height":60,"type":"text","text":"Trees"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
