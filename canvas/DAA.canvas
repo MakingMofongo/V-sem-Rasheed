@@ -47,7 +47,10 @@
 		{"id":"a4189f3cccc8537e","x":3594,"y":1278,"width":250,"height":60,"color":"5","type":"text","text":"weighting and collapsing rule"},
 		{"id":"4233a0e629c56307","x":3138,"y":1631,"width":250,"height":86,"type":"text","text":"Heap"},
 		{"id":"886e2be2031e5fb4","x":3060,"y":1768,"width":250,"height":60,"color":"5","type":"text","text":"Sorting and ops"},
-		{"id":"0142165cc5f382e8","x":5160,"y":-470,"width":250,"height":183,"type":"text","text":"# Unit 2"}
+		{"id":"0142165cc5f382e8","x":5160,"y":-470,"width":250,"height":183,"type":"text","text":"# Unit 2"},
+		{"id":"4dd0e6bf34611535","x":5558,"y":-492,"width":250,"height":60,"type":"text","text":"Quick sort"},
+		{"id":"f79d5e5507626dbf","x":5504,"y":-587,"width":250,"height":60,"type":"text","text":"Knapsack"},
+		{"id":"a0f8da9efbb3499c","x":5920,"y":-820,"width":413,"height":776,"type":"file","file":"Pasted image 20240408011204.png"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -82,6 +85,9 @@
 		{"id":"facc6ade36be5fae","fromNode":"4d204b7a1d1caaf0","fromSide":"right","toNode":"4ba59d1561cebeec","toSide":"left"},
 		{"id":"52160b00de59900e","fromNode":"cd4047c81b2d1643","fromSide":"right","toNode":"a4189f3cccc8537e","toSide":"left"},
 		{"id":"aa2267087c147ac5","fromNode":"31ad25065cd8f7f1","fromSide":"right","toNode":"4233a0e629c56307","toSide":"left"},
-		{"id":"69184bf49d93d081","fromNode":"4233a0e629c56307","fromSide":"right","toNode":"886e2be2031e5fb4","toSide":"left"}
+		{"id":"69184bf49d93d081","fromNode":"4233a0e629c56307","fromSide":"right","toNode":"886e2be2031e5fb4","toSide":"left"},
+		{"id":"b4fd6cef1098d526","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"4dd0e6bf34611535","toSide":"left"},
+		{"id":"091470b63a679134","fromNode":"0142165cc5f382e8","fromSide":"right","toNode":"f79d5e5507626dbf","toSide":"left"},
+		{"id":"59da4fa88933a3d0","fromNode":"4dd0e6bf34611535","fromSide":"right","toNode":"a0f8da9efbb3499c","toSide":"left"}
 	]
 }
