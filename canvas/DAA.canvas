@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"0142165cc5f382e8","x":5939,"y":-103,"width":250,"height":60,"type":"text","text":""},
 		{"id":"e66cfaff194a07db","type":"file","file":"Imp questions DAA.md","x":660,"y":-560,"width":1108,"height":1193},
 		{"id":"be71260fcb361698","type":"file","file":"221bc542-a6f8-4f8d-a5c2-2dbc726f0e0f.pdf","x":180,"y":-1560,"width":577,"height":658},
 		{"id":"19575121d4981032","type":"file","file":"Pasted image 20240407133639.png","x":1080,"y":-2600,"width":621,"height":771},
@@ -40,11 +41,13 @@
 		{"id":"5f0bfcac3de43a57","type":"text","text":"How Searching is done in BST","x":3987,"y":2740,"width":250,"height":60,"color":"5"},
 		{"id":"1c60e8ce3bbc25d2","type":"file","file":"Pasted image 20240407230335.png","x":4029,"y":1360,"width":320,"height":184},
 		{"id":"f238cef2d55e7b34","type":"file","file":"Pasted image 20240407230348.png","x":4029,"y":1568,"width":400,"height":106},
-		{"id":"cd4047c81b2d1643","type":"text","text":"Union and Find","x":3263,"y":1280,"width":250,"height":60,"color":"5"},
+		{"id":"cd4047c81b2d1643","type":"text","text":"Union and Find","x":3263,"y":1280,"width":250,"height":60},
 		{"id":"fa6e3802105b3f37","type":"text","text":"def\n5 points:\nrestrictons\nincident\nsubgraph\ncycle\n'connected' vertices\nstrongly connected\ndegree\n","x":3638,"y":787,"width":342,"height":273},
 		{"id":"4d204b7a1d1caaf0","type":"text","text":"Graph representation","x":4099,"y":1000,"width":250,"height":60},
 		{"id":"4ba59d1561cebeec","type":"text","text":"adjacency matrix\nadjacency lists\nadjacency multilists","x":4485,"y":958,"width":275,"height":102,"color":"5"},
-		{"id":"a4189f3cccc8537e","x":3594,"y":1278,"width":250,"height":60,"type":"text","text":"weighting and collapsing rule"}
+		{"id":"a4189f3cccc8537e","x":3594,"y":1278,"width":250,"height":60,"color":"5","type":"text","text":"weighting and collapsing rule"},
+		{"id":"4233a0e629c56307","x":3138,"y":1631,"width":250,"height":86,"type":"text","text":"Heap"},
+		{"id":"886e2be2031e5fb4","x":3060,"y":1768,"width":250,"height":60,"color":"5","type":"text","text":"Sorting and ops"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -77,6 +80,8 @@
 		{"id":"83e151cfe1229047","fromNode":"7cb3764acb903b67","fromSide":"right","toNode":"fa6e3802105b3f37","toSide":"left"},
 		{"id":"258328fc923adc79","fromNode":"fa6e3802105b3f37","fromSide":"right","toNode":"4d204b7a1d1caaf0","toSide":"left"},
 		{"id":"facc6ade36be5fae","fromNode":"4d204b7a1d1caaf0","fromSide":"right","toNode":"4ba59d1561cebeec","toSide":"left"},
-		{"id":"52160b00de59900e","fromNode":"cd4047c81b2d1643","fromSide":"right","toNode":"a4189f3cccc8537e","toSide":"left"}
+		{"id":"52160b00de59900e","fromNode":"cd4047c81b2d1643","fromSide":"right","toNode":"a4189f3cccc8537e","toSide":"left"},
+		{"id":"aa2267087c147ac5","fromNode":"31ad25065cd8f7f1","fromSide":"right","toNode":"4233a0e629c56307","toSide":"left"},
+		{"id":"69184bf49d93d081","fromNode":"4233a0e629c56307","fromSide":"right","toNode":"886e2be2031e5fb4","toSide":"left"}
 	]
 }
