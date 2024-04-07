@@ -6,7 +6,7 @@
 		{"id":"ac4059d0df664f12","type":"file","file":"Pasted image 20240407133741.png","x":1768,"y":-2825,"width":874,"height":1803},
 		{"id":"5d5f959a56d50b3c","type":"file","file":"Pasted image 20240407133817.png","x":3600,"y":-2488,"width":841,"height":937},
 		{"id":"9eae37ada4ea0704","type":"file","file":"Pasted image 20240407133837.png","x":4521,"y":-2488,"width":752,"height":936},
-		{"id":"96ba0d104afb5eb2","type":"file","file":"Pasted image 20240407133850.png","x":5353,"y":-2488,"width":815,"height":937},
+		{"id":"96ba0d104afb5eb2","type":"file","file":"Pasted image 20240407133850.png","x":5353,"y":-2488,"width":815,"height":936},
 		{"id":"5885faf9f9b3d249","type":"file","file":"Pasted image 20240407133902.png","x":6248,"y":-2488,"width":822,"height":937},
 		{"id":"b9fe57f551eca506","type":"file","file":"Pasted image 20240407133801.png","x":2720,"y":-2560,"width":722,"height":1080},
 		{"id":"516d4bcb9cef4c3d","type":"file","file":"Pasted image 20240407133649.png","x":1080,"y":-1829,"width":627,"height":771},
@@ -26,7 +26,8 @@
 		{"id":"a1d598750fa344e5","type":"file","file":"Pasted image 20240407222556.png","x":3338,"y":160,"width":649,"height":80},
 		{"id":"a5dab8029ce0a61d","type":"file","file":"Pasted image 20240407223057.png","x":4560,"y":-452,"width":399,"height":138},
 		{"id":"844acc5d034f575b","type":"file","file":"Pasted image 20240407223106.png","x":4560,"y":-167,"width":400,"height":119},
-		{"id":"cdadf082bb490490","type":"file","file":"Excalidraw/Drawing 2024-04-07 03.32.02.excalidraw.md","x":3347,"y":-1437,"width":671,"height":962}
+		{"id":"cdadf082bb490490","type":"file","file":"Excalidraw/Drawing 2024-04-07 03.32.02.excalidraw.md","x":3347,"y":-1437,"width":671,"height":962},
+		{"id":"43017826e88d803c","x":4178,"y":-1375,"width":3165,"height":419,"type":"file","file":"Pasted image 20240407224713.png"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
