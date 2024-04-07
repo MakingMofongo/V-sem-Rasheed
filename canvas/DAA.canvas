@@ -37,11 +37,13 @@
 		{"id":"48f4b87bfde38181","type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, complete binary tree (basically same, just that highlight that EXCEPT last layer all have two nodes), \n\nRepresentation - linear bad, linked representation good:![[Pasted image 20240407231610.png]]","x":3609,"y":1798,"width":520,"height":420},
 		{"id":"164e9e57181f48b0","type":"text","text":"BSTs - 4 properties,eg","x":3617,"y":2381,"width":250,"height":60},
 		{"id":"8caeffc7f010a688","type":"file","file":"Pasted image 20240407231709.png","x":4189,"y":1826,"width":646,"height":785},
-		{"id":"5f0bfcac3de43a57","x":3987,"y":2740,"width":250,"height":60,"type":"text","text":"How Searching is done in BST"},
+		{"id":"5f0bfcac3de43a57","type":"text","text":"How Searching is done in BST","x":3987,"y":2740,"width":250,"height":60},
 		{"id":"1c60e8ce3bbc25d2","type":"file","file":"Pasted image 20240407230335.png","x":4029,"y":1360,"width":320,"height":184},
 		{"id":"f238cef2d55e7b34","type":"file","file":"Pasted image 20240407230348.png","x":4029,"y":1568,"width":400,"height":106},
-		{"id":"cd4047c81b2d1643","x":3263,"y":1280,"width":250,"height":60,"type":"text","text":"Union and Find"},
-		{"id":"fa6e3802105b3f37","x":3638,"y":787,"width":342,"height":273,"type":"text","text":"def\n5 points:\nrestrictons\nincident\nsubgraph\ncycle\n'connected' vertices\nstrongly connected\ndegree\n"}
+		{"id":"cd4047c81b2d1643","type":"text","text":"Union and Find","x":3263,"y":1280,"width":250,"height":60},
+		{"id":"fa6e3802105b3f37","type":"text","text":"def\n5 points:\nrestrictons\nincident\nsubgraph\ncycle\n'connected' vertices\nstrongly connected\ndegree\n","x":3638,"y":787,"width":342,"height":273},
+		{"id":"4d204b7a1d1caaf0","type":"text","text":"Graph representation","x":4099,"y":1000,"width":250,"height":60},
+		{"id":"4ba59d1561cebeec","x":4485,"y":958,"width":250,"height":60,"type":"text","text":"adjacency matrix\nadjacency lists\nadjacency multi"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
@@ -71,6 +73,8 @@
 		{"id":"0bd8b66e4929a500","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"8caeffc7f010a688","toSide":"left"},
 		{"id":"eac25f571fadb747","fromNode":"164e9e57181f48b0","fromSide":"right","toNode":"5f0bfcac3de43a57","toSide":"left"},
 		{"id":"fc240837d08438ba","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"cd4047c81b2d1643","toSide":"left"},
-		{"id":"83e151cfe1229047","fromNode":"7cb3764acb903b67","fromSide":"right","toNode":"fa6e3802105b3f37","toSide":"left"}
+		{"id":"83e151cfe1229047","fromNode":"7cb3764acb903b67","fromSide":"right","toNode":"fa6e3802105b3f37","toSide":"left"},
+		{"id":"258328fc923adc79","fromNode":"fa6e3802105b3f37","fromSide":"right","toNode":"4d204b7a1d1caaf0","toSide":"left"},
+		{"id":"facc6ade36be5fae","fromNode":"4d204b7a1d1caaf0","fromSide":"right","toNode":"4ba59d1561cebeec","toSide":"left"}
 	]
 }
