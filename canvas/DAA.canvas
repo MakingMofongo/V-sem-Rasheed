@@ -15,13 +15,21 @@
 		{"id":"98186ede1bc8a3f8","x":2862,"y":-508,"width":250,"height":188,"color":"1","type":"text","text":"# UNIT 1"},
 		{"id":"9fdcfae6530d90ba","x":3222,"y":-475,"width":250,"height":60,"type":"text","text":"Algorithms def and spec"},
 		{"id":"15c7f63003049573","x":3322,"y":-392,"width":250,"height":60,"type":"text","text":"Space and Time compllexity"},
-		{"id":"e79d2c614c622924","x":3637,"y":-436,"width":250,"height":60,"type":"text","text":"Space - def,formula,eg"},
-		{"id":"574887629c9aca73","x":3630,"y":-321,"width":250,"height":60,"type":"text","text":"Time- def,program step,method with eg"}
+		{"id":"e79d2c614c622924","x":3660,"y":-452,"width":250,"height":60,"type":"text","text":"Space - def,formula,eg"},
+		{"id":"574887629c9aca73","x":3660,"y":-337,"width":310,"height":121,"type":"text","text":"Time- def,program step,method with eg\n\n**Second method**"},
+		{"id":"95e822901b285c91","x":3300,"y":-140,"width":250,"height":60,"type":"text","text":"Asymptotic Notations"},
+		{"id":"f5cc5f90327a5058","x":3615,"y":-134,"width":250,"height":60,"type":"text","text":"Big oh"},
+		{"id":"d89e708015f734b0","x":3655,"y":-50,"width":250,"height":60,"type":"text","text":"Omega"},
+		{"id":"7dc4e25b45cc3837","x":3662,"y":46,"width":250,"height":60,"type":"text","text":"Theta"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
 		{"id":"72ef3adaba145a45","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"15c7f63003049573","toSide":"left"},
 		{"id":"c203204ca9bb14f6","fromNode":"15c7f63003049573","fromSide":"right","toNode":"e79d2c614c622924","toSide":"left"},
-		{"id":"18c994bcbeeea860","fromNode":"15c7f63003049573","fromSide":"right","toNode":"574887629c9aca73","toSide":"left"}
+		{"id":"18c994bcbeeea860","fromNode":"15c7f63003049573","fromSide":"right","toNode":"574887629c9aca73","toSide":"left"},
+		{"id":"453ba3dd48fa2ede","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"95e822901b285c91","toSide":"left"},
+		{"id":"f97501f578671eb1","fromNode":"95e822901b285c91","fromSide":"right","toNode":"f5cc5f90327a5058","toSide":"left"},
+		{"id":"6f9bd4bc0089cc1f","fromNode":"95e822901b285c91","fromSide":"right","toNode":"d89e708015f734b0","toSide":"left"},
+		{"id":"75d8d41aaee0c6c0","fromNode":"95e822901b285c91","fromSide":"right","toNode":"7dc4e25b45cc3837","toSide":"left"}
 	]
 }
