@@ -39,7 +39,7 @@
 		{"id":"48f4b87bfde38181","type":"text","text":"Binary Tree - Def (use disjoint set idea), max nodes, full binary tree, complete binary tree (basically same, just that highlight that EXCEPT last layer all have two nodes), \n\nRepresentation - linear bad, linked representation good:![[Pasted image 20240407231610.png]]","x":3580,"y":1240,"width":520,"height":420},
 		{"id":"164e9e57181f48b0","type":"text","text":"BSTs - 4 properties,eg","x":3588,"y":1823,"width":250,"height":60},
 		{"id":"8caeffc7f010a688","type":"file","file":"Pasted image 20240407231709.png","x":4160,"y":1268,"width":646,"height":785},
-		{"id":"5f0bfcac3de43a57","x":3958,"y":2182,"width":250,"height":60,"type":"text","text":""}
+		{"id":"5f0bfcac3de43a57","x":3958,"y":2182,"width":250,"height":60,"type":"text","text":"How Searching is done in BST"}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
