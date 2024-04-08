@@ -62,11 +62,11 @@
 		{"id":"7201817d89949855","type":"file","file":"Pasted image 20240408020338.png","x":6060,"y":1260,"width":352,"height":475},
 		{"id":"17da2f9f3ca879ee","type":"text","text":"Job Scheduling","x":5651,"y":2417,"width":269,"height":60},
 		{"id":"13a76e666683e31e","type":"file","file":"Pasted image 20240408020933.png","x":6060,"y":2360,"width":537,"height":454},
-		{"id":"b8833ef28df47e20","x":7507,"y":-642,"width":250,"height":60,"type":"text","text":"UNIT 5"},
-		{"id":"988825a9c96f687f","x":7902,"y":-718,"width":278,"height":106,"type":"text","text":"Vertex cover NP complete proof using CLIQUE"},
-		{"id":"881ab26597bd2d93","x":8319,"y":-701,"width":741,"height":581,"type":"text","text":"Proof de'la BELONGS TO NP:![[Pasted image 20240408041834.png]]\nConverting CliqueDP to Vertex cover: \n![[Pasted image 20240408041923.png]]"},
-		{"id":"66a6772851995b37","x":7700,"y":-530,"width":250,"height":60,"type":"text","text":"CNF SAT and CLIQUE"},
-		{"id":"6c0fd9c62c911aff","x":7700,"y":-410,"width":589,"height":1148,"type":"text","text":"CNF SAT:\n![[Pasted image 20240408042233.png]]\n\n\nSAT to Clique: ![[Pasted image 20240408042023.png]]"}
+		{"id":"b8833ef28df47e20","type":"text","text":"UNIT 5","x":7507,"y":-642,"width":250,"height":60},
+		{"id":"988825a9c96f687f","type":"text","text":"Vertex cover NP complete proof using CLIQUE","x":7902,"y":-718,"width":278,"height":106},
+		{"id":"881ab26597bd2d93","type":"text","text":"Proof de'la BELONGS TO NP:![[Pasted image 20240408041834.png]]\nConverting CliqueDP to Vertex cover: \n![[Pasted image 20240408041923.png]]","x":8319,"y":-701,"width":741,"height":581},
+		{"id":"66a6772851995b37","type":"text","text":"CNF SAT and CLIQUE","x":7700,"y":-530,"width":250,"height":60},
+		{"id":"6c0fd9c62c911aff","type":"text","text":"CNF SAT:\n![[Pasted image 20240408042233.png]]\n\n\nSAT to Clique: ![[Pasted image 20240408042023.png]]","x":7700,"y":-410,"width":589,"height":1148}
 	],
 	"edges":[
 		{"id":"9706c03977297aea","fromNode":"98186ede1bc8a3f8","fromSide":"right","toNode":"9fdcfae6530d90ba","toSide":"left"},
