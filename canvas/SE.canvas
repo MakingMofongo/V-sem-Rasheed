@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1ad90cb5641c8355","x":-250,"y":1134,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4b399cda4f2953fa","type":"file","file":"Excalidraw/SE.md","x":-300,"y":-260,"width":620,"height":1220}
+	],
+	"edges":[]
+}
