@@ -4,7 +4,6 @@
 		{"id":"aeef8b081f0c7766","type":"group","x":3840,"y":-322,"width":2080,"height":1682,"color":"4","label":"Subjects"},
 		{"id":"6f5ad50b4bbb26b4","type":"group","x":-480,"y":-302,"width":568,"height":325,"label":"Internal2Subs"},
 		{"id":"bd80ec63d0cb499c","type":"group","x":3950,"y":1480,"width":290,"height":320,"label":"Backlogs"},
-		{"id":"755667fa9cb08621","x":5413,"y":1220,"width":400,"height":400,"type":"file","file":"Excalidraw/SE.md"},
 		{"id":"d6a07453d635f1f9","type":"text","text":"AI","x":-182,"y":-282,"width":250,"height":60},
 		{"id":"c74b20207d4c5805","type":"text","text":"CD","x":-460,"y":-282,"width":250,"height":60,"color":"4"},
 		{"id":"0966f6e5949f177e","type":"text","text":"## 6.Give annotated parse tree and 3-address  code","x":-2720,"y":-305,"width":360,"height":145},
@@ -73,7 +72,8 @@
 		{"id":"b703527f4d45587a","type":"file","file":"PDFs/CSM SYLLABUS.pdf","x":6040,"y":-380,"width":868,"height":1000},
 		{"id":"a53fe4a3e59e8cdb","type":"text","text":"17","x":4013,"y":100,"width":250,"height":60},
 		{"id":"13ef27698ea903fb","type":"text","text":"16","x":4013,"y":20,"width":250,"height":60},
-		{"id":"1cd7969406765328","type":"text","text":"18","x":4013,"y":180,"width":250,"height":60}
+		{"id":"1cd7969406765328","type":"text","text":"18","x":4013,"y":180,"width":250,"height":60},
+		{"id":"755667fa9cb08621","type":"file","file":"Excalidraw/SE.md","x":5400,"y":820,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"47fde9acda44a61a","fromNode":"352f46086bea4476","fromSide":"bottom","toNode":"24a5e7f6bafdfc39","toSide":"top","color":"2"},
