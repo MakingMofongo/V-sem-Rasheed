@@ -14,7 +14,9 @@
 		{"id":"426557d23f23d873","x":1400,"y":660,"width":250,"height":60,"type":"text","text":"Ensures data consistency"},
 		{"id":"d8facb66d464d015","x":1400,"y":740,"width":250,"height":60,"type":"text","text":"Data Integrity and security"},
 		{"id":"89d6d780b3edc400","x":1400,"y":820,"width":250,"height":60,"type":"text","text":"Data Backup and recovery"},
-		{"id":"58723daa2415b89a","x":1400,"y":900,"width":250,"height":60,"type":"text","text":"Efficient data access"}
+		{"id":"58723daa2415b89a","x":1400,"y":900,"width":250,"height":60,"type":"text","text":"Efficient data access"},
+		{"id":"5a622dcf136c93d4","x":1020,"y":1139,"width":250,"height":60,"type":"text","text":"Structure of DBMS"},
+		{"id":"ef5e39217bc5c1df","x":1411,"y":1048,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"bf9ee4eaa0bdf768","fromNode":"3852446240093e07","fromSide":"right","toNode":"7bf870530fa7bc89","toSide":"left"},
@@ -29,6 +31,8 @@
 		{"id":"51fc9038e01904d4","fromNode":"1410adaa27e21aa2","fromSide":"right","toNode":"426557d23f23d873","toSide":"left"},
 		{"id":"95ee078461dbb27c","fromNode":"1410adaa27e21aa2","fromSide":"right","toNode":"d8facb66d464d015","toSide":"left"},
 		{"id":"f8648a8deb2440ad","fromNode":"1410adaa27e21aa2","fromSide":"right","toNode":"89d6d780b3edc400","toSide":"left"},
-		{"id":"0ae7dd87057f5753","fromNode":"1410adaa27e21aa2","fromSide":"right","toNode":"58723daa2415b89a","toSide":"left"}
+		{"id":"0ae7dd87057f5753","fromNode":"1410adaa27e21aa2","fromSide":"right","toNode":"58723daa2415b89a","toSide":"left"},
+		{"id":"0b0195dd0d0e04c0","fromNode":"7bf870530fa7bc89","fromSide":"right","toNode":"5a622dcf136c93d4","toSide":"left"},
+		{"id":"f40bc29567f5084b","fromNode":"5a622dcf136c93d4","fromSide":"right","toNode":"ef5e39217bc5c1df","toSide":"left"}
 	]
 }
