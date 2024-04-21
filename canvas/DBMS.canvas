@@ -19,7 +19,7 @@
 		{"id":"ef5e39217bc5c1df","x":1400,"y":1119,"width":250,"height":60,"type":"text","text":"Query Processor"},
 		{"id":"658cc8f68872c5a8","x":1400,"y":1199,"width":250,"height":60,"type":"text","text":"Storage Manager"},
 		{"id":"7f46181fd3ce1169","x":1400,"y":1279,"width":250,"height":60,"type":"text","text":"Disk Storage"},
-		{"id":"6d56d9f3001b5cd5","x":1762,"y":1073,"width":250,"height":60,"type":"text","text":"DML Compiler\nDML Interpreter\nEmbedded DML Pre-Comoi"}
+		{"id":"6d56d9f3001b5cd5","x":1762,"y":980,"width":250,"height":153,"type":"text","text":"DML Compiler\nDML Interpreter\nEmbedded DML Pre-Compiler"}
 	],
 	"edges":[
 		{"id":"bf9ee4eaa0bdf768","fromNode":"3852446240093e07","fromSide":"right","toNode":"7bf870530fa7bc89","toSide":"left"},
