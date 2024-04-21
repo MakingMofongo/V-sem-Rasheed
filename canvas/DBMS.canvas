@@ -18,7 +18,8 @@
 		{"id":"5a622dcf136c93d4","x":1020,"y":1139,"width":250,"height":60,"type":"text","text":"Structure of DBMS"},
 		{"id":"ef5e39217bc5c1df","x":1400,"y":1119,"width":250,"height":60,"type":"text","text":"Query Processor"},
 		{"id":"658cc8f68872c5a8","x":1400,"y":1199,"width":250,"height":60,"type":"text","text":"Storage Manager"},
-		{"id":"7f46181fd3ce1169","x":1400,"y":1279,"width":250,"height":60,"type":"text","text":"Disk Storage"}
+		{"id":"7f46181fd3ce1169","x":1400,"y":1279,"width":250,"height":60,"type":"text","text":"Disk Storage"},
+		{"id":"6d56d9f3001b5cd5","x":1762,"y":1073,"width":250,"height":60,"type":"text","text":"DML Compiler\nDML Interpreter\nEmbedded DML Pre-Comoi"}
 	],
 	"edges":[
 		{"id":"bf9ee4eaa0bdf768","fromNode":"3852446240093e07","fromSide":"right","toNode":"7bf870530fa7bc89","toSide":"left"},
@@ -37,6 +38,7 @@
 		{"id":"0b0195dd0d0e04c0","fromNode":"7bf870530fa7bc89","fromSide":"right","toNode":"5a622dcf136c93d4","toSide":"left"},
 		{"id":"f40bc29567f5084b","fromNode":"5a622dcf136c93d4","fromSide":"right","toNode":"ef5e39217bc5c1df","toSide":"left"},
 		{"id":"943a28f9a8b4c7cf","fromNode":"5a622dcf136c93d4","fromSide":"right","toNode":"658cc8f68872c5a8","toSide":"left"},
-		{"id":"d6676078879fe568","fromNode":"5a622dcf136c93d4","fromSide":"right","toNode":"7f46181fd3ce1169","toSide":"left"}
+		{"id":"d6676078879fe568","fromNode":"5a622dcf136c93d4","fromSide":"right","toNode":"7f46181fd3ce1169","toSide":"left"},
+		{"id":"b2ba80028ea447f5","fromNode":"ef5e39217bc5c1df","fromSide":"right","toNode":"6d56d9f3001b5cd5","toSide":"left"}
 	]
 }
