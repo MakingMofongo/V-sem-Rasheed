@@ -4,11 +4,19 @@
 		{"id":"3852446240093e07","type":"text","text":"# Unit 1","x":441,"y":-323,"width":250,"height":60},
 		{"id":"7bf870530fa7bc89","type":"text","text":"'DB System Applications'","x":800,"y":-323,"width":250,"height":60},
 		{"id":"cdb3724dc55cdd1c","type":"text","text":"Diff b/w DBMS and File Systems","x":1125,"y":-323,"width":250,"height":60},
-		{"id":"cbec6947628a1d26","type":"file","file":"Pasted image 20240421192558.png","x":1500,"y":-618,"width":853,"height":591}
+		{"id":"cbec6947628a1d26","type":"file","file":"Pasted image 20240421192558.png","x":1500,"y":-618,"width":853,"height":591},
+		{"id":"be5dfc0e9b62d79a","type":"text","text":"LEVELS OF ABSTRACTION","x":925,"y":200,"width":250,"height":120},
+		{"id":"e46ca773b9f4b073","x":1239,"y":160,"width":250,"height":60,"type":"text","text":"Conceptual Schema"},
+		{"id":"800fa2e415673b59","x":1294,"y":260,"width":250,"height":60,"type":"text","text":"Physical Schema"},
+		{"id":"7f52bf0188292a98","x":1320,"y":360,"width":250,"height":60,"type":"text","text":"External Schema"}
 	],
 	"edges":[
 		{"id":"bf9ee4eaa0bdf768","fromNode":"3852446240093e07","fromSide":"right","toNode":"7bf870530fa7bc89","toSide":"left"},
 		{"id":"fff5b4fe34cb9c96","fromNode":"7bf870530fa7bc89","fromSide":"right","toNode":"cdb3724dc55cdd1c","toSide":"left"},
-		{"id":"e61bdf2f3e507716","fromNode":"cdb3724dc55cdd1c","fromSide":"right","toNode":"cbec6947628a1d26","toSide":"left"}
+		{"id":"e61bdf2f3e507716","fromNode":"cdb3724dc55cdd1c","fromSide":"right","toNode":"cbec6947628a1d26","toSide":"left"},
+		{"id":"6658c4d22b855d84","fromNode":"7bf870530fa7bc89","fromSide":"right","toNode":"be5dfc0e9b62d79a","toSide":"left"},
+		{"id":"ced3183b17641750","fromNode":"be5dfc0e9b62d79a","fromSide":"right","toNode":"e46ca773b9f4b073","toSide":"left"},
+		{"id":"40d4a19ebcdae37a","fromNode":"be5dfc0e9b62d79a","fromSide":"right","toNode":"800fa2e415673b59","toSide":"left"},
+		{"id":"811af8e52d5d6b97","fromNode":"be5dfc0e9b62d79a","fromSide":"right","toNode":"7f52bf0188292a98","toSide":"left"}
 	]
 }
