@@ -1,10 +1,10 @@
 {
 	"nodes":[
 		{"id":"6a26d5e753811d98","type":"file","file":"Excalidraw/Drawing 2024-04-21 18.16.09.excalidraw.md","x":-180,"y":-500,"width":460,"height":800},
-		{"id":"3852446240093e07","x":441,"y":-323,"width":250,"height":60,"type":"text","text":"# Unit 1"},
-		{"id":"7bf870530fa7bc89","x":800,"y":-323,"width":250,"height":60,"type":"text","text":"'DB System Applications'"},
-		{"id":"cdb3724dc55cdd1c","x":1125,"y":-323,"width":250,"height":60,"type":"text","text":"Diff b/w DBMS and File Systems"},
-		{"id":"cbec6947628a1d26","x":1500,"y":-618,"width":853,"height":591,"type":"file","file":"Pasted image 20240421192558.png"}
+		{"id":"3852446240093e07","type":"text","text":"# Unit 1","x":441,"y":-323,"width":250,"height":60},
+		{"id":"7bf870530fa7bc89","type":"text","text":"'DB System Applications'","x":800,"y":-323,"width":250,"height":60},
+		{"id":"cdb3724dc55cdd1c","type":"text","text":"Diff b/w DBMS and File Systems","x":1125,"y":-323,"width":250,"height":60},
+		{"id":"cbec6947628a1d26","type":"file","file":"Pasted image 20240421192558.png","x":1500,"y":-618,"width":853,"height":591}
 	],
 	"edges":[
 		{"id":"bf9ee4eaa0bdf768","fromNode":"3852446240093e07","fromSide":"right","toNode":"7bf870530fa7bc89","toSide":"left"},
